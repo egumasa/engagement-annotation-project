@@ -77,6 +77,7 @@ Once again, these categories is about discourse meaning that writers make; there
 - Evidence **showed** that . . . there was “a large number of small competitors, the absence of significant price wars, . . .”
 - **As we can see**, the popularity of Woodlands new town between residents and non-residents is directly opposite to each other.
 - An interview by the Institute of Policy Studies (IPS) concerning national identity **revealed** that 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
+- **As discussants correctly pointed out**, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
 
 ### Entertain
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
@@ -103,6 +104,8 @@ Once again, these categories is about discourse meaning that writers make; there
 
 ### Justify
 >An utterance which engage in persuasion through justification or substantiation.
+- **Because the steps are made of a smooth, polished—and therefore slippery—stone**, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
+- Accessibility is quite a key factor **because it is evident that the regional centre was built on the basis of good infrastructure**.
 
 ### Monogloss
 >An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.
@@ -112,8 +115,10 @@ This is when no engagement resource can be found in the T-unit.
 - What is interesting in this example is how neither of the two views that are attributed to others is actually endorsed by the author, even though they are entertained and explicated.
 - The purpose of maintaining an expansive approach here is clear: the author seeks to present perspectives and research conducted thus far to lay the groundwork for what should be done.
 - Television has helped to shrink the relative distance between people and countries.
-- 
+
+
 
 ## Multiple engagement resources in a T-unit
-- **As the name implies** (acknowledge) **it seemed** (entertain) as if eating children was one of the main focuses of anti-witch writings.
-- 
+Often times, we will find multiple engagement resources in a single unit (T-unit). 
+- **As the name implies (ATTRIBUTE)** **it seemed (ENTERTAIN)** as if eating children was one of the main focuses of anti-witch writings.
+- **Even (COUNTER)** **if repenting (ENTERTAIN)**, the person **could (ENTERTAIN)** still be deceived by the devil again, and **would (ENTERTAIN)** return as a threat.
