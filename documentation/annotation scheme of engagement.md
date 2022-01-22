@@ -1,5 +1,13 @@
 
-## What is this document?
+# Welcome to the annotation project!
+Welcome! Thank you for your interests in the annotation project. In this project, we will create a hand-annotated corpus (i.e., systematic collection of texts) of academic English written by both first- and second- language writers of English. You will be an annotator of the project as a research assistant (RA), and you will gain hands-on experiences in processes of annotating a linguistic corpus, or more broadly corpus-based and Natural Language Processing (NLP) research.
+
+## Project overview
+What constitutes 'good' academic writing? You may think of a range of ways that makes an essay good. For instance, the essay makes a "good" argument; it has a "good" organization; it has "good" content, etc. Although these are all relevant aspects of "good" academic writing, linguists consider that one important aspect of good writing has to do with the way in which the author positions themselves in relation to other voices and possible alternative positions. In other words, in academic writing, the writer is expected to take appropriate "stances" on the subject matter, by "toning down" some of your claims and/or "proclaiming" the most important views. In this annotation project, we are going to annotate sentences taken from essays written by both L1 and L2 writers of English in terms of such stance-taking expressions in each sentence (see Figure 1.).
+
+[Insert figure 1 here]
+
+## What is this document about?
 - This document explains the framework for manual annotation of the corpus. 
 - We use the `engagement framework` (Martin & While, 2005) in order to annotate lexico-grammatical features of stance-taking.
 - What is stance-taking (/expressions)?—It is elements in the discourse that express the writer's levels of commitment to the idea presented in the writing. For example, a writer can add tentativeness to their idea by acknowledging that it is only one of the possible interpretations. Compare different versions of the same argument:
@@ -16,10 +24,21 @@
 	- To identify specific meanings of stance-taking (we call this Engagement moves) for the identified lexico-grammar items.
 
 ## Engagement coding scheme
-There are 9 categories in the Engagement framework. They are essentially semantic or discourse "choices" that writers make in their writing. We are going to look at the raw sentences and tag any of the following `engagement moves`. Using the previous example.
+There are 9 categories of engagement moves to annotate in the current project (see Table 1). Most categories belong to "parent" (or more general) discourse moves. See Figure 2 for the entire taxonomy. Based on Figure 2, we can understand the framework as presenting a series of stance-taking strategies (or discourse choices) a writer can make to position themselves in the writings. For example, the first (the most coarse-grained) distinction concerns `monogloss` vs. `heterogloss`, which is about whether the utterance recognizes the alternative positions or not. In Monogloss, the utterance does not recognize any alternative views and presents the idea/event as a fact (e.g., "The banks have been greedy"). On the other hand, a heteroglossic utterance includes various ways to present the idea as only one of the possible alternatives (e.g., "I speculate that the banks have been greedy", "I read somewhere that the banks have been greedy.", "It is unlikely that the banks have been greedy.", etc.).
+
+A heteroglossic move can be divided into `expand` and `contract` moves. The distinction has to do with the writers choice to open-up (`expand`) dialogic spaces for alternative viewpoints or to close down (`contract`) the spaces. Essentially, writers use `expand` moves to indicate that the idea is only one possible version of the reality by (a) increasing the tentativeness to the statement (`entertain`) or by (b) attributing the idea to external sources (`attribute`). For example, a writer can use lexico-grammatical items such as modal verbs (`can`, `may`) and mental verbs (`I believe`) to `entertain` other possible alternatives. On the other hand, writers use `contract` moves to close down the dialogic spaces by (a) rejecting alternative viewpoints (`disclaim`) or (b) showing greater committment to their ideas (`proclaim`). They can `disclaim` other views by using `deny` option (e.g., "That is NOT correct.") or using `counter` option (e.g., "Although the paper may be right, there is another possibility."). The writers can proclaim their views by (a) assuming that the readers would agree their views (`concur`), (b) explicitly underscoring their views (`proclaim`), or (c) use other's perspective/data/claims as correct and reliable (`endorse`).
+
+<details><summary> Interrim Summary </summary>
+
+* `Monoglossic utterance` = An utterance which involves a factual statement, without recognizing other potential views.
+* `Heteroglossic utterance` = An utterance which recognizes that the referenced idea is one possible alternatives among others, regardless the author supports or rejects the idea.
+</details>
+
+We are going to look at the raw sentences and tag any of the following `engagement moves`. Using the previous example.
 - `In my view (ENTERTAIN)`, the banks have been greedy.
 - A book I read recently `said (ATTRIBUTE)` that the banks have been greedy.
-
+ 
+**Table 1. Categories of Engagement moves**
 | Strategy      | Engagement moves    | Description                                                                                                                                                                                                             |
 | ------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Contraction   | Disclaim: Deny      | An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.                                                                      |
@@ -122,3 +141,6 @@ This is when no engagement resource can be found in the T-unit.
 Often times, we will find multiple engagement resources in a single unit (T-unit). 
 - **As the name implies (ATTRIBUTE)** **it seemed (ENTERTAIN)** as if eating children was one of the main focuses of anti-witch writings.
 - **Even (COUNTER)** **if repenting (ENTERTAIN)**, the person **could (ENTERTAIN)** still be deceived by the devil again, and **would (ENTERTAIN)** return as a threat.
+
+
+## Some confusing tags
