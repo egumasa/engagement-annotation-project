@@ -23,24 +23,44 @@ What constitutes 'good' academic writing? You may think of a range of ways that 
 	- To identify specific lexico-grammatical items that enact meanings of stance-taking (e.g., `in my view`, `X said`)
 	- To identify specific meanings of stance-taking (we call this Engagement moves) for the identified lexico-grammar items.
 
+
 # PART I — Understanding Engagement
 
 ## Engagement coding scheme
-There are 9 categories of engagement moves to annotate in the current project (see Table 1). Most categories belong to "parent" (or more general) discourse moves. See Figure 2 for the entire taxonomy. Based on Figure 2, we can understand the framework as presenting a series of stance-taking strategies (or discourse choices) a writer can make to position themselves in the writings. For example, the first (the most coarse-grained) distinction concerns `monogloss` vs. `heterogloss`, which is about whether the utterance recognizes the alternative positions or not. In Monogloss, the utterance does not recognize any alternative views and presents the idea/event as a fact (e.g., "The banks have been greedy"). On the other hand, a heteroglossic utterance includes various ways to present the idea as only one of the possible alternatives (e.g., "I speculate that the banks have been greedy", "I read somewhere that the banks have been greedy.", "It is unlikely that the banks have been greedy.", etc.).
+There are 9 categories of engagement moves to annotate in the current project (see Table 1). Most categories belong to "parent" (or more general) discourse moves, such as `contract` and `expand`. 
 
-A heteroglossic move can be divided into `expand` and `contract` moves. The distinction has to do with the writers choice to open-up (`expand`) dialogic spaces for alternative viewpoints or to close down (`contract`) the spaces. Essentially, writers use `expand` moves to indicate that the idea is only one possible version of the reality by (a) increasing the tentativeness to the statement (`entertain`) or by (b) attributing the idea to external sources (`attribute`). For example, a writer can use lexico-grammatical items such as modal verbs (`can`, `may`) and mental verbs (`I believe`) to `entertain` other possible alternatives. On the other hand, writers use `contract` moves to close down the dialogic spaces by (a) rejecting alternative viewpoints (`disclaim`) or (b) showing greater committment to their ideas (`proclaim`). They can `disclaim` other views by using `deny` option (e.g., "That is NOT correct.") or using `counter` option (e.g., "Although the paper may be right, there is another possibility."). The writers can proclaim their views by (a) assuming that the readers would agree their views (`concur`), (b) explicitly underscoring their views (`proclaim`), or (c) use other's perspective/data/claims as correct and reliable (`endorse`).
+Figure 2 shows the entire taxonomy. Based on Figure 2, we can understand that we have finer-grained discource moves as we go deeper into the taxonomy (e.g., `heterogloss` > `contraction` > `deny`). I will explain what these categories mean shortly, but remember that this taxonomy presents alternative stance-taking strategies (or discourse choices) a writer can make to position themselves in the writings. 
+
+[Figure 2 inserted here]
+
+### Core Terminologies
+The following sub-sections describe core terminologies (category labels) in the coding scheme.
+
+#### Monogloss and Heterogloss
+The first (the most coarse-grained) distinction concerns `monogloss` vs. `heterogloss`, which is about whether the utterance recognizes the alternative positions or not. In Monogloss, the utterance does not recognize any alternative views and presents the idea/event as a fact (e.g., "The banks have been greedy"). On the other hand, a heteroglossic utterance includes various ways to at least acknowledge possible alternatives (e.g., "I speculate that the banks have been greedy", "I read somewhere that the banks have been greedy.", "It is unlikely that the banks have been greedy.", etc.).
+
+#### Expansion and Contraction
+A heteroglossic move is divided into `expand` and `contract` moves. The distinction is about whether the writer opens up (`expand`) dialogic spaces for alternative viewpoints or to close down (`contract`) the spaces. 
+Essentially, writers use `expand` moves to indicate that the idea is only one possible version of the reality. `Expansion` move is further divided into `entertain` and `attribute`, which are explained later.
+On the other hand, writers use `contract` moves to close down the dialogic spaces. They can do this by (a) rejecting alternative viewpoints (`disclaim`) or (b) showing greater committment to their ideas (`proclaim`). 
+
+#### Expansion moves—Entertain and Attribute
+`Expansion` move includes discourse moves to (a) increase the tentativeness to the statement (`entertain`) and to (b) attribute the idea to external sources (`attribute`). 
+For example, a writer can use lexico-grammatical items such as modal verbs (`can`, `may`) and mental verbs (`I believe`) to `entertain` other possible alternatives. The writers can refer to external sources (e.g., `the paper mentioned`) and remain neutral with respect to the presented idea. 
+
+#### Contraction moves—Disclaim and Proclaim
+`Contraction` moves concern different ways the writer advances their own views on the topic, and therefore, narrow down or close down the space for negotiation. 
+Writers can `disclaim` other views by using `deny` option (e.g., "That is NOT correct.") or using `counter` option (e.g., "Although the paper may be right, there is another possibility."). 
+The writers can `proclaim` their views by (a) assuming that the readers would agree their views (`concur`), (b) explicitly underscoring their views as valid (`pronounce`), or (c) use other's perspective/data/claims as correct and reliable (`endorse`).
+
 
 <details><summary> Interrim Summary </summary>
-
 * `Monoglossic utterance` = An utterance which involves a factual statement, without recognizing other potential views.
 * `Heteroglossic utterance` = An utterance which recognizes that the referenced idea is one possible alternatives among others, regardless the author supports or rejects the idea.
-* `Contract strategy` = Discourse moves which close down dialogic space; the speaker/writer acts to challenge, fend off or restrict other alternative positions and voices.
-* `Expand strategy` = Discourse moves which open-up the dialogic space; the speaker/writer actively makes allowances for dialogically alternative positions and voices.
+* `Contraction strategy` = Discourse moves which close down dialogic space; the speaker/writer acts to challenge, fend off or restrict other alternative positions and voices.
+* `Expansion strategy` = Discourse moves which open-up the dialogic space; the speaker/writer actively makes allowances for dialogically alternative positions and voices.
 </details>
 
-We are going to look at the raw sentences and tag any of the following `engagement moves`. Using the previous example.
-- `In my view (ENTERTAIN)`, the banks have been greedy.
-- A book I read recently `said (ATTRIBUTE)` that the banks have been greedy.
  
 **Table 1. Categories of Engagement moves**
 | Strategy      | Engagement moves    | Description                                                                                                                                                                                                             |
@@ -54,6 +74,10 @@ We are going to look at the raw sentences and tag any of the following `engageme
 | Expansion     | Attribute           | An utterance which signifies dialogic space as the writer attributes the proposition to an external source.                                                                                                                           |
 | Justification | Justify             | An utterance which engage in persuasion through justification or substantiation.                                                                                                                                                     |
 | Monogloss     | Monogloss           | An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.                                                                                                        |
+
+We are going to look at the raw sentences and tag any of the following `engagement moves`. Using the previous example.
+- `In my view (ENTERTAIN)`, the banks have been greedy.
+- A book I read recently `said (ATTRIBUTE)` that the banks have been greedy.
 
 Once again, these categories is about discourse meaning that writers make; therefore, the meaning can be realized through different levels of lexico-grammar. This is the topic of the next section.
 
@@ -179,7 +203,7 @@ Often times, we will find multiple engagement resources in a single unit (T-unit
 # Part II — Getting ready to annotate
 
 ## 1. Some grammatical details
-Because meanings of engagement can be expressed at different levels of lexical and grammatical items, we need to know where exactly a label should be put.
+Because meanings of engagement can be expressed at different levels of lexical and grammatical items, we need to know exactly which part of the sentence we should put a tag on.
 This section deals with such structural issues during the annotation. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
 
 ### Modal verbs
@@ -189,9 +213,10 @@ When an engagement meaning is realized by a modal verbs (e.g., can, may, might, 
 
 ### Single-word adverbs
 When an engagement meaning is realized by a single word adverbs (e.g., probably, surprisingly, etc.), you will put a tag on the item.
-- **Obviously**, he was lying. He was **probabily** lying,
+- **Obviously**, he was lying. 
+- He was **probabily** lying,
 
-### Multi-word adverbs/ adverbial constituency
+### Multi-word adverbs/ adverbial and prepositional constituency
 When an engagement meaning is realized by a multi-word adverbs, such as prepositional phrases, adverbial phrases, you will put a tag on the whole constituency.
 - **In my view**, these were the norm.
 - The Bush administration, **as we all know**, has rejected the Kyoto agreement
@@ -202,15 +227,18 @@ When an engagement meaning is realized by a multi-word adverbs, such as preposit
 - Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing
 - It is **said** that he lied about his age as he grew older.
 
+### Subordinate conjunctions
 
 
-## Some confusing cases
+### Coordinating conjunctions
+
+
+## Some confusing cases (Under construction)
 
 ### Pronounce or Entertain
 The main difference between pronounce and entertain is whether the utterance allows for dialogic alternatives. Entertain move allows for alternative interpretations or voices by expressing possibilities. Pronounce move, on the other hand, challenges and dismiss an alternative views (contraction). 
 - I am **convinced (ENTERTAIN)** that ... :
 - I **contend (PRONOUNCE)** that ...
-- The **fact** is .....
 
 
 ### Endorse or Attribute
@@ -223,7 +251,7 @@ The main difference between endorse and attribute concerns the degree of authors
 - You **must** switch off the lights when you leave.
 
 
-## Some typical engagement patterns
+## Some typical engagement patterns (Under construction)
 
 ### Entertain + Deny ( + maximizer)
 `Maximizer` includes adverbs such as *always*, *severely*, etc.
