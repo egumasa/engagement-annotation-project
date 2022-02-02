@@ -119,7 +119,7 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 ### Disclaim: Counter
 >An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.
 
-Typically, disclaim counter involves conjunctions such as *although*, *but*, *however*, which signals the meanings of `Counter` in an explicit manner.
+Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, *however*, which signals the meanings of `Counter` in an explicit manner.
 - **Although** the religion motif was not commonly discussed among the discussants, the relevance of this theme to these various texts need to be brought to attention.
 - In comparison, 32% of the respondents felt that the conventional downtown was still a major attraction, **even though** the regional centre had gained quite a vast amount of popularity and did to large extent have an air of modernity.
 - **While** the Supreme Court rejected the “quality of care” argument in the federation case, the oligopolistic characteristics and purchasing structure of insurance make this outcome unsurprising.
@@ -143,8 +143,8 @@ There are two sub-types of `concur` which we do not differentiate in the current
 `Affirm` examples
 - The ability of a population to successfully reproduce is **obviously** a crucial aspect of a society’s survival.
 - Bailey, **of course**, was that rarity, a cricketer who at his best was worldclass with both bat and ball.
-- The Bush administration, **as we all know**, has rejected the Kyoto agreement
-- **As we can see**, the popularity of Woodlands new town between residents and non-residents is directly opposite to each other.
+- The Bush administration, **as** we all know, has rejected the Kyoto agreement
+- **As** we can see, the popularity of Woodlands new town between residents and non-residents is directly opposite to each other.
 
 `Concede` examples
 - **Admittedly**, he was badly behaved.
@@ -153,7 +153,8 @@ There are two sub-types of `concur` which we do not differentiate in the current
 
 Some tricky example, but we all categorize them under `concur`:
 - **Certainly** he was badly behaved but look at what he has achieved.
-NOTE: **Certainly** illustrates there may be multiple functions that an item can accomplish depending on the context. Here, "Certainly ...., but" can be considered as `concur`, but certainly can be used as `Entertain` (see example). 
+
+NOTE: **Certainly** illustrates there may be multiple functions that an item can accomplish depending on the context. Here, "Certainly ...., but" can be considered as `concur`, but certainly can be used as `Entertain` (see example).
 
 
 ### Proclaim: Pronounce
@@ -174,7 +175,7 @@ Typically, this is achieved by the use of verbal processes and their nominalized
 - An interview by the Institute of Policy Studies (IPS) concerning national identity **revealed** that 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
 - More specifically, five studies **demonstrate** that investment dependence – investment by foreign firms in a society’s domestic economy increases economic inequality.
 - For instance, young learners were **found** to perform differently on both text comprehension (e.g., Langer, 1985) and production (e.g. Hidi & Hidyard, 1983).
-- **As discussants correctly pointed out**, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
+- **As** discussants correctly pointed out, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
 
 
 ### Entertain
@@ -251,23 +252,22 @@ When an engagement meaning is realized by a single word adverbs (e.g., probably,
 ### Multi-word adverbs/ adverbial and prepositional constituency
 When an engagement meaning is realized by a multi-word adverbs, such as prepositional phrases, adverbial phrases, you will put a tag on the whole constituency.
 - **In my view**, these were the norm.
-- The Bush administration, **as we all know**, has rejected the Kyoto agreement
 - **Generally speaking**, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
 
 ### Mental or Communication verbs
 When an engagement meaning is realized by a multi-word adverbs, such as prepositional phrases, adverbial phrases, you will put a tag on the lexical verb.
-- Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing
+- Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
 
-### Subordinate conjunctions
-When an engagement meaning is realized by a subordinate conjunctions such as *although*, *while*, and *if*, you will put a tag on that item.
+### Subordinate conjunctions (Modified!!!)
+When an engagement meaning is realized by a subordinate conjunctions such as *although*, *while*, and *if*, you will put a tag on the conjunction.
 - **Although** the religion motif was not commonly discussed among the discussants, the relevance of this theme to these various texts need to be brought to attention.
 - **Though** there were several ‘couples’, these were deﬁnitely not the norm.
+- The Bush administration, **as** we all know, has rejected the Kyoto agreement
 
 ### Coordinating conjunctions
 When an engagement meaning is realized by a coordinating conjunctions such as *but* and *yet*, you will put a tag on that item.
 - **But** look at what he achieved.
-- Schools do not serve as avenues for upward mobility, **but** instead reinforce existing social and economic inequalities 
-
+- Schools do not serve as avenues for upward mobility, **but** instead reinforce existing social and economic inequalities.
 
 ## Some confusing cases (Under construction)
 
