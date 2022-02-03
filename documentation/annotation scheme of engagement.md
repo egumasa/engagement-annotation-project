@@ -27,7 +27,7 @@ What constitutes 'good' academic writing? You may think of a range of ways that 
 # PART I — Understanding Engagement
 
 ## Engagement coding scheme
-There are 9 categories of engagement moves to annotate in the current project (see Table 1). Most categories belong to "parent" (or more general) discourse moves, such as `contract` and `expand`. 
+There are 9 categories of engagement moves to annotate in the current project (see [Table 1](#table-1-categories-of-engagement-moves)). Most categories belong to "parent" (or more general) discourse moves, such as `contract` and `expand`. 
 
 Figure 2 shows the entire taxonomy. Based on Figure 2, we can understand that we have finer-grained discource moves as we go deeper into the taxonomy (e.g., `heterogloss` > `contract` > `disclaim` > `deny`). I will explain what these categories mean shortly, but remember that this taxonomy presents alternative stance-taking strategies (or discourse choices) a writer can make to position themselves in the writings. 
 
