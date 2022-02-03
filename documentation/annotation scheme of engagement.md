@@ -69,18 +69,18 @@ The writers can `proclaim` their views by (a) assuming that the readers would ag
 
 
 ### Table 1. Categories of Engagement moves
-| Strategy      | Engagement moves    | Description                                                                                                                                                                                                             |
-| ------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Contraction   | Disclaim: Deny      | An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.                                                                      |
-| Contraction   | Disclaim: Counter   | An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.                                                                                          |
-| Contraction   | Proclaim: Concur    | An utterance which shows writers' expectation/assumption that the putative readers will agree with the preposition and/or to have the same knowledge.                                                                                |
-| Contraction   | Proclaim: Pronounce | An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation, thereby closing down the dialogic space.                                                                                                           |
-| Contraction   | Proclaim: Endorse   | An utterance which refers to external sources as warrantable, undeniable,  and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed. |
-| Expansion     | Entertain           | An utterance which indicates author's position but as only one possibility amongst others, thereby opening up dialogic space.                                                                                                                        |
-| Expansion     | Attribute           | An utterance which signifies dialogic space as the writer attributes the proposition to an external source.                                                                                                                           |
-| Monogloss     | Monogloss           | An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.                                                                                                        |
-| Auxiliary 	| Justify             | An utterance which engage in persuasion through justification or substantiation.                                                                                                                                                     |
-| Auxiliary 	| In-text Citation	  | In-text citation is where external source(s) are referred to in the text in an parenthetical form. e.g., (Martin & White, 2005); [#REF].
+| Strategy    | Engagement moves                           | Description                                                                                                                                                                                                                          |
+| ----------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Contraction | [Disclaim: Deny](#disclaim-deny)           | An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.                                                                      |
+| Contraction | [Disclaim: Counter](#disclaim-counter)     | An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.                                                                                          |
+| Contraction | [Proclaim: Concur](#proclaim-concur)       | An utterance which shows writers' expectation/assumption that the putative readers will agree with the preposition and/or to have the same knowledge.                                                                                |
+| Contraction | [Proclaim: Pronounce](#proclaim-pronounce) | An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation, thereby closing down the dialogic space.                                                                  |
+| Contraction | [Proclaim: Endorse](#proclaim-endorse)     | An utterance which refers to external sources as warrantable, undeniable,  and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed. |
+| Expansion   | [Entertain](#entertain)                    | An utterance which indicates author's position but as only one possibility amongst others, thereby opening up dialogic space.                                                                                                        |
+| Expansion   | [Attribute](#attribute)                    | An utterance which signifies dialogic space as the writer attributes the proposition to an external source.                                                                                                                          |
+| Monogloss   | [Monogloss](#monogloss)                    | An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.                                                                                                        |
+| Auxiliary   | [Justify](#justify)                        | An utterance which engage in persuasion through justification or substantiation.                                                                                                                                                     |
+| Auxiliary   | In-text Citation                           | In-text citation is where external source(s) are referred to in the text in an parenthetical form. e.g., (Martin & White, 2005); [#REF].                                                                                             |
 
 We are going to look at the raw sentences and tag any of the following `engagement moves`. Using the previous example.
 - `In my view (ENTERTAIN)`, the banks have been greedy.
@@ -117,6 +117,8 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 - We are of course **not** dealing with one monolithic hegemonic English voice
 - Natural gas burns with twice the heat of coal gas, is **not** poisonous and has **no** odor.
 
+[Back to Table 1](#table-1-categories-of-engagement-moves)
+
 ### Disclaim: Counter
 >An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.
 
@@ -135,6 +137,8 @@ Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, 
 
 `Disclaim: Counter` would also include some adverbs that encode meanings of counter-expectations.
 - `Unexpectedly/Surprisingly/To my surprise`, there seems to have been little smuggling this year.
+
+[Back to Table 1](#table-1-categories-of-engagement-moves)
 
 ### Proclaim: Concur
 >An utterance which shows writers' expectation for the putative readers to agree with the preposition and/or to have the same knowledge.
@@ -157,6 +161,8 @@ Some tricky example, but we all categorize them under `concur`:
 
 NOTE: **Certainly** illustrates there may be multiple functions that an item can accomplish depending on the context. Here, "Certainly ...., but" can be considered as `concur`, but certainly can be used as `Entertain` (see example).
 
+[Back to Table 1](#table-1-categories-of-engagement-moves)
+
 
 ### Proclaim: Pronounce
 >An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation.
@@ -168,6 +174,8 @@ NOTE: **Certainly** illustrates there may be multiple functions that an item can
 - **We have to remember that** bobbies move around - and slowly.
 - One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
 
+[Back to Table 1](#table-1-categories-of-engagement-moves)
+
 ### Proclaim: Endorse
 >An utterance which refers to external sources as warrantable, undeniable, and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed.
 
@@ -178,6 +186,7 @@ Typically, this is achieved by the use of verbal processes and their nominalized
 - For instance, young learners were **found** to perform differently on both text comprehension (e.g., Langer, 1985) and production (e.g. Hidi & Hidyard, 1983).
 - **As** discussants correctly pointed out, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
 
+[Back to Table 1](#table-1-categories-of-engagement-moves)
 
 ### Entertain
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
@@ -196,6 +205,8 @@ Typically, this is achieved by the use of verbal processes and their nominalized
 - Of course, there’s **precious little chance** of that happening in America any time soon.
 - He has **certainly** disgraced the Attorney General’s office in lending credence to the assertions of the Swift Boat veterans for Truth.
 
+[Back to Table 1](#table-1-categories-of-engagement-moves)
+
 ### Attribute
 >An utterance which signifies dialogic space as the writer attributes the proposition to an external source.
 - Mr. Mandela **said** the Group of Eight nations have a duty to help battle the scourge of AIDS.
@@ -211,10 +222,14 @@ Typically, this is achieved by the use of verbal processes and their nominalized
 
 Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attributed.
 
+[Back to Table 1](#table-1-categories-of-engagement-moves)
+
 ### Justify
 >An utterance which engage in persuasion through justification or substantiation.
 - **Because the steps are made of a smooth, polished—and therefore slippery—stone**, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
 - Accessibility is quite a key factor **because it is evident that the regional centre was built on the basis of good infrastructure**.
+
+[Back to Table 1](#table-1-categories-of-engagement-moves)
 
 ### Monogloss
 >An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.
@@ -225,6 +240,7 @@ This is when no engagement resource can be found in the T-unit.
 - The purpose of maintaining an expansive approach here is clear: the author seeks to present perspectives and research conducted thus far to lay the groundwork for what should be done.
 - Television has helped to shrink the relative distance between people and countries.
 
+[Back to Table 1](#table-1-categories-of-engagement-moves)
 
 ## Multiple engagement resources in a T-unit
 Often times, we will find multiple engagement resources in a single unit (T-unit). 
