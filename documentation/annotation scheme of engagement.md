@@ -272,7 +272,7 @@ When an engagement meaning is realized by a multi-word adverbs, such as preposit
 - **Generally speaking**, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
 
 ### Mental or Communication verbs
-When an engagement meaning is realized by a multi-word adverbs, such as prepositional phrases, adverbial phrases, you will put a tag on the lexical verb.
+When an engagement meaning is realized by a mental or communication verbs, you will put a tag on the lexical verb.
 - Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
 
 ### Subordinate conjunctions (Modified!!!)
