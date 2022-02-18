@@ -48,6 +48,7 @@ The writers can `proclaim` their views by (a) assuming that the readers would ag
 
 
 ### Table 1. Categories of Engagement moves
+
 | Strategy    | Engagement moves                           | Description                                                                                                                                                                                                                          |
 | ----------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Contraction | [Disclaim: Deny](#disclaim-deny)           | An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.                                                                      |
