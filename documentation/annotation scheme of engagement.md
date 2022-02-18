@@ -216,7 +216,7 @@ Typically, this is achieved by the use of verbal processes and their nominalized
 - The government’s serologist **reportedly** lied about his qualifications.
 - It is **said** that he lied about his age as he grew older …
 - **According to the authors**, he gave new witches everything they wished as long as they sold their soul to him.
-- **As the discussant post “Witchcraft and Sexual Deviance” mentioned**, the church and the public believed that if witches were willing to so publicly flout the word of the Lord, they must also disobey other societal conventions.
+- **As** the discussant post “Witchcraft and Sexual Deviance” mentioned, the church and the public believed that if witches were willing to so publicly flout the word of the Lord, they must also disobey other societal conventions.
 - **In Wong’s study**, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
 - A number of researchers (Meara, 1996; Qian, 1999; Read, 1989; Wesche & Paribakht, 1996), **proposed** that the two dimensions of vocabulary knowledge be known as ‘depth’ and ‘breadth’.
 
@@ -226,8 +226,8 @@ Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attribu
 
 ### Justify
 >An utterance which engage in persuasion through justification or substantiation.
-- **Because the steps are made of a smooth, polished—and therefore slippery—stone**, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
-- Accessibility is quite a key factor **because it is evident that the regional centre was built on the basis of good infrastructure**.
+- **Because** the steps are made of a smooth, polished—and therefore slippery—stone, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
+- Accessibility is quite a key factor **because** it is evident that the regional centre was built on the basis of good infrastructure.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
@@ -272,7 +272,7 @@ When an engagement meaning is realized by a multi-word adverbs, such as preposit
 - **Generally speaking**, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
 
 ### Mental or Communication verbs
-When an engagement meaning is realized by a multi-word adverbs, such as prepositional phrases, adverbial phrases, you will put a tag on the lexical verb.
+When an engagement meaning is realized by a mental or communication verbs, you will put a tag on the lexical verb.
 - Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
 
 ### Subordinate conjunctions (Modified!!!)
