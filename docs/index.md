@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Welcome!
+nav_order: 1
+---
 # Welcome to the annotation project!
 Welcome! Thank you for your interests in the annotation project. In this project, we will create a hand-annotated corpus (i.e., systematic collection of texts) of academic English written by both first- and second- language writers of English. You will be an annotator of the project as a research assistant (RA), and you will gain hands-on experiences in processes of annotating a linguistic corpus, or more broadly corpus-based and Natural Language Processing (NLP) research.
 
