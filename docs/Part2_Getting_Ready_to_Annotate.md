@@ -1,3 +1,8 @@
+---
+layout: default
+title: Part2—Getting ready to Annotate!
+nav_order: 3
+---
 # Part II — Getting ready to annotate
 
 ## 1. Some grammatical details

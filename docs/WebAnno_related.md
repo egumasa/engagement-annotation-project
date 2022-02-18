@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: WebAnno Related Documentation
+nav_order: 4
+---
 # WebAnno related documentation (Under construction)
 This is documentation related to WebAnno software.
 
