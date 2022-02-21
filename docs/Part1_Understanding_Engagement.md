@@ -227,10 +227,3 @@ This is when no engagement resource can be found in the T-unit.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
-## Multiple engagement resources in a T-unit
-Often times, we will find multiple engagement resources in a single unit (T-unit). 
-- **As the name implies (ATTRIBUTE)** **it seemed (ENTERTAIN)** as if eating children was one of the main focuses of anti-witch writings.
-- **Even (COUNTER)** **if repenting (ENTERTAIN)**, the person **could (ENTERTAIN)** still be deceived by the devil again, and **would (ENTERTAIN)** return as a threat.
-- Output in the English language class **may (ENTERTAIN)** **not (DENY)** always be a productive or necessary use of classroom time
-- **Though (COUNTER)** these ideas **may (ENTERTAIN)** **not (DENY)** be driving educational policy, they are inﬂuencing attitudes in ways that have the potential to affect outcomes.
-
