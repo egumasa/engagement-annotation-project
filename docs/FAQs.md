@@ -45,9 +45,7 @@ This is a recurrent issue that should be addressed. Some examples to consider in
 - `Choosing appropriate types of part-time job <engmt class="monogloss">is</engmt> important too, otherwise students <engmt class="entertain">may</engmt> fall into traps setup by companies with problems.`
 
 
-
-
-
 ## Some other examples to consider
 - `The transitions from winter to summer also <engmt class="monogloss">show</engmt> an increase in feeding of fruits, flowers, bark, and seeds.`
-- 
+
+

@@ -140,7 +140,7 @@ There are two sub-types of `concur` which we do not differentiate in the current
 - **Admittedly**, he was badly behaved.
 - **Indeed**, it is odd that both the FTC and courts have historically regarded huge, publicly traded insurance firms rather than health providers as the legal proxy of patients.
 - **Sure**, he broke rules.
-
+- If, **as** all the pundits are saying, there is no hope of normalcy returning soon
 Some tricky example, but we all categorize them under `concur`:
 - **Certainly** he was badly behaved but look at what he has achieved.
 
@@ -158,6 +158,7 @@ NOTE: **Certainly** illustrates there may be multiple functions that an item can
 - I **contend** it's the worst address by a British Prime Minister.
 - **We have to remember that** bobbies move around - and slowly.
 - One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
+- The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
