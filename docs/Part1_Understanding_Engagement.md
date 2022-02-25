@@ -54,18 +54,18 @@ The writers can `proclaim` their views by (a) assuming that the readers would ag
 
 ### Table 1. Categories of Engagement moves
 
-| Strategy    | Engagement moves                           | Description                                                                                                                                                                                                                          |
-| ----------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Contraction | [Disclaim: Deny](#disclaim-deny)           | An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.                                                                      |
-| Contraction | [Disclaim: Counter](#disclaim-counter)     | An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.                                                                                          |
-| Contraction | [Proclaim: Concur](#proclaim-concur)       | An utterance which shows writers' expectation/assumption that the putative readers will agree with the preposition and/or to have the same knowledge.                                                                                |
-| Contraction | [Proclaim: Pronounce](#proclaim-pronounce) | An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation, thereby closing down the dialogic space.                                                                  |
-| Contraction | [Proclaim: Endorse](#proclaim-endorse)     | An utterance which refers to external sources as warrantable, undeniable,  and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed. |
-| Expansion   | [Entertain](#entertain)                    | An utterance which indicates author's position but as only one possibility amongst others, thereby opening up dialogic space.                                                                                                        |
-| Expansion   | [Attribute](#attribute)                    | An utterance which signifies dialogic space as the writer attributes the proposition to an external source.                                                                                                                          |
-| Monogloss   | [Monogloss](#monogloss)                    | An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.                                                                                                        |
-| Auxiliary   | [Justify](#justify)                        | An utterance which engage in persuasion through justification or substantiation.                                                                                                                                                     |
-| Auxiliary   | In-text Citation                           | In-text citation is where external source(s) are referred to in the text in an parenthetical form. e.g., (Martin & White, 2005); [#REF].                                                                                             |
+| Strategy    | Engagement moves                              | Description                                                                                                                                                                                                                          |
+| ----------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Contraction | [Disclaim: Deny](#disclaim-deny)              | An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.                                                                      |
+| Contraction | [Disclaim: Counter](#disclaim-counter)        | An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.                                                                                          |
+| Contraction | [Proclaim: Concur](#proclaim-concur)          | An utterance which shows writers' expectation/assumption that the putative readers will agree with the preposition and/or to have the same knowledge.                                                                                |
+| Contraction | [Proclaim: Pronounce](#proclaim-pronounce)    | An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation, thereby closing down the dialogic space.                                                                  |
+| Contraction | [Proclaim: Endorse](#proclaim-endorse)        | An utterance which refers to external sources as warrantable, undeniable,  and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed. |
+| Expansion   | [Entertain](#entertain)                       | An utterance which indicates author's position but as only one possibility amongst others, thereby opening up dialogic space.                                                                                                        |
+| Expansion   | [Attribute](#attribute)                       | An utterance which signifies dialogic space as the writer attributes the proposition to an external source.                                                                                                                          |
+| Monogloss   | [Monogloss](#monogloss)                       | An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.                                                                                                        |
+| Auxiliary   | [Justify](#justify)                           | An utterance which engage in persuasion through justification or substantiation.                                                                                                                                                     |
+| Auxiliary   | [Citations](#citations) (Updated on Feb 25th) | Citation is segment of the text where external source(s) are referenced in the text.                                                                                                                                                 |
 
 We are going to look at the raw sentences and tag any of the following `engagement moves`. Using the previous example.
 - `In my view (ENTERTAIN)`, the banks have been greedy.
@@ -227,4 +227,65 @@ This is when no engagement resource can be found in the T-unit.
 - Television has helped to shrink the relative distance between people and countries.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
+
+### Citations (Updated on Feb 25th.)
+
+> Citation is segment of the text where external source(s) are referenced in the text. 
+
+There are several types of citation format to identify in the current corpus. 
+
+#### 1. Narrative citation—Author (DATE) pattern
+Narrative citation pattern is where author's name is explicitly referenced in the prose. 
+
+The following examples were taken from Nesi (2021):
+- **Schapiro et al. (2001)** demonstrated (BAWE code: 3060a SS level 4)
+- **Lipton (1991, p.419)** refers (BAWE code: 0177b AH level 3)
+- In 1991, **Aram et al. (Menyuk, 1995:4)** reviewed (BAWE code: 6206b AH level 3)
+- **Batliwala (1993 cited in Sen, 1997: 2)** brings into focus (BAWE code: 0422a SS level 4)
+- **Piaget (as cited in Rubin, LeMare and Lollis, 1990)** offers (BAWE code: 0014c LS level 2)
+- **Gisela Bock (in Bridenthal et al., 1984)** argues (BAWE code: 0408f SS level 3)
+- quoted by **Aitchison (1989:260)** as claiming (BAWE code: 6055a AH level 1)
+- supported by **Kjelsan et al. (2004)** who found (BAWE code: 0014a LS level 2)
+- In **Brown et al. (1994)** it says to look for (BAWE code: 3101b SS level 1)
+- In another study by **Kerr and MacCoun (1985)** theydemonstrated (BAWE code: 0014e LS level 3)
+- **Lloyd and Lishman (1975)** originally demonstrated (BAWE code: 0016a LS level 1)
+- Some predictions made by **Robertson et al (1999)** make this even clearer’
+- - According to **Jones (1998)**, "students often had difficulty using APA style, especially when it was their first time" **(p. 199)**.
+
+Note: BAWE code shows the writing ID number in the British Academic Written English corpus (Nesi & Gardner, 2012).
+
+#### 2. In-text citations—(Author, date) pattern
+In-text citations are those which the external sources are cited in parenthetical form.
+
+Nesi (2021) presented the following examples:
+- ideas of nationalism often associated with both the ideology and actions of racism **(Fenton, 1999)** (BAWE code: 0001a SS level 1)
+- the coping technique adopted to achieve what is believed to be desirable **(Gordon, 1990)** (BAWE code: 0014a LS level 2)
+- his theory on blackbody radiation **(Planck 1900)** for which he was later awarded a Nobel Prize (BAWE code: 0109a PS level 1)
+- phosphorus loss can occur through soil erosion **(DEFRA, 2003)**.
+- one-third to half of all diabetics already have evidence of organ or tissue damage **(UK Prospective Diabetes Study Group, 1991)**. (6012g LS level 2)
+
+Additionally, you will encounter a various citation format during the annotation.
+**MLA (and ASA as closely associated format)**
+- Romantic poetry is characterized by the "spontaneous overflow of powerful feelings" **(Wordsworth 263)**.
+- Wordsworth extensively explored the role of emotion in the creative process **(263)**.
+- Human beings have been described as "symbol-using animals" **(Burke 3)**.
+- Marx and Engels described human history as marked by class struggles **(79; ch. 1)**.
+- Relativity's theoretical foundations can be traced to earlier work by Faraday and Maxwell **(Einstein 782)**.
+- Although some medical ethicists claim that cloning will lead to designer children **(R. Miller 12)**, others note that the advantages for medical research outweigh this consideration **(A. Miller 46)**.
+- The authors claim that one cause of obesity in the United States is government-funded farm subsidies **(Franck et al. 327)**.
+
+**IEEE (Note that many of this has already been converted to [#REF] in the data)**
+- A trenchcoat and mask can easily disguise a few owls as a human, as experimentally shown by **Smith [1], [2]**.
+- Italian owls are suspicious of outsiders, as noted in **[3]–[5]**.
+- This is disputed by **Civetta [6]** and **Strix [7]**, who are not owls in masks.
+- The city of Florence is under an ancient curse, as repeatedly and exhaustively described in **[8]**, **[10]**, **[13]–[17]**, **[20]**.
+
+#### 3.The use of ibid., etc.
+`ibid` is sometimes used to indicate the already-referenced materials. 
+- His conclusion is that the vegetation was predominantly closed forest, but that some areas such as floodplains and chalklands had more open vegetation **(ibid: 140)**.
+
+When the sentence included references as follows, typically used with `(op.cit.)`, mark the entire sequence as citation:
+- **Millington, T., & Sutherland Williams, M., (op.cit.), pp.2**
+
+
 
