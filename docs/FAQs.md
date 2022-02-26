@@ -10,9 +10,9 @@ This page list some FAQs, which have or have not been incorporated to the main g
 ## Contents within direct quotes does not get an engagement tag.
 This is because the content within a direct quotations (" ") are not author's view, but the content on which the authors are supposed to take their stance on.
 For example:
-> <engmt class="attribute">According to Habermas</engmt>, "the public sphere in the political realm evolved from the public sphere in the world of letters, through the vehicle of public opinion it put the state in touch with the needs of society."
--> The content within the direct quote (i.e., "the public sphere ... ) does not get any tags.
+> **According to Habermas (ATTRIBUTE)**, "the public sphere in the political realm evolved from the public sphere in the world of letters, through the vehicle of public opinion it put the state in touch with the needs of society."
 
+-> The content within the direct quote (i.e., "the public sphere ... ) does not get any tags.
 
 ## Does "in addition" recieve any tags?
 
@@ -38,7 +38,7 @@ This is a recurrent issue that should be addressed. Some examples to consider in
 => This `despite` phrase is in the presupposed content.
 - `These notions <engmt class="monogloss">include</engmt> an issue on whether the IUCN should encourage a moratorium on further release of GMOs, or help establish a sound body of knowledge on environmental risks and impacts.`
 => `issue on whether` introduces the content itself.
- 
+- `The purpose of maintaining an expansive approach here **is** clear: the author **seeks** to present perspectives and research **conducted** thus far to lay the groundwork for what should be done.`
 
 
 ## Is `otherwise` disclaim:counter...?

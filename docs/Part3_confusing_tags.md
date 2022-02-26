@@ -21,6 +21,19 @@ The main difference between endorse and attribute concerns the degree of authors
 
 - You **must** switch off the lights when you leave.
 
+
+### Rhetorical questions
+Rhetorical questions can have two functions, each corresponding either `Entertain` or `Concur`.
+
+1) A rhetorical question functions as `Entertain` when it introduces "a proposition in such a way that it is presented as but one of a number of possible positions" (White, 2003, p. 267).
+2) A rhetorical question functions as `Concur` when it presents "proposition as so self-evident or agreed upon that it doesn’t actually need to be stated by the textual voice, it can be left up to the reader to supply the required meaning." (White, 2003, p. 267)
+
+Rhetorical questions categorized as `Entertain` include following examples:
+- 
+Rhetorical questions categorized as `Concur` include following:
+- Should we go to war against these children?
+
+
 ## Multiple engagement resources in a T-unit
 Often times, we will find multiple engagement resources in a single unit (T-unit). 
 - **As the name implies (ATTRIBUTE)** **it seemed (ENTERTAIN)** as if eating children was one of the main focuses of anti-witch writings.

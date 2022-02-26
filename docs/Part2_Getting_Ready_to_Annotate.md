@@ -23,7 +23,7 @@ This section deals with such structural issues during the annotation. Each secti
 | [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency) | in my view                 | the entire phrase                                           |
 | [Mental or communication verbs](#mental-or-communication-verbs)                                       | think, say, tell           | on the item (= [`Root`](#identifying-root-of-the-sentence)) |
 | [Subordinate conjunctions](#subordinate-conjunctions-modified)                                        | as, when, if               | on the item                                                 |
-| [Multi-word subordinate conjunctions]                                                                 | as long as, whether or not | on the multiword item                                       |
+| [Multi-word subordinate conjunctions](#multi-word-subordinate-conjunctions-modified)                  | as long as, whether or not | on the multiword item                                       |
 | [Coordinating conjunctions](#coordinating-conjunctions)                                               | but, and, yet              | on the item                                                 |
 
 
@@ -81,9 +81,10 @@ In this example, `hates` is the `ROOT` of the sentence because it is NOT governe
  5. One **is** that the salary is very little.
 
 2) If there are subordinate clauses in a sentence, determine which clause govern the other(s). The clause governing the other clauses are considered to have a `ROOT`.
-    1. When you finish the work, you can **go** home.
-    2. Whenever I’m bored, I **go** to my favorite place: The fridge.
-    3. I strongly **believe** that a few cup of coffee will do the trick.
+
+ 1. When you finish the work, you can **go** home.
+ 2. Whenever I’m bored, I **go** to my favorite place: The fridge.
+ 3. I strongly **believe** that a few cup of coffee will do the trick.
 
 ## Determining T-unit
 
