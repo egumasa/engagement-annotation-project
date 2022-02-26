@@ -26,7 +26,7 @@ Once in a while, it may be a good idea to export the whole project as a backup.
 5. If you are using `Safari` as the web browser, you might need to change the preference to successfully export the file. 
    - IF you are using `Safari`, go to `preference` > `general`, and deselect `Open "safe" files after downloading` option.
 
-### Enabling the annotation across sentence boundary.
+## Enabling the annotation across sentence boundary.
 To enable annotation across sentence boundaries, follow the instruction below:
 
 1. Go to project.

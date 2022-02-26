@@ -151,6 +151,7 @@ NOTE: **Certainly** illustrates there may be multiple functions that an item can
 
 ### Proclaim: Pronounce
 >An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation.
+
 - I therefore **propose** that universities have a greater role in working alongside the NCAA in negotiating its television.
 - I **DID** turn out the lights before I left.
 - But **the facts of the matter are that** we have never made the national decisions or marshaled the national resources required for such leadership.
@@ -159,12 +160,14 @@ NOTE: **Certainly** illustrates there may be multiple functions that an item can
 - **We have to remember that** bobbies move around - and slowly.
 - One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
 - The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
+- I would **contend** that this enviable level of tolerance is not the result of direct government laws or interventions.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
 ### Proclaim: Endorse
 >An utterance which refers to external sources as warrantable, undeniable, and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed.
 
+Essentially, in `Endorse` option, a writer use an external source and align with it to support their views. 
 Typically, this is achieved by the use of verbal processes and their nominalized equivalents. Compared to `Attribute`, `Endorse` encodes writers more approval of the content.
 - Evidence **showed** that . . . there was “a large number of small competitors, the absence of significant price wars, . . .”
 - An interview by the Institute of Policy Studies (IPS) concerning national identity **revealed** that 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
@@ -172,10 +175,17 @@ Typically, this is achieved by the use of verbal processes and their nominalized
 - For instance, young learners were **found** to perform differently on both text comprehension (e.g., Langer, 1985) and production (e.g. Hidi & Hidyard, 1983).
 - **As** discussants correctly pointed out, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
 
+Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds extra meaning to `Endorse` the external sources:
+- ... convincingly argued ...
+- ... compellingly propounded ...
+- ... successfully explained ...
+- As Hastie (an Englishman of their own political persuasion) so **compellingly argued**, ‘In any society racism will increase in direct proportion to the number of people who are given well-paid and prestigious positions to discover it.’
+
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
 ### Entertain
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
+
 - I **think** Mary teaches French
 - You **must** switch off the lights when you leave.
 - It was **probably** the most immature, irresponsible, disgraceful and misleading address ever given by a British Prime Minister.
@@ -190,6 +200,7 @@ Typically, this is achieved by the use of verbal processes and their nominalized
 - It’s **probable** that he's lying.
 - Of course, there’s **precious little chance** of that happening in America any time soon.
 - He has **certainly** disgraced the Attorney General’s office in lending credence to the assertions of the Swift Boat veterans for Truth.
+
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
@@ -221,10 +232,21 @@ Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attribu
 >An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.
 
 This is when no engagement resource can be found in the T-unit.
-- Teachers are facing the difficult task of providing an optimal learning environment to students from varying social, cultural, and linguistic backgrounds.
-- What is interesting in this example is how neither of the two views that are attributed to others is actually endorsed by the author, even though they are entertained and explicated.
-- The purpose of maintaining an expansive approach here is clear: the author seeks to present perspectives and research conducted thus far to lay the groundwork for what should be done.
-- Television has helped to shrink the relative distance between people and countries.
+- Teachers are **facing** the difficult task of providing an optimal learning environment to students from varying social, cultural, and linguistic backgrounds.
+- What is interesting in this example **is** how neither of the two views that are attributed to others is actually endorsed by the author, even though they are entertained and explicated.
+- The purpose of maintaining an expansive approach here **is** clear: the author **seeks** to present perspectives and research **conducted** thus far to lay the groundwork for what should be done.
+- Television has **helped** to shrink the relative distance between people and countries.
+- When the news came through that the National Air Traffic Services (Nats) was in financial trouble and was being offered a £60 million rescue package, the reaction of the first union official to pop up on the BBC’s radar screen **was** predictable.
+- The preposterous idea that privatisation puts profit before safety **was** a commonplace long before Nats was born.
+- In the past few years there have **been** a number of moral panics about racism, accompanied by self-serving calls from predictable quarters for more government action to deal with the problem.
+
+These example are said to include no recognition of alternative viewpoints. That is, the writers treat the idea as an *established fact* at least in the sentence (i.e., bare assertion). It is also possible to say that these `monoglossic` sentences do **NOT** have any engagement items. 
+To test if the sentence is monogloss, you can try adding any engagement items, for example:
+- **The author argued that (ATTRIBUTE)** television has helped to shrink the relative distance between people and countries.
+- Television **can be said (ATTRIBUTE)** to have helped to shrink the relative distance between people and countries.
+- **In some regions (ENTERTAIN)**, television has **helped** to shrink the relative distance between people and countries.
+
+
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
