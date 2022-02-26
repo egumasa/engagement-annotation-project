@@ -25,4 +25,14 @@ Once in a while, it may be a good idea to export the whole project as a backup.
 4. Select `AUTO` and press `Export the whole project`
 5. If you are using `Safari` as the web browser, you might need to change the preference to successfully export the file. 
    - IF you are using `Safari`, go to `preference` > `general`, and deselect `Open "safe" files after downloading` option.
-  
+
+### Enabling the annotation across sentence boundary.
+To enable annotation across sentence boundaries, follow the instruction below:
+
+1. Go to project.
+2. Select the current project.
+3. Go to `Layer` tab, then select `named entity`.
+4. In the middle column, scroll down the page, and you will find an option `allow annotation to cross sentence boundary`. 
+5. Select that option, and click save at the bottom of the column.
+You should be able to annotate the text segment across sentence boundaries.
+
