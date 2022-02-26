@@ -16,14 +16,15 @@ Because meanings of engagement can be expressed at different levels of lexical a
 This section deals with such structural issues during the annotation. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
 
 
-| Features                                                                                              | Example items    | Where to put a tag                                          |
-| ----------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------------- |
-| [Modal verbs](#modal-verbs)                                                                           | can, have to     | on the item                                                 |
-| [Single-word adverbs](#single-word-adverbs)                                                           | obviously, sure  | on the item                                                 |
-| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency) | in my view       | the entire phrase                                           |
-| [Mental or communication verbs](#mental-or-communication-verbs)                                       | think, say, tell | on the item (= [`Root`](#identifying-root-of-the-sentence)) |
-| [Subordinate conjunctions](#subordinate-conjunctions-modified)                                        | as, when, if     | on the item                                                 |
-| [Coordinating conjunctions](#coordinating-conjunctions)                                               | but, and, yet    | on the item                                                 |
+| Features                                                                                              | Example items              | Where to put a tag                                          |
+| ----------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------- |
+| [Modal verbs](#modal-verbs)                                                                           | can, have to               | on the item                                                 |
+| [Single-word adverbs](#single-word-adverbs)                                                           | obviously, sure            | on the item                                                 |
+| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency) | in my view                 | the entire phrase                                           |
+| [Mental or communication verbs](#mental-or-communication-verbs)                                       | think, say, tell           | on the item (= [`Root`](#identifying-root-of-the-sentence)) |
+| [Subordinate conjunctions](#subordinate-conjunctions-modified)                                        | as, when, if               | on the item                                                 |
+| [Multi-word subordinate conjunctions]                                                                 | as long as, whether or not | on the multiword item                                       |
+| [Coordinating conjunctions](#coordinating-conjunctions)                                               | but, and, yet              | on the item                                                 |
 
 
 
@@ -52,6 +53,10 @@ When an engagement meaning is realized by a subordinate conjunctions such as *al
 - **Though** there were several ‘couples’, these were definitely not the norm.
 - The Bush administration, **as** we all know, has rejected the Kyoto agreement
 
+### Multi-word subordinate conjunctions (Modified!!!)
+When an engagement meaning is realized by a multi-word subordinate conjunctions such as *as long as* and *where or not*, you will put a tag on the multi-word sequence.
+- **As long as** the response addresses the question, it can be long.
+
 ### Coordinating conjunctions
 When an engagement meaning is realized by a coordinating conjunctions such as *but* and *yet*, you will put a tag on that item.
 - **But** look at what he achieved.
@@ -68,11 +73,12 @@ In this example, `hates` is the `ROOT` of the sentence because it is NOT governe
 ### Strategies to identify the ROOT.
 
 1) Find the main verb phrase of a clause. The `Root` is the most lexically heavy verb in the verb phrase. This will work for simple independent sentences. The `ROOT` is bolded in the following examples:
-    1. These **were** the norm.
-    2. spaCy **comes** with free pre-trained models for lots of languages.
-    3. Schools do not **serve** as avenues for upward mobility.
-    4. Pokémon Legends: Arceus has now been **released** globally! 
-    5. One **is** that the salary is very little.
+   
+ 1. These **were** the norm.
+ 2. spaCy **comes** with free pre-trained models for lots of languages.
+ 3. Schools do not **serve** as avenues for upward mobility.
+ 4. Pokémon Legends: Arceus has now been **released** globally! 
+ 5. One **is** that the salary is very little.
 
 2) If there are subordinate clauses in a sentence, determine which clause govern the other(s). The clause governing the other clauses are considered to have a `ROOT`.
     1. When you finish the work, you can **go** home.
