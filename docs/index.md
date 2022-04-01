@@ -26,3 +26,6 @@ What constitutes 'good' academic writing? You may think of a range of ways that 
 - More specifically:
 	- To identify specific lexico-grammatical items that enact meanings of stance-taking (e.g., `in my view`, `X said`)
 	- To identify specific meanings of stance-taking (we call this Engagement moves) for the identified lexico-grammar items.
+
+
+Next step: [Understanding Engagement](2_Part1_Understanding_Engagement.md)

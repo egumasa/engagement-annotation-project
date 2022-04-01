@@ -6,6 +6,13 @@ nav_order: 4
 
 ## Some confusing cases (Under construction)
 
+### Attribute or Entertain
+
+Entertain mainly concerns the writer's own views while attribute is a way to use external voice to present their views. 
+
+- I **believe (ENTERTAIN)** that the government should ...
+- Some group of people **believe (ATTRIBUTE)** that the government should ...
+
 ### Pronounce or Entertain
 The main difference between pronounce and entertain is whether the utterance allows for dialogic alternatives. Entertain move allows for alternative interpretations or voices by expressing possibilities. Pronounce move, on the other hand, challenges and dismiss an alternative views (contraction). 
 - I am **convinced (ENTERTAIN)** that ... :
@@ -20,6 +27,12 @@ The main difference between endorse and attribute concerns the degree of authors
 ### Modal verbs with permissions/obligations are considered as ENTERTAIN
 
 - You **must** switch off the lights when you leave.
+
+### Attribute or Monogloss
+In some cases, communication verb is used to talk about the action itself, not attributing the content of the locution. 
+
+- Then, she **spoke (MONOGLOSS)** to the public. (The focus is on the action of speaking, not the content.)
+- Some **say (ATTRIBUTE)** it's cool. (The focus is on the content [AND who says it].)
 
 
 ### Rhetorical questions
