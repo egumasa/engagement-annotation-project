@@ -89,6 +89,7 @@ A clause has to have `finite` verb (roughly verb with tense) while a phrase does
 
 
 ### Adverbial clauses
+
 | Adverbial clause                       | Else                                                                                    |
 | :------------------------------------- | :-------------------------------------------------------------------------------------- |
 | Because this is a new annotation task, | clarification from the annotator greatly helps.                                         |
