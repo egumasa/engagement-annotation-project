@@ -80,12 +80,13 @@ As we will see, we are going to tag the entire phrase (such as `in my view`, `fo
 A clause has to have `finite` verb (roughly verb with tense) while a phrase does not have finite verbs (or even lacks a verb).
 
 ### Adverbial phrases
+
 | Adverbial phrase  | Else                              |
 | :---------------- | :-------------------------------- |
 | Yesterday         | I went to the market.             |
 | Despite the rain, | the Cub Scouts held the car wash. |
-|                   |                                   |
 
+### Adverbial clauses
 | Adverbial clause                       | Else                                                                                    |
 | :------------------------------------- | :-------------------------------------------------------------------------------------- |
 | Because this is a new annotation task, | clarification from the annotator greatly helps.                                         |
