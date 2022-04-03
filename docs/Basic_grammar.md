@@ -25,7 +25,6 @@ First of all, it is always helpful to clarify important terminologies we will us
 | head                      |                                                                     |                                                                                   |
 
 
-
 ## Identifying `ROOT` of the sentence
 The first task you will do in the annotation is to identify the `ROOT` of the sentence. 
 `ROOT` is defined as the highest node in the syntactic tree of the sentence.
@@ -51,6 +50,29 @@ In this example, `hates` is the `ROOT` of the sentence because it is NOT governe
 
 
 ## Coordinated clauses vs Subordinate clauses
+
+### Coordinated clauses
+Coordinated clauses are independent clauses that are connected with coordinating conjunction (e.g., `and`, `but`, `or`).
+
+| Independent clause            | Coordinated conjunction | Independent clause                  |
+| :---------------------------- | :---------------------- | :---------------------------------- |
+| Marianne lives in California, | but                     | Diane lives in Michigan or Vermont. |
+| He went to the party,         | but                     | I stayed home.                      |
+
+### Subordinate clauses
+A subordinate clause is a dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `although`, `if`, `when`, `as`, `while`, etc.)
+
+A subordinate clause can either follow or preceed the main clause. We will come back to this later, but when we put a tag on subordinate clause, it will fall onto the conjunction.
+
+| Main clause                          | Subordinate clause                  |
+| :----------------------------------- | :---------------------------------- |
+| It was hard to write a book together | `because` they live so far apart.     |
+| Peggy frequently calls               | `because` she wants to stay in touch. |
+
+| Subordinate clause                          | Main clause                            |
+| :------------------------------------------ | :------------------------------------- |
+| `Although` Marianne and Diane live far apart, | they are still friends.                |
+| `As` far as I am concerned,                   | there is not much study on this topic. |
 
 
 
