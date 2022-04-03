@@ -12,7 +12,7 @@ nav_order: 2
 1. TOC
 {:toc}
 
-## Grammatical terminologies we will use.
+## Grammatical terminology
 First of all, it is always helpful to clarify important terminologies we will use during the annotation project. When I use the following terms, I use in the following meaning and examples in mind.
 
 | Terminology               | Definition/Description                                              | Example                                                                           |
@@ -21,9 +21,8 @@ First of all, it is always helpful to clarify important terminologies we will us
 | clause                    | Linguistic unit containing a verb (and typically a subject).        | I went to the park yesterday. / Be mindful.                                       |
 | independent (main) clause | A clause that can stand alone to make a complete sentence           | (The two example above are independent clause and sentence themselves.)           |
 | dependent clause          | A clause that are attached to (dependent on) an independent clause. | If you are free (dep. cl), just come to the party (ind. cl).                      |
-| ROOT                      | the highest node in the syntactic tree of the sentence.             |                                                                                   |
-| head                      |                                                                     |                                                                                   |
-
+| ROOT                      | The highest node in the syntactic tree of a sentence.               |                                                                                   |
+| head                      | The highest node in the given a phrase/constituent/clause           |                                                                                   |
 
 ## Identifying `ROOT` of the sentence
 The first task you will do in the annotation is to identify the `ROOT` of the sentence. 
@@ -64,17 +63,34 @@ A subordinate clause is a dependent clause that is attached to a main clause thr
 
 A subordinate clause can either follow or preceed the main clause. We will come back to this later, but when we put a tag on subordinate clause, it will fall onto the conjunction.
 
-| Main clause                          | Subordinate clause                  |
-| :----------------------------------- | :---------------------------------- |
+| Main clause                          | Subordinate clause                    |
+| :----------------------------------- | :------------------------------------ |
 | It was hard to write a book together | `because` they live so far apart.     |
 | Peggy frequently calls               | `because` she wants to stay in touch. |
 
-| Subordinate clause                          | Main clause                            |
-| :------------------------------------------ | :------------------------------------- |
+| Subordinate clause                            | Main clause                            |
+| :-------------------------------------------- | :------------------------------------- |
 | `Although` Marianne and Diane live far apart, | they are still friends.                |
 | `As` far as I am concerned,                   | there is not much study on this topic. |
 
+## Distinguishing adverbial clauses and adverbial phrases
 
+One tricky grammatical detail that becomes important during annotation is the distinction between adverbial clauses and phrases.
+As we will see, we are going to tag the entire phrase (such as `in my view`, `for example`, `as for me`), but we will put a tag on the conjunction (e.g., `as`, `because`, `when`) not the entire clause.
+A clause has to have `finite` verb (roughly verb with tense) while a phrase does not have finite verbs (or even lacks a verb).
+
+### Adverbial phrases
+| Adverbial phrase  | Else                              |
+| :---------------- | :-------------------------------- |
+| Yesterday         | I went to the market.             |
+| Despite the rain, | the Cub Scouts held the car wash. |
+|                   |                                   |
+
+| Adverbial clause                       | Else                                                                                    |
+| :------------------------------------- | :-------------------------------------------------------------------------------------- |
+| Because this is a new annotation task, | clarification from the annotator greatly helps.                                         |
+| As we mentioned in Chapter I,          | however, we believe that it is better to conceive of grammar and lexicon as intertwined |
+|                                        |                                                                                         |
 
 ## References
 Larsen-Freeman, D., & Celce-Murcia, M. (2016). *The grammar book. Form, meaning and use for English language teachers* (3rd eds).
