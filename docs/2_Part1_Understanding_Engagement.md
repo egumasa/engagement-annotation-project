@@ -42,13 +42,18 @@ The writers can `proclaim` their views by (a) assuming that the readers would ag
 
 <details><summary> Interrim Summary </summary>
 
-* `Monoglossic utterance` = An utterance which involves a factual statement, without recognizing other potential views.
 
-* `Heteroglossic utterance` = An utterance which recognizes that the referenced idea is one possible alternatives among others, regardless the author supports or rejects the idea.
+- `Monoglossic utterance` = An utterance which involves a factual statement, without recognizing other potential views.
 
-* `Contraction strategy` = Discourse moves which close down dialogic space; the speaker/writer acts to challenge, fend off or restrict other alternative positions and voices.
 
-* `Expansion strategy` = Discourse moves which open-up the dialogic space; the speaker/writer actively makes allowances for dialogically alternative positions and voices.
+- `Heteroglossic utterance` = An utterance which recognizes that the referenced idea is one possible alternatives among others, regardless the author supports or rejects the idea.
+
+
+- `Contraction strategy` = Discourse moves which close down dialogic space; the speaker/writer acts to challenge, fend off or restrict other alternative positions and voices.
+
+
+- `Expansion strategy` = Discourse moves which open-up the dialogic space; the speaker/writer actively makes allowances for dialogically alternative positions and voices.
+
 
 </details>
 
