@@ -15,14 +15,14 @@ nav_order: 2
 ## Grammatical terminologies we will use.
 First of all, it is always helpful to clarify important terminologies we will use during the annotation project. When I use the following terms, I use in the following meaning and examples in mind.
 
-| Terminology         | Definition/Description                                               | Example                                                                 |
-| ------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| phrase/constituents | A group of words which creates a meaningful chunk.                   | a dog (NP), during the meeting (PP), went to the park (VP)              |
-| clause              | Linguistic unit with a verb (and typically a subject).               | I went to the park yesterday. / Be mindful.                             |
-| independent clause  | A clause that can stand alone to make a complete sentence            | (The two example above are independent clause and sentence themselves.) |
-| dependent clause    | A clause that are attached  to (dependent on) an independent clause. | If you are free (dep. cl), just come to the party (ind. cl).            |
-| ROOT                | the highest node in the syntactic tree of the sentence.              |                                                                         |
-| head                |                                                                      |                                                                         |
+| Terminology               | Definition/Description                                              | Example                                                                           |
+| ------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| phrase/constituents       | A group of words which function together (creates meaning).         | The impatient customer (NP)/was acting (VP) /very cranky (ADV) /at the time (PP). |
+| clause                    | Linguistic unit containing a verb (and typically a subject).        | I went to the park yesterday. / Be mindful.                                       |
+| independent (main) clause | A clause that can stand alone to make a complete sentence           | (The two example above are independent clause and sentence themselves.)           |
+| dependent clause          | A clause that are attached to (dependent on) an independent clause. | If you are free (dep. cl), just come to the party (ind. cl).                      |
+| ROOT                      | the highest node in the syntactic tree of the sentence.             |                                                                                   |
+| head                      |                                                                     |                                                                                   |
 
 
 
@@ -48,4 +48,12 @@ In this example, `hates` is the `ROOT` of the sentence because it is NOT governe
  1. When you finish the work, you can **go** home.
  2. Whenever I’m bored, I **go** to my favorite place: The fridge.
  3. I strongly **believe** that a few cup of coffee will do the trick.
+
+
+## Coordinated clauses vs Subordinate clauses
+
+
+
+## References
+Larsen-Freeman, D., & Celce-Murcia, M. (2016). *The grammar book. Form, meaning and use for English language teachers* (3rd eds).
 
