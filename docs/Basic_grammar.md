@@ -81,17 +81,19 @@ A clause has to have `finite` verb (roughly verb with tense) while a phrase does
 
 ### Adverbial phrases
 
+
 | Adverbial phrase  | Else                              |
 | :---------------- | :-------------------------------- |
 | Yesterday         | I went to the market.             |
 | Despite the rain, | the Cub Scouts held the car wash. |
+
 
 ### Adverbial clauses
 | Adverbial clause                       | Else                                                                                    |
 | :------------------------------------- | :-------------------------------------------------------------------------------------- |
 | Because this is a new annotation task, | clarification from the annotator greatly helps.                                         |
 | As we mentioned in Chapter I,          | however, we believe that it is better to conceive of grammar and lexicon as intertwined |
-|                                        |                                                                                         |
+
 
 ## References
 Larsen-Freeman, D., & Celce-Murcia, M. (2016). *The grammar book. Form, meaning and use for English language teachers* (3rd eds).
