@@ -38,11 +38,13 @@ In some cases, communication verb is used to talk about the action itself, not a
 ### Rhetorical questions
 Rhetorical questions can have two functions, each corresponding either `Entertain` or `Concur`.
 
-1) A rhetorical question functions as `Entertain` when it introduces "a proposition in such a way that it is presented as but one of a number of possible positions" (White, 2003, p. 267).
-2) A rhetorical question functions as `Concur` when it presents "proposition as so self-evident or agreed upon that it doesn’t actually need to be stated by the textual voice, it can be left up to the reader to supply the required meaning." (White, 2003, p. 267)
+1. A rhetorical question functions as `Entertain` when it introduces "a proposition in such a way that it is presented as but one of a number of possible positions" (White, 2003, p. 267).
+2. A rhetorical question functions as `Concur` when it presents "proposition as so self-evident or agreed upon that it doesn’t actually need to be stated by the textual voice, it can be left up to the reader to supply the required meaning." (White, 2003, p. 267)
+
 
 Rhetorical questions categorized as `Entertain` include following examples:
-- 
+- So what brings happiness to our life? 
+
 Rhetorical questions categorized as `Concur` include following:
 - Should we go to war against these children?
 

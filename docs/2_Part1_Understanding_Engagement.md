@@ -219,10 +219,11 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 - **Chomsky’s belief** that language is for individuals rather than groups.
 - The government’s serologist **reportedly** lied about his qualifications.
 - It is **said** that he lied about his age as he grew older …
+- It is generally **understood** that science has developed a highly sophisticated way of representing ideas.
 - **According to the authors**, he gave new witches everything they wished as long as they sold their soul to him.
 - **As** the discussant post “Witchcraft and Sexual Deviance” mentioned, the church and the public believed that if witches were willing to so publicly flout the word of the Lord, they must also disobey other societal conventions.
 - **In Wong’s study**, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
-- A number of researchers (Meara, 1996; Qian, 1999; Read, 1989; Wesche & Paribakht, 1996), **proposed** that the two dimensions of vocabulary knowledge be known as ‘depth’ and ‘breadth’.
+
 
 Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attributed.
 
