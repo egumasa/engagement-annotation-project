@@ -85,10 +85,10 @@ Once again, these categories is about discourse meaning that writers make; there
 Meanings of engagement (stance-taking) are realized through a range of lexical and grammatical resources. Typical grammatical structures include:
 - Modal auxiliaries (e.g., `can`, `may`, `must`)
 - Stance adverbs (e.g., `obviously`, `naturally`, `probably`)
-- Adverbial phrases (e.g., `according to X`, `as far as I am concerned`, `in my view`)
+- Adverbial phrases (e.g., `according to X`,  `in my view`)
 - Communication/mental verbs (e.g., `X said that`, `the study demonstrated`, `I think`)
 - Attributive adjectives (e.g., `it is possible`, `it is likely`)
-- Subordinate clauses (e.g., `even though`, `if X...`, `although ...`)
+- Subordinate clauses (e.g., `even though`, `if X...`, `although ...`, `as far as I am concerned`)
 - Negation (e.g., `not`, `never`)
 
 The implications of this include:
@@ -108,6 +108,7 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 - these were definitely **not** the norm
 - We are of course **not** dealing with one monolithic hegemonic English voice
 - Natural gas burns with twice the heat of coal gas, is **not** poisonous and has **no** odor.
+- There is **nothing** wrong with the idea.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
@@ -115,12 +116,12 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 >An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.
 
 Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, *however*, which signals the meanings of `Counter` in an explicit manner.
-- **Although** the religion motif was not commonly discussed among the discussants, the relevance of this theme to these various texts need to be brought to attention.
-- In comparison, 32% of the respondents felt that the conventional downtown was still a major attraction, **even though** the regional centre had gained quite a vast amount of popularity and did to large extent have an air of modernity.
-- **While** the Supreme Court rejected the “quality of care” argument in the federation case, the oligopolistic characteristics and purchasing structure of insurance make this outcome unsurprising.
-- **Although provisional**, our model has implications for pedagogy.
-- **Even though** he had taken all his medication, his leg did*n’t (DENY)* look any better.
-- **While** that grief is deeply understood, the problem with tragedies like this one is that they become a heyday for the overly-sincere, maudlin, righteousindignation crowd.
+- _**Although** the religion motif was not commonly discussed among the discussants_, the relevance of this theme to these various texts need to be brought to attention.
+- In comparison, 32% of the respondents felt that the conventional downtown was still a major attraction, _even **though** the regional centre had gained quite a vast amount of popularity and did to large extent have an air of modernity_.
+- _**While** the Supreme Court rejected the “quality of care” argument in the federation case_, the oligopolistic characteristics and purchasing structure of insurance make this outcome unsurprising.
+- _**Although** provisional_, our model has implications for pedagogy.
+- _Even **though** he had taken all his medication_, his leg did*n’t (DENY)* look any better.
+- _**While** that grief is deeply understood_, the problem with tragedies like this one is that they become a heyday for the overly-sincere, maudlin, righteousindignation crowd.
 - Every single law is addressed to the men, with the use of the pronoun “he” throughout the text, **even** when the laws are closely referring to female issues.
 
 `Disclaim: Counter` sometimes includes less obvious realizations. For example, adjuncts such as *even*, *only*, *just*, and *still* may "also have a counter-expectational aspect to their meanings" (Martin & White, p. 121).
@@ -128,7 +129,7 @@ Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, 
 - **Still**, they were able to win the game.
 
 `Disclaim: Counter` would also include some adverbs that encode meanings of counter-expectations.
-- `Unexpectedly/Surprisingly/To my surprise`, there seems to have been little smuggling this year.
+- ***Unexpectedly/Surprisingly/To my surprise***, there seems to have been little smuggling this year.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
@@ -159,15 +160,15 @@ NOTE: **Certainly** illustrates there may be multiple functions that an item can
 ### Proclaim: Pronounce
 >An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation.
 
-- I therefore **propose** that universities have a greater role in working alongside the NCAA in negotiating its television.
-- I **DID** turn out the lights before I left.
-- But **the facts of the matter are that** we have never made the national decisions or marshaled the national resources required for such leadership.
-- **It is absolutely clear to me that** what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
-- I **contend** it's the worst address by a British Prime Minister.
-- **We have to remember that** bobbies move around - and slowly.
-- One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
-- The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
-- I would **contend** that this enviable level of tolerance is not the result of direct government laws or interventions.
+- _I therefore **propose** that_ universities have a greater role in working alongside the NCAA in negotiating its television.
+- I _**DID**_ turn out the lights before I left.
+- _But the **facts** of the matter are that_ we have never made the national decisions or marshaled the national resources required for such leadership.
+- _It is absolutely **clear** to me that_ what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
+- _I **contend**_ it's the worst address by a British Prime Minister.
+- _We have to **remember** that_ bobbies move around - and slowly.
+- One of the arrested people ***in fact*** was a Hindu, a chef from Hong Kong.
+- The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men ***turned out*** to be tourists
+- _I would **contend** that_ this enviable level of tolerance is not the result of direct government laws or interventions.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
@@ -193,19 +194,19 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 ### Entertain
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
 
-- I **think** Mary teaches French
+- _I **think**_ Mary teaches French
 - You **must** switch off the lights when you leave.
 - It was **probably** the most immature, irresponsible, disgraceful and misleading address ever given by a British Prime Minister.
 - It **may** have been the most immature, irresponsible, disgraceful and misleading address ever given by a British Prime Minister.
-- It **appears** that maximum price fixing does the greatest harm when set below a competitive level.
-- That mismatch **seems** worse than it was ten years ago.
-- His defensive behaviour **suggests** he feels ashamed and guilty that you’ve discovered his habit.
-- **Generally speaking**, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
-- I **believe** that he’s lying. 
-- He **may** be lying.
-- **Probably** he’s lying.
-- It’s **probable** that he's lying.
-- Of course, there’s **precious little chance** of that happening in America any time soon.
+- _It **appears** that_ maximum price fixing does the greatest harm when set below a competitive level.
+- _That mismatch **seems**_ worse than it was ten years ago.
+- _His defensive behaviour **suggests**_ he feels ashamed and guilty that you’ve discovered his habit.
+- _**Generally speaking**_, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
+- _I **believe**_ that he’s lying. 
+- _He **may**_ be lying.
+- _**Probably**_ he’s lying.
+- _It’s **probable** that_ he's lying.
+- Of course, _there’s **precious little chance**_ of that happening in America any time soon.
 - He has **certainly** disgraced the Attorney General’s office in lending credence to the assertions of the Swift Boat veterans for Truth.
 
 
@@ -213,16 +214,16 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 
 ### Attribute
 >An utterance which signifies dialogic space as the writer attributes the proposition to an external source.
-- Mr. Mandela **said** the Group of Eight nations have a duty to help battle the scourge of AIDS.
-- Dawkins **believes** that religion is not an adaptive evolutionary vestige, but in fact a cultural virus.
-- Hovenkamp **argues** that a company could have one hundred percent market share both as a newspaper publisher and distributor, and still have no monopoly power.
-- **Chomsky’s belief** that language is for individuals rather than groups.
-- The government’s serologist **reportedly** lied about his qualifications.
-- It is **said** that he lied about his age as he grew older …
-- It is generally **understood** that science has developed a highly sophisticated way of representing ideas.
-- **According to the authors**, he gave new witches everything they wished as long as they sold their soul to him.
-- **As** the discussant post “Witchcraft and Sexual Deviance” mentioned, the church and the public believed that if witches were willing to so publicly flout the word of the Lord, they must also disobey other societal conventions.
-- **In Wong’s study**, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
+- _Mr. Mandela **said**_ the Group of Eight nations have a duty to help battle the scourge of AIDS.
+- _Dawkins **believes** that_ religion is not an adaptive evolutionary vestige, but in fact a cultural virus.
+- _Hovenkamp **argues** that_ a company could have one hundred percent market share both as a newspaper publisher and distributor, and still have no monopoly power.
+- **Chomsky’s belief** that language is for individuals rather than groups .
+- The government’s serologist _**reportedly**_ lied about his qualifications.
+- _It is **said** that_ he lied about his age as he grew older …
+- _It is generally **understood** that_ science has developed a highly sophisticated way of representing ideas.
+- _**According to the authors**_, he gave new witches everything they wished as long as they sold their soul to him.
+- _**As** the discussant post “Witchcraft and Sexual Deviance” mentioned_, the church and the public believed that if witches were willing to so publicly flout the word of the Lord, they must also disobey other societal conventions.
+- _**In Wong’s study**_, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
 
 
 Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attributed.
@@ -231,8 +232,8 @@ Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attribu
 
 ### Justify
 >An utterance which engage in persuasion through justification or substantiation.
-- **Because** the steps are made of a smooth, polished—and therefore slippery—stone, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
-- Accessibility is quite a key factor **because** it is evident that the regional centre was built on the basis of good infrastructure.
+- _**Because** the steps are made of a smooth, polished—and therefore slippery—stone_, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
+- Accessibility is quite a key factor _**because** it is evident that the regional centre was built on the basis of good infrastructure_.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
