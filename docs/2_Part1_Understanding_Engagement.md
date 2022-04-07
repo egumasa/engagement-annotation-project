@@ -177,6 +177,10 @@ In pronounce, the writer shows strong commitment that their idea is TRUE. Reader
 - _I would **contend** that_ this enviable level of tolerance is not the result of direct government laws or interventions.
 - _The absolute **fact** is that_ linguistics is fun.
 
+Pronounce is also realized by **intensifiers with clausal scope** such as `really`, `indeed`, etc.
+- I **really** think that it is true.
+- **Indeed**, a binary definition of the environment increases the strength of spatial relations and the measure of spatial autocorrelation. 
+
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
 ### Proclaim: Endorse
