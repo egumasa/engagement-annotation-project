@@ -104,24 +104,25 @@ So, It is important to fully understand what each category means through closely
 > An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.
 
 In other words, `deny` move includes acknowledgement to an alternative position so as to reject it. Typically the meaning is realized using negations.
+- Linguistics is **not** easy.
 - You do**n’t** need to give up potatoes to lose weight.
 - these were definitely **not** the norm
 - We are of course **not** dealing with one monolithic hegemonic English voice
 - Natural gas burns with twice the heat of coal gas, is **not** poisonous and has **no** odor.
-- There is **nothing** wrong with the idea.
+- There is **nothing** wrong with your proposal.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
 ### Disclaim: Counter
 >An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.
 
-Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, *however*, which signals the meanings of `Counter` in an explicit manner.
+Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, *however*, which signals the meanings of `Counter` in an explicit manner. This signals `concession` and `counter expectations`.
 - _**Although** the religion motif was not commonly discussed among the discussants_, the relevance of this theme to these various texts need to be brought to attention.
+- _**Although** provisional_, our model has implications for pedagogy.
 - In comparison, 32% of the respondents felt that the conventional downtown was still a major attraction, _even **though** the regional centre had gained quite a vast amount of popularity and did to large extent have an air of modernity_.
 - _**While** the Supreme Court rejected the “quality of care” argument in the federation case_, the oligopolistic characteristics and purchasing structure of insurance make this outcome unsurprising.
-- _**Although** provisional_, our model has implications for pedagogy.
-- _Even **though** he had taken all his medication_, his leg did*n’t (DENY)* look any better.
 - _**While** that grief is deeply understood_, the problem with tragedies like this one is that they become a heyday for the overly-sincere, maudlin, righteousindignation crowd.
+- _Even **though** he had taken all his medication_, his leg did*n’t (DENY)* look any better.
 - Every single law is addressed to the men, with the use of the pronoun “he” throughout the text, **even** when the laws are closely referring to female issues.
 
 `Disclaim: Counter` sometimes includes less obvious realizations. For example, adjuncts such as *even*, *only*, *just*, and *still* may "also have a counter-expectational aspect to their meanings" (Martin & White, p. 121).
@@ -135,6 +136,7 @@ Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, 
 
 ### Proclaim: Concur
 >An utterance which shows writers' expectation for the putative readers to agree with the preposition and/or to have the same knowledge.
+This includes lexico-grammatical items such as `naturally`, `if course`, `obviously`, `admittedly`. These items reveal writer's expectation for the reader to agree with the idea.
 
 There are two sub-types of `concur` which we do not differentiate in the current project. These are `affirm` and `concede` (Tan, 2010).  
 
@@ -143,12 +145,15 @@ There are two sub-types of `concur` which we do not differentiate in the current
 - Bailey, **of course**, was that rarity, a cricketer who at his best was worldclass with both bat and ball.
 - The Bush administration, **as** we all know, has rejected the Kyoto agreement
 - **As** we can see, the popularity of Woodlands new town between residents and non-residents is directly opposite to each other.
+- **Everyone knows that** linguistics is fun.
 
 `Concede` examples
 - **Admittedly**, he was badly behaved.
 - **Indeed**, it is odd that both the FTC and courts have historically regarded huge, publicly traded insurance firms rather than health providers as the legal proxy of patients.
 - **Sure**, he broke rules.
 - If, **as** all the pundits are saying, there is no hope of normalcy returning soon
+
+
 Some tricky example, but we all categorize them under `concur`:
 - **Certainly** he was badly behaved but look at what he has achieved.
 
@@ -160,6 +165,7 @@ NOTE: **Certainly** illustrates there may be multiple functions that an item can
 ### Proclaim: Pronounce
 >An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation.
 
+In pronounce, the writer shows strong commitment that their idea is TRUE. Reader would consider that this is a very bold move.
 - _I therefore **propose** that_ universities have a greater role in working alongside the NCAA in negotiating its television.
 - I _**DID**_ turn out the lights before I left.
 - _But the **facts** of the matter are that_ we have never made the national decisions or marshaled the national resources required for such leadership.
@@ -169,6 +175,7 @@ NOTE: **Certainly** illustrates there may be multiple functions that an item can
 - One of the arrested people ***in fact*** was a Hindu, a chef from Hong Kong.
 - The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men ***turned out*** to be tourists
 - _I would **contend** that_ this enviable level of tolerance is not the result of direct government laws or interventions.
+- _The absolute **fact** is that_ linguistics is fun.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
@@ -177,11 +184,11 @@ NOTE: **Certainly** illustrates there may be multiple functions that an item can
 
 Essentially, in `Endorse` option, a writer use an external source and align with it to support their views. 
 Typically, this is achieved by the use of verbal processes and their nominalized equivalents. Compared to `Attribute`, `Endorse` encodes writers more approval of the content.
-- Evidence **showed** that . . . there was “a large number of small competitors, the absence of significant price wars, . . .”
-- An interview by the Institute of Policy Studies (IPS) concerning national identity **revealed** that 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
-- More specifically, five studies **demonstrate** that investment dependence – investment by foreign firms in a society’s domestic economy increases economic inequality.
-- For instance, young learners were **found** to perform differently on both text comprehension (e.g., Langer, 1985) and production (e.g. Hidi & Hidyard, 1983).
-- **As** discussants correctly pointed out, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
+- _Evidence **showed** that_ . . . there was “a large number of small competitors, the absence of significant price wars, . . .”
+- _An interview by the Institute of Policy Studies (IPS) concerning national identity **revealed** that_ 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
+- More specifically, _five studies **demonstrate** that_ investment dependence – investment by foreign firms in a society’s domestic economy increases economic inequality.
+- For instance, _young learners were **found** to_ perform differently on both text comprehension (e.g., Langer, 1985) and production (e.g. Hidi & Hidyard, 1983).
+- _**As** discussants correctly pointed out_, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
 
 Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds extra meaning to `Endorse` the external sources:
 - ... convincingly argued ...
@@ -194,18 +201,20 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 ### Entertain
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
 
-- _I **think**_ Mary teaches French
-- You **must** switch off the lights when you leave.
-- It was **probably** the most immature, irresponsible, disgraceful and misleading address ever given by a British Prime Minister.
-- It **may** have been the most immature, irresponsible, disgraceful and misleading address ever given by a British Prime Minister.
+ENTERTAIN move signals author's own subjectivity to present the idea.
+- **In my view/from my perspective/in my opinion**, linguistics is fun.
+- _I **think/suppose/suspect**_ Mary teaches French
+- _I **believe**_ that he’s lying. 
 - _It **appears** that_ maximum price fixing does the greatest harm when set below a competitive level.
 - _That mismatch **seems**_ worse than it was ten years ago.
 - _His defensive behaviour **suggests**_ he feels ashamed and guilty that you’ve discovered his habit.
-- _**Generally speaking**_, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
-- _I **believe**_ that he’s lying. 
 - _He **may**_ be lying.
-- _**Probably**_ he’s lying.
-- _It’s **probable** that_ he's lying.
+- It **may** have been the most immature, irresponsible, disgraceful and misleading address ever given by a British Prime Minister.
+- You **must** switch off the lights when you leave.
+- _**Probably/apparently/perhaps**_ he’s lying.
+- It was **probably/arguably** the most immature, irresponsible, disgraceful and misleading address ever given by a British Prime Minister.
+- _**Generally speaking**_, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
+- _It’s **probable/likely/possible** that_ he's lying.
 - Of course, _there’s **precious little chance**_ of that happening in America any time soon.
 - He has **certainly** disgraced the Attorney General’s office in lending credence to the assertions of the Swift Boat veterans for Truth.
 
@@ -214,17 +223,21 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 
 ### Attribute
 >An utterance which signifies dialogic space as the writer attributes the proposition to an external source.
+
+Typically, this move is achieved by "X [third person] said" or "According to X", which shows that the idea is borrowed from the external source.
+
 - _Mr. Mandela **said**_ the Group of Eight nations have a duty to help battle the scourge of AIDS.
 - _Dawkins **believes** that_ religion is not an adaptive evolutionary vestige, but in fact a cultural virus.
+- _Most linguists **believe** that_ linguistic structure is most productively studied in its own terms, with its communicative use(s) considered separately.
 - _Hovenkamp **argues** that_ a company could have one hundred percent market share both as a newspaper publisher and distributor, and still have no monopoly power.
-- **Chomsky’s belief** that language is for individuals rather than groups .
-- The government’s serologist _**reportedly**_ lied about his qualifications.
-- _It is **said** that_ he lied about his age as he grew older …
-- _It is generally **understood** that_ science has developed a highly sophisticated way of representing ideas.
 - _**According to the authors**_, he gave new witches everything they wished as long as they sold their soul to him.
 - _**As** the discussant post “Witchcraft and Sexual Deviance” mentioned_, the church and the public believed that if witches were willing to so publicly flout the word of the Lord, they must also disobey other societal conventions.
+- _It is **said** that_ he lied about his age as he grew older …
+- _It is generally **understood** that_ science has developed a highly sophisticated way of representing ideas.
 - _**In Wong’s study**_, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
-
+- **Chomsky’s belief** that language is for individuals rather than groups .
+- The government’s serologist _**reportedly**_ lied about his qualifications.
+- _Tickner has **claimed** that_ regardless of the result, the royal commission was a waste of money and he would proceed with a separate inquiry into the issue headed by Justice Jane Matthews.
 
 Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attributed.
 
@@ -234,6 +247,9 @@ Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attribu
 >An utterance which engage in persuasion through justification or substantiation.
 - _**Because** the steps are made of a smooth, polished—and therefore slippery—stone_, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
 - Accessibility is quite a key factor _**because** it is evident that the regional centre was built on the basis of good infrastructure_.
+- _**Because** of the event happening next year_, the housing prices have gone up so rapidly around here.
+
+
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
