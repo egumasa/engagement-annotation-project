@@ -47,13 +47,13 @@ When an engagement meaning is realized by a multi-word adverbs, such as preposit
 When an engagement meaning is realized by a mental or communication verbs, you will put a tag on the lexical verb.
 - Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
 
-### Subordinate clause (Revised on April 9th)
+### Subordinate clause ==(Revised on April 9th)==
 When an engagement meaning is realized by a subordinate conjunctions such as *although*, *while*, and *if*, you will put a tag on the entire subordinate clause.
 - **Although the religion motif was not commonly discussed among the discussants**, the relevance of this theme to these various texts need to be brought to attention.
 - **Though there were several ‘couples’**, these were definitely not the norm.
 - The Bush administration, **as we all know**, has rejected the Kyoto agreement
 
-### Multi-word subordinate conjunctions (Revised on April 9th)
+### Multi-word subordinate conjunctions ==(Revised on April 9th)==
 When an engagement meaning is realized by a multi-word subordinate conjunctions such as *as long as* and *where or not*, you will put a tag on the multi-word sequence.
 - **As long as the response addresses the question**, it can be long.
 
