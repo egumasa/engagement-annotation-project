@@ -24,7 +24,7 @@ More examples are added below later.
 - This manuscript is damned hard to read. **Maybe** some more light can help.
 - John **may/must** have been in his office.
 - Mary **ought to / should / could** be at school by now. 
-
+- He **can't** be in his office now. (Palmer, 2001, p. 15)
 ## Deontic modal — Modal of request, permission and obligation
 Deontic modality has two sub-classes: request and permission.
 `Request` can be identified "using as paraphrase: “need to do something” or “it is required to do something”" (p. 10).
@@ -35,15 +35,16 @@ According to Martin & White (2005), deontic modal is categorized as `Entertain`.
 - We **should** be thankful for what he has done for us, so we must find a way to show our gratitude to him.	(obligation)
 - John **may/can** come in now. (permission)
 - John **must** come in now.	(obligation)
-- You **can** smoke in here.
+- You **can** smoke in here. (permission)
 
 ## Dynamic modal – Modal of capability, ability, and willingness
-`Dynamic` modal can be identified "using the paraphrase “be (un)able to do something”" (p. 10)
+`Dynamic` modal can be identified "using the paraphrase “be (un)able to do something”" (p. 10).
+They typically relates to the `capacity` of the subject-participant of the clause.
 
 - They **ca**n’t even read them.	(ability)
 - That kid **can** sing like Frank Sinatra.	(ability)
+- She **can** run a mile in four minutes. (ability)
 - John **will** do it for you.	(willingness)
-
 ## Confusing cases 
 To be updated...
 ### Dynamic vs. deontic `can`

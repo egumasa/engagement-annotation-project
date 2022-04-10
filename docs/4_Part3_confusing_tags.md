@@ -10,8 +10,8 @@ nav_order: 4
 
 Entertain mainly concerns the writer's own views while attribute is a way to use external voice to present their views. 
 
-- I **believe (ENTERTAIN)** that the government should ...
-- Some group of people **believe (ATTRIBUTE)** that the government should ...
+- _I **believe (ENTERTAIN)**_ that the government should ...
+- _Some group of people **believe (ATTRIBUTE)**_ that the government should ...
 
 ### Pronounce or Entertain
 The main difference between pronounce and entertain is whether the utterance allows for dialogic alternatives. Entertain move allows for alternative interpretations or voices by expressing possibilities. Pronounce move, on the other hand, challenges and dismiss an alternative views (contraction). 
@@ -31,7 +31,7 @@ The main difference between endorse and attribute concerns the degree of authors
 ### Attribute or Monogloss
 In some cases, communication verb is used to talk about the action itself, not attributing the content of the locution. 
 
-- Then, she **spoke (MONOGLOSS)** to the public. (The focus is on the action of speaking, not the content.)
+- Then, she spoke (MONOGLOSS) to the public. (The focus is on the *action* of speaking, not the content.)
 - Some **say (ATTRIBUTE)** it's cool. (The focus is on the content [AND who says it].)
 
 
@@ -43,15 +43,15 @@ Rhetorical questions can have two functions, each corresponding either `Entertai
 
 
 Rhetorical questions categorized as `Entertain` include following examples:
-- So what brings happiness to our life? 
+- **So what brings happiness to our life? (ENTERTAIN)** (Tip: Tag the entire question.)
 
 Rhetorical questions categorized as `Concur` include following:
-- Should we go to war against these children?
+- **Should we go to war against these children? (CONCUR)** (Tip: Tag the entire question.)
 
 
 ## Multiple engagement resources in a T-unit
 Often times, we will find multiple engagement resources in a single unit (T-unit). 
-- **As the name implies (ATTRIBUTE)** **it seemed (ENTERTAIN)** as if eating children was one of the main focuses of anti-witch writings.
+- **As the name implies (ATTRIBUTE)** _it **seemed (ENTERTAIN)**_ as if eating children was one of the main focuses of anti-witch writings.
 - **Even (COUNTER)** **if repenting (ENTERTAIN)**, the person **could (ENTERTAIN)** still be deceived by the devil again, and **would (ENTERTAIN)** return as a threat.
 - Output in the English language class **may (ENTERTAIN)** **not (DENY)** always be a productive or necessary use of classroom time
 - **Though (COUNTER)** these ideas **may (ENTERTAIN)** **not (DENY)** be driving educational policy, they are inﬂuencing attitudes in ways that have the potential to affect outcomes.

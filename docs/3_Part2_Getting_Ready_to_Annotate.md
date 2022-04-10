@@ -15,16 +15,17 @@ nav_order: 3
 Because meanings of engagement can be expressed at different levels of lexical and grammatical items, we need to know exactly which part of the sentence we should put a tag on.
 This section deals with such structural issues during the annotation. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
 
+In the example in this document, the span for which the tag should be put is shown in **Bold** face.
 
-| Features                                                                                              | Example items              | Where to put a tag                                          |
-| ----------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------- |
-| [Modal verbs](#modal-verbs)                                                                           | can, have to               | on the item                                                 |
-| [Single-word adverbs](#single-word-adverbs)                                                           | obviously, sure            | on the item                                                 |
-| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency) | in my view                 | the entire phrase                                           |
-| [Mental or communication verbs](#mental-or-communication-verbs)                                       | think, say, tell           | on the item (= [`Root`](#identifying-root-of-the-sentence)) |
-| [Subordinate conjunctions](#subordinate-conjunctions-modified)                                        | as, when, if               | on the item                                                 |
-| [Multi-word subordinate conjunctions](#multi-word-subordinate-conjunctions-modified)                  | as long as, whether or not | on the multiword item                                       |
-| [Coordinating conjunctions](#coordinating-conjunctions)                                               | but, and, yet              | on the item                                                 |
+| Features                                                                                                                   | Example items              | Where to put a tag            |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------------- |
+| [Modal verbs](#modal-verbs)                                                                                                | can, have to               | on the item                   |
+| [Single-word adverbs](#single-word-adverbs)                                                                                | obviously, sure            | on the item                   |
+| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)                      | in my view                 | the entire phrase             |
+| [Mental or communication verbs](#mental-or-communication-verbs)                                                            | think, say, tell           | on the item                   |
+| [Subordinate conjunctions](#subordinate-clause-revised-on-april-9th)  **Updated on April 9th**                             | as, when, if               | the entire subordinate clause |
+| [Multi-word subordinate conjunctions](#multi-word-subordinate-conjunctions-revised-on-april-9th)  **Updated on April 9th** | as long as, whether or not | the entire subordinate clause |
+| [Coordinating conjunctions](#coordinating-conjunctions)                                                                    | but, and, yet              | on the item                   |
 
 
 ### Modal verbs
@@ -46,23 +47,18 @@ When an engagement meaning is realized by a multi-word adverbs, such as preposit
 When an engagement meaning is realized by a mental or communication verbs, you will put a tag on the lexical verb.
 - Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
 
-### Subordinate conjunctions (Modified!!!)
-When an engagement meaning is realized by a subordinate conjunctions such as *although*, *while*, and *if*, you will put a tag on the conjunction.
-- **Although** the religion motif was not commonly discussed among the discussants, the relevance of this theme to these various texts need to be brought to attention.
-- **Though** there were several ‘couples’, these were definitely not the norm.
-- The Bush administration, **as** we all know, has rejected the Kyoto agreement
+### Subordinate clause (Revised on April 9th)
+When an engagement meaning is realized by a subordinate conjunctions such as *although*, *while*, and *if*, you will put a tag on the entire subordinate clause.
+- **Although the religion motif was not commonly discussed among the discussants**, the relevance of this theme to these various texts need to be brought to attention.
+- **Though there were several ‘couples’**, these were definitely not the norm.
+- The Bush administration, **as we all know**, has rejected the Kyoto agreement
 
-### Multi-word subordinate conjunctions (Modified!!!)
+### Multi-word subordinate conjunctions (Revised on April 9th)
 When an engagement meaning is realized by a multi-word subordinate conjunctions such as *as long as* and *where or not*, you will put a tag on the multi-word sequence.
-- **As long as** the response addresses the question, it can be long.
+- **As long as the response addresses the question**, it can be long.
 
 ### Coordinating conjunctions
 When an engagement meaning is realized by a coordinating conjunctions such as *but* and *yet*, you will put a tag on that item.
 - **But** look at what he achieved.
 - Schools do not serve as avenues for upward mobility, **but** instead reinforce existing social and economic inequalities.
 
-
-## Determining T-unit
-
-
-Some sentences were taken from [a website](https://www.scarymommy.com/funny-phrases/)

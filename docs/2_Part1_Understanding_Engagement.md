@@ -74,6 +74,8 @@ The writers can `proclaim` their views by (a) assuming that the readers would ag
 | Auxiliary   | [Justify](#justify)                                               | An utterance which engage in persuasion through justification or substantiation.                                                                                                                                                     |
 | Auxiliary   | [Citations](#citations-updated-on-feb-25th) (Updated on Feb 25th) | Citation is segment of the text where external source(s) are referenced in the text.                                                                                                                                                 |
 
+Note that in the example on this page, **Bold** face is used to show the span on which the tag is put. *Italics* shows the context which helps to decide the category.
+
 We are going to look at the raw sentences and tag any of the following `engagement moves`. Using the previous example.
 - `In my view (ENTERTAIN)`, the banks have been greedy.
 - A book I read recently `said (ATTRIBUTE)` that the banks have been greedy.
@@ -117,12 +119,12 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 >An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.
 
 Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, *however*, which signals the meanings of `Counter` in an explicit manner. This signals `concession` and `counter expectations`.
-- _**Although** the religion motif was not commonly discussed among the discussants_, the relevance of this theme to these various texts need to be brought to attention.
-- _**Although** provisional_, our model has implications for pedagogy.
-- In comparison, 32% of the respondents felt that the conventional downtown was still a major attraction, _even **though** the regional centre had gained quite a vast amount of popularity and did to large extent have an air of modernity_.
-- _**While** the Supreme Court rejected the “quality of care” argument in the federation case_, the oligopolistic characteristics and purchasing structure of insurance make this outcome unsurprising.
-- _**While** that grief is deeply understood_, the problem with tragedies like this one is that they become a heyday for the overly-sincere, maudlin, righteousindignation crowd.
-- _Even **though** he had taken all his medication_, his leg did*n’t (DENY)* look any better.
+- **Although the religion motif was not commonly discussed among the discussants**, the relevance of this theme to these various texts need to be brought to attention.
+- **Although provisional**, our model has implications for pedagogy.
+- In comparison, 32% of the respondents felt that the conventional downtown was still a major attraction, **even though the regional centre had gained quite a vast amount of popularity and did to large extent have an air of modernity**.
+- **While the Supreme Court rejected the “quality of care” argument in the federation case**, the oligopolistic characteristics and purchasing structure of insurance make this outcome unsurprising.
+- **While that grief is deeply understood**, the problem with tragedies like this one is that they become a heyday for the overly-sincere, maudlin, righteousindignation crowd.
+- **Even though he had taken all his medication**, his leg did n’t look any better.
 - Every single law is addressed to the men, with the use of the pronoun “he” throughout the text, **even** when the laws are closely referring to female issues.
 
 `Disclaim: Counter` sometimes includes less obvious realizations. For example, adjuncts such as *even*, *only*, *just*, and *still* may "also have a counter-expectational aspect to their meanings" (Martin & White, p. 121).
@@ -130,7 +132,7 @@ Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, 
 - **Still**, they were able to win the game.
 
 `Disclaim: Counter` would also include some adverbs that encode meanings of counter-expectations.
-- ***Unexpectedly/Surprisingly/To my surprise***, there seems to have been little smuggling this year.
+- **Unexpectedly/Surprisingly/To my surprise**, there seems to have been little smuggling this year.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
@@ -143,15 +145,15 @@ There are two sub-types of `concur` which we do not differentiate in the current
 `Affirm` examples
 - The ability of a population to successfully reproduce is **obviously** a crucial aspect of a society’s survival.
 - Bailey, **of course**, was that rarity, a cricketer who at his best was worldclass with both bat and ball.
-- The Bush administration, **as** we all know, has rejected the Kyoto agreement
-- **As** we can see, the popularity of Woodlands new town between residents and non-residents is directly opposite to each other.
-- **Everyone knows that** linguistics is fun.
+- The Bush administration, **as we all know**, has rejected the Kyoto agreement
+- **As we can see**, the popularity of Woodlands new town between residents and non-residents is directly opposite to each other.
+- _Everyone **knows** that_ linguistics is fun.
 
 `Concede` examples
 - **Admittedly**, he was badly behaved.
 - **Indeed**, it is odd that both the FTC and courts have historically regarded huge, publicly traded insurance firms rather than health providers as the legal proxy of patients.
 - **Sure**, he broke rules.
-- If, **as** all the pundits are saying, there is no hope of normalcy returning soon
+- If, **as all the pundits are saying**, there is no hope of normalcy returning soon
 
 
 Some tricky example, but we all categorize them under `concur`:
@@ -172,8 +174,8 @@ In pronounce, the writer shows strong commitment that their idea is TRUE. Reader
 - _It is absolutely **clear** to me that_ what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
 - _I **contend**_ it's the worst address by a British Prime Minister.
 - _We have to **remember** that_ bobbies move around - and slowly.
-- One of the arrested people ***in fact*** was a Hindu, a chef from Hong Kong.
-- The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men ***turned out*** to be tourists
+- One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
+- The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
 - _I would **contend** that_ this enviable level of tolerance is not the result of direct government laws or interventions.
 - _The absolute **fact** is that_ linguistics is fun.
 
@@ -192,12 +194,12 @@ Typically, this is achieved by the use of verbal processes and their nominalized
 - _An interview by the Institute of Policy Studies (IPS) concerning national identity **revealed** that_ 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
 - More specifically, _five studies **demonstrate** that_ investment dependence – investment by foreign firms in a society’s domestic economy increases economic inequality.
 - For instance, _young learners were **found** to_ perform differently on both text comprehension (e.g., Langer, 1985) and production (e.g. Hidi & Hidyard, 1983).
-- _**As** discussants correctly pointed out_, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
+- **As discussants correctly pointed out**, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
 
 Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds extra meaning to `Endorse` the external sources:
-- ... convincingly argued ...
-- ... compellingly propounded ...
-- ... successfully explained ...
+- ... **convincingly argued** ...
+- ... **compellingly propounded** ...
+- ... **successfully explained** ...
 - As Hastie (an Englishman of their own political persuasion) so **compellingly argued**, ‘In any society racism will increase in direct proportion to the number of people who are given well-paid and prestigious positions to discover it.’
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
@@ -235,12 +237,12 @@ Typically, this move is achieved by "X [third person] said" or "According to X",
 - _Most linguists **believe** that_ linguistic structure is most productively studied in its own terms, with its communicative use(s) considered separately.
 - _Hovenkamp **argues** that_ a company could have one hundred percent market share both as a newspaper publisher and distributor, and still have no monopoly power.
 - _**According to the authors**_, he gave new witches everything they wished as long as they sold their soul to him.
-- _**As** the discussant post “Witchcraft and Sexual Deviance” mentioned_, the church and the public believed that if witches were willing to so publicly flout the word of the Lord, they must also disobey other societal conventions.
+- **As the discussant post “Witchcraft and Sexual Deviance” mentioned**, the church and the public believed that if witches were willing to so publicly flout the word of the Lord, they must also disobey other societal conventions.
 - _It is **said** that_ he lied about his age as he grew older …
 - _It is generally **understood** that_ science has developed a highly sophisticated way of representing ideas.
 - _**In Wong’s study**_, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
 - **Chomsky’s belief** that language is for individuals rather than groups .
-- The government’s serologist _**reportedly**_ lied about his qualifications.
+- The government’s serologist **reportedly** lied about his qualifications.
 - _Tickner has **claimed** that_ regardless of the result, the royal commission was a waste of money and he would proceed with a separate inquiry into the issue headed by Justice Jane Matthews.
 
 Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attributed.
@@ -249,9 +251,9 @@ Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attribu
 
 ### Justify
 >An utterance which engage in persuasion through justification or substantiation.
-- _**Because** the steps are made of a smooth, polished—and therefore slippery—stone_, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
-- Accessibility is quite a key factor _**because** it is evident that the regional centre was built on the basis of good infrastructure_.
-- _**Because** of the event happening next year_, the housing prices have gone up so rapidly around here.
+- **Because the steps are made of a smooth, polished—and therefore slippery—stone**, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
+- Accessibility is quite a key factor **because it is evident that the regional centre was built on the basis of good infrastructure**.
+- **Because of the event happening next year**, the housing prices have gone up so rapidly around here.
 
 
 
@@ -259,28 +261,28 @@ Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attribu
 
 ### Monogloss
 >An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.
+**As of April 9th, we will NOT use a Monogloss tag. A main clause without any engagement values are all considered monogloss.**
+Examine this fact in the following examples, where there should be no engagement-invoking lexico-grammatical items in each sentence.
 
-This is when no engagement resource can be found in the T-unit.
-- Teachers are **facing** the difficult task of providing an optimal learning environment to students from varying social, cultural, and linguistic backgrounds.
-- What is interesting in this example **is** how neither of the two views that are attributed to others is actually endorsed by the author, even though they are entertained and explicated.
-- The purpose of maintaining an expansive approach here **is** clear: the author **seeks** to present perspectives and research **conducted** thus far to lay the groundwork for what should be done.
-- Television has **helped** to shrink the relative distance between people and countries.
-- When the news came through that the National Air Traffic Services (Nats) was in financial trouble and was being offered a £60 million rescue package, the reaction of the first union official to pop up on the BBC’s radar screen **was** predictable.
-- The preposterous idea that privatisation puts profit before safety **was** a commonplace long before Nats was born.
-- In the past few years there have **been** a number of moral panics about racism, accompanied by self-serving calls from predictable quarters for more government action to deal with the problem.
+- Teachers are facing the difficult task of providing an optimal learning environment to students from varying social, cultural, and linguistic backgrounds.
+- What is interesting in this example is how neither of the two views that are attributed to others is actually endorsed by the author, even though they are entertained and explicated.
+- The purpose of maintaining an expansive approach here is clear: the author seeks to present perspectives and research conducted thus far to lay the groundwork for what should be done.
+- Television has helped to shrink the relative distance between people and countries.
+- When the news came through that the National Air Traffic Services (Nats) was in financial trouble and was being offered a £60 million rescue package, the reaction of the first union official to pop up on the BBC’s radar screen was predictable.
+- The preposterous idea that privatisation puts profit before safety was a commonplace long before Nats was born.
+- In the past few years there have been a number of moral panics about racism, accompanied by self-serving calls from predictable quarters for more government action to deal with the problem.
 
 An imperative clause is also classified as monogloss (Martin & White, 2005, p.111):
-- **Turn out (MONOGLOSSS)** the lights before you leave.
+- Turn out (MONOGLOSSS) the lights before you leave.
 
 Note that modal verbs to express obligations (should, must) are categorized as `Entertain`:
 - You **must (ENTERTAIN)** turn out the lights before you leave
 
 These example are said to include no recognition of alternative viewpoints. That is, the writers treat the idea as an *established fact* at least in the sentence (i.e., bare assertion). It is also possible to say that these `monoglossic` sentences do **NOT** have any engagement items. 
 To test if the sentence is monogloss, you can try adding any engagement items, for example:
-- **The author argued that (ATTRIBUTE)** television has helped to shrink the relative distance between people and countries.
-- Television **can be said (ATTRIBUTE)** to have helped to shrink the relative distance between people and countries.
-- **In some regions (ENTERTAIN)**, television has **helped** to shrink the relative distance between people and countries.
-
+- _The author **argued** that (ATTRIBUTE)_ television has helped to shrink the relative distance between people and countries.
+- _Television can be **said (ATTRIBUTE)**_ to have helped to shrink the relative distance between people and countries.
+- **In some regions (ENTERTAIN)**, television has helped to shrink the relative distance between people and countries.
 
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
