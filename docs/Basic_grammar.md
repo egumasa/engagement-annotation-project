@@ -26,7 +26,7 @@ First of all, it is always helpful to clarify important terminologies we will us
 
 
 
-## Coordinated clauses vs Subordinate clauses
+## Coordinated clauses vs Subordinate clauses vs Embedded clause
 
 ### Coordinated clauses
 Coordinated clauses are independent clauses that are connected with coordinating conjunction (e.g., `and`, `but`, `or`).
@@ -39,17 +39,18 @@ Coordinated clauses are independent clauses that are connected with coordinating
 ### Subordinate clauses
 A subordinate clause is a dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `although`, `if`, `when`, `as`, `while`, etc.)
 
-A subordinate clause can either follow or preceed the main clause. We will come back to this later, but when we put a tag on subordinate clause, it will fall onto the conjunction.
+A subordinate clause can either follow or preceed the main clause. ~~We will come back to this later, but when we put a tag on subordinate clause, it will fall onto the conjunction.~~
+As of April 9th, we decided to put a tag on the entire subordinate clause (**Bolded**).
 
 | Main clause                          | Subordinate clause                    |
 | :----------------------------------- | :------------------------------------ |
-| It was hard to write a book together | `because` they live so far apart.     |
-| Peggy frequently calls               | `because` she wants to stay in touch. |
+| It was hard to write a book together | **because they live so far apart**.     |
+| Peggy frequently calls               | **because she wants to stay in touch**. |
 
 | Subordinate clause                            | Main clause                            |
 | :-------------------------------------------- | :------------------------------------- |
-| `Although` Marianne and Diane live far apart, | they are still friends.                |
-| `As` far as I am concerned,                   | there is not much study on this topic. |
+| **Although Marianne and Diane live far apart**, | they are still friends.                |
+| **As far as I am concerned**,                   | there is not much study on this topic. |
 
 
 ### Embedded clauses
