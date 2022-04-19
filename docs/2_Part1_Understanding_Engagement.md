@@ -173,20 +173,31 @@ See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions)
 >An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation.
 
 In pronounce, the writer shows strong commitment that their idea is TRUE. Reader would consider that this is a very bold move.
-- _I therefore **propose** that_ universities have a greater role in working alongside the NCAA in negotiating its television.
-- I _**DID**_ turn out the lights before I left.
-- _But the **facts** of the matter are that_ we have never made the national decisions or marshaled the national resources required for such leadership.
-- _It is absolutely **clear** to me that_ what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
+Pronounce is where you 
 - _I **contend**_ it's the worst address by a British Prime Minister.
-- _We have to **remember** that_ bobbies move around - and slowly.
-- One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
-- The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
 - _I would **contend** that_ this enviable level of tolerance is not the result of direct government laws or interventions.
+- _It is absolutely **clear** to me that_ what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
+- _I therefore **propose** that_ universities have a greater role in working alongside the NCAA in negotiating its television.
+- One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
+- _We have to **remember** that_ bobbies move around - and slowly.
 - _The absolute **fact** is that_ linguistics is fun.
+- _But the **facts** of the matter are that_ we have never made the national decisions or marshaled the national resources required for such leadership.
+- The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
+
+- I _**DID**_ turn out the lights before I left.
 
 Pronounce is also realized by **intensifiers with clausal scope** such as `really`, `indeed`, etc.
 - I **really** think that it is true.
 - **Indeed**, a binary definition of the environment increases the strength of spatial relations and the measure of spatial autocorrelation. 
+
+**What's NOT pronounce?**
+
+Although the author may show "assessment of high probability" (e.g., He **must** be lying.; I'm **convinced** that he is lying), these are still expansive.
+So, these are still classified as ENTERTAIN. In other words, even if the percieved probability is high, they still present it as one of the potential alternative views (ENTERTAIN).
+Martin and White (2005) writes:
+
+>Accordingly, as assessments of probability, such modals are dialogically expansive – they still ‘entertain’ the possibility of dialogistical alternatives. Pronouncements, in contrast, do not ‘entertain’ alternative positions in this way but, as we have demonstrated, are directed towards challenging and dismissing an alternative viewpoint.
+
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
