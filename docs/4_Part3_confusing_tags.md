@@ -8,10 +8,16 @@ nav_order: 4
 
 ### Attribute or Entertain
 
-Entertain mainly concerns the writer's own views while attribute is a way to use external voice to present their views. 
+Entertain mainly concerns the writer's own views while attribute is a way to use external voice to present their views.
+To differentiate these two, one clear differences is the subject of the communication/mental verb. That is, `who` believes/thinks/argue etc.
+If the subject of that sentence is a third person (or external informational source), we consider it as an attribution to an external source.
+If the subject of the sentence is related to the author themselves (e.g., I, this paper, etc.), we consider it as an ENTERTAIN move.
 
 - _I **believe (ENTERTAIN)**_ that the government should ...
+- I **argue (ENTERTAIN)** that ....
 - _Some group of people **believe (ATTRIBUTE)**_ that the government should ...
+- Some findings **indicate (ATTRIBUTE)** that ...
+- A majority of people **answered (ATTRIBUTE)** that ....
 
 ### Pronounce or Entertain
 The main difference between pronounce and entertain is whether the utterance allows for dialogic alternatives. Entertain move allows for alternative interpretations or voices by expressing possibilities. Pronounce move, on the other hand, challenges and dismiss an alternative views (contraction). 
@@ -24,15 +30,22 @@ The main difference between endorse and attribute concerns the degree of authors
 - The result **demonstrated (ENDORSE)** that ...
 - The author **mentioned (ATTRIBUTE)** that ...
 
-### Modal verbs with permissions/obligations are considered as ENTERTAIN
+When the writer use communication verbs (argue, state, explain) with intensification to align with that view (e.g., rightly, effectively), then they are ENDORSE.
+- The author **convincingly argued (ENDORSE)** that ...
+- The paper **rightly pointed (ENDORSE)** out that ....
 
+### Modal verbs with permissions/obligations are considered as ENTERTAIN
 - You **must** switch off the lights when you leave.
+- 
 
 ### Attribute or Monogloss
-In some cases, communication verb is used to talk about the action itself, not attributing the content of the locution. 
+In some cases, communication verb is used to talk about the action itself, not attributing the content of the locution.
+Test this by substituting the communication/mental verb with `state/argue` or `think`. If you can find appropriate substitution with basic communication verbs that can function as ATTRIBUTE, then it is likely that the move is also ATTRIBUTE.
 
-- Then, she spoke (MONOGLOSS) to the public. (The focus is on the *action* of speaking, not the content.)
+- Then, she spoke (MONOGLOSS) to the public. (The focus is on the *action* of speaking, not the content.) 
 - Some **say (ATTRIBUTE)** it's cool. (The focus is on the content [AND who says it].)
+- They **observed** that the change in the emotion was temporary. (Substitution to `stated/argued` still makes sense, so it is likely to be an ATTRIBUTE.)
+- They observed a rare star. (Substitution to `stated/argued` gives you strange sentence, they are description of the action, not the content.)
 
 
 ### Rhetorical questions

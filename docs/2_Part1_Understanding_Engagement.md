@@ -155,11 +155,16 @@ There are two sub-types of `concur` which we do not differentiate in the current
 - **Sure**, he broke rules.
 - If, **as all the pundits are saying**, there is no hope of normalcy returning soon
 
-
 Some tricky example, but we all categorize them under `concur`:
 - **Certainly** he was badly behaved but look at what he has achieved.
 
 NOTE: **Certainly** illustrates there may be multiple functions that an item can accomplish depending on the context. Here, "Certainly ...., but" can be considered as `concur`, but certainly can be used as `Entertain` (see example).
+
+Rhetorical questions are sometimes categorized as `Concur`:
+- **Should we go to war against these children? (CONCUR)** (Tip: Tag the entire question.)
+
+See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions) for other possibilities.
+
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
@@ -207,7 +212,7 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 ### Entertain
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
 
-ENTERTAIN move signals author's own subjectivity to present the idea.
+ENTERTAIN move signals author's own subjectivity to present the idea. 
 - **In my view/from my perspective/in my opinion**, linguistics is fun.
 - _I **think/suppose/suspect**_ Mary teaches French
 - _I **believe**_ that he’s lying. 
@@ -223,6 +228,11 @@ ENTERTAIN move signals author's own subjectivity to present the idea.
 - _It’s **probable/likely/possible** that_ he's lying.
 - Of course, _there’s **precious little chance**_ of that happening in America any time soon.
 - He has **certainly** disgraced the Attorney General’s office in lending credence to the assertions of the Swift Boat veterans for Truth.
+
+Rhetorical questions are sometimes categorized as `Entertain` include following examples:
+- **So what brings happiness to our life? (ENTERTAIN)** (Tip: Tag the entire question.) 
+
+See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions) 
 
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
