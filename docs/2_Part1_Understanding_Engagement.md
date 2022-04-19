@@ -240,20 +240,25 @@ See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions)
 ### Attribute
 >An utterance which signifies dialogic space as the writer attributes the proposition to an external source.
 
-Typically, this move is achieved by "X [third person] said" or "According to X", which shows that the idea is borrowed from the external source.
+Typically, this move is achieved by "X [third person] says/reports/states/declares/announces" or "According to X", which shows that the idea is borrowed from the external source.
+Martin & White (2005) says: "Under the heading of ‘attribution’, we deal with those formulations which disassociate the proposition from the text’s internal authorial voice by attributing it so some external source."
 
+In many cases, `ATTRIBUTE` occurs where the author explicitly mention the source of information and ackowledge that the original idea is theirs.
 - _Mr. Mandela **said**_ the Group of Eight nations have a duty to help battle the scourge of AIDS.
 - _Dawkins **believes** that_ religion is not an adaptive evolutionary vestige, but in fact a cultural virus.
 - _Most linguists **believe** that_ linguistic structure is most productively studied in its own terms, with its communicative use(s) considered separately.
 - _Hovenkamp **argues** that_ a company could have one hundred percent market share both as a newspaper publisher and distributor, and still have no monopoly power.
 - _**According to the authors**_, he gave new witches everything they wished as long as they sold their soul to him.
 - **As the discussant post “Witchcraft and Sexual Deviance” mentioned**, the church and the public believed that if witches were willing to so publicly flout the word of the Lord, they must also disobey other societal conventions.
-- _It is **said** that_ he lied about his age as he grew older …
-- _It is generally **understood** that_ science has developed a highly sophisticated way of representing ideas.
+- _Tickner has **claimed** that_ regardless of the result, the royal commission was a waste of money and he would proceed with a separate inquiry into the issue headed by Justice Jane Matthews.
 - _**In Wong’s study**_, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
 - **Chomsky’s belief** that language is for individuals rather than groups .
+
+In some cases, the author can present the idea without specifying the sources (but still present it as something they hear about).
+- _It is **said** that_ he lied about his age as he grew older …
 - The government’s serologist **reportedly** lied about his qualifications.
-- _Tickner has **claimed** that_ regardless of the result, the royal commission was a waste of money and he would proceed with a separate inquiry into the issue headed by Justice Jane Matthews.
+- _It is generally **understood** that_ science has developed a highly sophisticated way of representing ideas.
+
 
 Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attributed.
 
@@ -302,6 +307,9 @@ To test if the sentence is monogloss, you can try adding any engagement items, f
 > Citation is segment of the text where external source(s) are referenced in the text. 
 
 There are several types of citation format to identify in the current corpus. 
+In the dataset to annotate, there will be cases where the citation is cut in the middle (e.g., `(Bell &amp;amp.`). 
+This is because the automatic system I used to segment the essay into sentences is not perfect. 
+In such cases, we will still tag the fragment of the citation as `CITATION`. (see more example of this kind)
 
 #### 1. Narrative citation—Author (DATE) pattern
 Narrative citation pattern is where author's name is explicitly referenced in the prose. 

@@ -42,6 +42,15 @@ This is a recurrent issue that should be addressed. Some examples to consider in
 - `The purpose of maintaining an expansive approach here **is** clear: the author **seeks** to present perspectives and research **conducted** thus far to lay the groundwork for what should be done.`
 
 
+## Problems in the sentence segmentation
+
+Sometimes, the annotation dataset may have weird lines. This may include completely empty lines, or just a word in line. It can also have cases where in-text citations are ill-formatted.
+Here are what I would like you to do:
+
+### In-text citations
+Consider the following fragmented citations as `CITATION`
+- The extremely high prevalence of child and adolescent exposure to violence in U.S. inner-cities <engmt class="monogloss">is</engmt> alarming **(Bell &amp;amp**.
+- 
 ## Is `otherwise` disclaim:counter...?
 - `Choosing appropriate types of part-time job <engmt class="monogloss">is</engmt> important too, otherwise students <engmt class="entertain">may</engmt> fall into traps setup by companies with problems.`
 
