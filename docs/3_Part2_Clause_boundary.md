@@ -7,8 +7,17 @@ nav_order: 4
 # Clause boundary detection
 Clause boundary detection is an auxiliary task, which aims to help you to think about the overall structure of the sentence before tagging any engagement values.
 
-The followings are how we will tag on different types of clauses.
-When we identify clauses, we do NOT consider punctuation at the end of the clause boundaries as a part of the clause. 
+The followings are how we will tag on different types of clauses:
+
+| Label                               | definition                                                                                                                                                                                                                                           |
+| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [MAIN](#simple-main-clauses)        | An independent clause, which function as complete unit.                                                                                                                                                                                              |
+| [SUBORDINATE](#subordinate-clauses) | A dependent clause attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `although`, `if`, `when`, `as`, `while`, etc.)                                                                                            |
+| [EMBEDDED](#embedded-clauses)       | a type of dependent clause that function as a part of another clause. That is, an embedded clause is included in a subject, object of another clause (i.e., complement clause) or function as an adjective to modify a noun (i.e., relative clause). |
+| FRAGMENT                            | An imcomplete sentential unit. Typically, without any verbs.                                                                                                                                                                                         |
+
+
+**NOTE**: When we identify clauses, we do NOT consider punctuation at the end of the clause boundaries as a part of the clause. 
 
 ## Simple MAIN clauses
 
@@ -18,7 +27,7 @@ Simple main clauses are defined as:
 In addition to "simple" sentence structure, we will include imperative sentences (commands) as a independent main clause.
 
 In webanno, you will annotate the clause in the following manner:
-![Figure_main](/docs/figures/simple_main_clauses1.png)
+![Figure_main](/figures/simple_main_clauses1.png)
 
 ## Coordinated clauses – More than one MAIN clauses
 
