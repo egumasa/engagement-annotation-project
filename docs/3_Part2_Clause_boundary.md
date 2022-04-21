@@ -18,7 +18,7 @@ Simple main clauses are defined as:
 In addition to "simple" sentence structure, we will include imperative sentences (commands) as a independent main clause.
 
 In webanno, you will annotate the clause in the following manner:
-![Figure_main](/figures/simple_main_clauses1.png)
+![Figure_main](/docs/figures/simple_main_clauses1.png)
 
 ## Coordinated clauses – More than one MAIN clauses
 
