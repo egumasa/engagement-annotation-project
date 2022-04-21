@@ -19,12 +19,13 @@ In addition to "simple" sentence structure, we will include imperative sentences
 In webanno, you will annotate the clause in the following manner:
 ![Figure –main clauses](/docs/figures/simple_main_clauses1.png)
 
-
 ## Coordinated clauses – More than one MAIN clauses
+
 Coordinated clauses are defined as:
 > A complex clause where two or more MAIN clauses are combined via coordinated conjunctions (e.g., and, but, or).
 
 You can also consider colon `:` and semi-colon `:` as an implicit coordination of two MAIN clauses.
+
 - [I went to the store]; [they were closed].
 - [I went to the store], [but they were closed].
 
@@ -33,6 +34,7 @@ In webanno, you will annotate the clause in the following manner:
 
 
 ## SUBORDINATE clauses
+
 Subordinate clauses are defined as:
 > a dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `although`, `if`, `when`, `as`, `while`, etc.)
 
@@ -42,6 +44,7 @@ In webanno, you will annotate these in the following manner:
 
 
 ## Embedded clauses
+
 Emdedded clauses are defined as:
 > a type of dependent clause that function as a part of another clause. That is, an embedded clause is included in a subject, object of another clause (i.e., complement clause) or function as an adjective to modify a noun (i.e., relative clause).
 
@@ -58,6 +61,7 @@ This is illustrated in the following examples.
 ![Figure–real-examples](/docs/figures/Real_examples1.png)
 
 ### Notes on the real examples
+
 20. The subject of this sentence is `The idea`, and the main verb is `is`. There are two embedded clauses. One is a complement of the noun `idea`, which elaborates on the content of that idea (i.e., complement clause). The other is `I think`, which function as attached (i.e., parataxic) node to the main clause. 
 21. We have one additional subordinate clause and an additional embedded clause in this example. The embedded clause is the content of the main verb (i.e., the content of what the citizens believe). Grammatically, this is called a complement clause of the main verb. The embedded clause has two parts, Embedded-main, which we do not tag, and Embedded-subordinate, which we will treat as a subordinate clause.
 22. This example has one additional embedded clause functioning as the complement of the verb `feel`.
