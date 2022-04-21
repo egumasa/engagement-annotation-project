@@ -102,6 +102,8 @@ When there is `It is ADJ that ~` construction, we will tag the entire span of th
 
 For citations, we will tag the entire span of the citation.
 Sometimes, due to the sentence segmentation issue, the dataset will include citations cut in the middle (see the last example in the screenshot).
+- The extremely high prevalence of child and adolescent exposure to violence in U.S. inner-cities <engmt class="monogloss">is</engmt> alarming **(Bell &amp;amp**.
+
 
 ![Citation](figures/spans/citation.png)
 

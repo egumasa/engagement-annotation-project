@@ -4,9 +4,9 @@ title: Part4—Confusing categories
 nav_order: 6
 ---
 
-## Some confusing cases (Under construction)
+# Some confusing cases (Under construction)
 
-### Attribute or Entertain
+## Attribute or Entertain
 
 Entertain mainly concerns the writer's own views while attribute is a way to use external voice to present their views.
 To differentiate these two, one clear differences is the subject of the communication/mental verb. That is, `who` believes/thinks/argue etc.
@@ -19,13 +19,13 @@ If the subject of the sentence is related to the author themselves (e.g., I, thi
 - Some findings **indicate (ATTRIBUTE)** that ...
 - A majority of people **answered (ATTRIBUTE)** that ....
 
-### Pronounce or Entertain
+## Pronounce or Entertain
 The main difference between pronounce and entertain is whether the utterance allows for dialogic alternatives. Entertain move allows for alternative interpretations or voices by expressing possibilities. Pronounce move, on the other hand, challenges and dismiss an alternative views (contraction). 
 - I am **convinced (ENTERTAIN)** that ... :
 - I **contend (PRONOUNCE)** that ...
 
 
-### Endorse or Attribute
+## Endorse or Attribute
 The main difference between endorse and attribute concerns the degree of authors approval of the content of the external sources. In ENDORSE, the author refers to the external source and show their alignment to the idea in order to advance their argument and contract the dialogic space. On the other hand, the main rhetorical effect of ATTRIBUTE is more neutral; the author simply make reference to an external sources. 
 - The result **demonstrated (ENDORSE)** that ...
 - The author **mentioned (ATTRIBUTE)** that ...
@@ -34,11 +34,11 @@ When the writer use communication verbs (argue, state, explain) with intensifica
 - The author **convincingly argued (ENDORSE)** that ...
 - The paper **rightly pointed (ENDORSE)** out that ....
 
-### Modal verbs with permissions/obligations are considered as ENTERTAIN
+## Modal verbs with permissions/obligations are considered as ENTERTAIN
 - You **must** switch off the lights when you leave.
-- 
 
-### Attribute or Monogloss
+
+## Attribute or Monogloss
 In some cases, communication verb is used to talk about the action itself, not attributing the content of the locution.
 Test this by substituting the communication/mental verb with `state/argue` or `think`. If you can find appropriate substitution with basic communication verbs that can function as ATTRIBUTE, then it is likely that the move is also ATTRIBUTE.
 
@@ -47,8 +47,17 @@ Test this by substituting the communication/mental verb with `state/argue` or `t
 - They **observed** that the change in the emotion was temporary. (Substitution to `stated/argued` still makes sense, so it is likely to be an ATTRIBUTE.)
 - They observed a rare star. (Substitution to `stated/argued` gives you strange sentence, they are description of the action, not the content.)
 
+## Endorse or Monogloss
+Similarly to [Attribute or Monogloss](#attribute-or-monogloss), the distinction between Endorse and Monogloss can be tricky.
 
-### Rhetorical questions
+Consider the following two example where the communication verb SHOW has distinct functions.
+- The transitions from winter to summer also **show** an increase in feeding of fruits, flowers, bark, and seeds.
+- The evidence **shows** that the increase in proficiency level takes much time.
+
+In the first example, the verb `show` is used more descriptively, the author is talking about visual scene or imagery.
+In the second one, the verb is used to endorse the evidence "demonstrating" slow development in proficiency level.
+
+## Rhetorical questions
 Rhetorical questions can have two functions, each corresponding either `Entertain` or `Concur`.
 
 1. A rhetorical question functions as `Entertain` when it introduces "a proposition in such a way that it is presented as but one of a number of possible positions" (White, 2003, p. 267).
@@ -69,8 +78,6 @@ Often times, we will find multiple engagement resources in a single unit (T-unit
 - Output in the English language class **may (ENTERTAIN)** **not (DENY)** always be a productive or necessary use of classroom time
 - **Though (COUNTER)** these ideas **may (ENTERTAIN)** **not (DENY)** be driving educational policy, they are inﬂuencing attitudes in ways that have the potential to affect outcomes.
 
-
-## Some typical engagement patterns (Under construction)
 
 ### Entertain + Deny ( + maximizer)
 `Maximizer` includes adverbs such as *always*, *severely*, etc.

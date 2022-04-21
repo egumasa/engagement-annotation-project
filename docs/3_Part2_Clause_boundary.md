@@ -83,3 +83,16 @@ This is illustrated in the following examples.
 24: This example has two main clauses, and there is one subordinate clause, which I consider attached to the first main clause. We have two main clauses because both parts has finite verbs "the player **is** ..." and "they must **pay** ...". The semi-colon works as implicit coordination between the clauses. Finally, the subordinate clause is introduced by a subordinate conjunction `once`, which add extra Temporal information to the main clause (c.f., `before/after/since Y do X`).
 
 25: This has two main clauses, coordinated implicitly by a colon `:`. The first MAIN clause has additional embedded clause, which is the complement of the verb `argue`.  
+
+
+
+## Problems in the sentence segmentation
+
+Sometimes, the annotation dataset may have weird lines. This may include completely empty lines, or just a word in line. It can also have cases where in-text citations are ill-formatted.
+
+1. IF the dataset has empty lines, skip annotating that line.
+2. If the sentence is imcomplete, use the `FRAGMENT` tag.
+  - In 1999, (FRAGMENT)
+  - are examples of this concept (FRAGMENT)
+
+
