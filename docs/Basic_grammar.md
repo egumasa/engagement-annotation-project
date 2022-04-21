@@ -15,14 +15,16 @@ nav_order: 2
 ## Grammatical terminology
 First of all, it is always helpful to clarify important terminologies we will use during the annotation project. When I use the following terms, I use in the following meaning and examples in mind.
 
-| Terminology               | Definition/Description                                              | Example                                                                           |
-| ------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| phrase/constituents       | A group of words which function together (creates meaning).         | The impatient customer (NP)/was acting (VP) /very cranky (ADV) /at the time (PP). |
-| clause                    | Linguistic unit containing a verb (and typically a subject).        | I went to the park yesterday. / Be mindful.                                       |
-| independent (main) clause | A clause that can stand alone to make a complete sentence           | (The two example above are independent clause and sentence themselves.)           |
-| dependent clause          | A clause that are attached to (dependent on) an independent clause. | If you are free (dep. cl), just come to the party (ind. cl).                      |
-| ROOT                      | The highest node in the syntactic tree of a sentence.               |                                                                                   |
-| head                      | The highest node in the given a phrase/constituent/clause           |                                                                                   |
+| Terminology               | Definition/Description                                                                                                                                | Example                                                                           |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| phrase/constituents       | A group of words which function together (creates meaning).                                                                                           | The impatient customer (NP)/was acting (VP) /very cranky (ADV) /at the time (PP). |
+| clause                    | Linguistic unit containing a verb (and typically a subject).                                                                                          | I went to the park yesterday. / Be mindful.                                       |
+| independent (main) clause | A clause that can stand alone to make a complete sentence                                                                                             | (The two example above are independent clause and sentence themselves.)           |
+| dependent clause          | A clause that are attached to (dependent on) an independent clause.                                                                                   | If you are free (dep. cl), just come to the party (ind. cl).                      |
+| subordinate clause        | A dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., because, although, if, when, as, while, etc.) |                                                                                   |
+| embedded clause           | An embedded clause is a type of dependent clause that function as a part of another clause.                                                           |                                                                                   |
+| ROOT                      | The highest node in the syntactic tree of a sentence.                                                                                                 |                                                                                   |
+| head                      | The highest node in the given a phrase/constituent/clause                                                                                             |                                                                                   |
 
 
 
@@ -42,13 +44,13 @@ A subordinate clause is a dependent clause that is attached to a main clause thr
 A subordinate clause can either follow or preceed the main clause. ~~We will come back to this later, but when we put a tag on subordinate clause, it will fall onto the conjunction.~~
 As of April 9th, we decided to put a tag on the entire subordinate clause (**Bolded**).
 
-| Main clause                          | Subordinate clause                    |
-| :----------------------------------- | :------------------------------------ |
+| Main clause                          | Subordinate clause                      |
+| :----------------------------------- | :-------------------------------------- |
 | It was hard to write a book together | **because they live so far apart**.     |
 | Peggy frequently calls               | **because she wants to stay in touch**. |
 
-| Subordinate clause                            | Main clause                            |
-| :-------------------------------------------- | :------------------------------------- |
+| Subordinate clause                              | Main clause                            |
+| :---------------------------------------------- | :------------------------------------- |
 | **Although Marianne and Diane live far apart**, | they are still friends.                |
 | **As far as I am concerned**,                   | there is not much study on this topic. |
 
