@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Part3—Some confusing categories
-nav_order: 5
+nav_order: 6
 ---
 
 ## Some confusing cases (Under construction)

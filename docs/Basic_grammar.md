@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preliminaries— Grammar stuff
+title: Preliminaries— Grammatical Terminologies
 nav_order: 2
 ---
 
@@ -22,7 +22,7 @@ First of all, it is always helpful to clarify important terminologies we will us
 | independent (main) clause | A clause that can stand alone to make a complete sentence                                                                                             | (The two example above are independent clause and sentence themselves.)           |
 | dependent clause          | A clause that are attached to (dependent on) an independent clause.                                                                                   | If you are free (dep. cl), just come to the party (ind. cl).                      |
 | subordinate clause        | A dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., because, although, if, when, as, while, etc.) |                                                                                   |
-| embedded clause           | An embedded clause is a type of dependent clause that function as a part of another clause.                                                           |                                                                                   |
+| embedded clause           | A type of dependent clause that function as a part of another clause.                                                                                 |                                                                                   |
 | ROOT                      | The highest node in the syntactic tree of a sentence.                                                                                                 |                                                                                   |
 | head                      | The highest node in the given a phrase/constituent/clause                                                                                             |                                                                                   |
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Part2—Grammatical details
-nav_order: 3
+nav_order: 5
 ---
 # Part II — Getting ready to annotate
 {: .no_toc }

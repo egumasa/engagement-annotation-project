@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modal sense disambiguation
-nav_order: 5
+nav_order: 7
 ---
 # Under-construction
 
@@ -9,11 +9,11 @@ In order to better classify modal verbs into different engagement categories (`E
 
 There are three types in modal sense classification.
 
-| Class     | General Meaning                 | Engagement tag |
-| :-------- | :------------------------------ | :------------- |
-| Epistemic | probability, possibility        | ENTERTAIN      |
-| Deontic   | request, permission, obligation | ENTERTAIN      |
-| Dynamic   | ability, willingness, circumatance  |                |
+| Class     | General Meaning                    | Engagement tag |
+| :-------- | :--------------------------------- | :------------- |
+| Epistemic | probability, possibility           | ENTERTAIN      |
+| Deontic   | request, permission, obligation    | ENTERTAIN      |
+| Dynamic   | ability, willingness, circumatance |                |
 
 More examples are added below later.
 ## Epistemic modal — Modal of probability and possibility
