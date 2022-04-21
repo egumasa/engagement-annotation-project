@@ -70,7 +70,7 @@ This is illustrated in the following examples.
 
 ![Figure_real_examples](/figures/Real_examples1.png)
 
-### Notes on the real examples
+### Comments on the real examples
 
 20: The subject of this sentence is `The idea`, and the main verb is `is`. There are two embedded clauses. One is a complement of the noun `idea`, which elaborates on the content of that idea (i.e., complement clause). The other is `I think`, which function as attached (i.e., parataxic) node to the main clause. 
 
