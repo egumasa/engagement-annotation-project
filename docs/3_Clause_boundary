@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clause boundary detection
+title: Part2–Clause boundary detection
 nav_order: 4
 ---
 
@@ -18,7 +18,7 @@ Simple main clauses are defined as:
 In addition to "simple" sentence structure, we will include imperative sentences (commands) as a independent main clause.
 
 In webanno, you will annotate the clause in the following manner:
-![Figure –main clauses](/figures/simple_main_clauses1.png)
+![Figure–main_clauses](/figures/simple_main_clauses1.png)
 
 ## Coordinated clauses – More than one MAIN clauses
 

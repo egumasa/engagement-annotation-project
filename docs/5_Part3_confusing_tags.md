@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part3—Some confusing categories
+title: Part4—Confusing categories
 nav_order: 6
 ---
 
