@@ -21,6 +21,7 @@ There are three types in modal sense classification.
 
 More examples are added below later.
 ## Epistemic modal — Modal of probability and possibility
+
 `Epistemic` modal can be identified "using a paraphrase such as: “someone is likely/ unlikely to do something”, or “something is likely/possible/(im)probable to happen/to be the case”" (p. 10).
 Sometimes this category also indicates `assumption` or `deduction` by the speaker.
 
@@ -35,9 +36,13 @@ Sometimes this category also indicates `assumption` or `deduction` by the speake
 - It **can** rain very hard in winter.
 
 ## Deontic modal — Modal of request, permission and obligation
+
 Deontic modality has two sub-classes: request and permission. "Deontic modality is directive in that the event is controlled by circumstances external to the subject of the sentence (more strictly the person or persons identified by the subject)." (Palmer, 2003, p.7).
+
 `Request` can be identified "using as paraphrase: “need to do something” or “it is required to do something”" (p. 10).
+
 `Permission` can be identified "using as paraphrase: “allow/don’t allow somebody to do something”"
+
 According to Martin & White (2005), deontic modal is categorized as `Entertain`.
 - We **must** have clear European standards.	(obligation)
 - You **may** enter this building.	(permission)
@@ -45,11 +50,14 @@ According to Martin & White (2005), deontic modal is categorized as `Entertain`.
 - John **may/can** come in now. (permission)
 - John **must** come in now.	(obligation)
 - You **can** smoke in here. (permission)
+- You **needn't/ don't have to** come in.
+- You **need to** do the following before the exam.
 
 ## Dynamic modal – Modal of capability, ability, and willingness
+
 `Dynamic` modal can be identified "using the paraphrase “be (un)able to do something”" (p. 10).
 They typically relates to the `capacity` of the subject-participant of the clause.
-The control of the event is internal to the subject, capacity and willingness is internal to the subject.
+The control of the event is internal to the subject; that is, capacity and willingness is internal to the subject.
 
 - They **ca**n’t even read them.	(ability)
 - That kid **can** sing like Frank Sinatra.	(ability)
