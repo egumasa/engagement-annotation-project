@@ -19,11 +19,11 @@ Following Halliday & Mathiessen (2014, p. 145), the following items are consider
 
 There are three types in modal sense classification.
 
-| Class     | General Meaning                                 | Engagement tag                         |
-| :-------- | :---------------------------------------------- | :------------------------------------- |
-| Epistemic | probability, possibility, speaker's jusdgements | ENTERTAIN                              |
-| Deontic   | request, permission, obligation                 | ENTERTAIN                              |
-| Dynamic   | ability, willingness,                           | Not Clear => We will collect instances |
+| Class     | General Meaning                                 | Engagement tag                        |
+| :-------- | :---------------------------------------------- | :------------------------------------ |
+| Epistemic | probability, possibility, speaker's jusdgements | ENTERTAIN                             |
+| Deontic   | request, permission, obligation                 | ENTERTAIN                             |
+| Dynamic   | ability, willingness,                           | Leave untagged for Engagement for now |
 
 The annotation will happen in two-step manner. 
 
