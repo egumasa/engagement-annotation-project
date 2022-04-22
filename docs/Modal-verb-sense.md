@@ -22,7 +22,7 @@ There are three types in modal sense classification.
 More examples are added below later.
 ## Epistemic modal — Modal of probability and possibility
 `Epistemic` modal can be identified "using a paraphrase such as: “someone is likely/ unlikely to do something”, or “something is likely/possible/(im)probable to happen/to be the case”" (p. 10).
-Sometimes these categories also indicates `assumption` or `deduction` by the speaker.
+Sometimes this category also indicates `assumption` or `deduction` by the speaker.
 
 - Geez, Buddha **must** be so annoyed!
 - He **may** be home by now.
