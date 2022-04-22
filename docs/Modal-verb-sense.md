@@ -8,13 +8,15 @@ nav_order: 7
 Modal verbs in English are tricky because the form and function do not have one-to-one correspondence. 
 In Engagement annotation, we will annotate the semantic/functional categories of the modal verbs before assigning them into Engagement class.
 
-## Modal verbs to consider
+## List of modal verbs
+
 In order to better classify modal verbs into different engagement categories (`Entertain` or not), we will classify the senses of modal verb.
 Following Halliday & Mathiessen (2014, p. 145), the following items are considered as modal verbs (Modal operators) in this project:
 - can, may, could, might, (dare), will, would, should, is to, was to, must, ought to, need to, have/has/had to
 - needn't, don't need to, don't have to, won't, wouldn't, shouldn't, (isn't/wasn't), mustn't, oughtn't to, can't, couldn't, (mayn't, mightn't, haven't to).
 
 ## Semantic classes and how to deal with them
+
 There are three types in modal sense classification.
 
 | Class     | General Meaning                                 | Engagement tag                         |
@@ -24,7 +26,9 @@ There are three types in modal sense classification.
 | Dynamic   | ability, willingness,                           | Not Clear => We will collect instances |
 
 The annotation will happen in two-step manner. 
+
 1) For each occurrence of modal verbs, assign modal sense classes from `Epistemic`, `Deontic`, `Dynamic:Capacity`, or `Dynamic:Willingness`.
+
 2) `Epistemic` and `Deontic` modal verbs are then categorized as `ENTERTAIN` for the Engagement layer. The rest of the modal verbs will be left untagged at the Engagement layer.
 
 ## Epistemic modal — Modal of probability and possibility
