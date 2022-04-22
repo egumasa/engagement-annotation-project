@@ -5,8 +5,8 @@ nav_order: 7
 ---
 # Modal sense disambiguation
 
-Modal verbs in English is tricky because the form and function does not have one-to-one correspondence. 
-In Engagement annotation, we will consider the semantic/functional aspect of the modal verbs before assigning them into Engagement class.
+Modal verbs in English are tricky because the form and function do not have one-to-one correspondence. 
+In Engagement annotation, we will annotate the semantic/functional categories of the modal verbs before assigning them into Engagement class.
 
 ## Modal verbs to consider
 In order to better classify modal verbs into different engagement categories (`Entertain` or not), we will classify the senses of modal verb.
