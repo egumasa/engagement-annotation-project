@@ -3,23 +3,30 @@ layout: default
 title: Modal sense disambiguation
 nav_order: 7
 ---
-# Under-construction
+# Modal sense disambiguation
 
+Modal verbs in English is tricky because the form and function does not have one-to-one correspondence. 
+In Engagement annotation, we will consider the semantic/functional aspect of the modal verbs before assigning them into Engagement class.
+
+## Modal verbs to consider
 In order to better classify modal verbs into different engagement categories (`Entertain` or not), we will classify the senses of modal verb.
-In this project, the following items are considered as modal verbs (Modal operators) following Halliday & Mathiessen (2014, p. 145):
+Following Halliday & Mathiessen (2014, p. 145), the following items are considered as modal verbs (Modal operators) in this project:
 - can, may, could, might, (dare), will, would, should, is to, was to, must, ought to, need to, have/has/had to
 - needn't, don't need to, don't have to, won't, wouldn't, shouldn't, (isn't/wasn't), mustn't, oughtn't to, can't, couldn't, (mayn't, mightn't, haven't to).
 
-
+## Semantic classes and how to deal with them
 There are three types in modal sense classification.
 
-| Class     | General Meaning                                 | Engagement tag |
-| :-------- | :---------------------------------------------- | :------------- |
-| Epistemic | probability, possibility, speaker's jusdgements | ENTERTAIN      |
-| Deontic   | request, permission, obligation                 | ENTERTAIN      |
-| Dynamic   | ability, willingness,                           | No ENGAGEMENT  |
+| Class     | General Meaning                                 | Engagement tag                         |
+| :-------- | :---------------------------------------------- | :------------------------------------- |
+| Epistemic | probability, possibility, speaker's jusdgements | ENTERTAIN                              |
+| Deontic   | request, permission, obligation                 | ENTERTAIN                              |
+| Dynamic   | ability, willingness,                           | Not Clear => We will collect instances |
 
-More examples are added below later.
+The annotation will happen in two-step manner. 
+1) For each occurrence of modal verbs, assign modal sense classes from `Epistemic`, `Deontic`, `Dynamic:Capacity`, or `Dynamic:Willingness`.
+2) `Epistemic` and `Deontic` modal verbs are then categorized as `ENTERTAIN` for the Engagement layer. The rest of the modal verbs will be left untagged at the Engagement layer.
+
 ## Epistemic modal — Modal of probability and possibility
 
 `Epistemic` modal can be identified "using a paraphrase such as: “someone is likely/ unlikely to do something”, or “something is likely/possible/(im)probable to happen/to be the case”" (p. 10).
