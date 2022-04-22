@@ -6,27 +6,36 @@ nav_order: 7
 # Under-construction
 
 In order to better classify modal verbs into different engagement categories (`Entertain` or not), we will classify the senses of modal verb.
+In this project, the following items are considered as modal verbs (Modal operators) following Halliday & Mathiessen (2014, p. 145):
+- can, may, could, might, (dare), will, would, should, is to, was to, must, ought to, need to, have/has/had to
+- needn't, don't need to, don't have to, won't, wouldn't, shouldn't, (isn't/wasn't), mustn't, oughtn't to, can't, couldn't, (mayn't, mightn't, haven't to).
+
 
 There are three types in modal sense classification.
 
-| Class     | General Meaning                    | Engagement tag |
-| :-------- | :--------------------------------- | :------------- |
-| Epistemic | probability, possibility           | ENTERTAIN      |
-| Deontic   | request, permission, obligation    | ENTERTAIN      |
-| Dynamic   | ability, willingness, circumatance |                |
+| Class     | General Meaning                                 | Engagement tag |
+| :-------- | :---------------------------------------------- | :------------- |
+| Epistemic | probability, possibility, speaker's jusdgements | ENTERTAIN      |
+| Deontic   | request, permission, obligation                 | ENTERTAIN      |
+| Dynamic   | ability, willingness,                           | No ENGAGEMENT  |
 
 More examples are added below later.
 ## Epistemic modal — Modal of probability and possibility
 `Epistemic` modal can be identified "using a paraphrase such as: “someone is likely/ unlikely to do something”, or “something is likely/possible/(im)probable to happen/to be the case”" (p. 10).
+Sometimes these categories also indicates `assumption` or `deduction` by the speaker.
+
 - Geez, Buddha **must** be so annoyed!
 - He **may** be home by now.
 - Someone is knocking at the door. That **will** be John.
 - This manuscript is damned hard to read. **Maybe** some more light can help.
-- John **may/must** have been in his office.
+- John **may/must** have been in his office. 
 - Mary **ought to / should / could** be at school by now. 
 - He **can't** be in his office now. (Palmer, 2001, p. 15)
+- They **'ll** be in the office. (They always are at this time)
+- It **can** rain very hard in winter.
+
 ## Deontic modal — Modal of request, permission and obligation
-Deontic modality has two sub-classes: request and permission.
+Deontic modality has two sub-classes: request and permission. "Deontic modality is directive in that the event is controlled by circumstances external to the subject of the sentence (more strictly the person or persons identified by the subject)." (Palmer, 2003, p.7).
 `Request` can be identified "using as paraphrase: “need to do something” or “it is required to do something”" (p. 10).
 `Permission` can be identified "using as paraphrase: “allow/don’t allow somebody to do something”"
 According to Martin & White (2005), deontic modal is categorized as `Entertain`.
@@ -40,11 +49,13 @@ According to Martin & White (2005), deontic modal is categorized as `Entertain`.
 ## Dynamic modal – Modal of capability, ability, and willingness
 `Dynamic` modal can be identified "using the paraphrase “be (un)able to do something”" (p. 10).
 They typically relates to the `capacity` of the subject-participant of the clause.
+The control of the event is internal to the subject, capacity and willingness is internal to the subject.
 
 - They **ca**n’t even read them.	(ability)
 - That kid **can** sing like Frank Sinatra.	(ability)
 - She **can** run a mile in four minutes. (ability)
-- John **will** do it for you.	(willingness)
+- I **will** do it for you.	(willingness)
+  
 ## Confusing cases 
 To be updated...
 ### Dynamic vs. deontic `can`
@@ -55,3 +66,5 @@ To be updated...
 
 ### Epistemic vs deontic `should` –This is less important because they will be ENTERTAIN anyway.
 - He should be aware of the issue.
+
+
