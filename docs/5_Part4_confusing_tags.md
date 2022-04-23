@@ -4,7 +4,7 @@ title: Part4—Confusing categories
 nav_order: 6
 ---
 
-# Some confusing cases (Under construction)
+# Some confusing cases
 
 {: .no_toc }
 ## Table of Contents
@@ -29,6 +29,9 @@ If the subject of the sentence is related to the author themselves (e.g., I, thi
 - Some findings **indicate (ATTRIBUTE)** that ...
 - A majority of people **answered (ATTRIBUTE)** that ....
 
+See this contrast in the taxonomy.
+![attribute-entertain](figures/entertain_attribute.png)
+
 # Contraction vs. Expansion
 
 ## Endorse (Contraction) or Attribute (Expansion)
@@ -43,6 +46,9 @@ When the writer use communication verbs (argue, state, explain) with intensifica
 - The author **convincingly argued (ENDORSE)** that ...
 - The paper **rightly pointed (ENDORSE)** out that ....
 
+See this contrast in the taxonomy:
+![endorse-attribute](figures/endorse_attribute.png)
+
 ## Pronounce (Contraction) or Entertain (Expansion)
 
 While the two categories shares the idea of "author's subjective viewpoints", the main difference is the degree of writers commitment to their own views. 
@@ -51,6 +57,9 @@ While the two categories shares the idea of "author's subjective viewpoints", th
 
 - _I would **affirm (PRONOUNCE)**_ the judgment of the trail court and deny the motion to suppress Oliver’s statement.
 - _I would **guess (ENTERTAIN)**_ the judgment of the trail court and deny the motion to suppress Oliver’s statement.
+
+See this contrast in the taxonomy:
+![pronounce_entertain](figures/pronounce_entertain.png)
 
 # Confusing Monoglossic patterns
 
@@ -62,6 +71,7 @@ Test this by substituting the communication/mental verb with `state/argue` or `t
 - Some **say (ATTRIBUTE)** it's cool. (The focus is on the content [AND who says it].)
 - They **observed** that the change in the emotion was temporary. (Substitution to `stated/argued` still makes sense, so it is likely to be an ATTRIBUTE.)
 - They observed a rare star. (Substitution to `stated/argued` gives you strange sentence, they are description of the action, not the content.)
+
 
 ## Endorse or Monogloss
 Similarly to [Attribute or Monogloss](#attribute-or-monogloss), the distinction between Endorse and Monogloss can be tricky.
