@@ -124,11 +124,13 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, *however*, which signals the meanings of `Counter` in an explicit manner. This signals `concession` and `counter expectations`.
 - **Although the religion motif was not commonly discussed among the discussants**, the relevance of this theme to these various texts need to be brought to attention.
 - **Although provisional**, our model has implications for pedagogy.
+- **Despite the fact that both parties were manorial peasants** , they must have found it very difficult to understand each other 's lifestyles .
 - In comparison, 32% of the respondents felt that the conventional downtown was still a major attraction, **even though the regional centre had gained quite a vast amount of popularity and did to large extent have an air of modernity**.
 - **While the Supreme Court rejected the “quality of care” argument in the federation case**, the oligopolistic characteristics and purchasing structure of insurance make this outcome unsurprising.
 - **While that grief is deeply understood**, the problem with tragedies like this one is that they become a heyday for the overly-sincere, maudlin, righteousindignation crowd.
 - **Even though he had taken all his medication**, his leg did n’t look any better.
 - Every single law is addressed to the men, with the use of the pronoun “he” throughout the text, **even** when the laws are closely referring to female issues.
+- The author **should have** considered all the potnetial interpretations before making a strong claim. 
 
 `Disclaim: Counter` sometimes includes less obvious realizations. For example, adjuncts such as *even*, *only*, *just*, and *still* may "also have a counter-expectational aspect to their meanings" (Martin & White, p. 121).
 - They **even** organised a car for you at the airport.
@@ -179,19 +181,24 @@ In pronounce, the writer shows strong commitment that their idea is TRUE. Reader
 Pronounce is where you 
 - _I **contend**_ it's the worst address by a British Prime Minister.
 - _I would **contend** that_ this enviable level of tolerance is not the result of direct government laws or interventions.
-- _It is absolutely **clear** to me that_ what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
+- _I would **affirm**_ the judgment of the trail court and deny the motion to suppress Oliver’s statement.
+- **It is absolutely clear to me that** what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
+- **It is evident that** a powerful political - industrial complex with a developmentalist ideology remains the greatest threat to the environment of Taiwan .
 - _I therefore **propose** that_ universities have a greater role in working alongside the NCAA in negotiating its television.
 - One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
 - _We have to **remember** that_ bobbies move around - and slowly.
 - _The absolute **fact** is that_ linguistics is fun.
 - _But the **facts** of the matter are that_ we have never made the national decisions or marshaled the national resources required for such leadership.
 - The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
-
+- **There is no doubt that** globalization has a deep effect on China.
+  
 - I _**DID**_ turn out the lights before I left.
 
 Pronounce is also realized by **intensifiers with clausal scope** such as `really`, `indeed`, etc.
 - I **really** think that it is true.
 - **Indeed**, a binary definition of the environment increases the strength of spatial relations and the measure of spatial autocorrelation. 
+- The language spoken at that period is **undoubtedly** called Middle English, which is sandwiched in‑between by Old English and Modern English. (Note: undoutedly expresses authors committment to their assersion.)
+- In this way the company can **definitely** fulfil the fluctuating demand. (Note: definitely carries the author's subjective involvement to the company's capacity.)
 
 **What's NOT pronounce?**
 
@@ -226,6 +233,8 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 ### Entertain
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
 
+Entertain can be achieved by a range of lexico-grammatical resources. These include but not limited to, modal verbs (`may`), conditional clauses (`if`), evidential markers (`appear/seem`), and adverbial phrases (`generally`, `perhaps`).  
+
 ENTERTAIN move signals author's own subjectivity to present the idea. 
 - **In my view/from my perspective/in my opinion**, linguistics is fun.
 - _I **think/suppose/suspect**_ Mary teaches French
@@ -238,16 +247,20 @@ ENTERTAIN move signals author's own subjectivity to present the idea.
 - You **must** switch off the lights when you leave.
 - _**Probably/apparently/perhaps**_ he’s lying.
 - It was **probably/arguably** the most immature, irresponsible, disgraceful and misleading address ever given by a British Prime Minister.
-- _**Generally speaking**_, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
 - _It’s **probable/likely/possible** that_ he's lying.
 - Of course, _there’s **precious little chance**_ of that happening in America any time soon.
 - He has **certainly** disgraced the Attorney General’s office in lending credence to the assertions of the Swift Boat veterans for Truth.
 
+ENTERTAIN can include phrasing where the authors set the condition under which their claims apply.
+- _**Generally speaking**_, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
+- **If we accept that differences are not only good and sameness is dull and non - competitive** , then it is easy to see that diversity , in fact , can be a competitive advantage .
+- But, I **think** it **will** last **as long as Bill sticks to his current strategy**.
+
+
 Rhetorical questions are sometimes categorized as `Entertain` include following examples:
 - **So what brings happiness to our life? (ENTERTAIN)** (Tip: Tag the entire question.) 
 
-See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions) 
-
+See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions)
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
@@ -279,11 +292,15 @@ Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attribu
 [Back to Table 1](#table-1-categories-of-engagement-moves)
 
 ### Justify
+
 >An utterance which engage in persuasion through justification or substantiation.
+This move is typically achieved by subordinate clauses or prepositional phrases expressing reasons (e.g., `because`, `considering that`, `given that`, `because of`, `due to`).
+
 - **Because the steps are made of a smooth, polished—and therefore slippery—stone**, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
 - Accessibility is quite a key factor **because it is evident that the regional centre was built on the basis of good infrastructure**.
 - **Because of the event happening next year**, the housing prices have gone up so rapidly around here.
-
+- **Given that about a quarter of all employed people move on and off the payrolls of individual firms during the year** , a need to move between firms to climb the career ladder would not seem to be a difficult barrier to surmount .
+- The items had been produced by ANPWS **for the following reasons** : ( a ) to generate publicity ( for some of Australia 's national parks ) , ( b ) to meet existing information requests from school students and the general public ( such as on Australia 's endangered plants ) , ( c ) to generate interest in particular topics ( such as remnant vegetation ) , and ( d ) to explain government policy ( on kangaroo harvesting ) . 
 
 
 [Back to Table 1](#table-1-categories-of-engagement-moves)
