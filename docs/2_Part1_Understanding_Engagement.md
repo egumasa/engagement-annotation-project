@@ -152,6 +152,7 @@ There are two sub-types of `concur` which we do not differentiate in the current
 - Bailey, **of course**, was that rarity, a cricketer who at his best was worldclass with both bat and ball.
 - The Bush administration, **as we all know**, has rejected the Kyoto agreement
 - **As we can see**, the popularity of Woodlands new town between residents and non-residents is directly opposite to each other.
+- Furthermore , **we can easily see** that the semantic overdetermination of the Pygmalion story is already there , as J. Hillis Miller sees , in Ovid .
 - _Everyone **knows** that_ linguistics is fun.
 
 `Concede` examples
