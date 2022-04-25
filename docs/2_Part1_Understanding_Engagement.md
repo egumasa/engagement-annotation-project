@@ -118,7 +118,7 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 - Natural gas burns with twice the heat of coal gas, is **not** poisonous and has **no** odor.
 - There is **nothing** wrong with your proposal.
 
-[Back to Table 1](#table-1-categories-of-engagement-moves)
+[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Disclaim: Counter
 >An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.
@@ -141,7 +141,7 @@ Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, 
 `Disclaim: Counter` would also include some adverbs that encode meanings of counter-expectations.
 - **Unexpectedly/Surprisingly/To my surprise**, there seems to have been little smuggling this year.
 
-[Back to Table 1](#table-1-categories-of-engagement-moves)
+[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Proclaim: Concur
 >An utterance which shows writers' expectation for the putative readers to agree with the preposition and/or to have the same knowledge.
@@ -174,7 +174,7 @@ Rhetorical questions are sometimes categorized as `Concur`:
 See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions) for other possibilities.
 
 
-[Back to Table 1](#table-1-categories-of-engagement-moves)
+[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 
 ### Proclaim: Pronounce
@@ -212,7 +212,7 @@ Martin and White (2005) writes:
 >Accordingly, as assessments of probability, such modals are dialogically expansive – they still ‘entertain’ the possibility of dialogistical alternatives. Pronouncements, in contrast, do not ‘entertain’ alternative positions in this way but, as we have demonstrated, are directed towards challenging and dismissing an alternative viewpoint.
 
 
-[Back to Table 1](#table-1-categories-of-engagement-moves)
+[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Proclaim: Endorse
 >An utterance which refers to external sources as warrantable, undeniable, and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed.
@@ -231,7 +231,7 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 - ... **successfully explained** ...
 - As Hastie (an Englishman of their own political persuasion) so **compellingly argued**, ‘In any society racism will increase in direct proportion to the number of people who are given well-paid and prestigious positions to discover it.’
 
-[Back to Table 1](#table-1-categories-of-engagement-moves)
+[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Entertain
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
@@ -265,7 +265,7 @@ Rhetorical questions are sometimes categorized as `Entertain` include following 
 
 See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions)
 
-[Back to Table 1](#table-1-categories-of-engagement-moves)
+[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Attribute
 >An utterance which signifies dialogic space as the writer attributes the proposition to an external source.
@@ -292,7 +292,7 @@ In some cases, the author can present the idea without specifying the sources (b
 
 Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attributed.
 
-[Back to Table 1](#table-1-categories-of-engagement-moves)
+[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Justify
 
@@ -306,7 +306,7 @@ This move is typically achieved by subordinate clauses or prepositional phrases 
 - The items had been produced by ANPWS **for the following reasons** : ( a ) to generate publicity ( for some of Australia 's national parks ) , ( b ) to meet existing information requests from school students and the general public ( such as on Australia 's endangered plants ) , ( c ) to generate interest in particular topics ( such as remnant vegetation ) , and ( d ) to explain government policy ( on kangaroo harvesting ) . 
 
 
-[Back to Table 1](#table-1-categories-of-engagement-moves)
+[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Monogloss
 >An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.
@@ -334,7 +334,7 @@ To test if the sentence is monogloss, you can try adding any engagement items, f
 - **In some regions (ENTERTAIN)**, television has helped to shrink the relative distance between people and countries.
 
 
-[Back to Table 1](#table-1-categories-of-engagement-moves)
+[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Citations (Updated on Feb 25th.)
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Part3—Engagement tag spans
+title: Part3—Engagement taging
 nav_order: 5
 ---
-# Part 3 — Engagement tag spans
+# Part 3 — Engagement tagging: Rules and Spans
 {: .no_toc }
 ## Table of Contents
 {: .no_toc }
@@ -12,11 +12,44 @@ nav_order: 5
 {:toc}
 
 ---
-## 1. Where to put a tag on
+
+# 1. Engagement Annotation procedure
+Once a sentence has been annotated for clause boundary and types, we look for any engagement in the sentence.
+
+- A main clause should get at least one monogloss or any other heteroglossic tags. If there is NO heteroglossic tag, the main clause should have a monogloss tag.
+- Embedded clauses may or may not get engagement tag(s).
+- Subordinate clauses can get an engagement tag spanning the entire clause (e.g., `COUNTER`, `ENTERTAIN`).
+- Additionally, subordinate clauses may have additional engagement items inside the clause.
+
+
+
+Here are the recommended steps:
+1. Look out for any verbs; Are they potentially engagement item (e.g., `say`, `believe`)?
+2. Look for any conjunctions and adverbial phrases.
+3. Look for any 
+
+## Example
+Consider the following example:
+> The question I will seek to answer is not whether schools should offer curricular choice.
+
+This sentence is annotated for clause types as follows:
+![example-clause](figures/Tutorial/example_clause_boundary.png)
+
+1. First, we look for any engagement in the main clause. In this case we have `not` in the main clause, which is `DENY`.
+
+2. Next, we look at the two embedded clauses. We find modal verbs in both clauses, so we need to think about the in which sense these are used.
+   - We consider that the first one is more related to `willingness` and `temporal` meaning than, for example, `epistemic`. So, we do not think this one is `ENTERTAIN`. 
+   - On the other hand, the second modal verb `should` is used in the `deontic` sense, which suggests that it can be considered `ENTERTAIN`.
+
+Going through this process, the annotation for this example sentence will look like:
+![example-annotated](figures/Tutorial/example1_annotated.png)
+
+
+# 2. Tag spans by item type—Where exactly to put a tag on?
 Because meanings of engagement can be expressed at different levels of lexical and grammatical items, we need to know exactly which part of the sentence we should put a tag on.
 This section deals with such structural issues during the annotation. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
 
-In the example in this document, the span for which the tag should be put is shown in **Bold** face.
+In the example in this document, the span for which the tag should be put is shown in **Bold** face. Updated {.label .label-green}
 
 | Features                                                                                                                   | Example items                                       | Where to put a tag            |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
