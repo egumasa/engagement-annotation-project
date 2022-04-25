@@ -21,12 +21,17 @@ Once a sentence has been annotated for clause boundary and types, we look for an
 - Subordinate clauses can get an engagement tag spanning the entire clause (e.g., `COUNTER`, `ENTERTAIN`).
 - Additionally, subordinate clauses may have additional engagement items inside the clause.
 
+## Structural approach
+The following steps are meant to help you to look for potential linguistic structures that engagement strategy can surface. This is not an exhaustive list, so they should be used as only a recommended guidance.
+1. Look out for any verbs in the main clause; Are they potentially engagement item (e.g., `say`, `believe`); Who says or believes?
+2. Look for any conjunctions and adverbial phrases in the main clauses.
+3. Look for any modal verbs, negative particles, .
+4. Does the sentence cite any sources?
 
-
-Here are the recommended steps:
-1. Look out for any verbs; Are they potentially engagement item (e.g., `say`, `believe`)?
-2. Look for any conjunctions and adverbial phrases.
-3. Look for any 
+## Functional approach
+1. Does the sentence hedge their statement (e.g., expression of likelihood)?
+2. Does the sentence attribute the claim to any sources?
+3. Does the sentence assert their own point of view WITHOUT recognition to others (i.e., `Monogloss`)?
 
 ## Example
 Consider the following example:
