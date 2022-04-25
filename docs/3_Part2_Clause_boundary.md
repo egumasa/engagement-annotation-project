@@ -18,7 +18,7 @@ The followings are how we will tag on different types of clauses:
 | [MAIN](#simple-main-clauses)        | An independent clause, which function as complete unit.                                                                                                                                                                                              |
 | [SUBORDINATE](#subordinate-clauses) | A dependent clause attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `although`, `if`, `when`, `as`, `while`, etc.)                                                                                            |
 | [EMBEDDED](#embedded-clauses)       | a type of dependent clause that function as a part of another clause. That is, an embedded clause is included in a subject, object of another clause (i.e., complement clause) or function as an adjective to modify a noun (i.e., relative clause). |
-| FRAGMENT                            | An imcomplete sentential unit. Typically, without any verbs.                                                                                                                                                                                         |
+| [FRAGMENT](#fragment)               | An imcomplete sentential unit. Typically, without any verbs.                                                                                                                                                                                         |
 
 
 **NOTE**: When we identify clauses, we do NOT consider punctuation at the end of the clause boundaries as a part of the clause. 
@@ -72,6 +72,25 @@ Emdedded clauses are defined as:
 In webanno, you will annotate these in the following manner:
 ![Figure_Embedded](/figures/Embedded1.png)
 
+## Fragment
+
+Fragment here is defined as indepent line in the annotation data that does not have any clausal element.
+
+This is mostly due to the automatic sentence segmentation issue or syntactic errors in the original essays.
+
+Examples include:
+- (Norris, 2009)
+- Ibid. (2008, p. 2)
+- For example, 
+- ,
+- p. 36).
+- Sincerely,
+- Dear Kris,
+- 
+
+These are all categorized as Fragment. Since fragment is used to detect any non-clausal, minor textual segments in the data, it won't be used with other categories. That is, when a sentence have at least one `Main`, `Subordinate`, or `Embedded`, that sentence do not get `Fragment`.
+
+Note that Empty lines has automatically converted to `EMPTYSENT—Skip Annotation`. When you encounter this, just skip the sentence.
 
 
 ## Real examples—Mixture of different clause types

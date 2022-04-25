@@ -78,10 +78,16 @@ The control of the event is internal to the subject; that is, capacity and willi
 ## Confusing cases 
 To be updated...
 ### Dynamic vs. deontic `can`
+
+
 - You can do this, if you want.
   
 ### Epistemic vs. Dynamic `could`
+
+
 - He could have arrived in time.
 
 ### Epistemic vs deontic `should` –This is less important because they will be ENTERTAIN anyway.
+
+
 - He should be aware of the issue.
