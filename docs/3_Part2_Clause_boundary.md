@@ -55,6 +55,13 @@ Subordinate clauses are defined as:
 In webanno, you will annotate these in the following manner:
 ![Figure_subordinate](/figures/Main_subordinate1.png)
 
+In some cases, a subordinate clause can also be realized non-finite verbs with present participles (e.g., -ing).
+
+![Figure_justifying](figures/clauses/present_participle.png)
+
+![Figure_taking](figures/clauses/present_participle2.png)
+
+
 
 
 ## Embedded clauses
