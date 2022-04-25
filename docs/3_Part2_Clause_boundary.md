@@ -4,8 +4,7 @@ title: Part2–Clause boundary detection
 nav_order: 4
 ---
 
-New 
-{: .label .label-green}
+New {: .label .label-green}
 # Clause boundary detection 
 
 

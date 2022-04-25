@@ -12,6 +12,8 @@ nav_order: 2
 1. TOC
 {:toc}
 
+---
+
 ## Grammatical terminology
 First of all, it is always helpful to clarify important terminologies we will use during the annotation project. When I use the following terms, I use in the following meaning and examples in mind.
 
@@ -27,6 +29,7 @@ First of all, it is always helpful to clarify important terminologies we will us
 | head                      | The highest node in the given a phrase/constituent/clause                                                                                             |                                                                                   |
 
 
+--- 
 
 ## Coordinated clauses vs Subordinate clauses vs Embedded clause
 
