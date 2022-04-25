@@ -4,7 +4,10 @@ title: Part2–Clause boundary detection
 nav_order: 4
 ---
 
-# Clause boundary detection New {: .label}
+New 
+{: .label .label-green}
+# Clause boundary detection 
+
 
 Clause boundary detection is an auxiliary task, which aims to help you to think about the overall structure of the sentence before tagging any engagement values.
 

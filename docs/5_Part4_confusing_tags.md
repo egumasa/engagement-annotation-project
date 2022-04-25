@@ -14,8 +14,8 @@ nav_order: 6
 1. TOC
 {:toc}
 
-
-# Within Expansion 
+---
+# Within Expansion  
 ## Attribute or Entertain
 
 Entertain mainly concerns the writer's own views while attribute is a way to use external voice to present their views.

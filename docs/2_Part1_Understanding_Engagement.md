@@ -12,6 +12,8 @@ nav_order: 3
 
 1. TOC
 {:toc}
+
+---
 ## Engagement coding scheme
 
 There are 9 categories of engagement moves to annotate in the current project (see [Table 1](#table-1-categories-of-engagement-moves)). Most categories belong to "parent" (or more general) discourse moves, such as `contract` and `expand`. 
