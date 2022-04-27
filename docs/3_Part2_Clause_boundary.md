@@ -35,13 +35,17 @@ In webanno, you will annotate the clause in the following manner:
 
 ## Coordinated clauses – More than one MAIN clauses
 
-Coordinated clauses are defined as:
-> A complex clause where two or more MAIN clauses are combined via coordinated conjunctions (e.g., and, but, or).
+Coordinated clauses are independent/main clauses that are connected via coordinating conjunctions (e.g., `and`, `but`, `or`).
 
 You can also consider colon `:` and semi-colon `:` as an implicit coordination of two MAIN clauses.
 
-- [I went to the store]; [they were closed].
-- [I went to the store], [but they were closed].
+| Independent clause            | Coordinated conjunction | Independent clause                  |
+| :---------------------------- | :---------------------- | :---------------------------------- |
+| Marianne lives in California, | but                     | Diane lives in Michigan or Vermont. |
+| He went to the party,         | and                     | I stayed home.                      |
+| I went to the store           | but                     | they were closed                    |
+| I went to the store           | ;                       | they were closed                    |
+
 
 In webanno, you will annotate the clause in the following manner:
 ![Figure_Coordinated](/figures/Coord_clauses1.png)
@@ -50,7 +54,31 @@ In webanno, you will annotate the clause in the following manner:
 ## SUBORDINATE clauses
 
 Subordinate clauses are defined as:
-> a dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `although`, `if`, `when`, `as`, `while`, etc.)
+> a dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `when`) or adverbial particle
+
+Subordinate clause can take a form of [adverbial clause](#adverbial-clauses-subordinate) or [non-finite adverbial particle clause](#adverbial-particle-clauses) (see details below.)
+
+A subordinate clause can either follow or preceed the main clause. 
+
+| Main clause                                   | Subordinate clause                                                      |
+| :-------------------------------------------- | :---------------------------------------------------------------------- |
+| It was hard to write a book together          | **because they live so far apart**.  (adverbial clause)                 |
+| Peggy frequently calls                        | **because she wants to stay in touch**.  (adverbial clause)             |
+| Betty danced joyfully,                        | **never suspecting what was about to happen**. (particle clause)        |
+| They decided to wait for dawn,                | **each hiker taking his two-hour turn at watch**. (particle clause)     |
+| The authors presented a new piece of evidence | **concluding that the effects of DLL is noteworthy**. (particle clause) |
+
+| Subordinate clause                                                 | Main clause                             |
+| :----------------------------------------------------------------- | :-------------------------------------- |
+| **Although Marianne and Diane live far apart**, (adverbial clause) | they are still friends.                 |
+| **As far as I am concerned**,  (adverbial clause)                  | there is not much study on this topic.  |
+| **Working diligently on his paper**,  (particle clause)            | John began to type up the bibliography. |
+| **Worn out from all the work**,   (particle clause)                | John decided to relax.                  |
+
+Following sections describes each type in details.
+### Adverbial clauses 
+
+Adverbial clause is a type of subordinate clause, which typically add 'secondary information' to the main clause.
 
 Common subordinate conjunctions, which introduce a subordinate clause, include:
 - **Concessions**: although, as, as though, even, even though, though, just as though, whereas, while
@@ -58,14 +86,40 @@ Common subordinate conjunctions, which introduce a subordinate clause, include:
 - **Temporal**: after, as, as soon as, as long as, before, once, since, still, till, until, when, whenever, while
 - **Contrasts**: although, though, whereas, while, rather than, 
 - **Causal relations**: as, because, in order (that), so that, now that, since
-  
+
+More examples include:
+
+| Subordinate clause                                                                                    | Main clause                                                                                             |
+| :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+| **Because the steps are made of a smooth, polished—and therefore slippery—stone**,                    | the BTA should’ve taken precautions to clean the steps in such wintry conditions.                       |
+| **Although some medical ethicists claim that cloning will lead to designer children** (R. Miller 12), | others note that the advantages for medical research outweigh this consideration (A. Miller 46).        |
+| **While the Supreme Court rejected the “quality of care” argument in the federation case**,           | the oligopolistic characteristics and purchasing structure of insurance make this outcome unsurprising. |
+
+
 Note that the meaning of the subordinating conjunction depends on the context. 
-Tip: Concessions are likely to associate with `COUNTER`, and Conditions with `ENTERTAIN`. Some causal conjunctions are related to `JUSTIFY`.
+
 
 In webanno, you will annotate these in the following manner:
 ![Figure_subordinate](/figures/Main_subordinate1.png)
 
-In some cases, a subordinate clause can also be realized non-finite verbs with present participles (e.g., -ing).
+### Adverbial particle clauses
+
+
+In some cases, a subordinate clause can also be realized non-finite particles (e.g., `-ing`, `-ed`, `-en`).
+
+| Subordinate clause                                         | Main clause                                                         |
+| :--------------------------------------------------------- | :------------------------------------------------------------------ |
+| **Having worked on his paper since 4 P.M.**,               | John stopped at 8 to watch the DePaul basketball game.              |
+| **Having been working on his paper for more than a week**, | John decided he would turn it in without further revision.          |
+| **Being worn out from all the work**,                      | John decided to relax for the evening.                              |
+| **The bus drivers being on strike**,                       | many people had to get to work using other means of transportation. |
+
+| Main clause                            | Subordinate clause                             |
+| :------------------------------------- | :--------------------------------------------- |
+| Betty danced joyfully,                 | **never suspecting what was about to happen**. |
+| Sheila ignored the dog and the TV set, | **deeply engrossed in the new book**.          |
+
+On webanno, you should segment the clause in the following manner.
 
 ![Figure_justifying](figures/clauses/present_participle.png)
 
