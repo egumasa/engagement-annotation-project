@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Part5—Modal sense disambiguation
-nav_order: 8
+nav_order: 7
 ---
 # Modal sense disambiguation
 
