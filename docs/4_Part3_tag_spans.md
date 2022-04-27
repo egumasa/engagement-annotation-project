@@ -4,17 +4,9 @@ title: Part3—Engagement taging
 nav_order: 5
 ---
 # Part 3 — Engagement tagging: Rules and Spans
-{: .no_toc }
-## Table of Contents
-{: .no_toc }
 
-1. TOC
-{:toc}
-
----
 # Tag spans by item type—Where exactly to put a tag on?
-Because meanings of engagement can be expressed at different levels of lexical and grammatical items, we need to know exactly which part of the sentence we should put a tag on.
-This section deals with such structural issues during the annotation. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
+This section deals with structural/grammatical issues during the annotation, particularly the decisions involving where to put the tag. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
 
 In the example in this document, the span for which the tag should be put is shown in **Bold** face. Updated {.label .label-green}
 
