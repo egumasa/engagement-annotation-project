@@ -52,6 +52,15 @@ In webanno, you will annotate the clause in the following manner:
 Subordinate clauses are defined as:
 > a dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `although`, `if`, `when`, `as`, `while`, etc.)
 
+Common subordinate conjunctions, which introduce a subordinate clause, include:
+- **Concessions**: although, as, as though, even, even though, though, just as though, whereas, while
+- **Conditions**: even if, if, in case, provided (that), unless, as long as, as much as,
+- **Temporal**: after, as, as soon as, as long as, before, once, still, till, until, when, whenever, while
+- **Contrasts**: although, though, whereas, while, rather than, 
+- **Causal relations**: as, because, in order (that), so that, now that, since
+  
+
+
 In webanno, you will annotate these in the following manner:
 ![Figure_subordinate](/figures/Main_subordinate1.png)
 
