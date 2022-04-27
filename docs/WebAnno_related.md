@@ -26,6 +26,23 @@ Once in a while, it may be a good idea to export the whole project as a backup.
 5. If you are using `Safari` as the web browser, you might need to change the preference to successfully export the file. 
    - IF you are using `Safari`, go to `preference` > `general`, and deselect `Open "safe" files after downloading` option.
 
+
+## Importing the annotation document
+
+To import the document to annotate, go to `project setting` > `Documents tab` (see the following screenshot).
+
+![document](figures/webanno/document_import.png)
+
+Then press `Choose Files` to select your files. Choose `WebAnno TSV v3.2 (WebAnno v3.x)` from the the Format. 
+![tsv](figures/webanno/select_tsv.png)
+
+Then press import and wait a little while (this step may take a little depending on the number of document you are importing). 
+
+If no error message shows up, you are good to go.
+
+Note, sometimes if you have a file with the same name already loaded, WebAnno prevents from overwriting the file. 
+You can change the name of the new file slightly (for example, adding dates e.g., `{name}_20220425.tsv`), this will import the file as a separate version.
+
 ## Enabling the annotation across sentence boundary.
 To enable annotation across sentence boundaries, follow the instruction below:
 
