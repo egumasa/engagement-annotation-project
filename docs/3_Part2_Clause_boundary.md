@@ -62,7 +62,7 @@ In webanno, you will annotate the clause in the following manner:
 Subordinate clauses are defined as:
 > a dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `when`) or adverbial particle
 
-Subordinate clause can take a form of [adverbial clause](#adverbial-clauses-subordinate) or [non-finite adverbial particle clause](#adverbial-particle-clauses) (see details below.)
+Subordinate clause can take a form of [adverbial clause](#adverbial-clauses) or [non-finite adverbial particle clause](#adverbial-particle-clauses) (see details below.)
 
 A subordinate clause can either follow or preceed the main clause. 
 
@@ -111,7 +111,7 @@ In webanno, you will annotate these in the following manner:
 ### Adverbial particle clauses
 
 
-In some cases, a subordinate clause can also be realized non-finite particles (e.g., `-ing`, `-ed`, `-en`).
+In some cases, a subordinate clause can also be realized with non-finite particles (e.g., `-ing`, `-ed`, `-en`).
 
 | Subordinate clause                                         | Main clause                                                         |
 | :--------------------------------------------------------- | :------------------------------------------------------------------ |
