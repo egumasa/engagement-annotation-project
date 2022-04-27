@@ -40,6 +40,8 @@ Contents moved to [clause boundary identification](3_Part2_Clause_boundary.md#su
 
 
 ## Embedded clauses
+Contents moved to [clause boundary identification](3_Part2_Clause_boundary.md#embedded-clauses).
+
 
 ## Distinguishing adverbial clauses and adverbial phrases
 
