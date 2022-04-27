@@ -89,7 +89,8 @@ Once again, these categories is about discourse meaning that writers make; there
 
 ## Engagement meaning can be expressed using different categories of lexical and grammatical resources
 
-Meanings of engagement (stance-taking) are realized through a range of lexical and grammatical resources. Typical grammatical structures include:
+Meanings of engagement (stance-taking) are realized through a range of lexical and grammatical resources. 
+These are the focus of [the later chapter](4_Part3_tag_spans.md), but typical grammatical structures include:
 - Modal auxiliaries (e.g., `can`, `may`, `must`)
 - Stance adverbs (e.g., `obviously`, `naturally`, `probably`)
 - Adverbial phrases (e.g., `according to X`,  `in my view`)
@@ -98,10 +99,10 @@ Meanings of engagement (stance-taking) are realized through a range of lexical a
 - Subordinate clauses (e.g., `even though`, `if X...`, `although ...`, `as far as I am concerned`)
 - Negation (e.g., `not`, `never`)
 
-The implications of this include:
-- A particular engagement move can be expressed through different levels of grammar.
+Two implications are:
+- **A particular engagement move can be expressed through different levels of grammar**.
   - ==> Entertain can be expressed using modal verbs (`can`), adverbial/prepositional phrases (`in my view`), evidentials (`it seems that`).
-- A same grammatical structure would function as distinct engagement meaning.
+- **A same grammatical structure would function as distinct engagement meaning**.
   - ==> Communication verbs (e.g., `suggest`) can express different meanings depending on its subject.  `the data suggest (ENTERTAIN)`  vs. `The author suggested (ATTRIBUTE)`.
 
 So, It is important to fully understand what each category means through closely examines the examples presented below.
