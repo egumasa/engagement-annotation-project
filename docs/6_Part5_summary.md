@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part5—Summary and Recommended procedures
+title: Part5—Recommended procedures
 nav_order: 7
 ---
 
