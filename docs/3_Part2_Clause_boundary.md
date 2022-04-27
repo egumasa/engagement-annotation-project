@@ -54,12 +54,13 @@ Subordinate clauses are defined as:
 
 Common subordinate conjunctions, which introduce a subordinate clause, include:
 - **Concessions**: although, as, as though, even, even though, though, just as though, whereas, while
-- **Conditions**: even if, if, in case, provided (that), unless, as long as, as much as,
-- **Temporal**: after, as, as soon as, as long as, before, once, still, till, until, when, whenever, while
+- **Conditions**: even if, if, in case, provided (that), unless, as long as, as much as, as far as,
+- **Temporal**: after, as, as soon as, as long as, before, once, since, still, till, until, when, whenever, while
 - **Contrasts**: although, though, whereas, while, rather than, 
 - **Causal relations**: as, because, in order (that), so that, now that, since
   
-
+Note that the meaning of the subordinating conjunction depends on the context. 
+Tip: Concessions are likely to associate with `COUNTER`, and Conditions with `ENTERTAIN`. Some causal conjunctions are related to `JUSTIFY`.
 
 In webanno, you will annotate these in the following manner:
 ![Figure_subordinate](/figures/Main_subordinate1.png)

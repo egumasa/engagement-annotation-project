@@ -18,18 +18,17 @@ This section deals with such structural issues during the annotation. Each secti
 
 In the example in this document, the span for which the tag should be put is shown in **Bold** face. Updated {.label .label-green}
 
-| Features                                                                                                                   | Example items                                       | Where to put a tag            |
-| -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
-| [Modal verbs](#modal-verbs)                                                                                                | can, have to                                        | on the item                   |
-| [Single-word adverbs](#single-word-adverbs)                                                                                | obviously, sure                                     | on the item                   |
-| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)                      | in my view                                          | the entire phrase             |
-| [Mental or communication verbs](#mental-or-communication-verbs)                                                            | think, say, tell                                    | on the item                   |
-| [Subordinate conjunctions](#subordinate-clause-revised-on-april-9th)  **Updated on April 9th**                             | as, when, if                                        | the entire subordinate clause |
-| [Multi-word subordinate conjunctions](#multi-word-subordinate-conjunctions-revised-on-april-9th)  **Updated on April 9th** | as long as, whether or not                          | the entire subordinate clause |
-| [Coordinating conjunctions](#coordinating-conjunctions)                                                                    | but, and, yet                                       | on the item                   |
-| [Question](#questions)                                                                                                     | Who thinks that smoking do no harm in 21st century? | on the entire question        |
-| [It is ADJ that construction](#it-is-adj-that-interpersonal-metaphor)                                                      | It is unlikely that ....                            | On the construction           |
-| [Citations](#citations)                                                                                                    | Kyle (2020); (Kyle, 2020)                           | See details                   |
+| Features                                                                                                          | Example items                                       | Where to put a tag            |
+| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
+| [Modal verbs](#modal-verbs)                                                                                       | can, have to                                        | on the item                   |
+| [Single-word adverbs](#single-word-adverbs)                                                                       | obviously, sure                                     | on the item                   |
+| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)             | in my view                                          | the entire phrase             |
+| [Mental or communication verbs](#mental-or-communication-verbs)                                                   | think, say, tell                                    | on the item                   |
+| [Subordinate conjunctions](#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | as, when, if, as long as, whether or not            | the entire subordinate clause |
+| [Coordinating conjunctions](#coordinating-conjunctions)                                                           | but, and, yet                                       | on the item                   |
+| [Question](#questions)                                                                                            | Who thinks that smoking do no harm in 21st century? | on the entire question        |
+| [It is ADJ that construction](#it-is-adj-that-interpersonal-metaphor)                                             | It is unlikely that ....                            | On the construction           |
+| [Citations](#citations)                                                                                           | Kyle (2020); (Kyle, 2020)                           | See details                   |
 
 ## Modal verbs
 
@@ -62,7 +61,17 @@ When an engagement meaning is realized by a mental or communication verbs, you w
 
 ![commuverbs](figures/spans/comm_verb.png)
 
-## Subordinate clause ==(Revised on April 9th)==
+## Subordinate clause—including both single-word and multi-word subordinate conjunctions
+
+Common subordinate conjunctions, which introduce a subordinate clause, include:
+- **Concessions**: although, as, as though, even, even though, though, just as though, whereas, while
+- **Conditions**: even if, if, in case, provided (that), unless, as long as, as much as, as far as,
+- **Temporal**: after, as, as soon as, as long as, before, once, since, still, till, until, when, whenever, while
+- **Contrasts**: although, though, whereas, while, rather than, 
+- **Causal relations**: as, because, in order (that), so that, now that, since
+  
+Note that the meaning of the subordinating conjunction depends on the context. 
+**Pro Tip**: Concessions are likely to associate with `COUNTER`, and Conditions with `ENTERTAIN`. Some causal conjunctions are related to `JUSTIFY`.
 
 When an engagement meaning is realized by a subordinate conjunctions such as *although*, *while*, and *if*, you will put a tag on **the entire subordinate clause** (Modified on April 9th).
 - **Although the religion motif was not commonly discussed among the discussants**, the relevance of this theme to these various texts need to be brought to attention.
@@ -70,12 +79,12 @@ When an engagement meaning is realized by a subordinate conjunctions such as *al
 - The Bush administration, **as we all know**, has rejected the Kyoto agreement
 
 ![advcls](figures/spans/advcl.png)
-## Multi-word subordinate conjunctions ==(Revised on April 9th)==
 
-When an engagement meaning is realized by a multi-word subordinate conjunctions such as *as long as* and *where or not*, you will put a tag on **the entire subordinate clause** (Modified on April 9th).
+Similarly, multi-word subordinate conjunctions, such as `as long as`, `so that`, `provided that`, will get a tag on the entire clause. 
 - **As long as the response addresses the question**, it can be long.
 
 ![multiword_advcl](figures/spans/multiword_advcl.png)
+
 
 ## Coordinating conjunctions
 
