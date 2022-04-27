@@ -22,9 +22,16 @@ Updated on 24th April
 For each sentence, annotation should start with clause boundary segmengation and clause type identification.
 I will not repeat the content here, but you should refer to the [clause boundary detection](3_Part2_Clause_boundary.md) for details.
 
-## 2. Engagement annotation
+## 2. Modal sense disambiguation
 
-Once a sentence has been annotated for clause boundary and types, we look for any engagement in the sentence.
+Once a sentence has been annotated for clause boundary and types, we will annotate the sense of modal verbs (if any).
+This will allow us to prepare for the following engagement annotation because although most modal verbs function as `entertain` it is not always the case.
+
+See [Modal sense Disambiguation](Modal-verb-sense.md) for details of this step.
+
+## 3. Engagement annotation
+
+Finally, we look for any engagement in the sentence.
 
 - A main clause should get at least one monogloss or any other heteroglossic tags. If there is NO heteroglossic tag, the main clause should have a monogloss tag.
 - Embedded clauses may or may not get engagement tag(s).
