@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Part5—Recommended procedures
-nav_order: 7
+title: Part6—Recommended procedures
+nav_order: 8
 ---
 
 Updated on 24th April 

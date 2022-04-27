@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part6—Modal sense disambiguation
+title: Part5—Modal sense disambiguation
 nav_order: 8
 ---
 # Modal sense disambiguation

@@ -8,7 +8,10 @@ nav_order: 5
 # Tag spans by item type—Where exactly to put a tag on?
 This section deals with structural/grammatical issues during the annotation, particularly the decisions involving where to put the tag. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
 
-In the example in this document, the span for which the tag should be put is shown in **Bold** face. Updated {.label .label-green}
+In the example in this document, the span for which the tag should be put is shown in **Bold** face. 
+
+Updated 
+{.label .label-green}
 
 | Features                                                                                                          | Example items                                       | Where to put a tag            |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
