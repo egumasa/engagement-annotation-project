@@ -28,12 +28,3 @@ But you will tag `Counter` for transitional phrases that counter the positions.
 - Yet, 
 - etc.
 
-
-## What about `in conclusion` as potential pronounce device...?
-
-## Is `otherwise` disclaim:counter...?
-- `Choosing appropriate types of part-time job <engmt class="monogloss">is</engmt> important too, otherwise students <engmt class="entertain">may</engmt> fall into traps setup by companies with problems.`
-
-
-
-
