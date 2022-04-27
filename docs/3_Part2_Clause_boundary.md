@@ -23,6 +23,8 @@ The followings are how we will tag on different types of clauses:
 
 **NOTE**: When we identify clauses, we do NOT consider punctuation at the end of the clause boundaries as a part of the clause. 
 
+---
+
 ## Simple MAIN clauses
 
 Simple main clauses are defined as:
@@ -32,6 +34,8 @@ In addition to "simple" sentence structure, we will include imperative sentences
 
 In webanno, you will annotate the clause in the following manner:
 ![Figure_main](/figures/simple_main_clauses1.png)
+
+---
 
 ## Coordinated clauses – More than one MAIN clauses
 
@@ -49,6 +53,8 @@ You can also consider colon `:` and semi-colon `:` as an implicit coordination o
 
 In webanno, you will annotate the clause in the following manner:
 ![Figure_Coordinated](/figures/Coord_clauses1.png)
+
+---
 
 
 ## SUBORDINATE clauses
@@ -125,6 +131,7 @@ On webanno, you should segment the clause in the following manner.
 
 ![Figure_taking](figures/clauses/present_participle2.png)
 
+---
 
 ## Embedded clauses
 
@@ -168,6 +175,7 @@ The other type of relative clause typically elaborates the content of the whole 
 
 - We included all participants into the analysis with the exception of _the Italian participants, which was necessary to control for their native languages._ 
 
+---
 
 ## Fragment
 
@@ -197,6 +205,8 @@ We are going to treat these example as
 
 Note that Empty lines has automatically converted to `EMPTYSENT—Skip Annotation`. When you encounter this, just skip the sentence.
 
+
+---
 
 ## Real examples—Mixture of different clause types
 
