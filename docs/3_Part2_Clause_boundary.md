@@ -29,7 +29,6 @@ When we identify clauses, we do NOT consider punctuation at the end of the claus
 ## Simple MAIN clauses
 
 {: .def}
-Simple main clauses are defined as:
 > A clause that can stand alone to make a complete sentence.
 
 In addition to "simple" sentence structure, we will include imperative sentences (commands) as a independent main clause.
@@ -42,7 +41,7 @@ In webanno, you will annotate the clause in the following manner:
 ## Coordinated clauses – More than one MAIN clauses
 
 {: .def}
-Coordinated clauses are independent/main clauses that are connected via coordinating conjunctions (e.g., `and`, `but`, `or`).
+> Coordinated clauses are independent/main clauses that are connected via coordinating conjunctions (e.g., `and`, `but`, `or`).
 
 You can also consider colon `:` and semi-colon `:` as an implicit coordination of two MAIN clauses.
 
@@ -63,7 +62,6 @@ In webanno, you will annotate the clause in the following manner:
 ## SUBORDINATE clauses
 
 {: .def}
-Subordinate clauses are defined as:
 > a dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `when`) or adverbial particle
 
 Subordinate clause can take a form of [adverbial clause](#adverbial-clauses) or [non-finite adverbial particle clause](#adverbial-particle-clauses) (see details below.)
@@ -115,8 +113,7 @@ In webanno, you will annotate these in the following manner:
 
 ### Adverbial particle clauses
 
-{: .def}
->In some cases, a subordinate clause can also be realized with non-finite particles (e.g., `-ing`, `-ed`, `-en`).
+In some cases, a subordinate clause can also be realized with non-finite particles (e.g., `-ing`, `-ed`, `-en`).
 
 | Subordinate clause                                         | Main clause                                                         |
 | :--------------------------------------------------------- | :------------------------------------------------------------------ |
@@ -141,7 +138,6 @@ On webanno, you should segment the clause in the following manner.
 ## Embedded clauses
 
 {: .def}
-Emdedded clauses are defined as:
 > a type of dependent clause that function as a part of another clause. That is, an embedded clause is included in a subject, object of another clause (i.e., complement clause) or function as an adjective to modify a noun (i.e., relative clause).
 
 In the following examples, embedded clauses are _italicized_.
