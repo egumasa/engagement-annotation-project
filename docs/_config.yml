@@ -133,6 +133,8 @@ callouts:
   note:
     title: Note
     color: blue
-
+  caution:
+    title: Caution
+    color: red
 
 remote_theme: pmarsceill/just-the-docs
