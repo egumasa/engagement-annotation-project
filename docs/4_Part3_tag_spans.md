@@ -66,7 +66,9 @@ Common subordinate conjunctions, which introduce a subordinate clause, include:
 - **Causal relations**: as, because, in order (that), so that, now that, since
   
 Note that the meaning of the subordinating conjunction depends on the context. 
-**Pro Tip**: Concessions are likely to associate with `COUNTER`, and Conditions with `ENTERTAIN`. Some causal conjunctions are related to `JUSTIFY`.
+
+{: .caution}
+Concessions are likely to associate with `COUNTER`, and Conditions with `ENTERTAIN`. Some causal conjunctions are related to `JUSTIFY`.
 
 When an engagement meaning is realized by a subordinate conjunctions such as *although*, *while*, and *if*, you will put a tag on **the entire subordinate clause** (Modified on April 9th).
 - **Although the religion motif was not commonly discussed among the discussants**, the relevance of this theme to these various texts need to be brought to attention.
