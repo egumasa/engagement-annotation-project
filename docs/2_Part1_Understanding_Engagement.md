@@ -78,7 +78,9 @@ The writers can `proclaim` their views by (a) assuming that the readers would ag
 | Auxiliary   | [Justify](#justify)                                               | An utterance which engage in persuasion through justification or substantiation.                                                                                                                                                     |
 | Auxiliary   | [Citations](#citations-updated-on-feb-25th) (Updated on Feb 25th) | Citation is segment of the text where external source(s) are referenced in the text.                                                                                                                                                 |
 
-Note that in the example on this page, **Bold** face is used to show the span on which the tag is put. *Italics* shows the context which helps to decide the category.
+{: .note}
+In the example on this page, **Bold** face is used to show the span on which the tag is put. *Italics* shows the context which helps to decide the category.
+
 
 We are going to look at the raw sentences and tag any of the following `engagement moves`. Using the previous example.
 - `In my view (ENTERTAIN)`, the banks have been greedy.
@@ -166,7 +168,8 @@ There are two sub-types of `concur` which we do not differentiate in the current
 Some tricky example, but we all categorize them under `concur`:
 - **Certainly** he was badly behaved but look at what he has achieved.
 
-NOTE: **Certainly** illustrates there may be multiple functions that an item can accomplish depending on the context. Here, "Certainly ...., but" can be considered as `concur`, but certainly can be used as `Entertain` (see example).
+{: .note }
+**Certainly** illustrates there may be multiple functions that an item can accomplish depending on the context. Here, "Certainly ...., but" can be considered as `concur`, but certainly can be used as `Entertain` (see example).
 
 Rhetorical questions are sometimes categorized as `Concur`:
 - **Should we go to war against these children? (CONCUR)** (Tip: Tag the entire question.)
