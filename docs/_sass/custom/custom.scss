@@ -5,9 +5,9 @@
 // Do not blah blah blah...
 // {: .info } // OR: {: .warn } OR: {: .danger }
 
-$callouts: (note: ($blue-300, rgba($blue-000, .2), 'INFO'),
-	caution: ($yellow-300, rgba($yellow-000, .2), 'WARNING'),
-	danger: ($red-300, rgba($red-000, .2), 'DANGER'));
+$callouts: (note: ($blue-300, rgba($blue-000, .2), 'NOTE'),
+	caution: ($yellow-300, rgba($yellow-000, .2), 'TIPS'),
+	danger: ($red-300, rgba($red-000, .2), 'CAUTION'));
 
 @each $class,
 $props in $callouts {
