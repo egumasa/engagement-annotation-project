@@ -110,7 +110,9 @@ So, It is important to fully understand what each category means through closely
 
 ## More elaborated description of each category with examples
 ### Disclaim: Deny
-> An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.
+
+{: .def}
+An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.
 
 In other words, `deny` move includes acknowledgement to an alternative position so as to reject it. Typically the meaning is realized using negations.
 - Linguistics is **not** easy.
@@ -123,6 +125,8 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Disclaim: Counter
+
+{: .def}
 >An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.
 
 Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, *however*, which signals the meanings of `Counter` in an explicit manner. This signals `concession` and `counter expectations`.
@@ -146,7 +150,10 @@ Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Proclaim: Concur
+
+{: .def}
 >An utterance which shows writers' expectation for the putative readers to agree with the preposition and/or to have the same knowledge.
+
 This includes lexico-grammatical items such as `naturally`, `if course`, `obviously`, `admittedly`. These items reveal writer's expectation for the reader to agree with the idea.
 
 There are two sub-types of `concur` which we do not differentiate in the current project. These are `affirm` and `concede` (Tan, 2010).  
@@ -181,6 +188,8 @@ See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions)
 
 
 ### Proclaim: Pronounce
+
+{: .def}
 >An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation.
 
 In pronounce, the writer shows strong commitment that their idea is TRUE. Reader would consider that this is a very bold move.
@@ -218,6 +227,8 @@ Martin and White (2005) writes:
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Proclaim: Endorse
+
+{: .def}
 >An utterance which refers to external sources as warrantable, undeniable, and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed.
 
 Essentially, in `Endorse` option, a writer use an external source and align with it to support their views. 
@@ -237,6 +248,8 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Entertain
+
+{: .def}
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
 
 Entertain can be achieved by a range of lexico-grammatical resources. These include but not limited to, modal verbs (`may`), conditional clauses (`if`), evidential markers (`appear/seem`), and adverbial phrases (`generally`, `perhaps`).  
@@ -271,6 +284,8 @@ See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions)
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Attribute
+
+{: .def}
 >An utterance which signifies dialogic space as the writer attributes the proposition to an external source.
 
 Typically, this move is achieved by "X [third person] says/reports/states/declares/announces" or "According to X", which shows that the idea is borrowed from the external source.
@@ -299,7 +314,9 @@ Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attribu
 
 ### Justify
 
+{: .def}
 >An utterance which engage in persuasion through justification or substantiation.
+
 This move is typically achieved by subordinate clauses or prepositional phrases expressing reasons (e.g., `because`, `considering that`, `given that`, `because of`, `due to`).
 
 - **Because the steps are made of a smooth, polished—and therefore slippery—stone**, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
@@ -312,7 +329,10 @@ This move is typically achieved by subordinate clauses or prepositional phrases 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Monogloss
+
+{: .def}
 >An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.
+
 **As of April 9th, we will NOT use a Monogloss tag. A main clause without any engagement values are all considered monogloss.**
 Examine this fact in the following examples, where there should be no engagement-invoking lexico-grammatical items in each sentence.
 
@@ -341,6 +361,7 @@ To test if the sentence is monogloss, you can try adding any engagement items, f
 
 ### Citations (Updated on Feb 25th.)
 
+{: .def}
 > Citation is segment of the text where external source(s) are referenced in the text. 
 
 There are several types of citation format to identify in the current corpus. 
