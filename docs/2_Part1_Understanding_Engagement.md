@@ -112,7 +112,7 @@ So, It is important to fully understand what each category means through closely
 ### Disclaim: Deny
 
 {: .def}
-An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.
+>An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.
 
 In other words, `deny` move includes acknowledgement to an alternative position so as to reject it. Typically the meaning is realized using negations.
 - Linguistics is **not** easy.
