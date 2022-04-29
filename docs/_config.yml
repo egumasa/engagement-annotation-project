@@ -123,4 +123,16 @@ compress_html:
   # ignore:
   #   envs: all
 
+callouts:
+  highlight:
+    color: yellow
+    opacity: 0.5
+  important:
+    title: Important
+    color: green
+  note:
+    title: Note
+    color: blue
+
+
 remote_theme: pmarsceill/just-the-docs
