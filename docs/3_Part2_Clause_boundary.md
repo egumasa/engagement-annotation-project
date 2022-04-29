@@ -21,12 +21,14 @@ The followings are how we will tag on different types of clauses:
 | [FRAGMENT](#fragment)               | An imcomplete sentential unit. Typically, without any verbs.                                                                                                                                                                                         |
 
 
-**NOTE**: When we identify clauses, we do NOT consider punctuation at the end of the clause boundaries as a part of the clause. 
+{: .note }
+When we identify clauses, we do NOT consider punctuation at the end of the clause boundaries as a part of the clause. 
 
 ---
 
 ## Simple MAIN clauses
 
+{: .def}
 Simple main clauses are defined as:
 > A clause that can stand alone to make a complete sentence.
 
@@ -39,6 +41,7 @@ In webanno, you will annotate the clause in the following manner:
 
 ## Coordinated clauses – More than one MAIN clauses
 
+{: .def}
 Coordinated clauses are independent/main clauses that are connected via coordinating conjunctions (e.g., `and`, `but`, `or`).
 
 You can also consider colon `:` and semi-colon `:` as an implicit coordination of two MAIN clauses.
@@ -59,6 +62,7 @@ In webanno, you will annotate the clause in the following manner:
 
 ## SUBORDINATE clauses
 
+{: .def}
 Subordinate clauses are defined as:
 > a dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `when`) or adverbial particle
 
@@ -84,7 +88,8 @@ A subordinate clause can either follow or preceed the main clause.
 Following sections describes each type in details.
 ### Adverbial clauses 
 
-Adverbial clause is a type of subordinate clause, which typically add 'secondary information' to the main clause.
+{: .def}
+>Adverbial clause is a type of subordinate clause, which typically add 'secondary information' to the main clause.
 
 Common subordinate conjunctions, which introduce a subordinate clause, include:
 - **Concessions**: although, as, as though, even, even though, though, just as though, whereas, while
@@ -110,8 +115,8 @@ In webanno, you will annotate these in the following manner:
 
 ### Adverbial particle clauses
 
-
-In some cases, a subordinate clause can also be realized with non-finite particles (e.g., `-ing`, `-ed`, `-en`).
+{: .def}
+>In some cases, a subordinate clause can also be realized with non-finite particles (e.g., `-ing`, `-ed`, `-en`).
 
 | Subordinate clause                                         | Main clause                                                         |
 | :--------------------------------------------------------- | :------------------------------------------------------------------ |
@@ -135,6 +140,7 @@ On webanno, you should segment the clause in the following manner.
 
 ## Embedded clauses
 
+{: .def}
 Emdedded clauses are defined as:
 > a type of dependent clause that function as a part of another clause. That is, an embedded clause is included in a subject, object of another clause (i.e., complement clause) or function as an adjective to modify a noun (i.e., relative clause).
 
@@ -179,7 +185,8 @@ The other type of relative clause typically elaborates the content of the whole 
 
 ## Fragment
 
-Fragment here is defined as an indepent line in the annotation data that does not have any clausal element.
+{: .def}
+> Fragment here is defined as an indepent line in the annotation data that does not have any clausal element.
 
 This is mostly due to the automatic sentence segmentation issue or syntactic errors in the original essays.
 
