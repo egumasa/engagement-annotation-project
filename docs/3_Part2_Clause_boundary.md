@@ -121,6 +121,8 @@ In some cases, a subordinate clause can also be realized with non-finite particl
 | **Having been working on his paper for more than a week**, | John decided he would turn it in without further revision.          |
 | **Being worn out from all the work**,                      | John decided to relax for the evening.                              |
 | **The bus drivers being on strike**,                       | many people had to get to work using other means of transportation. |
+| **Relaxingly leaning against a tree** ,                    | Thune sports a flannel shirt tucked into a pair of blue jeans .     |
+
 
 | Main clause                            | Subordinate clause                             |
 | :------------------------------------- | :--------------------------------------------- |
@@ -132,6 +134,8 @@ On webanno, you should segment the clause in the following manner.
 ![Figure_justifying](figures/clauses/present_participle.png)
 
 ![Figure_taking](figures/clauses/present_participle2.png)
+
+![Figure_leaning](figures/clauses/present_particle3.png)
 
 ---
 
