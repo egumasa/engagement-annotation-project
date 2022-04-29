@@ -68,13 +68,6 @@ As of April 9th, we decided to put a tag on the whole subordinate clause. This m
 | **As we mentioned in Chapter I**,          | however, we believe that it is better to conceive of grammar and lexicon as intertwined |
 
 
-## A detailed description of dependent clause types
-From the grammatical perspective, dependent clauses can be classified into several categories.
-Each deserve separate attention in the current documentation. Note there may be a correlation between structural patterns and `engagement` this is never absolute. 
-Remember that `engagement` is (discourse) semantic categories.
-
-
-
 ## References
 Larsen-Freeman, D., & Celce-Murcia, M. (2016). *The grammar book. Form, meaning and use for English language teachers* (3rd eds).
 
