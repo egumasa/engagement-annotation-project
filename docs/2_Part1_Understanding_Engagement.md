@@ -138,6 +138,7 @@ Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, 
 - **While that grief is deeply understood**, the problem with tragedies like this one is that they become a heyday for the overly-sincere, maudlin, righteousindignation crowd.
 - **Even though he had taken all his medication**, his leg did n’t look any better.
 - Every single law is addressed to the men, with the use of the pronoun “he” throughout the text, **even** when the laws are closely referring to female issues.
+- So they 're trying to create a candidate that can win **rather than a candidate that addresses these issues that are important to people**. (Disclaiming the idea of having a candidate who adresses important issues.)
 - The author **should have** considered all the potnetial interpretations before making a strong claim. 
 
 `Disclaim: Counter` sometimes includes less obvious realizations. For example, adjuncts such as *even*, *only*, *just*, and *still* may "also have a counter-expectational aspect to their meanings" (Martin & White, p. 121).
