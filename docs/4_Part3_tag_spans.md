@@ -10,8 +10,9 @@ This section deals with structural/grammatical issues during the annotation, par
 
 In the example in this document, the span for which the tag should be put is shown in **Bold** face. 
 
-{.label .label-green}
+{: .label .label-green}
 Updated on 26th, April
+
 
 
 | Features                                                                                                          | Example items                                       | Where to put a tag            |
