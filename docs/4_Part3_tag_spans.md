@@ -68,7 +68,7 @@ Common subordinate conjunctions, which introduce a subordinate clause, include:
 Note that the meaning of the subordinating conjunction depends on the context. 
 
 {: .caution}
-Concessions are likely to associate with `COUNTER`, and Conditions with `ENTERTAIN`. Some causal conjunctions are related to `JUSTIFY`.
+Some semantic categories of subordinate clauses (e.g., concession, Conditions) are closely related to some of the engagement meaning. For example, concessions are likely to associate with `COUNTER`, and Conditions with `ENTERTAIN`. Some causal conjunctions are related to `JUSTIFY`. Remember not all semantic categories are used as Engagement resource, nor not all instances of closely related categories just mentioned (e.g., concession, conditions) take on engagement value. 
 
 When an engagement meaning is realized by a subordinate conjunctions such as *although*, *while*, and *if*, you will put a tag on **the entire subordinate clause** (Modified on April 9th).
 - **Although the religion motif was not commonly discussed among the discussants**, the relevance of this theme to these various texts need to be brought to attention.
