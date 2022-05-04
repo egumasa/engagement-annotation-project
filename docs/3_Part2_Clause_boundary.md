@@ -142,14 +142,14 @@ On webanno, you should segment the clause in the following manner.
 ## Embedded clauses
 
 {: .def}
-> a type of dependent clause that function as a part of another clause. That is, an embedded clause is included in a subject, object of another clause (i.e., complement clause) or function as an adjective to modify a noun (i.e., relative clause).
+> a type of dependent clause that function as a part of another clause. That is, an embedded clause is included in a subject, object of another clause (i.e., complement clause) or function as an adjective to modify a noun (i.e., relative clause). Inserted clauses, such as parataxis, is also considered as a type of embedded clause.
 
 In the following examples, embedded clauses are _italicized_.
 
 - The paper argued _[that average price is not a meaningful measure of market power]_. (The clause functions as an object of argue.)
 - I wanna eat the ramen _[that she mentioned a couple of days ago]_. (The clause modifies "the ramen".)
 - And you will meet a man _[who says American Airlines took away his life]_. (The clause modifies "a man".)
-- The idea _[that a democratic school is one where kids have an equal vote]_, I think, is a mistake. (The clause is a complement of a noun.)
+- The idea _[that a democratic school is one where kids have an equal vote (Embedded 1)]_ , _[I think (Embedded 2)]_ , is a mistake. (The clause is a complement of a noun.)
 
 In webanno, you will annotate these in the following manner:
 ![Figure_Embedded](/figures/Embedded1.png)
