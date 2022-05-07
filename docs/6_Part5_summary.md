@@ -6,8 +6,10 @@ nav_order: 8
 
 Updated on 24th April 
 {.label .label-green}
+
 # Part 5 — Engagement tagging: Rules and Spans
 {: .no_toc }
+
 ## Table of Contents
 {: .no_toc }
 
@@ -15,6 +17,7 @@ Updated on 24th April
 {:toc}
 
 ---
+
 # Annotation procedure
 
 ## 1. Clause boundary detection
@@ -31,13 +34,39 @@ See [Modal sense Disambiguation](Modal-verb-sense.md) for details of this step.
 
 ## 3. Engagement annotation
 
-Finally, we look for any engagement in the sentence.
+When you annotate a sentence for Engagement, we first focus on identifying **primary** engagement strategy in a sentence. This is followed by tagging **secondary** engagement strategies.
 
-- A main clause should get at least one monogloss or any other heteroglossic tags. If there is NO heteroglossic tag, the main clause should have a monogloss tag.
-- Embedded clauses may or may not get engagement tag(s).
-- Subordinate clauses can get an engagement tag spanning the entire clause (e.g., `COUNTER`, `ENTERTAIN`).
-- Additionally, subordinate clauses may have additional engagement items inside the clause.
+### Primary engagement strategies
 
+Primary engagement strategies are those that characterize the engagement of a `MAIN` clause. This means that a construction with an engagement meaning (a) occurs within the `MAIN` clause but not in an `EMBEDDED` clause OR (b) corresponds to the span of a `SUBORDINATE` clause. 
+
+Consider the following monoglossic utterance:
+
+> The best method to understand how language proficiency develops is to look at large-scale observations from various sources.
+
+This utterance is monoglossic because the writer uses present tense 'is' to present the idea as if it is a fact. This is called a bare assertion (= `Monogloss`).
+
+Primary engagement strategies will change the "tone" of this statement, either `expand` or `contract` the discourse:
+
+- **In my opinion (ENTERTAIN)**, the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
+- **Perhaps (ENTERTAIN)**, the best method to understand how language proficiency develops be to look at large-scale observations from various sources.
+- The best method to understand how language proficiency develops **would (ENTERTAIN)** be to look at large-scale observations from various sources.
+- Researchers **proposed (ATTRIBUTE)** that the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
+- **Although it takes a great amount of effort (COUNTER)**, the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
+
+
+### Secondary engagement strategies
+
+Secondary engagement strategies occur in the `EMBEDDED` or `SUBORDINATE` clauses. They do not affect the overall engagement strategy of the sentence, but still contribute to the discourse to some extent.
+
+Even the primary strategy is monoglossic, the sentence can still have secondary engagement strategies.
+
+- The best method to understand how language proficiency **may (ENTERTAIN)** develop **is (MONOGLOSS)** to look at large-scale observations from various sources.
+
+In this example, the primary engagement strategy is monoglossic because there is no engagement resources that satisfies the criteria of primary engagement strategy defined above. However, it still has a modal verb (may) in an `EMBEDDED` clause. This modal very takes on secondary engagement (or `ENTERTAIN` category) in the sentence. It does not influence the overall clausal strategy, but still be considered entertaining the presupposed idea of the sentence.
+
+
+### Additional tips
 The following steps are meant to help you to look for potential linguistic structures that engagement strategy can surface. This is not an exhaustive list, so they should be used as only a recommended guidance.
 
 ### Functional perspective
@@ -51,6 +80,7 @@ The following steps are meant to help you to look for potential linguistic struc
 2. Look for any conjunctions and adverbial phrases in the main clauses.
 3. Look for any modal verbs, negative particles, .
 4. Does the sentence cite any sources?
+
 
 
 # Procedure at work 
