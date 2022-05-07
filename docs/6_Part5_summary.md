@@ -4,8 +4,6 @@ title: Part6—Recommended procedures
 nav_order: 8
 ---
 
-Updated on 24th April 
-{.label .label-green}
 
 # Part 5 — Engagement tagging: Rules and Spans
 {: .no_toc }
