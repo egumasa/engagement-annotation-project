@@ -37,7 +37,7 @@ See [Modal sense Disambiguation](Modal-verb-sense.md) for details of this step.
 
 
 When you annotate a sentence for Engagement, we first focus on identifying **primary** engagement strategy in a sentence. This is followed by tagging **secondary** engagement strategies. 
-To decide the categories of engagement, see [Engagement category](/docs/2_Part1_Understanding_Engagement.md).
+To decide the categories of engagement, see [Engagement category](2_Part1_Understanding_Engagement.md).
 
 ### 3a. Primary engagement strategies
 
