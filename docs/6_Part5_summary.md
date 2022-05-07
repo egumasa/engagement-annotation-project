@@ -36,9 +36,10 @@ See [Modal sense Disambiguation](Modal-verb-sense.md) for details of this step.
 ## 3. Engagement annotation
 
 
-When you annotate a sentence for Engagement, we first focus on identifying **primary** engagement strategy in a sentence. This is followed by tagging **secondary** engagement strategies.
+When you annotate a sentence for Engagement, we first focus on identifying **primary** engagement strategy in a sentence. This is followed by tagging **secondary** engagement strategies. 
+To decide the categories of engagement, see [Engagement category](/docs/2_Part1_Understanding_Engagement.md).
 
-### Primary engagement strategies
+### 3a. Primary engagement strategies
 
 Primary engagement strategies are those that characterize the engagement of a `MAIN` clause. This means that a construction with an engagement meaning (a) occurs within the `MAIN` clause but not in an `EMBEDDED` clause OR (b) corresponds to the span of a `SUBORDINATE` clause. 
 
@@ -57,7 +58,7 @@ Primary engagement strategies will change the "tone" of this statement, either `
 - **Although it takes a great amount of effort (COUNTER)**, the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
 
 
-### Secondary engagement strategies
+### 3b. Secondary engagement strategies
 
 Secondary engagement strategies occur in the `EMBEDDED` or `SUBORDINATE` clauses. They do not affect the overall engagement strategy of the sentence, but still contribute to the discourse to some extent.
 
@@ -76,7 +77,6 @@ The following steps are meant to help you to look for potential linguistic struc
 2. Does the sentence attribute the claim to any sources?
 3. Does the sentence assert their own point of view WITHOUT recognition to others (i.e., `Monogloss`)?
 
-
 ### Structural perspective
 1. Look out for any verbs in the main clause; Are they potentially engagement item (e.g., `say`, `believe`); Who says or believes?
 2. Look for any conjunctions and adverbial phrases in the main clauses.
@@ -86,13 +86,14 @@ The following steps are meant to help you to look for potential linguistic struc
 
 
 # Procedure at work 
+
 Consider the following example:
 > The question I will seek to answer is not whether schools should offer curricular choice.
 
 This sentence is annotated for clause types as follows:
 ![example-clause](figures/Tutorial/example_clause_boundary.png)
 
-1. First, we look for any engagement in the main clause. In this case we have `not` in the main clause, which is `DENY`.
+1. First, we look for any engagement in the main clause (= see [Primary engagement strategy](#3a-primary-engagement-strategies)). In this case we have `not` in the main clause, which is `DENY`.
 
 2. Next, we look at the two embedded clauses. We find modal verbs in both clauses, so we need to think about the in which sense these are used.
    - We consider that the first one is more related to `willingness` and `temporal` meaning than, for example, `epistemic`. So, we do not think this one is `ENTERTAIN`. 
