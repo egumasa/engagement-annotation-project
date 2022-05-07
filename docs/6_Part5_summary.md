@@ -20,6 +20,9 @@ Updated on 24th April
 
 # Annotation procedure
 
+Updated on May 7th, 2022
+{: .label .label-green}
+
 ## 1. Clause boundary detection
 
 For each sentence, annotation should start with clause boundary segmengation and clause type identification.
@@ -33,6 +36,7 @@ This will allow us to prepare for the following engagement annotation because al
 See [Modal sense Disambiguation](Modal-verb-sense.md) for details of this step.
 
 ## 3. Engagement annotation
+
 
 When you annotate a sentence for Engagement, we first focus on identifying **primary** engagement strategy in a sentence. This is followed by tagging **secondary** engagement strategies.
 
