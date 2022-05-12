@@ -72,6 +72,8 @@ In webanno, you will annotate the clause in the following manner:
 
 Subordinate clause can take a form of [adverbial clause](#adverbial-clauses) or [non-finite adverbial particle clause](#adverbial-particle-clauses) (see details below.)
 
+When you are not sure about the clause status of the adverbial element, see [this page](1_Basic_grammar.md#distinguishing-adverbial-clauses-and-adverbial-phrases).
+
 A subordinate clause can either follow or preceed the main clause. 
 
 | Main clause                                   | Subordinate clause                                                      |
