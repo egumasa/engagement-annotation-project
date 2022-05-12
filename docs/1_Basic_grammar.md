@@ -70,6 +70,9 @@ In the following example, adverbial phrases and clauses are contrasted.
 | **As we mentioned in Chapter I**,          | however, we believe that it is better to conceive of grammar and lexicon as intertwined |
 | **Before/After the play ended**,           | many patrons were crying.                                                               |
 | **Since you talked to me about it**,       | I've become convinced.                                                                  |
+| **As far as I know**,                      | he arrived this morning.                                                                |
+| **As soon as you can**,                    | give me a call.                                                                         |
+
 
 ## Bibliography
 Larsen-Freeman, D., & Celce-Murcia, M. (2016). *The grammar book. Form, meaning and use for English language teachers* (3rd eds).
