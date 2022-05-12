@@ -45,6 +45,9 @@ Contents moved to [clause boundary identification](3_Part2_Clause_boundary.md#em
 
 ## Distinguishing adverbial clauses and adverbial phrases
 
+Updated on May 12nd, 2022
+{: .label .label-green}
+
 As of April 9th, we decided to put a tag on the whole subordinate clause. This means that we do not really have to distinguish these two.
 In the following example, adverbial phrases and clauses are contrasted. 
 
