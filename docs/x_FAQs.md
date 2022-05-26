@@ -1,30 +1,16 @@
 ---
 layout: default
-title: FAQs
+title: !! Recent Changes
 nav_order: 18
 ---
 
-# FAQs
-This page list some FAQs, which have or have not been incorporated to the main guideline.
+# Recent Changes
 
-## Contents within direct quotes does not get an engagement tag.
-This is because the content within a direct quotations (" ") are not author's view, but the content on which the authors are supposed to take their stance on.
-For example:
-> **According to Habermas (ATTRIBUTE)**, "the public sphere in the political realm evolved from the public sphere in the world of letters, through the vehicle of public opinion it put the state in touch with the needs of society."
 
--> The content within the direct quote (i.e., "the public sphere ... ) does not get any tags.
 
-## Does "in addition" recieve any tags?
+## May 26th
 
-It is unlikely that transitional phrases (particularly "additions") would recieve engagement meaning.
-- In addition,
-- Additionally,
-- Thus,
-- Therefore,
+- Now we tag items that shows logical consequences (e.g., `therefore`, `thus`, `consequently`, `as such`, `accordingly`) as `JUSTIFY` (see [Justify](2_Part1_Understanding_Engagement.md#justify))
 
-But you will tag `Counter` for transitional phrases that counter the positions.
-- But,
-- However, 
-- Yet, 
-- etc.
 
+  
