@@ -166,6 +166,7 @@ There are two sub-types of `concur` which we do not differentiate in the current
 - **As we can see**, the popularity of Woodlands new town between residents and non-residents is directly opposite to each other.
 - Furthermore , **we can easily see** that the semantic overdetermination of the Pygmalion story is already there , as J. Hillis Miller sees , in Ovid .
 - _Everyone **knows** that_ linguistics is fun.
+- I **know** Inspector Morse was _supposed (ATTRIBUTE)_ to be the pinnacle of the late John Thaw’s career.
 
 `Concede` examples
 - **Admittedly**, he was badly behaved.
@@ -196,6 +197,7 @@ See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions)
 In pronounce, the writer shows strong commitment that their idea is TRUE. Reader would consider that this is a very bold move.
 Pronounce is where you 
 - _I **contend**_ it's the worst address by a British Prime Minister.
+- _I **insist** that_ she's the person for the job.
 - _I would **contend** that_ this enviable level of tolerance is not the result of direct government laws or interventions.
 - _I would **affirm**_ the judgment of the trail court and deny the motion to suppress Oliver’s statement.
 - **It is absolutely clear to me that** what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
@@ -259,6 +261,7 @@ ENTERTAIN move signals author's own subjectivity to present the idea.
 - **In my view/from my perspective/in my opinion**, linguistics is fun.
 - _I **think/suppose/suspect**_ Mary teaches French
 - _I **believe**_ that he’s lying. 
+-  I am **convinced** that she betrayed us.
 - _It **appears** that_ maximum price fixing does the greatest harm when set below a competitive level.
 - _That mismatch **seems**_ worse than it was ten years ago.
 - _His defensive behaviour **suggests**_ he feels ashamed and guilty that you’ve discovered his habit.
