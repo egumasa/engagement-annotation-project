@@ -111,6 +111,9 @@ So, It is important to fully understand what each category means through closely
 ## More elaborated description of each category with examples
 ### Disclaim: Deny
 
+CONTRACTION
+{: .label .label-yellow }
+
 {: .def}
 >An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.
 
@@ -125,6 +128,9 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Disclaim: Counter
+
+CONTRACTION
+{: .label .label-yellow }
 
 {: .def}
 >An utterance which expresses the present proposition as replacing and thus 'countering' another proposition which would have been expected.
@@ -151,6 +157,9 @@ Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Proclaim: Concur
+
+CONTRACTION
+{: .label .label-yellow }
 
 {: .def}
 >An utterance which shows writers' expectation for the putative readers to agree with the preposition and/or to have the same knowledge.
@@ -191,6 +200,9 @@ See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions)
 
 ### Proclaim: Pronounce
 
+CONTRACTION
+{: .label .label-yellow }
+
 {: .def}
 >An utterance which expresses a strong level of writer commitment through the author's explicit emphasis and interpolation.
 
@@ -209,8 +221,15 @@ Pronounce is where you
 - _But the **facts** of the matter are that_ we have never made the national decisions or marshaled the national resources required for such leadership.
 - The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
 - **There is no doubt that** globalization has a deep effect on China.
-  
 - I _**DID**_ turn out the lights before I left.
+
+Examples added on May 26th
+{: .label .label-green}
+
+- _We firmly **believe**_ deepwater drilling can be done safely and in an environmentally sensitive manner.
+  - Note: firmly here intensifies and increases the commitment by the author, so we consider them as `Pronounce` rather than `Entertain`.
+- 
+
 
 Pronounce is also realized by **intensifiers with clausal scope** such as `really`, `indeed`, etc.
 - I **really** think that it is true.
@@ -230,6 +249,9 @@ Martin and White (2005) writes:
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Proclaim: Endorse
+
+CONTRACTION
+{: .label .label-yellow }
 
 {: .def}
 >An utterance which refers to external sources as warrantable, undeniable, and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed.
@@ -251,6 +273,9 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Entertain
+
+EXPANSION
+{: .label .label-blue }
 
 {: .def}
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
@@ -288,6 +313,9 @@ See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions)
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Attribute
+
+EXPANSION
+{: .label .label-blue }
 
 {: .def}
 >An utterance which signifies dialogic space as the writer attributes the proposition to an external source.
@@ -328,6 +356,12 @@ This move is typically achieved by subordinate clauses or prepositional phrases 
 - **Because of the event happening next year**, the housing prices have gone up so rapidly around here.
 - **Given that about a quarter of all employed people move on and off the payrolls of individual firms during the year** , a need to move between firms to climb the career ladder would not seem to be a difficult barrier to surmount .
 - The items had been produced by ANPWS **for the following reasons** : ( a ) to generate publicity ( for some of Australia 's national parks ) , ( b ) to meet existing information requests from school students and the general public ( such as on Australia 's endangered plants ) , ( c ) to generate interest in particular topics ( such as remnant vegetation ) , and ( d ) to explain government policy ( on kangaroo harvesting ) . 
+
+Updated on May 26th
+{: .label .label-green}
+
+We will also consider logical connectors such as `therefore`, `thus`, `accordingly`, `as such` as Justify.
+- 
 
 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
