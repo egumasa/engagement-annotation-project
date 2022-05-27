@@ -257,9 +257,11 @@ CONTRACTION
 >An utterance which refers to external sources as warrantable, undeniable, and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed.
 
 Essentially, in `Endorse` option, a writer use an external source and align with it to support their views. 
-Typically, this is achieved by the use of verbal processes and their nominalized equivalents. Compared to `Attribute`, `Endorse` encodes writers more approval of the content.
+Typically, this is achieved by the use of verbal processes and their nominalized equivalents. Compared to [`Attribute`](#attribute), `Endorse` encodes writers more approval of the content.
+
 - _Evidence **showed** that_ . . . there was “a large number of small competitors, the absence of significant price wars, . . .”
 - _An interview by the Institute of Policy Studies (IPS) concerning national identity **revealed** that_ 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
+- First, _the study **found** that_ advisee perceptions of their advisor 's credibility was positively related to advisee perceptions of advisor mentoring and an advisor 's use of solution-oriented conflict management strategies. 
 - More specifically, _five studies **demonstrate** that_ investment dependence – investment by foreign firms in a society’s domestic economy increases economic inequality.
 - For instance, _young learners were **found** to_ perform differently on both text comprehension (e.g., Langer, 1985) and production (e.g. Hidi & Hidyard, 1983).
 - **As discussants correctly pointed out**, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
@@ -280,7 +282,9 @@ EXPANSION
 {: .def}
 >An utterance which opens the dialogic space by acknowledging a proposition as one possibility amongst others.
 
-Entertain can be achieved by a range of lexico-grammatical resources. These include but not limited to, modal verbs (`may`), conditional clauses (`if`), evidential markers (`appear/seem`), and adverbial phrases (`generally`, `perhaps`).  
+Essentially, Entertain option allows writers to show that they take into consideration potential alternative viewpoints in addition to one they are advancing. Entertain is a type of expansion strategy because they opens up the dialogic space to allow for other potential viewpoints.
+
+Entertain can be achieved by a range of lexico-grammatical structures. These include but not limited to, modal verbs (`may`), conditional clauses (`if`), evidential markers (`appear/seem`), and adverbial phrases (`generally`, `perhaps`).  
 
 ENTERTAIN move signals author's own subjectivity to present the idea. 
 - **In my view/from my perspective/in my opinion**, linguistics is fun.
@@ -320,6 +324,8 @@ EXPANSION
 {: .def}
 >An utterance which signifies dialogic space as the writer attributes the proposition to an external source.
 
+Attribute is another expansion strategy. In this move, the writer "reports" external source as one possible version of the truth (hence expansion). The writer essentially have no stake in reporting the idea. This can be contrasted with [`ENDORSE`](#proclaim-endorse), where the author shows greater alignments to the attributed idea as a valid and reliable one (hence contraction).
+
 Typically, this move is achieved by "X [third person] says/reports/states/declares/announces" or "According to X", which shows that the idea is borrowed from the external source.
 Martin & White (2005) says: "Under the heading of ‘attribution’, we deal with those formulations which disassociate the proposition from the text’s internal authorial voice by attributing it so some external source."
 
@@ -333,6 +339,7 @@ In many cases, `ATTRIBUTE` occurs where the author explicitly mention the source
 - _Tickner has **claimed** that_ regardless of the result, the royal commission was a waste of money and he would proceed with a separate inquiry into the issue headed by Justice Jane Matthews.
 - _**In Wong’s study**_, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
 - **Chomsky’s belief** that language is for individuals rather than groups .
+- In response to Jackson 's **assertion** that African Americans had progressed a lot in eighty odd years, Young **interrupted** him again and **informed** him, "we are not going to wait eighty more years, I will tell you that."
 
 In some cases, the author can present the idea without specifying the sources (but still present it as something they hear about).
 - _It is **said** that_ he lied about his age as he grew older …
@@ -340,7 +347,7 @@ In some cases, the author can present the idea without specifying the sources (b
 - _It is generally **understood** that_ science has developed a highly sophisticated way of representing ideas.
 
 
-Compared to `Endorse`, `Attribute` keeps a neutral stance on the content attributed.
+Compared to [`Endorse`](#proclaim-endorse), `Attribute` keeps a neutral stance on the content attributed.
 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
