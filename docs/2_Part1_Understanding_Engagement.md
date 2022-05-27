@@ -356,7 +356,7 @@ Compared to [`Endorse`](#proclaim-endorse), `Attribute` keeps a neutral stance o
 {: .def}
 >An utterance which engage in persuasion through justification or substantiation.
 
-This move is typically achieved by subordinate clauses or prepositional phrases expressing reasons (e.g., `because`, `considering that`, `given that`, `because of`, `due to`).
+This move is typically achieved by subordinate clauses or prepositional phrases expressing reasons (e.g., `because`, `considering that`, `given that`, `because of`, `due to`, `for this reason`).
 
 - **Because the steps are made of a smooth, polished—and therefore slippery—stone**, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
 - Accessibility is quite a key factor **because it is evident that the regional centre was built on the basis of good infrastructure**.
@@ -367,8 +367,11 @@ This move is typically achieved by subordinate clauses or prepositional phrases 
 Updated on May 26th
 {: .label .label-green}
 
-We will also consider logical connectors such as `therefore`, `thus`, `accordingly`, `as such` as Justify.
-- 
+We will also consider logical connectors such as `so`, `therefore`, `thus`, `accordingly`, `as such` as Justify. Note that `so` needs to be used to show logical relations to be tagged as `Justify`. 
+- **Accordingly**, a learner with a score of 50 is considered to have a vocabulary size of 5,000 words.
+- **As such**, a student can develop, or fail to develop, an isolated skill distinct from their general performance across skills.
+- Literacy varies within contexts; **therefore**, a single " literacy " does not exist.
+
 
 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
