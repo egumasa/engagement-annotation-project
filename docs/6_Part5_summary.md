@@ -70,18 +70,21 @@ In this example, the primary engagement strategy is monoglossic because there is
 
 
 ### Additional tips
-The following steps are meant to help you to look for potential linguistic structures that engagement strategy can surface. This is not an exhaustive list, so they should be used as only a recommended guidance.
+The following steps are meant to help you to look for potential linguistic structures that engagement strategy can surface. This is not an exhaustive list, so they should be used as only a recommended guidance. 
 
 ### Functional perspective
+
 1. Does the sentence hedge their statement (e.g., expression of likelihood)?
-2. Does the sentence attribute the claim to any sources?
+2. Does the sentence refer to any external sources (`ATTRIBUTE` or `ENDORSE`)? (see [Endorse vs Attribute](5_Part4_confusing_tags.md#endorse-contraction-or-attribute-expansion))
 3. Does the sentence assert their own point of view WITHOUT recognition to others (i.e., `Monogloss`)?
+4. Does the sentence recognize alternative view so as to disclaim (`DENY` or `COUNTER`)?
 
 ### Structural perspective
 1. Look out for any verbs in the main clause; Are they potentially engagement item (e.g., `say`, `believe`); Who says or believes?
 2. Look for any conjunctions and adverbial phrases in the main clauses.
-3. Look for any modal verbs, negative particles, .
+3. Look for any modal verbs, negative particles.
 4. Does the sentence cite any sources?
+
 
 
 
