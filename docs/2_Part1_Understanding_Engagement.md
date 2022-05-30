@@ -346,6 +346,17 @@ In some cases, the author can present the idea without specifying the sources (b
 - The government’s serologist **reportedly** lied about his qualifications.
 - _It is generally **understood** that_ science has developed a highly sophisticated way of representing ideas.
 
+Updated on May 30th
+{: .label .label-green}
+
+Additionally, `ATTRIBUTE` would include some implicit attribution like the followings:
+- Van de Kooi and Knorr (1973) **measured** one office building and five small dwellings over a period from February 1967 to August 1967 in The Netherlands.
+
+&rarr; This can be interpreted as "Van de Kooi and Knorr (1973) **(reported that they)** measured ~. So, in the annotation, we will tag **measured** as `ATTRIBUTE`.
+
+- Anderson (2004) **offers** a number of suggestions.
+&rarr; Here, **offer + suggestion** can be interpreted as `abstract representation` (called `grammatical metaphor`) of Anderson suggested many things. So, in the annotation we will put `ATTRIBUTE` tag on **offers**.
+
 
 Compared to [`Endorse`](#proclaim-endorse), `Attribute` keeps a neutral stance on the content attributed.
 

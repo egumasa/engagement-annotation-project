@@ -83,6 +83,30 @@ Consider the following two example where the communication verb SHOW has distinc
 In the first example, the verb `show` is used more descriptively, the author is talking about visual scene or imagery.
 In the second one, the verb is used to endorse the evidence "demonstrating" slow development in proficiency level.
 
+## ENTERTAIN or Monogloss
+
+In the current guideline, we will treat the following pattern as `MONOGLOSSIC`.
+
+### MONOGLOSS
+- It **is** important/necessary/vital/critical that a needs assessment be conducted to collect data related to the following.
+- It **is** important/necessary/vital for practitioners to allow time to explore client resources and opportunities as fully as possible. 
+
+Importantly, these expresses some value judgement on the content/argument itself. These are treated as `MONOGLOSS` because the value is presented just as a fact. The writer can further add `EXPANSION` strategies such as `entertain` or `ATTRIBUTE`:
+- It **may (ENTERTAIN)** be necessary for practitioners to allow time to explore client resources and opportunities as fully as possible
+- **Arguably/Apparently (ENTERTAIN)**, it is necessary for practitioners to allow time to explore client resources and opportunities as fully as possible
+- **According to Anderson (2002) (ATTRIBUTE)**, it is necessary for practitioners to allow time to explore client resources and opportunities as fully as possible.
+
+### ENTERTAIN
+On the other hand, `likelihood` expressions in such construction is treated as `ENTERTAIN`:
+- It is **likely/possible/probable** to ...
+- It is **possible/probable/unlikely/certain** that ...
+- It is **apparent** that ...
+- It is **arguable/concievable** that ...
+
+### PRONOUNCE
+Yet another category is `PRONOUCE`:
+- It is **clear/obvious** that ...
+
 # Other confusing patterns
 ## Rhetorical questions
 Rhetorical questions can have two functions, each corresponding either `Entertain` or `Concur`.
