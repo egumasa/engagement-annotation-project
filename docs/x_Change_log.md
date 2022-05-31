@@ -1,16 +1,26 @@
 ---
 layout: default
-title: !! Recent Changes
+title: Recent Changes
 nav_order: 18
 ---
 
-# Recent Changes
+# Recent Changes to the documentation (Change logs)
 
 
+## May 30th, 2022
+- 
 
 ## May 26th, 2022
 
 - Now we tag items that shows logical consequences (e.g., `therefore`, `thus`, `consequently`, `as such`, `accordingly`) as `JUSTIFY` (see [Justify](2_Part1_Understanding_Engagement.md#justify))
+- Labels which shows whether an engagement move is `EXPANSION` or `CONTRACTION` were added.
+
+CONTRACTION
+{: .label .label-yellow }
+
+EXPANSION
+{: .label .label-blue }
+
 
 ## May 7th, 2022
 

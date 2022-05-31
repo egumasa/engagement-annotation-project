@@ -92,8 +92,8 @@ In the current guideline, we will treat the following pattern as `MONOGLOSSIC`.
 - It **is** important/necessary/vital for practitioners to allow time to explore client resources and opportunities as fully as possible.
 
 {: .caution}
-Why are these monoglossic??
-Importantly, these expresses some value judgement on the content/argument itself. These are treated as `MONOGLOSS` because the value is presented just as a fact. The writer can further add `EXPANSION` strategies such as `entertain` or `ATTRIBUTE`:
+Why are these monoglossic?
+Importantly, these expresses some value judgement on the content/argument itself. These are treated as `MONOGLOSS` because the value is presented without recognizing other value judgement (e.g., unimportant). The writer can further add `EXPANSION` strategies such as `entertain` or `ATTRIBUTE`:
 
 - It **may (ENTERTAIN)** be necessary for practitioners to allow time to explore client resources and opportunities as fully as possible.
 - It **seems (ENTERTAIN)** vital for practitioners to allow time to explore client resources and opportunities as fully as possible.
