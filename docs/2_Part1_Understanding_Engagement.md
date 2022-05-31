@@ -352,9 +352,10 @@ Updated on May 30th
 Additionally, `ATTRIBUTE` would include some implicit attribution like the followings:
 - Van de Kooi and Knorr (1973) **measured** one office building and five small dwellings over a period from February 1967 to August 1967 in The Netherlands.
 
-&rarr; This can be interpreted as "Van de Kooi and Knorr (1973) **(reported that they)** measured ~. So, in the annotation, we will tag **measured** as `ATTRIBUTE`.
+&rarr; This can be interpreted as "Van de Kooi and Knorr (1973) **(reported that they)** measured ~." So, in the annotation, we will tag **measured** as `ATTRIBUTE` (see Hood, 2010, p. 181).
 
 - Anderson (2004) **offers** a number of suggestions.
+
 &rarr; Here, **offer + suggestion** can be interpreted as `abstract representation` (called `grammatical metaphor`) of Anderson suggested many things. So, in the annotation we will put `ATTRIBUTE` tag on **offers**.
 
 
