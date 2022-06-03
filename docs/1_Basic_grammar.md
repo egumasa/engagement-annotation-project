@@ -74,6 +74,93 @@ In the following example, adverbial phrases and clauses are contrasted.
 | **As soon as you can**,                    | give me a call.                                                                         |
 
 
+## Coordination
+
+Coordinations need special attention in the current annotation. In essense, coordination here means a "list" of two or more linguistic elements combined using coordinating conjunction such as `and`, `or`, etc.
+
+When dealing with coordination, it is important to understand the coordination can happen at different levels of grammar. Or put differently, coordination is a linguistic construction to connect two or more linguistic expression at the same levels of grammar (e.g., NOUNS, VERBS, CLAUSE, etc.). When the sentence is grammatical, it is important to ask coordination of WHAT, in order to differentiating the different types.
+
+### Coordination of noun phrases
+Perhaps, the most simple, prototypical coordination occurs when coordinating conjunctions are used to list THINGS (e.g., noun phrases.)
+
+- I ordered _**a panini** and **a cappuccino**_.
+- _**My parents** and **I**_ had a good time during the trip.
+- Some examples of this type of graphic are _**the histogram** and **the boxplot**_.
+
+### Coordination of adjectives
+It is possible for a noun to have multiple modifiers (such as adjectives). In this case, the coordination occurs within a noun phrase.
+
+- [...] to accomplish the KE maneuver in _a **smooth** and **effective** manner_.
+
+It is also possible that two or more adjectives are combied as predicates of the sentence (adjectival complement).
+
+- The space now will be _**smooth** and **flat**_. 
+
+
+### Coordination of other types of phrases
+
+Coordinations can happen at other types of phrases such as adverbs, adverbial expressions and prepositional phrases.
+
+#### adverbs
+- We made an effort to position the Innovation Lab _to **easily** and **quickly** adapt_ to emerging opportunities 
+
+#### adverbial phrases
+
+### Coordination of verb phrases
+
+This requires a little more attention because, in real-life examples, this looks very much alike coordination of two main clauses. 
+However, coordination of verb phrases is distinct from coordination of clauses. 
+An important characteristics of verb phrase coordination is the fact that the subject of the later verb phrases is omitted and assumed to be shared with the first verb phrase.
+
+- We **went to the cafe** and **ordered two cups of coffee**.
+
+In the example above, the second verb phrase (`ordered two cups of coffee`) does not have an explicit subject. Or more precisely, it shares the subject with the first verb phrase. This means they are **coordinated verb phrases** instead of coordinated clauses.
+
+Similar examples to help you understand the concept.
+
+-  We **administered** the revised instrument to a new sample and **conducted** a confirmatory factor analysis ( CFA ).
+-  At the second , they **reverse** and **run** back , ending up again in a line.
+
+{: .tips}
+Coordinating verb phrases can be detected by deleting the first element and see if the second element can stand alone.
+Because coordinating verb phrases does not have explicit subject in the second part, it cannot be indepent.
+
+### Coordination of MAIN clauses
+
+Compared to coordination of verb phrases, coordination of clauses are combination of two or more clauses. 
+This means that each coordinated elements can stand alone as a sentence even if other elements were deleted.
+
+- **We run all sounds**, and **we run the nation**.
+- **They fail to deal with individual learning styles** ; **and they consume inordinate amounts of classroom hours and educational resources**.
+
+Having explicit subject in the second coordinated element suggests they are coordination of CLAUSE, not phrases.
+
+
+### Coordination of SUBORDINATE clauses
+
+A couple more! You now see where I am heading to...? So, as much as we can coordinate MAIN clauses, we can also coordinate SUBORDINATE clauses.
+Subordinate clauses are typically those that are introduced by subordinating conjunction such as `because`, `while`, `when`, etc.
+
+From a functional perspective, this is likely happen when the writer wants to list reasons (`because`) and time (`when`).
+
+- **Because the manager is the apex of status and authority** and **because all information must come through this position** , the manager is at the focal point for decision making.
+
+Notice from the example above that the coordination happens between two `Because SUBJ VERB` structure, which indicates that this is a coordination of two subordinate clauses. This is true because we have a main clause (`the manager is at the focal point for decision making`) to which the two coordinated subordinate clauses are attached. 
+
+
+### Coordination of EMBEDDED clauses
+
+Okay, here we go. It is of course possible to coordinate embedded clauses. This is particularly relevant to us because we will see many cases of this.
+
+A prototypical pattern we will see is the following:
+
+- I think/believe/argue that A, that B, and that C.
+
+Here assume that each of the A, B, and C is clausal element introduced by `that`. So, here we have three that clauses connected via `and`. 
+
+This pattern may be easily confused with coordination of MAIN clauses because each element appears to be a full clause. But remember, if B and C is also the content of "I think", then it is coordinated EMBEDDING rather than completely separate clauses. I am planning to add more examples of this type.
+
+
 ## Bibliography
 Larsen-Freeman, D., & Celce-Murcia, M. (2016). *The grammar book. Form, meaning and use for English language teachers* (3rd eds).
 
