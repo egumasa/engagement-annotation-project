@@ -10,6 +10,7 @@ nav_order: 18
 ## June 5th, 2022
 - Modified description of [ATTRIBUTE](2_Part1_Understanding_Engagement.md#attribute) based on the discussion with an annotator.
 - Updated treatment of "it is important/necessary" to MONOGLOSS. For justification, see [confusing MONOGLOSS vs ENTERTAIN](5_Part4_confusing_tags.md#entertain-or-monogloss).  
+
 ## June 3rd, 2022
 - Added description of [coordination types](1_Basic_grammar.md#coordination). Please check this page to assist your clausal annotation.
 
