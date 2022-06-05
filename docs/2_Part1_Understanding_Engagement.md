@@ -347,6 +347,7 @@ In some cases, the author can present the idea without specifying the sources (b
 - The government’s serologist **reportedly** lied about his qualifications.
 - _It is generally **understood** that_ science has developed a highly sophisticated way of representing ideas.
 
+##### Implicit attribution
 Updated on May 30th
 {: .label .label-green}
 
@@ -361,6 +362,7 @@ Additionally, `ATTRIBUTE` would include some implicit attribution like the follo
 
 
 Compared to [`Endorse`](#proclaim-endorse), `Attribute` keeps a neutral stance on the content attributed.
+
 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
