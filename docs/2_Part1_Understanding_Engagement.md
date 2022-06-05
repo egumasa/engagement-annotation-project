@@ -324,7 +324,7 @@ EXPANSION
 {: .def}
 >An utterance which signifies dialogic space as the writer attributes the proposition to an external source.
 
-Attribute is another expansion strategy. In this move, the writer "reports" external source as one possible version of the truth (hence expansion). The writer essentially have no stake in reporting the idea. This can be contrasted with [`ENDORSE`](#proclaim-endorse), where the author shows greater alignments to the attributed idea as a valid and reliable one (hence contraction).
+Attribute is another expansion strategy. In this move, the writer presents an idea as a version of the truth by (explicitly or implicitly) referring to an external source (e.g., other authors/studies). The attribution can be made to some unspecified sources (see [below](#hear-say-as-attribute)). The writer essentially have no stake in reporting the idea. This can be contrasted with [`ENDORSE`](#proclaim-endorse), where the author shows greater alignments to the attributed idea as a valid and reliable one (hence contraction).
 
 Typically, this move is achieved by "X [third person] says/reports/states/declares/announces" or "According to X", which shows that the idea is borrowed from the external source.
 Martin & White (2005) says: "Under the heading of ‘attribution’, we deal with those formulations which disassociate the proposition from the text’s internal authorial voice by attributing it so some external source."
@@ -341,6 +341,7 @@ In many cases, `ATTRIBUTE` occurs where the author explicitly mention the source
 - **Chomsky’s belief** that language is for individuals rather than groups .
 - In response to Jackson 's **assertion** that African Americans had progressed a lot in eighty odd years, Young **interrupted** him again and **informed** him, "we are not going to wait eighty more years, I will tell you that."
 
+##### Hear-say as ATTRIBUTE
 In some cases, the author can present the idea without specifying the sources (but still present it as something they hear about).
 - _It is **said** that_ he lied about his age as he grew older …
 - The government’s serologist **reportedly** lied about his qualifications.
