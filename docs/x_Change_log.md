@@ -7,11 +7,14 @@ nav_order: 18
 # Recent Changes to the documentation (Change logs)
 
 
+## June 5th, 2022
+- Modified description of [ATTRIBUTE](2_Part1_Understanding_Engagement.md#attribute) based on the discussion with an annotator.
+  
 ## June 3rd, 2022
 - Added description of [coordination types](1_Basic_grammar.md#coordination). Please check this page to assist your clausal annotation.
 
 ## May 30th, 2022
-- 
+- Added some examples under [ATTRIBUTE](2_Part1_Understanding_Engagement.md#attribute). These are some ATTRIBUTE moves that are less obvious in the realization.
 
 ## May 26th, 2022
 
