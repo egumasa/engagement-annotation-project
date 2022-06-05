@@ -7,6 +7,9 @@ nav_order: 18
 # Recent Changes to the documentation (Change logs)
 
 
+## June 3rd, 2022
+- Added description of [coordination types](1_Basic_grammar.md#coordination). Please check this page to assist your clausal annotation.
+
 ## May 30th, 2022
 - 
 
