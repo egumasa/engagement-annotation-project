@@ -8,7 +8,7 @@ nav_order: 19
 This index is manually created, so it is not exhaustive. Hopefully it will help you locate the relevance pieces of information in the guideline.
 
 
-# Is this another main clause or a single main?
+## Is this another main clause or a single main?
 
 To be qualified as a main clause, the segment has to have an explicit subject.
 {: .tips}

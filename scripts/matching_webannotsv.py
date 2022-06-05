@@ -3,11 +3,11 @@ import csv
 import json
 from scripts.utils.aligner import needle, water
 
-file1 = "data/Annotated_files_ALM/Aaron_Afiles_220517/batch1_A1_pos_ALM.tsv"
-file2 = "data/Annotated_files_ME/batch1_A1_pos_ME.tsv"
+# file1 = "data/Annotated_files_ALM/Aaron_Afiles_220517/batch1_A1_pos_ALM.tsv"
+# file2 = "data/Annotated_files_ME/batch1_A1_pos_ME.tsv"
 
-conll1 = open(file1, 'r').read()
-conll2 = open(file2, 'r').read()
+# conll1 = open(file1, 'r').read()
+# conll2 = open(file2, 'r').read()
 
 
 def conll2list(conllfile):
@@ -50,8 +50,8 @@ def conll2dict(conllfile):
     return holder
 
 
-list1 = conll2dict(conll1)
-list2 = conll2list(conll2)
+# list1 = conll2dict(conll1)
+# list2 = conll2list(conll2)
 
 
 def clean_tag(label: str):
@@ -174,10 +174,14 @@ def dict2alignedtokens(dict1, dict2):
             text = content1['Text']
 
             for t1, t2 in zip(content1['lines'], content2['lines']):
-                tid1, charid, token1, xpos1, upos1, cl1, eng1, md1 = t1.strip(
-                ).split("\t")
-                tid2, charid, token2, xpos2, upos2, cl2, eng2, md2 = t2.strip(
-                ).split("\t")
+                if len(t1.strip().split("\t")) > 5:
+                    tid1, charid, token1, xpos1, upos1, cl1, eng1, md1 = t1.strip(
+                    ).split("\t")
+                    tid2, charid, token2, xpos2, upos2, cl2, eng2, md2 = t2.strip(
+                    ).split("\t")
+                elif len(t1.strip().split("\t")) > 3:
+                    tid1, charid, token1, cl1, eng1 = t1.strip().split("\t")
+                    tid2, charid, token2, cl2, eng2 = t2.strip().split("\t")
 
                 aligned_anno = align_tag(eng1, eng2)
                 #eng1 = clean_tag(eng1)
@@ -211,11 +215,15 @@ def dict2alignedtokens(dict1, dict2):
 
 list2alignedtokens(list1, list2)
 
-for fileno in range(0, 10):
-    file1 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ME/batch1_A{}_pos_ME.tsv".format(
+for fileno in range(14, 26):
+    file1 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ME/Training_ref/training_{}.tsv".format(
         fileno)
-    file2 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ALM/2A_completed/batch1_A{}_pos_ALM.tsv".format(
+    file2 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_Ryan/Annotated_files/training_{}_tokenized_RW.tsv".format(
         fileno)
+    # file1 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ME/batch1_A{}_pos_ME.tsv".format(
+    #     fileno)
+    # file2 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ALM/2A_completed/batch1_A{}_pos_ALM.tsv".format(
+    #     fileno)
     conll1 = open(file1, 'r').read()
     conll2 = open(file2, 'r').read()
     #list1 = conll2list(conll1)
@@ -227,7 +235,7 @@ for fileno in range(0, 10):
     aln_list = dict2alignedtokens(dict1, dict2)
 
     with open(
-            "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/input_for_reliabiliy/batch1_A{}_20220525_.json"
+            "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/input_for_reliabiliy/training_RYan{}_20220605_.json"
             .format(fileno), 'w') as f:
         json.dump(aln_list, f, indent=2)
 

@@ -42,6 +42,7 @@ def filter_agreements_v2(anno: list):
     agreed = []
 
     for sent in anno:
+
         disagree = False
 
         for t in sent['lines']:
@@ -75,16 +76,19 @@ def writebysent_v2(sent: dict, outfile: str, outdir: str):
 
 files = glob.glob('data/input_for_reliabiliy/Aaron_completed_As/*.json')
 
+files = glob.glob('data/input_for_reliabiliy/Training_Ryan/*.json')
+
 for file in files:
+    print(file)
     text = json.load(open(file, 'r'))
 
     dagr, agr = filter_agreements_v2(text)
-
+    #dagr, agr = filter_agreements(text)
     for sent in dagr:
         label_pair = []
-
+        print(sent['chunkid'])
         for t in sent['lines']:
-
+            print(t['tid'])
             if t['token1'] == t['token2']:
                 if t['tag1'] != t['tag2']:
                     label_pair.append("{}-{}".format(t['tag1'], t['tag2']))
@@ -92,4 +96,4 @@ for file in files:
         if len(label_pair) > 0:
             for pair in label_pair:
                 writebysent_v2(sent, pair,
-                               'data/disagreed_sentences/Aaron/202205Redo/')
+                               'data/disagreed_sentences/Ryan/Training14-25/')
