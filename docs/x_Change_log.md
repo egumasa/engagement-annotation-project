@@ -6,6 +6,8 @@ nav_order: 18
 
 # Recent Changes to the documentation (Change logs)
 
+## June 6th, 2022
+- Added links to [Part-of-Speech tag scheme](6_Part5_summary.md#part-of-speech-layers). Refer to these POS tagging scheme to assist your understading of the POS layers.
 
 ## June 5th, 2022
 - Modified description of [ATTRIBUTE](2_Part1_Understanding_Engagement.md#attribute) based on the discussion with an annotator.
