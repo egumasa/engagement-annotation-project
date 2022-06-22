@@ -14,6 +14,9 @@ import csv
 import glob
 import re
 
+import csv
+import itertools
+
 
 # =============================================================================
 #  Accurary functions here
@@ -188,12 +191,29 @@ def reduce_entry(anno: list):
 
 
 inputfiles = glob.glob(
-    "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/input_for_reliabiliy/Aaron_completed_As/batch1_*.json"
+    "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/input_for_reliabiliy/Ryan_As_20220620/A_batch_Ryan[0-9]_20220620_.json"
+)
+len(inputfiles)
+
+holder = []
+for file in inputfiles:
+    with open(file, 'r') as f:
+        lst = reduce_entry(json.load(f))
+
+        holder.extend(lst)
+
+temp_dict = list2dict(holder)
+simple_acc(temp_dict)
+pp.pprint(calc_recall_prec_f1(temp_dict))
+
+## aaron
+
+inputfiles = glob.glob(
+    "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/input_for_reliabiliy/Aaron_completed_As/A_batch_Aaron*_20220620_.json"
 )
 
 holder = []
 for file in inputfiles:
-
     with open(file, 'r') as f:
         lst = reduce_entry(json.load(f))
 
@@ -219,6 +239,38 @@ for file in inputfiles:
 
         simple_acc(temp_dict)
         pp.pprint(calc_recall_prec_f1(temp_dict))
+
+## Aaron and Ryan agreement
+
+inputfiles = glob.glob(
+    "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/input_for_reliabiliy/Aaron-Ryan/A_batch_AaronRyan*_20220620_.json"
+)
+holder = []
+for file in inputfiles:
+
+    with open(file, 'r') as f:
+        lst = reduce_entry(json.load(f))
+
+        holder.extend(lst)
+
+temp_dict = list2dict(holder)
+simple_acc(temp_dict)
+pp.pprint(calc_recall_prec_f1(temp_dict))
+
+
+def dict2csv(rec_prec_f1: dict, save_dir: str):
+    fields = ['Eng', 'recall', 'precision', 'f1', 'TC', "TP", 'FP', 'FN']
+    with open(save_dir, "w") as f:
+        w = csv.DictWriter(f, fields)
+        w.writeheader()
+        for k in rec_prec_f1:
+            w.writerow(
+                {field: rec_prec_f1[k].get(field) or k
+                 for field in fields})
+
+
+result = calc_recall_prec_f1(temp_dict)
+dict2csv(calc_recall_prec_f1(temp_dict), 'data/pres_recall_f1_RyanA0-9.csv')
 
 # inputfiles = glob.glob("/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/input_for_reliabiliy/*.json")
 # len(inputfiles)
