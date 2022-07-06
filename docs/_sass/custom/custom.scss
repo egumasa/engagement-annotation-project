@@ -100,6 +100,7 @@ h4 .katex {
 h4,
 .text-delta {
 	@include fs-4;
-	font-weight: 400;
+	font-weight: 300;
+	text-transform: none;
 	letter-spacing: 0.1em;
 }
