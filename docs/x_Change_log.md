@@ -12,6 +12,7 @@ nav_order: 18
 - Added two sections under `DENY`.
   - We will treat `not only` and `not just` as `COUNTER`. [Go to this section](2_Part1_Understanding_Engagement.md#tagging-not-only-as-counter2part1understandingengagementmddisclaim-counter)
   - Added some detailed explanation on negative prefix about when and when not they are `DENY` [Go to this section](2_Part1_Understanding_Engagement.md#tagging-negative-prefixes-such-as-un--non)
+- *(CORRECTION)* Fixed errors on the [clausal identification example for citation](4_Part3_tag_spans.md#citations)
 
 ## June 6th, 2022
 
