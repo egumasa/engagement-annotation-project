@@ -125,6 +125,14 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 - Natural gas burns with twice the heat of coal gas, is **not** poisonous and has **no** odor.
 - There is **nothing** wrong with your proposal.
 
+
+{: .tips}
+We will treat following expressions as `COUNTER` not `DENY`:
+- `not only`
+- `not just`
+The reason for this decision is that we found that `not only` does not always paired with `but also` but still works just like a `COUNTER` move. This indicates that `not only` is a multiword expression that has potential to `COUNTER` the discourse by itself.
+
+
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
 ### Disclaim: Counter
@@ -146,6 +154,8 @@ Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, 
 - Every single law is addressed to the men, with the use of the pronoun “he” throughout the text, **even** when the laws are closely referring to female issues.
 - So they 're trying to create a candidate that can win **rather than a candidate that addresses these issues that are important to people**. (Disclaiming the idea of having a candidate who adresses important issues.)
 - The author **should have** considered all the potnetial interpretations before making a strong claim. 
+- As Mary Ann Glendon notes , the American Constitution is " **not only** a charter of rights **but** a design for government which places important limits on both judicial and legislative lawmaking " ( Scalia , 108 - 9 ). 
+
 
 `Disclaim: Counter` sometimes includes less obvious realizations. For example, adjuncts such as *even*, *only*, *just*, and *still* may "also have a counter-expectational aspect to their meanings" (Martin & White, p. 121).
 - They **even** organised a car for you at the airport.

@@ -175,18 +175,22 @@ def dict2alignedtokens(dict1, dict2):
             text = content1['Text']
 
             for t1, t2 in zip(content1['lines'], content2['lines']):
-                if len(t2.strip().split("\t")) > 7:
+                if len(t1.strip().split("\t")) > 7:
                     tid1, charid, token1, xpos1, upos1, cl1, eng1, md1 = t1.strip(
                     ).split("\t")
-                    tid2, charid, token2, xpos2, upos2, cl2, eng2, md2 = t2.strip(
-                    ).split("\t")
-                elif len(t2.strip().split("\t")) == 7:
-                    tid1, charid, token1, xpos1, upos1, cl1, eng1, md1 = t1.strip(
-                    ).split("\t")
-                    tid2, charid, token2, xpos2, upos2, cl2, eng2 = t2.strip(
+                elif len(t1.strip().split("\t")) == 7:
+                    tid1, charid, token1, xpos1, upos1, cl1, eng1 = t1.strip(
                     ).split("\t")
                 elif len(t1.strip().split("\t")) > 3:
                     tid1, charid, token1, cl1, eng1 = t1.strip().split("\t")
+
+                if len(t2.strip().split("\t")) > 7:
+                    tid2, charid, token2, xpos2, upos2, cl2, eng2, md2 = t2.strip(
+                    ).split("\t")
+                elif len(t2.strip().split("\t")) == 7:
+                    tid2, charid, token2, xpos2, upos2, cl2, eng2 = t2.strip(
+                    ).split("\t")
+                elif len(t2.strip().split("\t")) > 3:
                     tid2, charid, token2, cl2, eng2 = t2.strip().split("\t")
 
                 aligned_anno = align_tag(eng1, eng2)
@@ -229,9 +233,9 @@ def tsv2json(start,
 
     for fileno in range(start, end):
 
-        file1 = "data/annotated_tsv/{}/{}-batch/batch1_{}{}_pos_{}.tsv".format(
+        file1 = "data/annotated_for_reliability/{}/{}-batch/batch1_{}{}_pos_{}.tsv".format(
             anno_name1, batch_letter, batch_letter, fileno, anno_name1)
-        file2 = "data/annotated_tsv/{}/{}-batch/batch1_{}{}_pos_{}.tsv".format(
+        file2 = "data/annotated_for_reliability/{}/{}-batch/batch1_{}{}_pos_{}.tsv".format(
             anno_name2, batch_letter, batch_letter, fileno, anno_name2)
         # file1 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ME/batch1_A{}_pos_ME.tsv".format(
         #     fileno)

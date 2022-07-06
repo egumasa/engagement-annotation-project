@@ -1,0 +1,133 @@
+{
+  "norm": {
+    "as": 5,
+    "obiviously": 1,
+    "no": 1,
+    "see": 1,
+    "obviously": 1,
+    "certainly": 1,
+    "we": 2,
+    "of": 2,
+    "let": 1,
+    "widely": 1,
+    "why": 1
+  },
+  "lemma": {},
+  "span_text": {
+    "As expected": 2,
+    "as I have argued": 1,
+    "Obiviously": 1,
+    "no doubt": 1,
+    "see": 1,
+    "Obviously": 1,
+    "Certainly": 1,
+    "As we knows": 1,
+    "We see": 1,
+    "of course": 2,
+    "As we all know": 1,
+    "let us": 1,
+    "we can reasonably expect": 1,
+    "widely held": 1,
+    "why not spend these time to study knowledge ?": 1
+  },
+  "dep": {
+    "mark": 5,
+    "advmod": 5,
+    "neg": 1,
+    "ROOT": 2,
+    "nsubj": 2,
+    "prep": 2
+  },
+  "word_dep_tag": {
+    "as_mark_IN": 5,
+    "obiviously_advmod_RB": 1,
+    "no_neg_RB": 1,
+    "see_ROOT_VB": 1,
+    "obviously_advmod_RB": 1,
+    "certainly_advmod_RB": 1,
+    "we_nsubj_PRP": 2,
+    "of_prep_IN": 2,
+    "let_ROOT_VB": 1,
+    "widely_advmod_RB": 1,
+    "why_advmod_WRB": 1
+  },
+  "pos": {
+    "SCONJ": 6,
+    "ADV": 5,
+    "VERB": 2,
+    "PRON": 2,
+    "ADP": 2
+  },
+  "tag": {
+    "IN": 7,
+    "RB": 5,
+    "VB": 2,
+    "PRP": 2,
+    "WRB": 1
+  },
+  "child_deps": {
+    "nsubj": 1,
+    "aux": 1,
+    "advmod": 1,
+    "ccomp": 2,
+    "punct": 2,
+    "pobj": 2,
+    "cc": 1
+  },
+  "child_seq": {
+    "": 13,
+    "nsubj-aux-advmod-ccomp-punct": 1,
+    "pobj": 2,
+    "cc-ccomp-punct": 1
+  },
+  "head": {
+    "expected": 2,
+    "argued": 1,
+    "is": 1,
+    "doubt": 1,
+    "see": 2,
+    "take": 1,
+    "like": 1,
+    "knows": 1,
+    "was": 1,
+    "know": 1,
+    "let": 1,
+    "expect": 1,
+    "held": 1,
+    "died": 1,
+    "spend": 1
+  },
+  "head_dep": {
+    "advcl": 5,
+    "ROOT": 11,
+    "advmod": 1
+  },
+  "head_dep_tag": {
+    "expected_advcl_VBN": 2,
+    "argued_advcl_VBN": 1,
+    "is_ROOT_VBZ": 1,
+    "doubt_advmod_RB": 1,
+    "see_ROOT_VB": 1,
+    "take_ROOT_VB": 1,
+    "like_ROOT_VB": 1,
+    "knows_advcl_VBZ": 1,
+    "see_ROOT_VBP": 1,
+    "was_ROOT_VBD": 1,
+    "know_advcl_VBP": 1,
+    "let_ROOT_VB": 1,
+    "expect_ROOT_VB": 1,
+    "held_ROOT_VBN": 1,
+    "died_ROOT_VBN": 1,
+    "spend_ROOT_VB": 1
+  },
+  "child": {
+    "we_nsubj": 1,
+    "will_aux": 1,
+    "now_advmod": 1,
+    "why_ccomp": 1,
+    "._punct": 2,
+    "course_pobj": 2,
+    "and_cc": 1,
+    "ignore_ccomp": 1
+  }
+}

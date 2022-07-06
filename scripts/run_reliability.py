@@ -3,11 +3,11 @@ from scripts.json2accuracy import json2dict
 from scripts.sorting_for_error_analysis import write_disagreed_conll
 
 annotator1 = "ME"
+annotator1 = "ALM"
 annotator2 = "RW"
-annotator2 = "ALM"
 
 batch_letter = "A"
-regex_fileno = "[5-9]"
+regex_fileno = "*"  #e.g. [5-9]
 
 tsv2json(start=0,
          end=10,
