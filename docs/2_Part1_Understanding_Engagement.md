@@ -128,10 +128,10 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 
 #### Tagging `not only` as [COUNTER](2_Part1_Understanding_Engagement.md#disclaim-counter)
 {: .tips}
-We will treat following expressions as `COUNTER` not `DENY`:
-- `not only`
-- `not just`
-The reason for this decision is that we found that `not only` does not always paired with `but also` but still works just like a `COUNTER` move. This indicates that `not only` is a multiword expression that has potential to `COUNTER` the discourse by itself.
+  We will treat following expressions as `COUNTER` not `DENY`:
+  - `not only`
+  - `not just`
+  The reason for this decision is that we found that `not only` does not always paired with `but also` but still works just like a `COUNTER` move. This indicates that `not only` is a multiword expression that has potential to `COUNTER` the discourse by itself.
 
 #### Tagging negative prefixes such as `un-`, `non-`
 
