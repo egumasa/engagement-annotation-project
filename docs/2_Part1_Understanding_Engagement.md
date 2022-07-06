@@ -128,6 +128,7 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 
 #### Tagging `not only` as [COUNTER](2_Part1_Understanding_Engagement.md#disclaim-counter)
 
+
 {: .tips}
   We will treat following expressions as `COUNTER` not `DENY`:
   - `not only`

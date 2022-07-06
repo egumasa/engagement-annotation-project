@@ -95,3 +95,11 @@ blockquote.note {
 h4 .katex {
 	text-transform: none;
 }
+
+
+h4,
+.text-delta {
+	@include fs-3;
+	font-weight: 400;
+	letter-spacing: 0.1em;
+}
