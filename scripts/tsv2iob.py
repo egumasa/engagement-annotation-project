@@ -84,12 +84,12 @@ def conll2dict(conllfile: str):
     return holder
 
 
-def sent2iob(sent_lines: list, col_size: int = 5):
+def sent2iob(sent_lines: list, col_size: int = 5, feature: str= 'engmt'):
     holder = []
     seen_tags = {}
 
     for l in sent_lines:
-        tags = l['engmt'].split("|")
+        tags = l[feature].split("|")
         if len(tags) > 1:
             print(tags)
 

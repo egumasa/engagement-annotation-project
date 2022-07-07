@@ -25,6 +25,7 @@ Updated on 26th, April
 | [Coordinating conjunctions](#coordinating-conjunctions)                                                           | but, and, yet                                       | on the item                   |
 | [Question](#questions)                                                                                            | Who thinks that smoking do no harm in 21st century? | on the entire question        |
 | [It is ADJ that construction](#it-is-adj-that-interpersonal-metaphor)                                             | It is unlikely that ....                            | On the construction           |
+| [Nominalization (To be updated)](#nominalized-construction)                                                       |                                                     |                               |
 | [Citations](#citations)                                                                                           | Kyle (2020); (Kyle, 2020)                           | See details                   |
 
 ## Modal verbs
@@ -105,6 +106,15 @@ When an engagement meaning is realized by a question, we will tag the whole ques
 When there is `It is ADJ that ~` construction, we will tag the entire span of this construction.
 
 ![Interpersonal_meta](figures/spans/Interpersonal_metaphor.png)
+
+## Nominalized construction
+(Under construction)
+
+Sometimes primary and more typically secondary engagement value is expressed using a nominalized construction.
+- **Chomsky’s belief** that language is for individuals rather than groups .
+- **I am of the opinion that** somebody is going to wake up suddenly and demand aluminum which means a demand for power.
+- 
+
 
 
 ## Citations

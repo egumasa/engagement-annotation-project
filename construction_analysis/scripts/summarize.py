@@ -4,7 +4,8 @@ import re
 import csv
 from typing import Dict
 
-filenames = glob.glob('construction_analysis/results/construction_freq_*.json')
+filenames = glob.glob(
+    'construction_analysis/results/construction_freq_FRAGMENT.json')
 
 
 def tag_collector(input: dict, key: str) -> dict:

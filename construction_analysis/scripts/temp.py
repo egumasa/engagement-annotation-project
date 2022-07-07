@@ -14,7 +14,7 @@ eng_parser = spacy.load(
 )
 
 
-def tsv2docs(filename: str):
+def tsv2docs(filename: str, feature: str = "engmt"):
     holder = []
 
     conll_file = conll2dict(open(filename, 'r').read())
@@ -22,7 +22,7 @@ def tsv2docs(filename: str):
         meta = sent['sentId']
         doc = nlp(sent['Text'])
         eng = eng_parser(sent['Text'])
-        iobs = sent2iob(sent['lines'])
+        iobs = sent2iob(sent['lines'], feature=feature)
         holder.append((doc, eng, iobs, meta))
     return (holder)
 
@@ -206,7 +206,10 @@ def span_extraction(doc, spans_key: str = 'sc'):
 #         print(span)
 
 
-def cx_analysis(doc_holder, cx_dict: dict, process_in_batch: bool = True):
+def cx_analysis(doc_holder,
+                cx_dict: dict,
+                process_in_batch: bool = True,
+                feature: str = 'engmt'):
 
     if process_in_batch:
         iob_holder = "\n\n".join(["\n".join(s[2]) for s in doc_holder])
@@ -288,11 +291,12 @@ def cx_analysis(doc_holder, cx_dict: dict, process_in_batch: bool = True):
 def run_cx_analysis(
         filenames: list,
         output: bool = True,
-        output_name: str = 'construction_analysis/results/test.json'):
+        output_name: str = 'construction_analysis/results/test.json',
+        feature: str = "engmt"):
 
     cx = {}
     for file in filenames:
-        hold = tsv2docs(file)
+        hold = tsv2docs(file, feature=feature)
 
         cx_analysis(
             hold, cx,
@@ -386,3 +390,10 @@ count_tag_per_move(cx_dict, "ATTRIBUTE")
 count_tag_per_move(cx_dict, "ENTERTAIN")
 count_tag_per_move(cx_dict, "MONOGLOSS")
 count_tag_per_move(cx_dict, "JUSTIFY")
+
+filenames = glob.glob('construction_analysis/data/tsv/*.tsv')
+clause_dict = run_cx_analysis(
+    filenames,
+    output_name='construction_analysis/results/span_info.json',
+    feature='clause')
+count_tag_per_move(cx_dict, "Fragment")
