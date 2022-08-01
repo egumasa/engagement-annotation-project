@@ -397,6 +397,14 @@ Additionally, `ATTRIBUTE` would include some implicit attribution like the follo
 
 Compared to [`Endorse`](#proclaim-endorse), `Attribute` keeps a neutral stance on the content attributed.
 
+##### Attribution using prepositional phrase
+
+Some prepositional phrases signaling (metaphorical) locations, can be treated as `ATTRIBUTE`, when that location is an external source.
+This include following examples:
+
+- _**In Wong’s study**_, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
+-  **In recent research on human evolution**, unique abilities for exact imitation contributed signally to our unique evolutionary trajectory.
+
 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
