@@ -126,6 +126,44 @@ Rhetorical questions categorized as `Concur` include following:
 - **Should we go to war against these children? (CONCUR)** (Tip: Tag the entire question.)
 
 
+## `whether SV` and `if SV`
+
+In some cases, the embedded clause introduced by `if` and `whether` is confusing to annotate. 
+
+Importantly, we need to think if this construction really ENTERTAINs options. It certainly is used to introduce two possible choices, but it really ENTERTAINs the option needs to be thought carefully considering the co-text (surrounding text).
+
+The following patterns can be thought of `ENTERTAIN` (the span of the tag is bolded):
+- I was **not sure whether** she had really understood my correction.
+- The researcher is **unsure whether** language proficiency is a potential source of unique variability.
+- We **do not know whether** 25% of our language learners' 68% of time on captions is automatic reading.
+- **Depending on whether a guess leads to a correct answer**, a guess can be defined as a correct guess or a wrong guess. 
+
+We can thus understand that `whether` is not considered `ENTERTAIN` automatically, but suggest there may be another important pattern that leads to `ENTERTAIN` reading.
+
+Conversely, the following patterns are not immediately considered as `ENTERTAIN`. The option is literally presented, but not entertained. We could perhaps treat the entire embedded clause as secondary engagement.
+
+- In Experiment 1 we **investigate (MONOGLOSS)** whether 7‐ and 12‐month‐old infants can learn simple structures that are based on identity and diversity (same/different) relations.
+- A related concern **is (MONOGLOSS)** whether a course of study, such as that suggested by Cultura , provides answers for “what culture” to teach within the language curriculum.
+- The p value **shows (MONOLOSS)** whether a parameter estimate was significant.
+- To explore whether development in affect contributes to achievement in EFL oral interaction, regression analyses were **conducted (MONOGLOSS)**.
+- **Irrespective of whether epilinguistic representations constitute explicit or implicit knowledge (COUNTER)**, what is important is the fact that they are not accessible to consciousness and, consequently, they cannot be verbalized. 
+
+
+## `would` in I would like to/ I would prefer
+
+In some cases `would` functions as polite expression, not to entertain options. 
+When `would` is used as a polite expression, carefully consider whether there is any opinions `ENTERTAINed` by the use of `would`. If not, do not treat them as `ENTERTAIN` and you can leave it untagged.
+
+- I would like to show that .... 
+- I would prefer going to ...
+- I would like to **argue (ENTERTAIN)** that X.
+
+This is consistent with the observation that expressions for personal preferrence does not take ENTERTAIN tag.
+
+- I **want (MONOGLOSS)** to play cards. (= I would **like (MONOGLOSS)** to play cards)
+- I like to go out for coffee. (= I would **like (MONOGLOSS)** to go out for coffee.)
+
+
 ## Multiple engagement resources in a T-unit
 Often times, we will find multiple engagement resources in a single unit (T-unit). 
 - **As the name implies (ATTRIBUTE)** _it **seemed (ENTERTAIN)**_ as if eating children was one of the main focuses of anti-witch writings.

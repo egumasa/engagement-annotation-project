@@ -255,6 +255,7 @@ Pronounce is where you
 - The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
 - **There is no doubt that** globalization has a deep effect on China.
 - I _**DID**_ turn out the lights before I left.
+- However, **there is mounting evidence that** processes of language acquisition, use, and change are not independent of one another but are facets of the same system.
 
 Examples added on May 26th
 {: .label .label-green}

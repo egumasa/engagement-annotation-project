@@ -168,10 +168,16 @@ def dict2alignedtokens(dict1, dict2):
         tokens = []
         cid = chunkid
 
-        if content1['sentId'] == content2['sentId']:  #Check alignment
+        _sameSent = (content1['sentId']
+                     == content2['sentId']) or (content1['Text']
+                                                == content2['Text'])
+
+        if _sameSent:  #Check alignment
             # iterating the two sentences
             # Accuracy for clause, ENGAGEMENT and modal verb
             sentid = content1['sentId']
+            if sentid == "NA":
+                sentid = content2['sentId']
             text = content1['Text']
 
             for t1, t2 in zip(content1['lines'], content2['lines']):
@@ -181,6 +187,9 @@ def dict2alignedtokens(dict1, dict2):
                 elif len(t1.strip().split("\t")) == 7:
                     tid1, charid, token1, xpos1, upos1, cl1, eng1 = t1.strip(
                     ).split("\t")
+                elif len(t1.strip().split("\t")) == 6:
+                    tid1, charid, token1, cl1, eng1, md1 = t1.strip().split(
+                        "\t")
                 elif len(t1.strip().split("\t")) > 3:
                     tid1, charid, token1, cl1, eng1 = t1.strip().split("\t")
 
@@ -190,6 +199,9 @@ def dict2alignedtokens(dict1, dict2):
                 elif len(t2.strip().split("\t")) == 7:
                     tid2, charid, token2, xpos2, upos2, cl2, eng2 = t2.strip(
                     ).split("\t")
+                elif len(t2.strip().split("\t")) == 6:
+                    tid2, charid, token2, cl2, eng2, md2 = t2.strip().split(
+                        "\t")
                 elif len(t2.strip().split("\t")) > 3:
                     tid2, charid, token2, cl2, eng2 = t2.strip().split("\t")
 
@@ -217,7 +229,7 @@ def dict2alignedtokens(dict1, dict2):
                 "lines": tokens
             })
         else:
-            for t1, t2 in zip(sent1, sent2):
+            for t1, t2 in zip(content1['lines'], content2['lines']):
                 print(t1, t2)
 
     return sent

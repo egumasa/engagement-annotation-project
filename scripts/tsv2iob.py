@@ -84,7 +84,7 @@ def conll2dict(conllfile: str):
     return holder
 
 
-def sent2iob(sent_lines: list, col_size: int = 5, feature: str= 'engmt'):
+def sent2iob(sent_lines: list, col_size: int = 5, feature: str = 'engmt'):
     holder = []
     seen_tags = {}
 
@@ -156,7 +156,7 @@ def write_file(output_name: str, data: list):
 # The output would be
 def Run():
     filenames = glob.glob(
-        '/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ALM/20220625_testrun/*.tsv'
+        '/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/data_to_convert/20220719_data_to_train/*.tsv'
     )
 
     holder = []

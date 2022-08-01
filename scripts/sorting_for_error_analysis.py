@@ -114,6 +114,7 @@ def json2dict(anno_name1: str,
 def write_disagreed_conll(anno_name1: str,
                           anno_name2: str,
                           batch_letter: str,
+                          output_letter: str,
                           regex_fileno: str = "*",
                           output_dir: str = 'disagreed_sentences',
                           input_root: str = 'data/input_for_reliability'):
@@ -129,7 +130,7 @@ def write_disagreed_conll(anno_name1: str,
 
     ## Creating directory if not exist
     path = 'data/{}/{}-{}_{}{}'.format(output_dir, anno_name1, anno_name2,
-                                       batch_letter, regex_fileno)
+                                       output_letter, regex_fileno)
 
     isExist = os.path.exists(path)
 
@@ -152,6 +153,7 @@ def write_disagreed_conll(anno_name1: str,
                 if t['token1'] == t['token2']:
                     if t['tag1'] != t['tag2']:
                         label_pair.append("{}-{}".format(t['tag1'], t['tag2']))
+                        break
 
             if len(label_pair) > 0:
                 for pair in label_pair:
