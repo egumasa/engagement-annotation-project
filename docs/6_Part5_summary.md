@@ -64,6 +64,13 @@ Primary engagement strategies will change the "tone" of this statement, either `
 - Researchers **proposed (ATTRIBUTE)** that the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
 - **Although it takes a great amount of effort (COUNTER)**, the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
 
+#### MONOGLOSS should be used when JUSTIFY and CITATION is the only other moves.
+
+Because `Justify` and `Citation` is treated as auxiliary engagement moves, we will tag `MONOGLOSS` to indicate that the sentence itself is presented `monoglossic`. For example:
+
+- I **decided (MONOGLOSS)** to writer a letter to the author **because the figure contained an error (JUSTIFY)**.
+
+The reason for this is that `Justify` and `Citation` is not determine the engagement of the whole clause (they are neither `expand` or `contract` the discourse).
 
 ### 3b. Secondary engagement strategies
 

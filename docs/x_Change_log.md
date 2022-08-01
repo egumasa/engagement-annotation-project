@@ -6,6 +6,10 @@ nav_order: 18
 
 # Recent Changes to the documentation (Change logs)
 
+## August 1st, 2022
+
+- Added guideline to tag MONOGLOSS when JUSTIFY and/or CITATION are only other moves. [Go to this addition](6_Part5_summary.md#monogloss-should-be-used-when-justify-and-citation-is-the-only-other-moves)
+- 
 
 ## July 7th, 2022
 

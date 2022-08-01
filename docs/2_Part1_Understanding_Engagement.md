@@ -421,7 +421,8 @@ We will also consider logical connectors such as `so`, `therefore`, `thus`, `acc
 - **As such**, a student can develop, or fail to develop, an isolated skill distinct from their general performance across skills.
 - Literacy varies within contexts; **therefore**, a single " literacy " does not exist.
 
-
+When `JUSTIFY` is the only move in the sentence, use `MONOGLOSS` tag. 
+[See more](6_Part5_summary.md#monogloss-should-be-used-when-justify-and-citation-is-the-only-other-moves).
 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
 
@@ -465,6 +466,9 @@ There are several types of citation format to identify in the current corpus.
 In the dataset to annotate, there will be cases where the citation is cut in the middle (e.g., `(Bell &amp;amp.`). 
 This is because the automatic system I used to segment the essay into sentences is not perfect. 
 In such cases, we will still tag the fragment of the citation as `CITATION`. (see more example of this kind)
+
+When `CITATION` is the only move in the sentence, use `MONOGLOSS` tag. 
+[See more](6_Part5_summary.md#monogloss-should-be-used-when-justify-and-citation-is-the-only-other-moves).
 
 #### 1. Narrative citation—Author (DATE) pattern
 Narrative citation pattern is where author's name is explicitly referenced in the prose. 
