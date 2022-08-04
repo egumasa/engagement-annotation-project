@@ -78,6 +78,11 @@ The writers can `proclaim` their views by (a) assuming that the readers would ag
 | Auxiliary   | [Justify](#justify)                                               | An utterance which engage in persuasion through justification or substantiation.                                                                                                                                                     |
 | Auxiliary   | [Citations](#citations-updated-on-feb-25th) (Updated on Feb 25th) | Citation is segment of the text where external source(s) are referenced in the text.                                                                                                                                                 |
 
+#### Note on `JUSTIFY` and `CITATION`
+
+- Auxiliary tags (`JUSTIFY` and `CITATION`) are added to supplement the engagement moves. When these two are the only moves in a sentence, the sentence also get `MONOGLOSS` tag. The reason is that neither `JUSTIFY` and `CITATION` are not heteroglossic moves.
+
+
 {: .note}
 In the example on this page, **Bold** face is used to show the span on which the tag is put. *Italics* shows the context which helps to decide the category.
 
