@@ -80,7 +80,7 @@ The writers can `proclaim` their views by (a) assuming that the readers would ag
 
 #### Note on `JUSTIFY` and `CITATION`
 
-- Auxiliary tags (`JUSTIFY` and `CITATION`) are added to supplement the engagement moves. When these two are the only moves in a sentence, the sentence also get `MONOGLOSS` tag. The reason is that neither `JUSTIFY` and `CITATION` are not heteroglossic moves.
+- Auxiliary tags (`JUSTIFY` and `CITATION`) are added to supplement the engagement moves. When these two are the only moves in a sentence, the sentence also get `MONOGLOSS` tag. The reason is that neither `JUSTIFY` and `CITATION` are not heteroglossic moves. [See more](6_Part5_summary.md#monogloss-should-be-used-when-justify-and-citation-is-the-only-other-moves)
 
 
 {: .note}
