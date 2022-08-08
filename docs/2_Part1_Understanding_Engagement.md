@@ -114,6 +114,7 @@ Two implications are:
 So, It is important to fully understand what each category means through closely examines the examples presented below.
 
 ## More elaborated description of each category with examples
+
 ### Disclaim: Deny
 
 CONTRACTION
