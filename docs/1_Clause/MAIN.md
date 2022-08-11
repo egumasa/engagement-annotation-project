@@ -1,8 +1,8 @@
 ---
 layout: default
 title: MAIN clause(s)
-parent: Step 3–Engagement categories
-nav_order: 3
+parent: Step 1–Clause-boundary detection
+nav_order: 1
 ---
 
 

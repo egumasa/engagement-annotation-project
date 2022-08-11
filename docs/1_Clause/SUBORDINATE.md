@@ -2,7 +2,7 @@
 layout: default
 title: SUBORDINATE clause
 parent: Step 1–Clause-boundary detection
-nav_order: 3
+nav_order: 2
 ---
 
 
