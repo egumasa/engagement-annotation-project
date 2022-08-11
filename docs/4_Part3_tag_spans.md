@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Part3—Engagement taging
-nav_order: 5
+title: Step 2—Engagement spans
+nav_order: 2
 ---
-# Part 3 — Engagement tagging: Rules and Spans
+# Step 2 — Engagement tagging: Rules and Spans
 
 # Tag spans by item type—Where exactly to put a tag on?
 This section deals with structural/grammatical issues during the annotation, particularly the decisions involving where to put the tag. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
