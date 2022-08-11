@@ -31,7 +31,7 @@ The following figure shows the result of this step.
 ![clause-boundary](../figures/procedures/clause.png)
 
 
-To see how to conduct [clause boundary detection](3_Part2_Clause_boundary.md).
+To see how to conduct [clause boundary detection](1_Clause/index.md).
 
 
 ## Step 2 Engagement span detection
@@ -41,13 +41,15 @@ Once the clause layer has been tagged, the next step is to identify any engageme
 
 ![engagement-span](../figures/procedures/engagement_span.png)
 
-For more details see [tag spans](4_Part3_tag_spans.md).
+For more details see [tag spans](2_Step2_tag_spans.md).
 
 
 
 ## Step 3 Engagement strategy annotation
 
 For each of the engagement resource spans, decide specific category of engagement strategy (e.g., `ENTERTAIN`, `ATTRIBUTE`, `CONCUR`, etc.).
+
+For details, see [engagement category](3_Categories/index.md).
 
 ![engagement-category](../figures/procedures/engagement_category.png)
 
@@ -57,6 +59,8 @@ For each of the engagement resource spans, decide specific category of engagemen
 As the final step, we will classify engagement resource into primary and secondary strategies.
 Primary strategies are those that determines the engagement values of the whole T-unit.
 Secondary strategies are those that supplement the primary engagement values in the clause; this often occurs (but not always) in the subordinate/embedded clauses.
+
+For details, see [primary vs secondary strategy].
 
 ![primary and secondary](../figures/procedures/primary.png)
 
