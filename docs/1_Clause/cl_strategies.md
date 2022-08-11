@@ -11,7 +11,7 @@ nav_order: 5
 In real example, we will deal with mixture of different types. 
 This is illustrated in the following examples.
 
-![Figure_real_examples](/figures/Real_examples1.png)
+![Figure_real_examples](figures/Real_examples1.png)
 
 ### Comments on the real examples
 
