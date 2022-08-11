@@ -12,8 +12,11 @@ This page provides an overviews on the procedure of Engagement resource annotati
 Essentially, we will provide annotations for the following layers in that order:
 
 **Step 1**: Clause boundary detection
+
 **Step 2**: Engagement span detection
+
 **Step 3**: Engagement stateragy annotation
+
 **Step 4**: Primary vs Secondary engagement classification
 
 
