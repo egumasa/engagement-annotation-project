@@ -8,7 +8,7 @@ nav_order: 2
 ## Annotation task description
 {: .no_toc }
 
-This page provides an overviews on the procedure of Engagement resource annotation. 
+This page provides an overview on the procedure of Engagement resource annotation. 
 Essentially, we will provide annotations for the following layers in that order:
 
 **Step 1**: Clause boundary detection

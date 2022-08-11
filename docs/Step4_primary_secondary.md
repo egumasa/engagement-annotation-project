@@ -4,6 +4,8 @@ title: Step 4–Primary vs Secondary classification
 nav_order: 7
 ---
 
+# Primary and Secondary classification
+
 After identifying engagement strategies, classify them into `Primary` and `Secondary` engagement strategies.
 
 

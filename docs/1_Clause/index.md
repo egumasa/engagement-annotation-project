@@ -7,8 +7,9 @@ nav_order: 2
 
 # Clause boundary detection 
 
+In this step, you will segment the running text into sentences and clauses. 
+Clause boundary detection aims to help you think about the overall structure of the sentence before tagging any engagement values.
 
-Clause boundary detection is an auxiliary task, which aims to help you to think about the overall structure of the sentence before tagging any engagement values. 
 
 {: .note }
 Since this is a auxiliary task, we do not really do full-fledged clausal analysis, such as non-finite clauses as modifier of nouns, etc.. Thus, the following guideline is not intended to conduct a full clausal analysis, but abbrebiated version that helps us during the engagement annotation.
