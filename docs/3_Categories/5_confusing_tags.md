@@ -2,7 +2,7 @@
 layout: default
 title: Confusing categories
 parent: Step 3–Engagement categories
-nav_order: 15
+nav_order: 20
 ---
 # Some confusing cases
 
@@ -30,7 +30,7 @@ If the subject of the sentence is related to the author themselves (e.g., I, thi
 - A majority of people **answered (ATTRIBUTE)** that ....
 
 See this contrast in the taxonomy.
-![attribute-entertain](figures/entertain_attribute.png)
+![attribute-entertain](../figures/entertain_attribute.png)
 
 # Contraction vs. Expansion
 
@@ -47,7 +47,7 @@ When the writer use communication verbs (argue, state, explain) with intensifica
 - The paper **rightly pointed (ENDORSE)** out that ....
 
 See this contrast in the taxonomy:
-![endorse-attribute](figures/endorse_attribute.png)
+![endorse-attribute](../figures/endorse_attribute.png)
 
 ## Pronounce (Contraction) or Entertain (Expansion)
 
@@ -59,7 +59,7 @@ While the two categories shares the idea of "author's subjective viewpoints", th
 - _I would **guess (ENTERTAIN)**_ the judgment of the trail court and deny the motion to suppress Oliver’s statement.
 
 See this contrast in the taxonomy:
-![pronounce_entertain](figures/pronounce_entertain.png)
+![pronounce_entertain](../figures/pronounce_entertain.png)
 
 # Confusing Monoglossic patterns
 
