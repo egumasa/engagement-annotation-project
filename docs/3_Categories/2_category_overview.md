@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Category overview—Expansion and Contraction
-parent: Engagement categories
+title: Engagement strategies–Overview
+parent: Step 3–Engagement categories
 nav_order: 2
 ---
 

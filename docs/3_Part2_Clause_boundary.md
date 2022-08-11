@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Part2–Clause boundary detection
-nav_order: 4
+title: Archive–Part2–Clause boundary detection
+nav_order: 24
 ---
 
 New

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Expand–ENTERTAIN
-parent: Engagement categories
+parent: Step 3–Engagement categories
 nav_order: 8
 
 ---
