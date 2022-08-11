@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Example child
-parent: Categories
+parent: Engagement categories
 nav_order: 3
 ---
