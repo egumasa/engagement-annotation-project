@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Archive–Part2–Clause boundary detection
+parent: Archives
 nav_order: 24
 ---
 

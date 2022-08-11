@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Step 2—Engagement spans
-nav_order: 2
+nav_order: 3
 ---
 # Step 2 — Engagement tagging: Rules and Spans
 
