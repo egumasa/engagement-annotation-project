@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Part5—Modal sense disambiguation
-nav_order: 7
+title: Archives–Part5—Modal sense disambiguation
+parent: Archives
+nav_order: 25
 ---
 # Modal sense disambiguation
 
