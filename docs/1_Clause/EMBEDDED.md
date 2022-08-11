@@ -18,7 +18,7 @@ In the following examples, embedded clauses are _italicized_.
 - The idea _[that a democratic school is one where kids have an equal vote (Embedded 1)]_ , _[I think (Embedded 2)]_ , is a mistake. (The clause is a complement of a noun.)
 
 In webanno, you will annotate these in the following manner:
-![Figure_Embedded](figures/Embedded1.png)
+![Figure_Embedded](../figures/Embedded1.png)
 
 Here are some major types of embedded clauses.
 

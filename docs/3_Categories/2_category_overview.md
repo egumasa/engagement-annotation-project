@@ -11,7 +11,7 @@ There are 9 categories of engagement moves to annotate in the current project (s
 
 Figure 2 shows the entire taxonomy. Based on Figure 2, we can understand that we have finer-grained discource moves as we go deeper into the taxonomy (e.g., `heterogloss` > `contract` > `disclaim` > `deny`). I will explain what these categories mean shortly, but remember that this taxonomy presents alternative stance-taking strategies (or discourse choices) a writer can make to position themselves in the writings. 
 
-![Figure 2](/figures/FullEngagementtaxonomy.png)
+![Figure 2](../figures/FullEngagementtaxonomy.png)
 (Adopted from Martin & White, 2005)
 
 

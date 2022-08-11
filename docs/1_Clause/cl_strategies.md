@@ -2,7 +2,7 @@
 layout: default
 title: REAL-WORLD Clause examples
 parent: Step 1–Clause-boundary detection
-nav_order: 5
+nav_order: 7
 ---
 
 

@@ -58,7 +58,7 @@ Note that the meaning of the subordinating conjunction depends on the context.
 
 
 In webanno, you will annotate these in the following manner:
-![Figure_subordinate](/figures/Main_subordinate1.png)
+![Figure_subordinate](../figures/Main_subordinate1.png)
 
 ### Adverbial particle clauses
 
@@ -80,10 +80,10 @@ In some cases, a subordinate clause can also be realized with non-finite particl
 
 On webanno, you should segment the clause in the following manner.
 
-![Figure_justifying](figures/clauses/present_participle.png)
+![Figure_justifying](../figures/clauses/present_participle.png)
 
-![Figure_taking](figures/clauses/present_participle2.png)
+![Figure_taking](../figures/clauses/present_participle2.png)
 
-![Figure_leaning](figures/clauses/present_particle3.png)
+![Figure_leaning](../figures/clauses/present_particle3.png)
 
 ---

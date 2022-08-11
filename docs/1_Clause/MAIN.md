@@ -14,7 +14,7 @@ nav_order: 1
 In addition to "simple" sentence structure, we will include imperative sentences (commands) as a independent main clause.
 
 In webanno, you will annotate the clause in the following manner:
-![Figure_main](./figures/simple_main_clauses1.png)
+![Figure_main](../figures/simple_main_clauses1.png)
 
 
 
@@ -34,7 +34,7 @@ You can also consider colon `:` and semi-colon `:` as an implicit coordination o
 
 
 In webanno, you will annotate the clause in the following manner:
-![Figure_Coordinated](./figures/Coord_clauses1.png)
+![Figure_Coordinated](../figures/Coord_clauses1.png)
 
 
 

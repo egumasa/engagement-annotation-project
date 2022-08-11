@@ -45,6 +45,6 @@ ENTERTAIN can include phrasing where the authors set the condition under which t
 Rhetorical questions are sometimes categorized as `Entertain` include following examples:
 - **So what brings happiness to our life? (ENTERTAIN)** (Tip: Tag the entire question.) 
 
-See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions)
+See [Rhetorical questions](../docs/4_Part3_confusing_tags.md#rhetorical-questions)
 
 [Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
