@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Recommended procedures
+parent: Archives
 nav_order: 8
 ---
 
