@@ -30,6 +30,7 @@ First of all, it is always helpful to clarify important terminologies we will us
 
 
 --- 
+
 ## Coordinated clauses
 
 Contents moved to [clause boundary identification](3_Part2_Clause_boundary.md#coordinated-clauses-–-more-than-one-main-clauses).
