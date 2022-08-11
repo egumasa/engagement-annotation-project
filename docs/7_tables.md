@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part7—Summary
+title: Tables
 nav_order: 9
 ---
 
