@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Confusing categories
-nav_order: 6
+parent: Step 3–Engagement categories
+nav_order: 15
 ---
-
 # Some confusing cases
 
 {: .no_toc }
