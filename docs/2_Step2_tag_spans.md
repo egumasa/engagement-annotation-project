@@ -3,9 +3,8 @@ layout: default
 title: Step 2—Engagement spans
 nav_order: 3
 ---
-# Step 2 — Engagement tagging: Rules and Spans
+# Step 2 — Engagement Spans
 
-# Tag spans by item type—Where exactly to put a tag on?
 This section deals with structural/grammatical issues during the annotation, particularly the decisions involving where to put the tag. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
 
 In the example in this document, the span for which the tag should be put is shown in **Bold** face. 
@@ -133,8 +132,6 @@ When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we i
 Sometimes primary and more typically secondary engagement value is expressed using a nominalized construction.
 - **Chomsky’s belief** that language is for individuals rather than groups .
 - **I am of the opinion that** somebody is going to wake up suddenly and demand aluminum which means a demand for power.
-- 
-
 
 
 ## Citations
