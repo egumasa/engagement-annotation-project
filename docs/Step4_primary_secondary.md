@@ -6,6 +6,10 @@ nav_order: 7
 
 # Primary and Secondary classification
 
+{: .label .label-green}
+New in Version 2
+
+
 After identifying engagement strategies, classify them into `Primary` and `Secondary` engagement strategies.
 
 

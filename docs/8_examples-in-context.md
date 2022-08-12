@@ -7,6 +7,10 @@ nav_order: 10
 
 # Examples in contexts
 
+{: .label .label-green}
+New in Version 2
+
+
 This page provides some example annotations based on previously published research. 
 The annotations were modified according to the current guideline. 
 
