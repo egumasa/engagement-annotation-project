@@ -14,7 +14,6 @@ In the example in this document, the span for which the tag should be put is sho
 Updated on 26th, April
 
 
-
 | Features                                                                                                          | Example items                                       | Where to put a tag            |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
 | [Modal verbs](#modal-verbs)                                                                                       | can, have to                                        | on the item                   |
