@@ -118,6 +118,9 @@ When there is `It is ADJ that ~` construction, we will tag the entire span of th
 
 ## Passive construction
 
+{: .label .label-green}
+New in Version 2
+
 When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we include `copula verb + lexical verb` in the span.
 
 - The data **was collected** in the local community.
