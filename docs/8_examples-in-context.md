@@ -16,12 +16,12 @@ The annotations were modified according to the current guideline.
 
 ## Lancaster (2014); (5) p. 43
 
-![ex2](/figures/examples/Lancaster(2014)_2.png)
+![ex2](../figures/examples/Lancaster(2014)_2.png)
 
 ## Lancaster (2014); (6) p. 44
 
-![ex3](./figures/examples/Lancaster(2014)_3.png)
+![ex3](../figures/examples/Lancaster(2014)_3.png)
 
 ## Lancaster (2014); Paragraph from Ken’s essay identified as strong; p. 47
 
-![ex4](./figures/examples/Lancaster(2014)_4.png)
+![ex4](../figures/examples/Lancaster(2014)_4.png)
