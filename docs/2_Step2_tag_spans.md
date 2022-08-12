@@ -24,6 +24,7 @@ Updated on 26th, April
 | [Coordinating conjunctions](#coordinating-conjunctions)                                                           | but, and, yet                                       | on the item                   |
 | [Question](#questions)                                                                                            | Who thinks that smoking do no harm in 21st century? | on the entire question        |
 | [It is ADJ that construction](#it-is-adj-that-interpersonal-metaphor)                                             | It is unlikely that ....                            | On the construction           |
+| [Passive construction](#passive-construction)                                                                     | is determined, was said                             | `copura ~ lexical verb`       |
 | [Nominalization (To be updated)](#nominalized-construction)                                                       |                                                     |                               |
 | [Citations](#citations)                                                                                           | Kyle (2020); (Kyle, 2020)                           | See details                   |
 
@@ -35,6 +36,12 @@ When an engagement meaning is realized by a modal verbs (e.g., can, may, might, 
 
 ![modal](figures/spans/modals.png)
 
+### List of modal verbs
+
+Following Halliday & Mathiessen (2014, p. 145), the following items are considered as modal verbs (Modal operators) in this project:
+- can, may, could, might, (dare), will, would, should, is to, was to, must, ought to, need to, have/has/had to
+- needn't, don't need to, don't have to, won't, wouldn't, shouldn't, (isn't/wasn't), mustn't, oughtn't to, can't, couldn't, (mayn't, mightn't, haven't to).
+
 ## Single-word adverbs
 
 When an engagement meaning is realized by a single word adverbs (e.g., probably, surprisingly, etc.), you will put a tag on the item.
@@ -42,6 +49,7 @@ When an engagement meaning is realized by a single word adverbs (e.g., probably,
 - He was **probabily** lying,
 
 ![advmod](figures/spans/advmod.png)
+
 ## Multi-word adverbs/ adverbial and prepositional constituency
 
 When an engagement meaning is realized by a multi-word adverbs, such as prepositional phrases, adverbial phrases, you will put a tag on the whole constituency.
@@ -100,11 +108,21 @@ When an engagement meaning is realized by a question, we will tag the whole ques
 
 ![questions](figures/spans/questions.png)
 
+
 ## It is ADJ that— Interpersonal metaphor
 
 When there is `It is ADJ that ~` construction, we will tag the entire span of this construction.
 
 ![Interpersonal_meta](figures/spans/Interpersonal_metaphor.png)
+
+
+## Passive construction
+
+When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we include `copula verb + lexical verb` in the span.
+
+- The data **was collected** in the local community.
+
+
 
 ## Nominalized construction
 (Under construction)
