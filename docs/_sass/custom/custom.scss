@@ -84,10 +84,13 @@ blockquote.note {
 
 }
 
+
 // Link wrap
 
 .main-content a {
 	white-space: normal;
+	width: 1200px;
+    max-width: 100%;
 }
 
 // KaTeX

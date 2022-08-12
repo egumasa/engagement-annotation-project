@@ -25,3 +25,4 @@ The annotations were modified according to the current guideline.
 ## Lancaster (2014); Paragraph from Ken’s essay identified as strong; p. 47
 
 ![ex4](../figures/examples/Lancaster(2014)_4.png)
+
