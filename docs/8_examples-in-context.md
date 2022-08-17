@@ -16,21 +16,21 @@ The annotations were modified according to the current guideline.
 
 ## Lancaster (2014); (2a) p. 39
 
-{: .m-lg-4 }
+{: .m-xl-4 }
 ![ex1](../figures/examples/Lancaster(2014)_1.png)
 
 ## Lancaster (2014); (5) p. 43
 
-{: .m-lg-4 }
+{: .m-xl-4 }
 ![ex2](../figures/examples/Lancaster(2014)_2.png)
 
 ## Lancaster (2014); (6) p. 44
 
-{: .m-lg-4 }
+{: .m-xl-4 }
 ![ex3](../figures/examples/Lancaster(2014)_3.png)
 
 ## Lancaster (2014); Paragraph from Ken’s essay identified as strong; p. 47
 
-{: .m-lg-4 }
+{: .m-xl-4 }
 ![ex4](../figures/examples/Lancaster(2014)_4.png)
 
