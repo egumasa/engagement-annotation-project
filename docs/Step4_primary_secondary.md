@@ -15,7 +15,7 @@ After identifying engagement strategies, classify them into `Primary` and `Secon
 
 ## Primary engagement strategies
 
-Primary engagement strategies are those that characterize the engagement of a `MAIN` clause. 
+Primary engagement strategies are those that characterize the engagement of whole `MAIN` clause. 
 As a rough guideline, these are constructions with an engagement meaning (a) occuring within the `MAIN` clause but not in an `EMBEDDED` clause OR (b) corresponding to the span of a `SUBORDINATE` clause.
 
 Consider the following monoglossic utterance:
