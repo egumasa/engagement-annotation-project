@@ -37,20 +37,21 @@ You can also see real examples of this step in the clause [here](1_Clause/cl_str
 
 ## Step 2 Engagement span detection
 
-Once the clause layer has been tagged, the next step is to identify any engagement strategies in the sentences. To this end, we will start by identifying the spans of engagement resources.
-
+Once the clause layer has been tagged, the next step is to identify any engagement strategies in the sentences. Step 2 and 3 are dedicated to this process. 
+Although Step 2 and 3 are presented separately, you would start identifying engagement categories (Step 3) immediately without explicitly following the recommended steps (Step 2 -> 3). This is totally fine. Just make sure that you identify the span of the engagement strategy correctly, which is described in this step. Alternatively, you can repeat Step 2 and 3 for each items you identified in the running sentence(s).
 
 ![engagement-span](../figures/procedures/engagement_span.png)
 
-For more details see [tag spans](2_Step2_tag_spans.md).
-
+For more details of this step see [tag spans](2_Step2_tag_spans.md).
 
 
 ## Step 3 Engagement strategy annotation
 
-For each of the engagement resource spans, decide specific category of engagement strategy (e.g., `ENTERTAIN`, `ATTRIBUTE`, `CONCUR`, etc.).
+For each of the engagement resource spans, decide specific category from the list of engagement strategies (e.g., `ENTERTAIN`, `ATTRIBUTE`, `CONCUR`, etc.).
 
 For details, see [engagement category](3_Categories/index.md).
+
+Once you are done with this step, the annotation should look like the following:
 
 ![engagement-category](../figures/procedures/engagement_category.png)
 
