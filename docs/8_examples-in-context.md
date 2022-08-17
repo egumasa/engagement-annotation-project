@@ -4,7 +4,7 @@ title: Examples with context
 nav_order: 10
 ---
 
-
+{: .m-xl-0 }
 # Examples in contexts
 
 {: .label .label-green}
@@ -16,7 +16,7 @@ The annotations were modified according to the current guideline.
 
 ## Lancaster (2014); (2a) p. 39
 
-{: .m-md-4 }
+
 ![ex1](../figures/examples/Lancaster(2014)_1.png)
 
 ## Lancaster (2014); (5) p. 43

@@ -19,19 +19,20 @@ Essentially, we will provide annotations for the following layers in that order:
 
 **Step 4**: Primary vs Secondary engagement classification
 
+These steps are explained below.
 
 ## Step 1 Clause boundary detection
 
-
-The annotation should start with clause boundary segmengation and clause type identification. In this task, you will segment running texts into sentences/clauses, and categorize the type of clauses (e.g., `MAIN`, `SUBORDINATE`).
-The purpose of this layer is help you correctly identify engagement strategies as well as their layers.
+The annotation should start with clause boundary segmengation and clause type identification. In this task, you will segment a running text into sentences/clauses and categorize the type of clauses (e.g., `MAIN`, `SUBORDINATE`).
+The purpose of this layer is help you better identify engagement strategies (Step 2 and 3) as well as detection of primary vs secondary engagement (Step 4).
 
 The following figure shows the result of this step.
 
 ![clause-boundary](../figures/procedures/clause.png)
 
 
-To see how to conduct [clause boundary detection](1_Clause/index.md).
+Essentially, you would follow the steps described in [clause boundary detection](1_Clause/index.md).
+You can also see real examples of this step in the clause [here](1_Clause/cl_strategies.md).
 
 
 ## Step 2 Engagement span detection
