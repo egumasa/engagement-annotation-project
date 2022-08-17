@@ -3,6 +3,9 @@ layout: default
 title: Step 2—Engagement spans
 nav_order: 3
 ---
+
+{: lg}
+
 # Step 2 — Engagement Spans
 
 This section deals with structural/grammatical issues during the annotation, particularly the decisions involving where to put the tag. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
