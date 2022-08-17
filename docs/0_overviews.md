@@ -62,6 +62,7 @@ As the final step, we will classify engagement resource into primary and seconda
 Primary strategies are those that determines the engagement values of the whole T-unit.
 Secondary strategies are those that supplement the primary engagement values in the clause; this often occurs (but not always) in the subordinate/embedded clauses.
 
+
 For details, see [primary vs secondary strategy].
 
 ![primary and secondary](../figures/procedures/primary.png)
