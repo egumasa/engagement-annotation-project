@@ -106,3 +106,14 @@ h4,
 	font-weight: bold;
 	text-transform: none;
 }
+
+body {
+  position: relative;
+  padding-bottom: $sp-10;
+  overflow-y: scroll;
+
+  @include mq(lg) {
+    position: static;
+    padding-bottom: 0;
+  }
+}
