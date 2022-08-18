@@ -15,8 +15,13 @@ After identifying engagement strategies, classify them into `Primary` and `Secon
 
 ## Primary engagement strategies
 
-Primary engagement strategies are those that characterize the engagement of whole `MAIN` clause. 
-As a rough guideline, these are constructions with an engagement meaning (a) occuring within the `MAIN` clause but not in an `EMBEDDED` clause OR (b) corresponding to the span of a `SUBORDINATE` clause.
+Primary engagement strategies are those that characterize the engagement of a [T-unit](1_Basic_grammar.md#terminal-unit-t-unit).  
+
+- Typically, the following grammatical structures *tend to* take primary engagement strategy (but not always):
+  - Main verb of a `MAIN` clause
+  - Adverbial/Prepositional phrases that modify the `MAIN` clause
+  - The entire adverbial clauses that modify the `MAIN` clause
+  - Modal verbs in a `MAIN` clause
 
 Consider the following monoglossic utterance:
 
@@ -24,13 +29,14 @@ Consider the following monoglossic utterance:
 
 This utterance is monoglossic because the writer uses present tense 'is' to present the idea as if it is a fact. This is called a bare assertion (= `Monogloss`).
 
-Primary engagement strategies will change the "tone" of this statement, either `expand` or `contract` the discourse:
 
-- **In my opinion (ENTERTAIN)**, the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
-- **Perhaps (ENTERTAIN)**, the best method to understand how language proficiency develops be to look at large-scale observations from various sources.
-- The best method to understand how language proficiency develops **would (ENTERTAIN)** be to look at large-scale observations from various sources.
-- Researchers **proposed (ATTRIBUTE)** that the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
-- **Although it takes a great amount of effort (COUNTER)**, the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
+Primary engagement strategies will change the "tone" of this statement, either `expand` or `contract` the discourse, for example:
+
+- **In my opinion (ENTERTAIN/Prepositional phrase)**, the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
+- **Perhaps (ENTERTAIN/Adverb)**, the best method to understand how language proficiency develops be to look at large-scale observations from various sources.
+- The best method to understand how language proficiency develops **would (ENTERTAIN/Modal verb)** be to look at large-scale observations from various sources.
+- Researchers **proposed (ATTRIBUTE/Main verb)** that the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
+- **Although it takes a great amount of effort (COUNTER/adverbial clause)**, the best method to understand how language proficiency develops is to look at large-scale observations from various sources.
 
 #### MONOGLOSS should be used when JUSTIFY and CITATION is the only other moves.
 
@@ -42,7 +48,8 @@ The reason for this is that `Justify` and `Citation` is not determine the engage
 
 ## Secondary engagement strategies
 
-Secondary engagement strategies occur in the `EMBEDDED` or `SUBORDINATE` clauses. They do not affect the overall engagement strategy of the sentence, but still contribute to the discourse to some extent.
+Secondary engagement strategies usually occurs in the `EMBEDDED` or `SUBORDINATE` clauses. This is because embedded and subordinate clauses are categorized as dependent unit to `MAIN` clause.
+They do not affect the overall engagement strategy of the sentence, but still contribute to the discourse to some extent.
 
 Even the primary strategy is monoglossic, the sentence can still have secondary engagement strategies.
 
