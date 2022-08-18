@@ -31,4 +31,4 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 - ... **successfully explained** ...
 - As Hastie (an Englishman of their own political persuasion) so **compellingly argued**, ‘In any society racism will increase in direct proportion to the number of people who are given well-paid and prestigious positions to discover it.’
 
-[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
+[Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }

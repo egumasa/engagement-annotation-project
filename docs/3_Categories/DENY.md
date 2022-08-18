@@ -53,5 +53,4 @@ This is also another example of non-DENY negative prefix.
 Here, the word "impossible" describes a property of a task. The writer then ENTERTAINs this property by "would have been", making the overall engagement move as `ENTERTAIN`, not `DENY`. 
 
 
-[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
-
+[Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }

@@ -55,4 +55,4 @@ Martin and White (2005) writes:
 >Accordingly, as assessments of probability, such modals are dialogically expansive – they still ‘entertain’ the possibility of dialogistical alternatives. Pronouncements, in contrast, do not ‘entertain’ alternative positions in this way but, as we have demonstrated, are directed towards challenging and dismissing an alternative viewpoint.
 
 
-[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
+[Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }

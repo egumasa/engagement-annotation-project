@@ -47,4 +47,4 @@ Rhetorical questions are sometimes categorized as `Entertain` include following 
 
 See [Rhetorical questions](../docs/4_Part3_confusing_tags.md#rhetorical-questions)
 
-[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
+[Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }

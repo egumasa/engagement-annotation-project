@@ -34,4 +34,4 @@ Typically, `disclaim: counter` involves conjunctions such as *although*, *but*, 
 `Disclaim: Counter` would also include some adverbs that encode meanings of counter-expectations.
 - **Unexpectedly/Surprisingly/To my surprise**, there seems to have been little smuggling this year.
 
-[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
+[Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }

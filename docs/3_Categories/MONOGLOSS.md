@@ -35,5 +35,4 @@ To test if the sentence is monogloss, you can try adding any engagement items, f
 - **In some regions (ENTERTAIN)**, television has helped to shrink the relative distance between people and countries.
 
 
-[Back to Table 1](#table-1-categories-of-engagement-moves){: .btn .btn-outline }
-
+[Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }
