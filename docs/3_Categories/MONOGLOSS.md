@@ -11,7 +11,7 @@ nav_order: 15
 {: .def}
 >An utterance which does not employ any value of engagement. Such an utterance ignores the dialogic potential in an utterance.
 
-**As of April 9th, we will NOT use a Monogloss tag. A main clause without any engagement values are all considered monogloss.**
+
 Examine this fact in the following examples, where there should be no engagement-invoking lexico-grammatical items in each sentence.
 
 - Teachers are facing the difficult task of providing an optimal learning environment to students from varying social, cultural, and linguistic backgrounds.
