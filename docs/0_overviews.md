@@ -59,11 +59,11 @@ Once you are done with this step, the annotation should look like the following:
 ## Step 4 Primary vs Secondary strategy classification
 
 As the final step, we will classify engagement resource into primary and secondary strategies.
-Primary strategies are those that determines the engagement values of the whole T-unit.
+Primary strategies are those that determines the engagement values of the whole [T-unit](../docs/1_Basic_grammar.md#terminal-unit-t-unit).
 Secondary strategies are those that supplement the primary engagement values in the clause; this often occurs (but not always) in the subordinate/embedded clauses.
 
 
-For details, see [primary vs secondary strategy].
+For details, see [primary vs secondary strategy](../docs/Step4_primary_secondary.md).
 
 ![primary and secondary](../figures/procedures/primary.png)
 
