@@ -63,7 +63,7 @@ Primary strategies are those that determines the engagement values of the whole 
 Secondary strategies are those that supplement the primary engagement values in the clause; this often occurs (but not always) in the subordinate/embedded clauses.
 
 
-For details, see [primary vs secondary strategy](../docs/Step4_primary_secondary.md).
+For details, see [primary vs secondary strategy](Step4_primary_secondary.md).
 
 ![primary and secondary](../figures/procedures/primary.png)
 
