@@ -15,7 +15,7 @@ After identifying engagement strategies, classify them into `Primary` and `Secon
 
 ## Primary engagement strategies
 
-Primary engagement strategies are those that characterize the engagement of a [T-unit](1_Basic_grammar.md#terminal-unit-t-unit).  
+Primary engagement strategies are those that characterize the engagement of a [T-unit](../1_Basic_grammar.md#terminal-unit-t-unit).  
 
 - Typically, the following grammatical structures *tend to* take primary engagement strategy (but not always):
   - Main verb of a `MAIN` clause
