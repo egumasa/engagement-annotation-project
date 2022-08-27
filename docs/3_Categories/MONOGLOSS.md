@@ -34,5 +34,10 @@ To test if the sentence is monogloss, you can try adding any engagement items, f
 - _Television can be **said (ATTRIBUTE)**_ to have helped to shrink the relative distance between people and countries.
 - **In some regions (ENTERTAIN)**, television has helped to shrink the relative distance between people and countries.
 
+### It is important/essential/vital/critical
+
+These items are considered as MONOGLOSS, not entertain (for details see [ENTERTAIN or MONOGLOSS](confusing_tags.md#entertain-or-monogloss)).
+
+
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }
