@@ -11,6 +11,8 @@ nav_order: 2
 This page provides an overview on the procedure of Engagement resource annotation. 
 Essentially, we will provide annotations for the following layers in that order:
 
+**Step 0**: Sentence boundary detection (if necessary)
+
 **Step 1**: Clause boundary detection
 
 **Step 2**: Engagement span detection
@@ -20,6 +22,12 @@ Essentially, we will provide annotations for the following layers in that order:
 **Step 4**: Primary vs Secondary engagement classification
 
 These steps are explained below.
+
+## Step 0 Sentence boundary detection
+
+Each annotation data comes with automatically detected sentence boundaries (each line represents a new sentence). Sometimes, the automated detection of sentence boundaries fails for reasons. In such case, we will indicate a correct sentence boundary. This step is necessary only for a file with sentence boundary problems.
+
+
 
 ## Step 1 Clause boundary detection
 
