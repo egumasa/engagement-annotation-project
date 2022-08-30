@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preliminaries— Grammatical Terminologies
-nav_order: 2
+nav_order: 3
 ---
 
 # Preliminaries 

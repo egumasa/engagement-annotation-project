@@ -2,7 +2,7 @@
 layout: default
 title: Step 1–Clause-boundary detection
 has_children: true
-nav_order: 2
+nav_order: 5
 ---
 
 # Clause boundary detection 
