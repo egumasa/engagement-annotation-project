@@ -13,6 +13,10 @@ nav_order: 5
 
 #### Description
 
+Simply, the Exemplifying tag is used for expressions that are functionally equivalent to `in other words`, `that is to say`. So, this category includes following expressions:
+
+- `to put it differently`, `put differently`, `that is`, `i.e.`, `namely`, `I mean`
+
 
 #### Examples
 

@@ -13,8 +13,15 @@ nav_order: 6
 
 #### Description
 
+Simply, the Exemplifying tag is used for expressions that are functionally equivalent to `for example`. So, this category includes following expressions:
+
+- `for example`, `for instance`, `to illustrate`, `such as`, `e.g.,`
 
 #### Examples
+
+
+- 
+
 
 
 [See more](6_Part5_summary.md#monogloss-should-be-used-when-justify-and-citation-is-the-only-other-moves).
