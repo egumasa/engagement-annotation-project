@@ -154,25 +154,28 @@ def write_file(output_name: str, data: list):
 
 
 # The output would be
-def Run():
+def Run(split: float = 0.9):
     filenames = glob.glob(
-        '/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/data_to_convert/20220719_data_to_train/*.tsv'
+        '/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/data_to_convert/20220903_firstbatch_AtoI/*.tsv'
     )
 
     holder = []
     for file in filenames:
         holder.extend(tsv2sentlist(file))
 
-    random.seed(1993)
+    # random.seed(1993)
+    random.seed(400)
     random.shuffle(holder)
 
     size = len(holder)
 
-    train, dev = holder[0:int(size * 0.9)], holder[int(size * 0.9):]
+    train, dev = holder[0:int(size * split)], holder[int(size * split):]
+    print("Training data: {} sentences; \n Develop data: {} sentences".format(
+        len(train), len(dev)))
 
-    write_file('data/iob_data/train.iob', train)
-    write_file('data/iob_data/dev.iob', dev)
+    write_file('data/iob_data/20220903_AtoI_not-adjudicated/train.iob', train)
+    write_file('data/iob_data/20220903_AtoI_not-adjudicated/dev.iob', dev)
 
 
 if __name__ == "__main__":
-    Run()
+    Run(split=0.85)
