@@ -12,7 +12,8 @@ nav_order: 1
 > Endophoric markers are text segments (expressions) that refer to information in other parts of its own text
 
 #### Description
-Endophoric markers are introduced to mark any mentions to the other parts of their own text. Typically, the marker includes following expressions:
+
+Endophoric markers are used to mark any mentions to the other parts of their own text. Typically, the marker includes following expressions:
 
 - `(In) Chapter X`, `(In) Part X`, `(In) Section X`, `(In) the X chapter`, `(In) the X part`, `(In) the X section`, `(In) This chapter`, `(In) This part`, `(In) This section`, 
 - `Example X`, `Fig.X`, `Figure X`, `P. X`, `Page X`, `Table X`, (these have to be within its own text, and not from external sources.)

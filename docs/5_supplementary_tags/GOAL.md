@@ -13,12 +13,12 @@ nav_order: 3
 
 #### Description
 
-Two typical pattern of goal announcing include:
+Two typical patterns of goal announcing include:
 
 - The writer of the sentence describes the goals/purposes of the piece of text.
 - The writer of the sentence announces what is going to be written about in the immediate piece of writing.
 
-The typical items categorized as goal-announcing are following:
+Typical items categorized as goal-announcing are following:
 - **We aim to present** ...
 - **The goal of this section/chapter/paper is** ...
 - **In this section, we demonstrate** ....
@@ -27,12 +27,13 @@ The typical items categorized as goal-announcing are following:
 
 Other patterns of goal-announcing include:
 - **Prepositional phrases**: `(in) this chapter`, `(in) this part`, `(in) this section`
+
 -> These expressions are used to describe the part in which the current writing is going to accomplish some goals.
-
 - **Communication and mental verbs**: `aim`, `intend to`, `focus on`, `want to`, `wish to`, `would like to`
+- 
 -> These verbs helps the writer of the sentence to announce the goal of the writing explicitly. 
-
 - **Nominalized construction**: `objective`, `purpose`, `intention`
+
 -> These nouns, when used with `The X of this paper/section is to` or similar construction, signals the goals of the writing.
 
 
