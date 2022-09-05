@@ -26,7 +26,6 @@ Endophoric markers are used to mark any mentions to the other parts of their own
 - 
 
 
-[See more](6_Part5_summary.md#monogloss-should-be-used-when-justify-and-citation-is-the-only-other-moves).
 
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }
