@@ -55,12 +55,16 @@ One exception to note is when a [modal auxiliary](#modal-verbs) is in the verb p
 
 ## It is X that— Interpersonal metaphor
 
+Updated in version 2
+{: .label .label-green}
+
 When there is `It is X that ~` or `there is/are X that` construction, we will tag the entire span of this construction. 
 This decision is based on the fact that these construction function as introducing the stance of the writer as a whole (they almost function as chunks). 
 
+- **It’s probable/likely/possible that** he’s lying.
 - **It is absolutely clear to me that** what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
 - **There is no doubt that** globalization has a deep effect on China.
-
+- However, **there is mounting evidence that** processes of language acquisition, use, and change are not independent of one another but are facets of the same system.
 
 ![Interpersonal_meta](figures/spans/Interpersonal_metaphor.png)
 
