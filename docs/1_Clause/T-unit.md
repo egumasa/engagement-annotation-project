@@ -23,11 +23,12 @@ For instance, each of the following examples constitutes **one and only one T-un
 - My parents and I had a good time during the trip.
 - Because the manager is the apex of status and authority and because all information must come through this position , the manager is at the focal point for decision making
 - When we are tired of doing work, we should just take some rest and come back again later because that may help our focus.
-
+- To conclude, although stories of English learners and their struggles with academic language or scores on high‐stakes testing are deemed newsworthy, it is perhaps lesser known that these students—precisely those who stand to benefit from classes like drama (and other embodied and visual arts)—are the least likely to receive this kind of instruction. 
 
 Each of the following sentences consists of two or more T-units (because of multiple `MAIN` clauses). 
 - We run all sounds, and we run the nation. (2 T-units)
 - They fail to deal with individual learning styles ; and they consume inordinate amounts of classroom hours and educational resources. (2 T-units)
+
 
 
 
