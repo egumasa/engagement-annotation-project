@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CITATION
+title: Citations
 parent: Step 5–Supplementary tags
 nav_order: 1
 
