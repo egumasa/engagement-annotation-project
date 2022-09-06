@@ -7,6 +7,10 @@ nav_order: 9
 
 ## Step 5—Annotatiting Supplementary moves in Engagement resource analysis
 
+
+NEW in version 2
+{: .label .label-green}
+
 The following tags essentially supplement the discourse moves (Step 2-4), so that the entire annotation provide more valuable information about the discourse moves as well as help the machine to identify the engagement resources more confidently.
 At the final step of the annotation, we will provide annotation of these supplementary moves. This is set up as an independent layer in webanno, so they are considered conceptually separate from (but supplementary to) Engagement moves.
 
@@ -20,7 +24,7 @@ At the final step of the annotation, we will provide annotation of these supplem
 | Citations          | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,   |
 | Sources            | Mentions to external source(s) in the text in forms of nominal expression.                    | `The annual report by X`, `Numerous studies` |
 | Endophoric markers | Refer to information in other parts of its own text                                           | `noted above`, `see Fig 1`, `in section 2`   |
-| QUOTED             | Segment of text with direct quotation (including the quotation marks, both single and double) |                                              |
+| Quoted             | Segment of text with direct quotation (including the quotation marks, both single and double) |                                              |
 
 {: .tips}
 > Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).

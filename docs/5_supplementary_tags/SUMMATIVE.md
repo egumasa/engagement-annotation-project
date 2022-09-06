@@ -2,11 +2,14 @@
 layout: default
 title: Summative
 parent: Step 5–Supplementary tags
-nav_order: 4
+nav_order: 8
 
 ---
 
 ### Summative
+
+NEW in version 2
+{: .label .label-green}
 
 {: .def}
 > Summative devices are those that signal summaries and restatements in the text.

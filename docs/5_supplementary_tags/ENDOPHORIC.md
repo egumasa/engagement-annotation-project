@@ -2,11 +2,14 @@
 layout: default
 title: Endophoric markers
 parent: Step 5–Supplementary tags
-nav_order: 1
+nav_order: 3
 
 ---
 
 ### Endophoric markers
+
+NEW in version 2
+{: .label .label-green}
 
 {: .def}
 > Endophoric markers are text segments (expressions) that refer to information in other parts of its own text

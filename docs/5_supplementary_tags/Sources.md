@@ -2,11 +2,14 @@
 layout: default
 title: Sources
 parent: Step 5–Supplementary tags
-nav_order: 1
+nav_order: 2
 
 ---
 
 ### Sources (Updated on Feb 25th.)
+
+NEW in version 2
+{: .label .label-green}
 
 {: .def}
 > Source is segment of the text where source(s) of information are referenced/mentioned in the text in forms of nominalized expressions. 

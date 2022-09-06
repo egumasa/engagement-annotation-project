@@ -2,11 +2,14 @@
 layout: default
 title: Expository
 parent: Step 5–Supplementary tags
-nav_order: 5
+nav_order: 10
 
 ---
 
 ### Expository
+
+NEW in version 2
+{: .label .label-green}
 
 {: .def}
 > Expository devices signal elaboration of a concept in the subsequent part of the text. 

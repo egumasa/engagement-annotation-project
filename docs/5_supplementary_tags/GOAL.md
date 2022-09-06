@@ -2,11 +2,14 @@
 layout: default
 title: Goal-announcing
 parent: Step 5–Supplementary tags
-nav_order: 3
+nav_order: 5
 
 ---
 
 ### Goal-announcing
+
+NEW in version 2
+{: .label .label-green}
 
 {: .def}
 > Goal-announcing expressions are those that signal the purpose/goals of (a part of) the text itself.

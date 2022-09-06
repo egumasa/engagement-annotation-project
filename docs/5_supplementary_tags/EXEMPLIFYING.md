@@ -2,11 +2,15 @@
 layout: default
 title: Exemplifying
 parent: Step 5–Supplementary tags
-nav_order: 6
+nav_order: 9
 
 ---
 
 ### Exemplifying
+
+
+NEW in version 2
+{: .label .label-green}
 
 {: .def}
 > Exemplifying are devices that signal illustrations/examples in the text.

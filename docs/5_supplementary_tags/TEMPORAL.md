@@ -2,11 +2,14 @@
 layout: default
 title: Temporal expressions
 parent: Step 5–Supplementary tags
-nav_order: 2
+nav_order: 7
 
 ---
 
 ### Temporal expressions
+
+NEW in version 2
+{: .label .label-green}
 
 {: .def}
 > Temporal markers are devices that refer to when an event referenced in the clause happened.

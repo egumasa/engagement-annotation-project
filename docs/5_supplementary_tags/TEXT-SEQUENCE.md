@@ -2,11 +2,14 @@
 layout: default
 title: Text-sequencing/staging
 parent: Step 5–Supplementary tags
-nav_order: 1
+nav_order: 6
 
 ---
 
 ### Text-sequencing/staging
+
+NEW in version 2
+{: .label .label-green}
 
 {: .def}
 > Text-sequencing/staging devices signal sequences and stages of argumentative elements in the text. 

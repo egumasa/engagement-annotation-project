@@ -6,6 +6,11 @@ nav_order: 18
 
 # Recent Changes to the documentation (Change logs)
 
+## v2.2 (September, 6th, 2022)
+
+- Overall revision of the steps in annotation.
+- Adding supplementary tags (STEP 5)
+- Adding T-unit for clause boundary segmentation task.
 
 ## August 1st, 2022
 
