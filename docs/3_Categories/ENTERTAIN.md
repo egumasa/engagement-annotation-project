@@ -32,7 +32,7 @@ ENTERTAIN move signals author's own subjectivity to present the idea.
 - You **must** switch off the lights when you leave.
 - _**Probably/apparently/perhaps**_ he’s lying.
 - It was **probably/arguably** the most immature, irresponsible, disgraceful and misleading address ever given by a British Prime Minister.
-- _It’s **probable/likely/possible** that_ he's lying.
+- **It’s probable/likely/possible that** he's lying.
 - Of course, _there’s **precious little chance**_ of that happening in America any time soon.
 - He has **certainly** disgraced the Attorney General’s office in lending credence to the assertions of the Swift Boat veterans for Truth.
 

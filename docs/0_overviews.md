@@ -68,7 +68,16 @@ Secondary strategies are those that supplement the primary engagement values in 
 
 For details, see [primary vs secondary strategy](Step4_primary_secondary.md).
 
+Figure needs update
+{. .label-red}
+
 ![primary and secondary](../figures/procedures/primary.png)
+
+## Step 5—Supplementary rhetorical move annotation
+
+To be updated
+{. .label-red}
+
 
 
 ## Resource layers
