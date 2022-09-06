@@ -11,8 +11,6 @@ nav_order: 2
 This page provides an overview on the procedure of Engagement resource annotation. 
 Essentially, we will provide annotations for the following layers in that order:
 
-**Step 0**: Sentence boundary detection (if necessary)
-
 **Step 1**: Clause boundary detection
 
 **Step 2**: Engagement span detection
@@ -20,6 +18,8 @@ Essentially, we will provide annotations for the following layers in that order:
 **Step 3**: Engagement stateragy annotation
 
 **Step 4**: Primary vs Secondary engagement classification
+
+**Step 5**: Supplementary rhetorical device annotation
 
 These steps are explained below.
 
