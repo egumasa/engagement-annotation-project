@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Auxiliary–JUSTIFY
-parent: Step 3–Engagement categories
+title: JUSTIFYING
+parent: Step 5–Supplementary tags
 nav_order: 10
 
 ---
 
 
-### Justify
+### Justifying
 
 {: .def}
 >An utterance which engage in persuasion through justification or substantiation.
@@ -28,7 +28,5 @@ We will also consider logical connectors such as `so`, `therefore`, `thus`, `acc
 - **As such**, a student can develop, or fail to develop, an isolated skill distinct from their general performance across skills.
 - Literacy varies within contexts; **therefore**, a single " literacy " does not exist.
 
-When `JUSTIFY` is the only move in the sentence, use `MONOGLOSS` tag. 
-[See more](6_Part5_summary.md#monogloss-should-be-used-when-justify-and-citation-is-the-only-other-moves).
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }

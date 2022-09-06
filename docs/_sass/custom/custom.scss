@@ -7,7 +7,7 @@
 
 $callouts: (
 	note: ($blue-300, rgba($blue-000, .2), 'NOTE'),
-	caution: ($yellow-300, rgba($yellow-000, .2), 'TIPS'),
+	caution: ($yellow-300, rgba($yellow-000, .2), 'CAUTION'),
 	tips: ($yellow-300, rgba($yellow-000, .2), 'TIPS'),
 	def: ($green-300, rgba($green-000, .2), 'DEFINITION'),
 	danger: ($red-300, rgba($red-000, .2), 'REMEMBER...')
@@ -90,7 +90,7 @@ blockquote.note {
 .main-content a {
 	white-space: normal;
 	width: 1600px;
-    max-width: 100%;
+	max-width: 100%;
 }
 
 // KaTeX
@@ -108,12 +108,12 @@ h4,
 }
 
 body {
-  position: relative;
-  padding-bottom: $sp-10;
-  overflow-y: scroll;
+	position: relative;
+	padding-bottom: $sp-10;
+	overflow-y: scroll;
 
-  @include mq(lg) {
-    position: static;
-    padding-bottom: 0;
-  }
+	@include mq(lg) {
+		position: static;
+		padding-bottom: 0;
+	}
 }

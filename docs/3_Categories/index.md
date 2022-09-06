@@ -22,6 +22,10 @@ nav_order: 7
 | Auxiliary   | [Citations](CITATION.md) (Updated on Feb 25th) | Citation is segment of the text where external source(s) are referenced in the text.                                                                                                                                                 |
 
 
+{: .caution}
+In version 2 of the guideline, we no longer annotate `JUSTIFY` and `CITATION` at the `ENGAGEMENT` layer. They are moved to [STEP5—supplemetary tag](./../5_supplementary_tags/index.md) with slight modifications.
+
+
 ## Engagement coding scheme
 
 There are 9 categories of engagement moves to annotate in the current project (see [Table 1](#table-1-categories-of-engagement-moves)). Most categories belong to "parent" (or more general) discourse moves, such as `contract` and `expand`. 
