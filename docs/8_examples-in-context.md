@@ -10,6 +10,9 @@ nav_order: 10
 {: .label .label-green}
 New in Version 2
 
+{: .label .label-red}
+Needs revision
+
 
 This page provides some example annotations based on previously published research. 
 The annotations were modified according to the current guideline. 
