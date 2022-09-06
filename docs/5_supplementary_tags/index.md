@@ -15,10 +15,11 @@ At the final step of the annotation, we will provide annotation of these supplem
 
 ### Reference to information internal or external to the writing
 
-| Tag                      | Description                                         | Examples                                                            |
-| ------------------------ | --------------------------------------------------- | ------------------------------------------------------------------- |
-| Citation/External source | Mentions to external source(s) in the text.         | `(Martin & White, 2005)`, `Ortega (2009)`, `The annual report by X` |
-| Endophoric markers       | Refer to information in other parts of its own text | `noted above`, `see Fig 1`, `in section 2`                          |
+| Tag                      | Description                                                                                   | Examples                                                            |
+| ------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Citation/External source | Mentions to external source(s) in the text.                                                   | `(Martin & White, 2005)`, `Ortega (2009)`, `The annual report by X` |
+| Endophoric markers       | Refer to information in other parts of its own text                                           | `noted above`, `see Fig 1`, `in section 2`                          |
+| QUOTED                   | Segment of text with direct quotation (including the quotation marks, both single and double) |                                                                     |
 
 {: .tips}
 > Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
