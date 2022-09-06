@@ -55,4 +55,13 @@ At the final step of the annotation, we will provide annotation of these supplem
 Note: * in the table shows that the item's function needs to be carefully examined in the immediate context.
 
 
+### Notes on theoretical framework
+
+- Goal-announcing and text-sequencing and staging are based on Frame markers in Hyland (2005).
+- Endophoric markers are based on Hyland (2005).
+- Citations and Sources are related to Evidentials in Hyland (2005), but they are distinct given that Evidential is covered in Engagement (or ATTRIBUTE).
+
+## References
+
+Hyland, K. (2005). Metadiscourse: Exploring interaction in writing. Continuum.
 
