@@ -21,6 +21,9 @@ Updated on 26th, April
 
 | Features                                                                                                          | Example items                                       | Where to put a tag            |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
+| [Verb phrases](#verb-phrases)                                                                                     |
+| [It is X that construction](#it-is-x-that-interpersonal-metaphor)                                                 | It is unlikely that ....                            | On the construction           |
+| [Passive construction](#passive-construction)                                                                     | is determined, was said                             | `copura ~ lexical verb`       |
 | [Modal verbs](#modal-verbs)                                                                                       | can, have to                                        | on the item                   |
 | [Single-word adverbs](#single-word-adverbs)                                                                       | obviously, sure                                     | on the item                   |
 | [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)             | in my view                                          | the entire phrase             |
@@ -28,10 +31,49 @@ Updated on 26th, April
 | [Subordinate conjunctions](#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | as, when, if, as long as, whether or not            | the entire subordinate clause |
 | [Coordinating conjunctions](#coordinating-conjunctions)                                                           | but, and, yet                                       | on the item                   |
 | [Question](#questions)                                                                                            | Who thinks that smoking do no harm in 21st century? | on the entire question        |
-| [It is ADJ that construction](#it-is-adj-that-interpersonal-metaphor)                                             | It is unlikely that ....                            | On the construction           |
-| [Passive construction](#passive-construction)                                                                     | is determined, was said                             | `copura ~ lexical verb`       |
 | [Nominalization (To be updated)](#nominalized-construction)                                                       |                                                     |                               |
 | [Citations](#citations)                                                                                           | Kyle (2020); (Kyle, 2020)                           | See details                   |
+
+
+## Verb phrases
+
+NEW in version 2
+{: .label .label-green}
+
+When an engagement meaning is realized by a verb phrase, you will put a tag on the entire verb phrase (including Auxiliary + lexical verbs + particles).
+One exception to note is when a [modal auxiliary](#modal-verbs) is in the verb phrase. In such cases, we will treat the modal verb separately from the verb phrase.
+
+- Discussants correctly **pointed out** that Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all **have** an even more aggressive campaign against witches than **did** the authors of our previous readings.
+- Even though he **had taken** all his medication, his leg **did n’t look** any better.
+- They **have found** it very difficult to understand each other ‘s lifestyles.
+
+
+
+{: .note}
+>Previously (in version 1), we have put a tag on "most lexically heavy verbs".
+>  
+
+## It is X that— Interpersonal metaphor
+
+When there is `It is X that ~` or `there is/are X that` construction, we will tag the entire span of this construction. 
+This decision is based on the fact that these construction function as introducing the stance of the writer as a whole (they almost function as chunks). 
+
+- **It is absolutely clear to me that** what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
+- **There is no doubt that** globalization has a deep effect on China.
+
+
+![Interpersonal_meta](figures/spans/Interpersonal_metaphor.png)
+
+
+## Passive construction
+
+{: .label .label-green}
+New in Version 2
+
+When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we include `copula verb + lexical verb` in the span.
+
+- The data **was collected** in the local community.
+
 
 ## Modal verbs
 
@@ -113,22 +155,6 @@ When an engagement meaning is realized by a question, we will tag the whole ques
 
 ![questions](figures/spans/questions.png)
 
-
-## It is ADJ that— Interpersonal metaphor
-
-When there is `It is ADJ that ~` construction, we will tag the entire span of this construction.
-
-![Interpersonal_meta](figures/spans/Interpersonal_metaphor.png)
-
-
-## Passive construction
-
-{: .label .label-green}
-New in Version 2
-
-When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we include `copula verb + lexical verb` in the span.
-
-- The data **was collected** in the local community.
 
 
 
