@@ -15,11 +15,12 @@ At the final step of the annotation, we will provide annotation of these supplem
 
 ### Reference to information internal or external to the writing
 
-| Tag                      | Description                                                                                   | Examples                                                            |
-| ------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Citation/External source | Mentions to external source(s) in the text.                                                   | `(Martin & White, 2005)`, `Ortega (2009)`, `The annual report by X` |
-| Endophoric markers       | Refer to information in other parts of its own text                                           | `noted above`, `see Fig 1`, `in section 2`                          |
-| QUOTED                   | Segment of text with direct quotation (including the quotation marks, both single and double) |                                                                     |
+| Tag                | Description                                                                                   | Examples                                     |
+| ------------------ | --------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Citations          | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,   |
+| Sources            | Mentions to external source(s) in the text in forms of nominal expression.                    | `The annual report by X`, `Numerous studies` |
+| Endophoric markers | Refer to information in other parts of its own text                                           | `noted above`, `see Fig 1`, `in section 2`   |
+| QUOTED             | Segment of text with direct quotation (including the quotation marks, both single and double) |                                              |
 
 {: .tips}
 > Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
@@ -35,13 +36,13 @@ At the final step of the annotation, we will provide annotation of these supplem
 
 ### Logical connections/ Transition phrases
 
-| Tag          | Description                                                | Examples                                                    |
-| ------------ | ---------------------------------------------------------- | ----------------------------------------------------------- |
-| Summative    | Signal summaries in the part of the text                   | `to conclude`, `in short`, `to sum up`, `The conclusion is` |
-| Expository   | Signal elaboration in the subsequent part of the text      | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
-| Exemplifying | Signal illustrations/examples in the text                  | `for example`, `to illustrate`, `e.g.`,                     |
-| Justifying   | Signal persuasion through justification or substantiation. | `because of X`, `due to X`, `therefore`                     |
-| Other causal | Signal Purposes and Result                                 | `as a result`, `for that purpose`, `in order to X`          |
+| Tag            | Description                                                | Examples                                                    |
+| -------------- | ---------------------------------------------------------- | ----------------------------------------------------------- |
+| Summative      | Signal summaries in the part of the text                   | `to conclude`, `in short`, `to sum up`, `The conclusion is` |
+| Exemplifying   | Signal illustrations/examples in the text                  | `for example`, `to illustrate`, `e.g.`,                     |
+| Expository     | Signal elaboration in the subsequent part of the text      | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| Justifying     | Signal persuasion through justification or substantiation. | `because of X`, `due to X`, `therefore`                     |
+| Purpose/Result | Signal Purposes and Result                                 | `as a result`, `for that purpose`, `in order to X`          |
 
 {: .tips}
 > Justifying is equivalent to the `JUSTIFY` tag in the previous version (ver 1). The reason for this change is based on the observation that `JUSTIFY` can co-occur with `MONOGLOSS`, which suggests the distinct roles of justification.

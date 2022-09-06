@@ -23,15 +23,10 @@ Essentially, we will provide annotations for the following layers in that order:
 
 These steps are explained below.
 
-## Step 0 Sentence boundary detection
-
-Each annotation data comes with automatically detected sentence boundaries (each line represents a new sentence). Sometimes, the automated detection of sentence boundaries fails for reasons. In such case, we will indicate a correct sentence boundary. This step is necessary only for a file with sentence boundary problems.
-
-
 
 ## Step 1 Clause boundary detection
 
-The annotation should start with clause boundary segmengation and clause type identification. In this task, you will segment a running text into sentences/clauses and categorize the type of clauses (e.g., `MAIN`, `SUBORDINATE`).
+The annotation should start with clause boundary segmengation and clause type identification. In this task, you will segment a running text into [T-units](./1_Basic_grammar.md#terminal-unit-t-unit) and clauses, and then categorize the type of clauses (e.g., `MAIN`, `SUBORDINATE`).
 The purpose of this layer is help you better identify engagement strategies (Step 2 and 3) as well as detection of primary vs secondary engagement (Step 4).
 
 The following figure shows the result of this step.
