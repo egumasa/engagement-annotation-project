@@ -21,7 +21,7 @@ At the final step of the annotation, we will provide annotation of these supplem
 | Endophoric markers       | Refer to information in other parts of its own text | `noted above`, `see Fig 1`, `in section 2`                          |
 
 {: .tips}
-> Citation/External source tag subsumes CITATION in the version 1 guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
+> Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
 > Citation is moved to supplementary category because it can co-occur with `MONOGLOSS`.
 
 ### Text organizing devices
@@ -43,7 +43,7 @@ At the final step of the annotation, we will provide annotation of these supplem
 | Other causal | Signal Purposes and Result                                 | `as a result`, `for that purpose`, `in order to X`          |
 
 {: .tips}
-> Justifying is equivalent to JUSTIFY tag in the version 1. The reason for this change is based on the observation that `JUSTIFY` can co-occur with `MONOGLOSS`, which suggests the distinct roles of justification.
+> Justifying is equivalent to the `JUSTIFY` tag in the previous version (ver 1). The reason for this change is based on the observation that `JUSTIFY` can co-occur with `MONOGLOSS`, which suggests the distinct roles of justification.
 
 
 Note: * in the table shows that the item's function needs to be carefully examined in the immediate context.
