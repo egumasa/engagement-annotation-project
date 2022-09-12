@@ -22,7 +22,7 @@ Updated on 26th, April
 | Features                                                                                                          | Example items                                       | Where to put a tag            |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
 | [Verb phrases](#verb-phrases)                                                                                     |
-| [It is X that construction](#it-is-x-that-interpersonal-metaphor)                                                 | It is unlikely that ....                            | On the construction           |
+| [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor)                                   | It is unlikely that ....                            | On the construction           |
 | [Passive construction](#passive-construction)                                                                     | is determined, was said                             | `copura ~ lexical verb`       |
 | [Modal verbs](#modal-verbs)                                                                                       | can, have to                                        | on the item                   |
 | [Single-word adverbs](#single-word-adverbs)                                                                       | obviously, sure                                     | on the item                   |
