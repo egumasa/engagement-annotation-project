@@ -21,17 +21,17 @@ Updated on 26th, April
 
 | Features                                                                                                          | Example items                                          | Where to put a tag                             |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------- |
-| [Verb phrases](#verb-phrases)                                                                                     | runs, had seen, have been identified, have shown, etc. | On the entire verb phrase (except model verbs) |
+| [Verb phrases](#verb-phrases)                                                                                     | runs, had seen, have been identified, have shown, etc. | on the entire verb phrase (except model verbs) |
+| [Mental or communication verbs](#mental-or-communication-verbs)                                                   | think, say, tell                                       | on the entire verb phrase                      |
 | [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor)                                   | It is unlikely that ....                               | See the rule below                             |
-| [Passive construction](#passive-construction)                                                                     | is determined, was said                                | On the entire verb phrase (except model verbs) |
+| [Passive construction](#passive-construction)                                                                     | is determined, was said                                | on the entire verb phrase (except model verbs) |
 | [Modal verbs](#modal-verbs)                                                                                       | can, have to                                           | on the item                                    |
 | [Single-word adverbs](#single-word-adverbs)                                                                       | obviously, sure                                        | on the item                                    |
 | [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)             | in my view                                             | the entire phrase                              |
-| [Mental or communication verbs](#mental-or-communication-verbs)                                                   | think, say, tell                                       | on the item                                    |
 | [Subordinate conjunctions](#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | as, when, if, as long as, whether or not               | the entire subordinate clause                  |
 | [Coordinating conjunctions](#coordinating-conjunctions)                                                           | but, and, yet                                          | on the item                                    |
 | [Question](#questions)                                                                                            | Who thinks that smoking do no harm in 21st century?    | on the entire question                         |
-| [Nominalization (To be updated)](#nominalized-construction)                                                       |                                                        |                                                |
+| [Shell nouns](#nominalized-construction)                                                                          | the author's belief that ...                           | `Det + premodifiers + Noun + that/of`          |
 | [Citations](#citations)                                                                                           | Kyle (2020); (Kyle, 2020)                              | See details                                    |
 
 
@@ -127,6 +127,8 @@ When an engagement meaning is realized by a multi-word adverbs, such as preposit
 - **Generally speaking**, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
 - They do feel like they 're frozen out **because of a big company**.
 - Any reading rate gains on the posttest might have been **due to the additional amount of reading time rather than the extensive reading treatment**.
+- **According to Andersen (1991)**, the Congruence Principle presents an explanation as to why errors occur.
+- 
 
 ![multiword_adv](figures/spans/prepphrases.png)
 ## Mental or Communication verbs
@@ -181,11 +183,21 @@ When an engagement meaning is realized by a question, we will tag the whole ques
 
 
 
-## Nominalized construction
-(Under construction)
+## Shell nouns
+
+Shell nouns are abstract nouns that are frequently used to express **mental or communicative processes** in a compressed fashion.
+
+For example;
+- Chomsky believes that language is for individuals rather than group. 
+
+Can be paraphrased using shell noun `belief` as follows:
+
+- **Chomsky’s belief that** language is for individuals rather than groups .
+
 
 Sometimes primary and more typically secondary engagement value is expressed using a nominalized construction.
 - **Chomsky’s belief** that language is for individuals rather than groups .
+- First of all, we see no problem with **their proposal that** John take over the running of the EEC Intensive Foundation Summer School at Bentham House, especially if this arrangement is more beneficial to the Laws Faculty.
 - **I am of the opinion that** somebody is going to wake up suddenly and demand aluminum which means a demand for power.
 
 
@@ -198,4 +210,8 @@ Sometimes, due to the sentence segmentation issue, the dataset will include cita
 
 ![Citation](figures/spans/citation.png)
 
+
+## References
+
+Biber, D. (2006). Stance in spoken and written university registers. Journal of English for Academic Purposes, 5(2), 97–116. https://doi.org/10.1016/j.jeap.2006.05.001
 
