@@ -53,18 +53,37 @@ One exception to note is when a [modal auxiliary](#modal-verbs) is in the verb p
 >Previously (in version 1), we have put a tag on "most lexically heavy verbs".
 >  
 
-## It is X that— Interpersonal metaphor
+## It is X that/to— as Interpersonal metaphor
 
 Updated in version 2
 {: .label .label-green}
 
-When there is `It is X that ~` or `there is/are X that` construction, we will tag the entire span of this construction. 
+When there is `It is X that ~`, `It is X to ~` or `there is/are X that` construction, we will tag the entire span of this construction. 
 This decision is based on the fact that these construction function as introducing the stance of the writer as a whole (they almost function as chunks). 
 
+When the `that-clause` govern the following clause, the tag spans are from `It/There` to `that`:
 - **It’s probable/likely/possible that** he’s lying.
+- **It is possible that** it is your duty to tell me.
 - **It is absolutely clear to me that** what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
 - **There is no doubt that** globalization has a deep effect on China.
 - However, **there is mounting evidence that** processes of language acquisition, use, and change are not independent of one another but are facets of the same system.
+
+When a `to-infinitive` govern the following clause, the tag spans are from `It` to the adjectival complement.
+- **It is possible** for a layer of ice to form under the circumstances.
+- But **it is likely** to have an impact in the near future.
+- It was found, for example, that **it is more likely** to occur in NNS–NNS dyads rather than between NSs and NNSs (Varonis & Gass, 1985 ).
+
+
+In the following pattern, we can identify two strategies.
+- It seems fairly obvious to most people that Watson tremendously oversimplified the learning process.
+
+First, `It seems fairly obvious` gets a span, because this is a variant of `It is X to`.
+Second, `seems` should get another tag because they add `ENTERTAIN` value to the author's assessment using `fairly obvious`.
+
+- **It *seems* fairly obvious** to most people that Watson tremendously oversimplified the learning process.
+
+
+
 
 ![Interpersonal_meta](figures/spans/Interpersonal_metaphor.png)
 
