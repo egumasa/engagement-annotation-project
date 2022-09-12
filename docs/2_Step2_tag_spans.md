@@ -19,20 +19,20 @@ In the example in this document, the span for which the tag should be put is sho
 Updated on 26th, April
 
 
-| Features                                                                                                          | Example items                                       | Where to put a tag            |
-| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
-| [Verb phrases](#verb-phrases)                                                                                     |
-| [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor)                                   | It is unlikely that ....                            | On the construction           |
-| [Passive construction](#passive-construction)                                                                     | is determined, was said                             | `copura ~ lexical verb`       |
-| [Modal verbs](#modal-verbs)                                                                                       | can, have to                                        | on the item                   |
-| [Single-word adverbs](#single-word-adverbs)                                                                       | obviously, sure                                     | on the item                   |
-| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)             | in my view                                          | the entire phrase             |
-| [Mental or communication verbs](#mental-or-communication-verbs)                                                   | think, say, tell                                    | on the item                   |
-| [Subordinate conjunctions](#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | as, when, if, as long as, whether or not            | the entire subordinate clause |
-| [Coordinating conjunctions](#coordinating-conjunctions)                                                           | but, and, yet                                       | on the item                   |
-| [Question](#questions)                                                                                            | Who thinks that smoking do no harm in 21st century? | on the entire question        |
-| [Nominalization (To be updated)](#nominalized-construction)                                                       |                                                     |                               |
-| [Citations](#citations)                                                                                           | Kyle (2020); (Kyle, 2020)                           | See details                   |
+| Features                                                                                                          | Example items                                          | Where to put a tag                             |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------- |
+| [Verb phrases](#verb-phrases)                                                                                     | runs, had seen, have been identified, have shown, etc. | On the entire verb phrase (except model verbs) |
+| [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor)                                   | It is unlikely that ....                               | See the rule below                             |
+| [Passive construction](#passive-construction)                                                                     | is determined, was said                                | On the entire verb phrase (except model verbs) |
+| [Modal verbs](#modal-verbs)                                                                                       | can, have to                                           | on the item                                    |
+| [Single-word adverbs](#single-word-adverbs)                                                                       | obviously, sure                                        | on the item                                    |
+| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)             | in my view                                             | the entire phrase                              |
+| [Mental or communication verbs](#mental-or-communication-verbs)                                                   | think, say, tell                                       | on the item                                    |
+| [Subordinate conjunctions](#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | as, when, if, as long as, whether or not               | the entire subordinate clause                  |
+| [Coordinating conjunctions](#coordinating-conjunctions)                                                           | but, and, yet                                          | on the item                                    |
+| [Question](#questions)                                                                                            | Who thinks that smoking do no harm in 21st century?    | on the entire question                         |
+| [Nominalization (To be updated)](#nominalized-construction)                                                       |                                                        |                                                |
+| [Citations](#citations)                                                                                           | Kyle (2020); (Kyle, 2020)                              | See details                                    |
 
 
 ## Verb phrases
