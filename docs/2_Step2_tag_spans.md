@@ -131,6 +131,15 @@ Following Halliday & Mathiessen (2014, p. 145), the following items are consider
 - can, may, could, might, (dare), will, would, should, is to, was to, must, ought to, need to, have/has/had to
 - needn't, don't need to, don't have to, won't, wouldn't, shouldn't, (isn't/wasn't), mustn't, oughtn't to, can't, couldn't, (mayn't, mightn't, haven't to).
 
+## Emphatic do
+
+A typical realization of `PRONOUNCE` is the use of emphatic do. In this case, we will put a tag on `do + lexical verb`:
+
+- We `do believe` that researchers should view this disciplinary division as an opportunity rather than an obstacle.
+
+This is a strategy to prevent any `ENTERTAIN` tagged on `believe` when there is already a `PRONOUNCE` in the sentence.
+
+
 ## Single-word adverbs
 
 When an engagement meaning is realized by a single word adverbs (e.g., probably, surprisingly, etc.), you will put a tag on the item.
