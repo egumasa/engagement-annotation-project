@@ -19,20 +19,37 @@ In the example in this document, the span for which the tag should be put is sho
 Updated on 12th, Sep
 
 
-| Features                                                                                                          | Example items                                          | Where to put a tag                             |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------- |
-| [Verb phrases](#verb-phrases)                                                                                     | runs, had seen, have been identified, have shown, etc. | on the entire verb phrase (except model verbs) |
-| [Mental or communication verbs](#mental-or-communication-verbs)                                                   | think, say, tell                                       | on the entire verb phrase                      |
-| [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor)                                   | It is unlikely that ....                               | See the rule below                             |
-| [Passive construction](#passive-construction)                                                                     | is determined, was said                                | on the entire verb phrase (except model verbs) |
-| [Modal verbs](#modal-verbs)                                                                                       | can, have to                                           | on the item                                    |
-| [Single-word adverbs](#single-word-adverbs)                                                                       | obviously, sure                                        | on the item                                    |
-| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)             | in my view                                             | the entire phrase                              |
-| [Subordinate conjunctions](#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | as, when, if, as long as, whether or not               | the entire subordinate clause                  |
-| [Coordinating conjunctions](#coordinating-conjunctions)                                                           | but, and, yet                                          | on the item                                    |
-| [Question](#questions)                                                                                            | Who thinks that smoking do no harm in 21st century?    | on the entire question                         |
-| [Shell nouns](#nominalized-construction)                                                                          | the author's belief that ...                           | `Det + premodifiers + Noun + that/of`          |
-| [Citations](#citations)                                                                                           | Kyle (2020); (Kyle, 2020)                              | See details                                    |
+| Features                                                                                                                 | Example items                                                     | Where to put a tag                             |
+| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------- |
+| [Verb phrases](#verb-phrases)                                                                                            | `runs`, `had seen`, `have been identified`, `have shown`, etc.    | on the entire verb phrase (except model verbs) |
+| [Mental or communication verbs](#mental-or-communication-verbs)                                                          | `think`, `say`, `tell`                                            | on the entire verb phrase                      |
+| [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor)                                          | `It is unlikely that` ....                                        | See the rule below                             |
+| [Passive construction](#passive-construction)                                                                            | `is determined`, `was said`                                       | on the entire verb phrase (except model verbs) |
+| [Modal verbs](#modal-verbs)                                                                                              | `can`, `have to`                                                  | on the item                                    |
+| [emphatic do]()                                                                                                          | I `do believe` that ...                                           | `do + lexical verb`                            |
+| [Single-word adverbs](#single-word-adverbs)                                                                              | `obviously`, `sure`                                               | on the item                                    |
+| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)                    | `in my view`, `to me`, `in actual fact`                           | the entire phrase                              |
+| [(Adverbial) subordinate clauses](#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | `as SV`, `when SV`, `if SV`, `as long as SV`, `whether or not SV` | the entire subordinate clause                  |
+| [Coordinating conjunctions](#coordinating-conjunctions)                                                                  | `but`, `and`, `yet`                                               | on the item                                    |
+| [Question](#questions)                                                                                                   | `Who thinks that smoking do no harm in 21st century?`             | on the entire question                         |
+| [Comment clause/ parataxis](#comment-clauseparataxis)                                                                    | see examples                                                      | on the entire comment clause                   |
+| [Shell nouns](#nominalized-construction)                                                                                 | `the author's belief that/of` ...                                 | `Det + premodifiers + Noun + that/of`          |
+| [No + Noun construction](#no--noun-construction)                                                                         | `No rules`, `None of the idea`                                    | `No + head noun`                               |
+| [Citations](#citations)                                                                                                  | `Kyle (2020)`; `(Kyle, 2020)`                                     | See details                                    |
+
+
+{: .tips}
+>When in doubt, you can test whether the span by separating the propositional content and the author's stance on it.
+>
+>Consider the following example:
+> - A few years ago, I wrote expressing my concern that the village of West Linton, Peeblesshire, had 'moved'.
+>
+> In this example, the writer of this sentence expressed their concern by writing to someone. The content of the concern (i.e., propositional content) is the idea that `the village of West Linton, Peeblesshire, had 'moved'`.
+>This is the actual piece of information/idea that were written. So, we will consider that `ENGAGEMENT` or stances are encoded in the rest. Based on this, I would suggest the following:
+>
+>- A few years ago, I **wrote expressing my concern that** the village of West Linton, Peeblesshire, had 'moved'.
+>
+>Technically, the pattern, `ACTION verb + COMMUNICATION verb + Shell noun + that` is not in the list above. However, we can think that the writing contained the concern, which is the core stance here. As such `wrote expressing concerns that` would be a good candidate as a distinct `Engagement` span.
 
 
 ## Verb phrases
@@ -72,7 +89,7 @@ When a `to-infinitive` govern the following clause, the tag spans are from `It` 
 - **It is possible** for a layer of ice to form under the circumstances.
 - But **it is likely** to have an impact in the near future.
 - It was found, for example, that **it is more likely** to occur in NNS–NNS dyads rather than between NSs and NNSs (Varonis & Gass, 1985 ).
-
+- **It would be possible** to suppose, for instance, that the tnre Schrodinger-like equation involves non-linearities.
 
 In the following pattern, we can identify two strategies.
 - It seems fairly obvious to most people that Watson tremendously oversimplified the learning process.
@@ -81,7 +98,6 @@ First, `It seems fairly obvious` gets a span, because this is a variant of `It i
 Second, `seems` should get another tag because they add `ENTERTAIN` value to the author's assessment using `fairly obvious`.
 
 - **It *seems* fairly obvious** to most people that Watson tremendously oversimplified the learning process.
-
 
 
 
@@ -95,8 +111,11 @@ New in Version 2
 
 When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we include `copula verb + lexical verb` in the span.
 
-- The data **was collected** in the local community.
 
+- The data **was collected** in the local community.
+- The allegations **are believed** to involve several teenagen aged from 12 to 18.
+- At least some of the abuse **is claimed** to have taken place last year.
+- It **was expected** that they would interview him later today.
 
 ## Modal verbs
 
@@ -128,7 +147,11 @@ When an engagement meaning is realized by a multi-word adverbs, such as preposit
 - They do feel like they 're frozen out **because of a big company**.
 - Any reading rate gains on the posttest might have been **due to the additional amount of reading time rather than the extensive reading treatment**.
 - **According to Andersen (1991)**, the Congruence Principle presents an explanation as to why errors occur.
-- 
+- The camel is **without doubt** one of the natural world's most remarkable forms of transport.
+- Then we realized that you had to **sort of like** turn it off.
+- **As expected**, the volume of retail sales rose 0.5 per cent in August.
+
+
 
 ![multiword_adv](figures/spans/prepphrases.png)
 ## Mental or Communication verbs
@@ -156,6 +179,8 @@ When an engagement meaning is realized by a subordinate conjunctions such as *al
 - **Although the religion motif was not commonly discussed among the discussants**, the relevance of this theme to these various texts need to be brought to attention.
 - **Though there were several ‘couples’**, these were definitely not the norm.
 - The Bush administration, **as we all know**, has rejected the Kyoto agreement
+- The correlation figure was not as strong **as one might expect**.
+- 
 
 ![advcls](figures/spans/advcl.png)
 
@@ -181,9 +206,12 @@ When an engagement meaning is realized by a question, we will tag the whole ques
 ![questions](figures/spans/questions.png)
 
 
+## Comment clause/parataxis
 
+- Well, I'm going to feel lucky if my car isn't towed, **I think**.
+- The conclusion, **it seems**, is intolerable. (Treated as `primary` engagement)
 
-## Shell nouns
+## Shell nouns/ Nominalized construction
 
 Shell nouns are abstract nouns that are frequently used to express **mental or communicative processes** in a compressed fashion.
 
@@ -199,6 +227,13 @@ Sometimes primary and more typically secondary engagement value is expressed usi
 - **Chomsky’s belief** that language is for individuals rather than groups .
 - First of all, we see no problem with **their proposal that** John take over the running of the EEC Intensive Foundation Summer School at Bentham House, especially if this arrangement is more beneficial to the Laws Faculty.
 - **I am of the opinion that** somebody is going to wake up suddenly and demand aluminum which means a demand for power.
+- They deny **the possibility of** a death wish lurking amidst the gardens of lust.
+- **My impression that** I had been hurled into a coarsu world was heightened at the beginning of each day.
+
+## No + noun construction
+
+- **No claims** can be made for more than inferential findings.
+- Without variability, **no learning** can take place.
 
 
 ## Citations
