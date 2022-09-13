@@ -36,18 +36,22 @@ Updated on 12th, Sep
 
 
 {: .tips}
->When in doubt, you can test whether the span by separating the propositional content and the author's stance on it.
+>When in doubt, you can test whether the span is reasonable by separating an idea/issue/problem at hand (i.e., propositional content) from the author's view on that matter.
+> Here is an easy example:
+> - I think that people are very generous to tourists around here.
 >
->Consider the following example:
+> Here, `people are very generous to tourists around here` is the idea/issue/problem under consideration. The writer of this sentence uses `I think (= ENTERTAIN)` as an engagement device to say this view is only mine (and there may be other views.)
+> 
+>To extend this approach, consider the following example:
 > - A few years ago, I wrote expressing my concern that the village of West Linton, Peeblesshire, had 'moved'.
 >
-> In this example, the writer of this sentence expressed their concern by writing to someone. The content of the concern (i.e., propositional content) is the idea that `the village of West Linton, Peeblesshire, had 'moved'`.
->This is the actual piece of information/idea that were written. So, we will consider that `ENGAGEMENT` or stances are encoded in the rest. Based on this, I would suggest the following:
+> In this example, the writer of this sentence says that they expressed their concern by writing. The matter (i.e., propositional content) is the idea/fact that `the village of West Linton, Peeblesshire, had 'moved'`.
+> This is the actual content, on which the writer of this sentence takes stances. Then, the question becomes if the writer of this sentence takes any positions on this matter of discussion (Contract? or Expand?). 
+> Based on this, I would suggest the following:
 >
 >- A few years ago, I **wrote expressing my concern that** the village of West Linton, Peeblesshire, had 'moved'.
 >
->Technically, the pattern, `ACTION verb + COMMUNICATION verb + Shell noun + that` is not in the list above. However, we can think that the writing contained the concern, which is the core stance here. As such `wrote expressing concerns that` would be a good candidate as a distinct `Engagement` span.
-
+> In this sentence, the writer says that they wrote something. What did they write?—Their concern. Although `wrote` is a concrete action verb, which tends NOT to take on engagement, the non-finite subordinate clause (i.e., expressing SOMETHING) roughly equals to `I said SOMETHING`. Technically, we do not have `ACTION verb + COMMUNICATION verb + Shell noun + that` as a pattern in the list above. However, we can think of putting an `engagement` move on this span. The question becomes then whether we will take `my concern that` or the `ACTION verb + COMMUNICATION verb + Shell noun + that` sequence as a whole. Here we need to think what makes more sense as the writers' possible communicative purposes. If we separate `wrote` from `my concern`, then we would have to treat `wrote` as `MONOGLOSS` and `my concern` as secondary `ENTERTAIN`. On the other hand, if we treat the whole span as single Engagement move, then we can treat the whole as `ENTERTAIN`. This may result in disagreement/discussion, but we may consider that the whole thing as almost equivalent to `I said that ...` then we see them as a whole.
 
 ## Verb phrases
 
