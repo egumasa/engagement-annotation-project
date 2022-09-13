@@ -8,9 +8,6 @@ nav_order: 6
 
 # Step 2 — Engagement Spans
 
-{: .label .label-red}
-Needs revision
-
 This section deals with structural/grammatical issues during the annotation, particularly the decisions involving where to put the tag. Each section below deals with possible grammatical structure for emgagement, and which items to put a tag on.
 
 In the example in this document, the span for which the tag should be put is shown in **Bold** face. 
@@ -133,6 +130,9 @@ Following Halliday & Mathiessen (2014, p. 145), the following items are consider
 
 ## Emphatic do
 
+NEW in version 2
+{: .label .label-green}
+
 A typical realization of `PRONOUNCE` is the use of emphatic do. In this case, we will put a tag on `do + lexical verb`:
 
 - We `do believe` that researchers should view this disciplinary division as an opportunity rather than an obstacle.
@@ -217,10 +217,16 @@ When an engagement meaning is realized by a question, we will tag the whole ques
 
 ## Comment clause/parataxis
 
+NEW in version 2
+{: .label .label-green}
+
 - Well, I'm going to feel lucky if my car isn't towed, **I think**.
 - The conclusion, **it seems**, is intolerable. (Treated as `primary` engagement)
 
 ## Shell nouns/ Nominalized construction
+
+NEW in version 2
+{: .label .label-green}
 
 Shell nouns are abstract nouns that are frequently used to express **mental or communicative processes** in a compressed fashion.
 
@@ -241,6 +247,9 @@ Sometimes primary and more typically secondary engagement value is expressed usi
 
 ## No + noun construction
 
+NEW in version 2
+{: .label .label-green}
+
 - **No claims** can be made for more than inferential findings.
 - Without variability, **no learning** can take place.
 
@@ -258,4 +267,7 @@ Sometimes, due to the sentence segmentation issue, the dataset will include cita
 ## References
 
 Biber, D. (2006). Stance in spoken and written university registers. Journal of English for Academic Purposes, 5(2), 97–116. https://doi.org/10.1016/j.jeap.2006.05.001
+
+Chang, P., & Schleppegrell, M. (2011). Taking an effective authorial stance in academic writing: Making the linguistic resources explicit for L2 writers in the social sciences. Journal of English for Academic Purposes, 10(3), 140–151. https://doi.org/10.1016/j.jeap.2011.05.005
+
 
