@@ -21,6 +21,7 @@ Updated on 12th, Sep
 | [Verb phrases](#verb-phrases)                                                                                            | `runs`, `had seen`, `have been identified`, `have shown`, etc.    | on the entire verb phrase (except model verbs) |
 | [Passive construction](#passive-construction)                                                                            | `is determined`, `was said`                                       | on the entire verb phrase (except model verbs) |
 | [Mental or communication verbs](#mental-or-communication-verbs)                                                          | `think`, `say`, `tell`                                            | on the entire verb phrase                      |
+| [Degree adverb + Verb](#degree-adverb--lexical-verb)                                                                     | `partially agree`,                                                | `degree adverb + lexical verb`                 |
 | [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor)                                          | `It is unlikely that` ....                                        | See the rule below                             |
 | [emphatic do](#emphatic-do)                                                                                              | I `do believe` that ...                                           | `do + lexical verb`                            |
 | [Modal verbs](#modal-verbs)                                                                                              | `can`, `have to`                                                  | on the item                                    |
@@ -132,6 +133,26 @@ Following Halliday & Mathiessen (2014, p. 145), the following items are consider
 - can, may, could, might, (dare), will, would, should, is to, was to, must, ought to, need to, have/has/had to
 - needn't, don't need to, don't have to, won't, wouldn't, shouldn't, (isn't/wasn't), mustn't, oughtn't to, can't, couldn't, (mayn't, mightn't, haven't to).
 
+## Mental or Communication verbs
+
+When an engagement meaning is realized by a mental or communication verbs, you will put a tag on the lexical verb.
+- Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
+
+![commuverbs](figures/spans/comm_verb.png)
+
+## degree adverb + lexical verb
+
+NEW in version 2.1 
+{: .label .label-green}
+
+When there is a degree adverb that directly modify the lexical verb that expresses ENGAGEMENT meaning, then we consider these two as a set of engagement move.
+
+- I **partially agree** with the statement above.
+- He **completely opposed** to the report.
+
+
+
+
 ## Emphatic do
 
 NEW in version 2
@@ -167,12 +188,6 @@ When an engagement meaning is realized by a multi-word adverbs, such as preposit
 
 
 ![multiword_adv](figures/spans/prepphrases.png)
-## Mental or Communication verbs
-
-When an engagement meaning is realized by a mental or communication verbs, you will put a tag on the lexical verb.
-- Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
-
-![commuverbs](figures/spans/comm_verb.png)
 
 ## Subordinate clause—including both single-word and multi-word subordinate conjunctions
 
