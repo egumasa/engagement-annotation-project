@@ -18,6 +18,14 @@ NEW in version 2
 #### Examples
 - **Previous studies** showed ....
 - **The annual report by Google** mentioned the possibility of further expansion to...
+- According to **the annual report by Google**...
+- In **the annual report by Google**...
+
+
+- When the writer uses a parenthetical form or any in-text citation format, they should be tagged as Citation.
+
+For instance:
+- **(Google, 2020)**. => `Citation` rather than `SOURCE`.
 
 
 
