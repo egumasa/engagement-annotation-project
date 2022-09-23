@@ -12,7 +12,7 @@ nav_order: 11
 {: .def}
 >An utterance which engage in persuasion through justification or substantiation.
 
-This move is typically achieved by subordinate clauses or prepositional phrases expressing reasons (e.g., `because`, `considering that`, `given that`, `because of`, `due to`, `for this reason`).
+This move is typically achieved by subordinate clauses or prepositional phrases expressing causal relations and causes (e.g., `because`, `considering that`, `given that`, `because of`, `due to`, `for this reason`).
 
 - **Because the steps are made of a smooth, polished—and therefore slippery—stone**, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
 - Accessibility is quite a key factor **because it is evident that the regional centre was built on the basis of good infrastructure**.
