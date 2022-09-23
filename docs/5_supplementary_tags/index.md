@@ -5,7 +5,7 @@ has_children: true
 nav_order: 9
 ---
 
-## Step 5—Annotatiting Supplementary moves in Engagement resource analysis
+# Step 5—Annotatiting Supplementary moves in Engagement resource analysis
 
 
 NEW in version 2
@@ -15,9 +15,9 @@ The following tags essentially supplement the discourse moves (Step 2-4), so tha
 At the final step of the annotation, we will provide annotation of these supplementary moves. This is set up as an independent layer in webanno, so they are considered conceptually separate from (but supplementary to) Engagement moves.
 
 
-## Table 2. Categories of Supplementary tags 
+# Table 2. Categories of Supplementary tags 
 
-### Reference to information internal or external to the writing
+## Reference to information internal or external to the writing
 
 - This category of tags aims to identify what elements in the discourse refers to any internal/external materials.
 - `Citations` and `Sources` are two category that pertains to how `EXTERNAL` materials are referenced in the discourse.
@@ -34,7 +34,7 @@ At the final step of the annotation, we will provide annotation of these supplem
 > Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
 > Citation is moved to supplementary category because it can co-occur with `MONOGLOSS`.
 
-### Logical connections/ Transition phrases
+## Logical connections/ Transition phrases
 
 - Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` below).
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
@@ -49,11 +49,15 @@ At the final step of the annotation, we will provide annotation of these supplem
 | [Purpose/Result](PURPOSE.md)    | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`                   |
 | [Temporal markers](TEMPORAL.md) | Refer to when an event happened                                     | `First`\*, `At last`, `finally`\*, `then`, `next time`, `previously` |
 
+`*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
+`**` [Summative](SUMMATIVE.md) may have both Text-organizing function as well as logical function, but we use the same tag for both functions.
+
+
 
 {: .tips}
 > Justifying is equivalent to the `JUSTIFY` tag in the previous version (ver 1). The reason for this change is based on the observation that `JUSTIFY` can co-occur with `MONOGLOSS`, which suggests the distinct roles of justification.
 
-### Text organizing devices 
+## Text organizing devices 
 
 - Text organizing devices includes "discourse signals" that "refers to discourse acts, sequencing, and text-stages" (or what Hyland's called `framemarkers`; Hyland, 2005)
 - The following tags are used when we interpret the writer's intension is to let the reader know about the organization of its own text itself (independent from the content of the argument).
@@ -61,14 +65,12 @@ At the final step of the annotation, we will provide annotation of these supplem
 | Tag                                         | Description                                                         | Examples                                                                                                          |
 | ------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [Goal-announcing](GOAL.md)                  | Signal the purpose/goals of the text itself                         | `my purpose is`, `Section 2 describes`, `the chapter/section focuses/proposes`, `we intend to`, `in this chapter` |
-| [Text-sequencing/staging](TEXT-SEQUENCE.md) | Refer to sequences and stages of argumentative elements in the text | `First`, `Lastly`, `to start with`, `so far`, `overall`,                                                          |
+| [Text-sequencing/staging](TEXT-SEQUENCE.md) | Refer to sequences and stages of argumentative elements in the text | `First`\*, `Lastly`\*, `to start with`, `so far`, `overall`,                                                      |
+
+`*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
 
 
-Notes: 
-`*` in the table shows that the item's function needs to be carefully examined in the immediate context.
-`**` Summative may have both Text-organizing function as well as logical function, but we use the same tag.
-
-### Notes on theoretical framework
+## Notes on theoretical framework
 
 - Goal-announcing and text-sequencing and staging are based on Frame markers in Hyland (2005).
 - Endophoric markers are based on Hyland (2005).
