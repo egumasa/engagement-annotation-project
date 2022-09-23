@@ -34,19 +34,9 @@ At the final step of the annotation, we will provide annotation of these supplem
 > Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
 > Citation is moved to supplementary category because it can co-occur with `MONOGLOSS`.
 
-### Text organizing devices 
-
-- Text organizing devices includes "discourse signals" that "refers to discourse acts, sequencing, and text-stages" (or what Hyland's called `framemarkers`; Hyland, 2005)
-- The following tags are used when we interpret the writer's intension is to let the reader know about the organization of its own text itself (independent from the content of the argument).
-
-| Tag                                         | Description                                                         | Examples                                                                                                          |
-| ------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [Goal-announcing](GOAL.md)                  | Signal the purpose/goals of the text itself                         | `my purpose is`, `Section 2 describes`, `the chapter/section focuses/proposes`, `we intend to`, `in this chapter` |
-| [Text-sequencing/staging](TEXT-SEQUENCE.md) | Refer to sequences and stages of argumentative elements in the text | `First`, `Lastly`, `to start with`, `so far`, `overall`,                                                          |
-
 ### Logical connections/ Transition phrases
 
-- Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` above).
+- Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` below).
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
 
 | Tag                             | Description                                                         | Examples                                                             |
@@ -62,6 +52,16 @@ At the final step of the annotation, we will provide annotation of these supplem
 
 {: .tips}
 > Justifying is equivalent to the `JUSTIFY` tag in the previous version (ver 1). The reason for this change is based on the observation that `JUSTIFY` can co-occur with `MONOGLOSS`, which suggests the distinct roles of justification.
+
+### Text organizing devices 
+
+- Text organizing devices includes "discourse signals" that "refers to discourse acts, sequencing, and text-stages" (or what Hyland's called `framemarkers`; Hyland, 2005)
+- The following tags are used when we interpret the writer's intension is to let the reader know about the organization of its own text itself (independent from the content of the argument).
+
+| Tag                                         | Description                                                         | Examples                                                                                                          |
+| ------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [Goal-announcing](GOAL.md)                  | Signal the purpose/goals of the text itself                         | `my purpose is`, `Section 2 describes`, `the chapter/section focuses/proposes`, `we intend to`, `in this chapter` |
+| [Text-sequencing/staging](TEXT-SEQUENCE.md) | Refer to sequences and stages of argumentative elements in the text | `First`, `Lastly`, `to start with`, `so far`, `overall`,                                                          |
 
 
 Notes: 
