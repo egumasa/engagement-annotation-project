@@ -65,7 +65,7 @@ One exception to note is when a [modal auxiliary](#modal-verbs) is in the verb p
 - Discussants correctly **pointed out** that Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all **have** an even more aggressive campaign against witches than **did** the authors of our previous readings.
 - They **have found** it very difficult to understand each other ‘s lifestyles.
 
-When there is `negative perticles (e.g., not, never)` we will still consider it within the span.
+When there are `negative perticles (e.g., not, never)` we will still consider it within the span.
 - Even though he **had taken** all his medication, his leg **did n’t look** any better.
 - The effect of Morphological Awareness **did not achieve** significance ( β = .193, p = .263). 
   
