@@ -5,6 +5,10 @@ parent: Step 2–Span detection
 nav_order: 1
 ---
 
+Updated in version 3
+{: .label .label-green}
+
+
 # Verbal group + clausal projection 
 
 | Features                                                                        | Example items                                                  | Where to put a tag                             |
@@ -32,10 +36,8 @@ nav_order: 1
 
 
 
-## General principles on Verbal group
+## General principles on verbal groups
 
-NEW in version 2
-{: .label .label-green}
 
 When an engagement meaning is realized by a verb phrase, you will put a tag on the entire verb phrase (including Auxiliary + negation + lexical verbs + particles).
 One exception to note is when a [modal auxiliary](#modal-verbs) is in the verb phrase. In such cases, we will treat the modal verb separately from the verb phrase.
@@ -56,8 +58,6 @@ When there are `negative perticles (e.g., not, never)` we will still consider it
 
 ### Passive construction
 
-{: .label .label-green}
-New in Version 2
 
 When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we include `copula verb + lexical verb` in the span.
 
@@ -68,9 +68,6 @@ When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we i
 - It **was expected** that they would interview him later today.
 
 ### degree adverb + lexical verb
-
-NEW in version 2.1 
-{: .label .label-green}
 
 When there is a degree adverb that directly modify the lexical verb that expresses ENGAGEMENT meaning, then we consider these two as a set of engagement move.
 
@@ -102,24 +99,21 @@ We do not include `that` that introduces the projection clause.
 ![commuverbs](figures/spans/comm_verb.png)
 
 
-## I am/have X that
+## I am/have X that/whether/how ~
 
+- I **am sure** that
 - I **am not entirely sure** whether
 - I **am of the opinion** that
 - I **have no doubt** that
-- I **am sure** that
 
 
 ## It is X that/to — as Interpersonal metaphor
-
-Updated in version 2
-{: .label .label-green}
 
 When there is `It is X that ~`, `It is X to ~` or `there is/are X that` construction, we will tag the entire span of this construction. 
 This decision is based on the fact that these construction function as introducing the stance of the writer as a whole (they almost function as chunks). 
 
 
-### it/there is X that 
+### It/there is X that 
 When the `that-clause` govern the following clause, the tag spans are from `It/There` before `that`:
 - **It’s probable/likely/possible** that he’s lying.
 - **It is possible that** it is your duty to tell me.
@@ -132,7 +126,7 @@ When the `that-clause` govern the following clause, the tag spans are from `It/T
 - **It is widely accepted** that the processes that occur at the presentation of a single word are strongly dependent on the grammatical context that accumulated before the word, for example.
 
 
-### it is X (for Y) to  
+### It is X (for Y) to  
 
 When a `to-infinitive` govern the following clause, the tag spans are from `It` to the adjectival complement.
 - **It is possible** for a layer of ice to form under the circumstances.
@@ -154,21 +148,11 @@ Second, `seems` should get another tag because they add `ENTERTAIN` value to the
 
 ![Interpersonal_meta](figures/spans/Interpersonal_metaphor.png)
 
-## I am X that/whether/how ~
-
-Updated in version 2
-{: .label .label-green}
-
-
-- I **am sure** that
-- I **have no doubt** that 
-- I **am not entirely sure** whether
-- I **am of the opinion** that
 
 ## X is/are in NOMINAL that
 
 - FL teachers **have been in general agreement** that the target language should be used as much as possible in the FL classroom.
-- 
+
 
 ## Modal verbs
 
@@ -186,9 +170,6 @@ Following Halliday & Mathiessen (2014, p. 145), the following items are consider
 
 
 ## Emphatic do
-
-NEW in version 2
-{: .label .label-green}
 
 A typical realization of `PRONOUNCE` is the use of emphatic do. In this case, we will put a tag on `do + lexical verb`:
 

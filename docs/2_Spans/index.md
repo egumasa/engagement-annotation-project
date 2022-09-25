@@ -7,14 +7,15 @@ nav_order: 6
 
 {: lg}
 
+Updated in version 3
+{: .label .label-green}
+
+
 # Step 2 — Engagement Spans
 
 This section deals with structural/grammatical issues during the annotation, particularly the decisions involving where to put the tag. 
 
 In the example in this document, the span for which the tag should be put is shown in **Bold** face. 
-
-{: .label .label-red}
-Under construction
 
 
 ## General Principles

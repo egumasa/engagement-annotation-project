@@ -5,6 +5,9 @@ parent: Step 2–Span detection
 nav_order: 3
 ---
 
+Updated in version 3
+{: .label .label-green}
+
 # Nominal group
 
 | Features                                         | Example items                     | Where to put a tag                    |
@@ -15,8 +18,6 @@ nav_order: 3
 
 ## Shell nouns/ Nominalized construction
 
-NEW in version 2
-{: .label .label-green}
 
 Shell nouns are abstract nouns that are frequently used to express **mental or communicative processes** in a compressed fashion.
 
@@ -37,9 +38,6 @@ Sometimes primary and more typically secondary engagement value is expressed usi
 - **My impression** that I had been hurled into a coarsu world was heightened at the beginning of each day.
 
 ## No + noun construction
-
-NEW in version 2
-{: .label .label-green}
 
 - **No claims** can be made for more than inferential findings.
 - Without variability, **no learning** can take place.

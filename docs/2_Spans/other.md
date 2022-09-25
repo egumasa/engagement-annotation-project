@@ -5,6 +5,9 @@ parent: Step 2–Span detection
 nav_order: 4
 ---
 
+Updated in version 3
+{: .label .label-green}
+
 
 # Other important structures
 
@@ -16,9 +19,6 @@ When an engagement meaning is realized by a question, we will tag the whole ques
 
 
 ## Comment clause/parataxis
-
-NEW in version 2
-{: .label .label-green}
 
 - Well, I'm going to feel lucky if my car isn't towed, **I think**.
 - The conclusion, **it seems**, is intolerable. (Treated as `primary` engagement)
