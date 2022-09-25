@@ -21,12 +21,14 @@ Two typical patterns of goal announcing include:
 - The writer of the sentence describes the goals/purposes of the piece of text.
 - The writer of the sentence announces what is going to be written about in the immediate piece of writing.
 
-Typical items categorized as goal-announcing are following:
+Typical items categorized as goal-announcing are following (Bold-face are the span of this category.):
+
 - **We aim to present** ...
 - **The goal of this section/chapter/paper is** ...
 - **In this section, we demonstrate** ....
 - **This chapter focuses on**
 - **This paper seeks to identify** three key elements of effective communication.
+
 
 Other patterns of goal-announcing include:
 - **Prepositional phrases**: `(in) this chapter`, `(in) this part`, `(in) this section`
@@ -40,7 +42,10 @@ Other patterns of goal-announcing include:
 -> These nouns, when used with `The X of this paper/section is to` or similar construction, signals the goals of the writing.
 
 
-#### Examples
+#### Examples (Span of this category is shown in bold-face.)
+
+- *In order to address the issues outlined in the introduction (PURPORSE)*, **the study aimed to** uncover the processes through which the three writers completed their assignments.
+- **The aim of this study is to** shed some light on whether it is beneficial to devote classroom time to the explicit teaching of a limited number of academic FS and how this might be best achieved.
 
 
 

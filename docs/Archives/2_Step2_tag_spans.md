@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Step 2—Engagement spans
 parent: Archives
+title: Step 2—Engagement spans
 nav_order: 6
 ---
 

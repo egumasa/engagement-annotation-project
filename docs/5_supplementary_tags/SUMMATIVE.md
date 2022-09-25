@@ -27,6 +27,11 @@ Expressions of summative devices are considered in one way a subcategory of text
 
 #### Examples
 
+- **To summarize**, the concept of parallel language use is not transparent.
+- **Overall**, we believe that the concepts of linguistic capital and performative competence complement each other by allowing us to see how professional capabilities and practices are construed in discourse.
 
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }
+
+
+<insert ref>

@@ -5,19 +5,20 @@ has_children: true
 nav_order: 9
 ---
 
+Updated in version 3
+{: .label .label-green}
 # Step 5—Annotatiting Supplementary moves in Engagement resource analysis
 
 
-NEW in version 2
-{: .label .label-green}
+The following tags essentially supplement the discourse moves (Step 2-4), so that the entire annotation provide more valuable information about the rhetorical moves as well as help us better identify the engagement resources. The supplementary tags are broadly categorized into two categories:
 
-The following tags essentially supplement the discourse moves (Step 2-4), so that the entire annotation provide more valuable information about the discourse moves as well as help the machine to identify the engagement resources more confidently.
-At the final step of the annotation, we will provide annotation of these supplementary moves. This is set up as an independent layer in webanno, so they are considered conceptually separate from (but supplementary to) Engagement moves.
+1. Reference to materials that are either internal or external to its own text
 
+2. Conjunctive relations
 
 # Table 2. Categories of Supplementary tags 
 
-## Reference to information internal or external to the writing
+## 1. Reference to information internal or external to the writing
 
 - This category of tags aims to identify what elements in the discourse refers to any internal/external materials.
 - `Citations` and `Sources` are two category that pertains to how `EXTERNAL` materials are referenced in the discourse.
@@ -34,23 +35,35 @@ At the final step of the annotation, we will provide annotation of these supplem
 > Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
 > Citation is moved to supplementary category because it can co-occur with `MONOGLOSS`.
 
+
+
+## 2. Conjunctive relations
+
+## `Internal` vs `External` conjunctive relations
+
+The differences between `Text-sequencing` and `TEMPORAL` tags can be characterized in terms of the following two concept.
+
+- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the characteristics of `TEXT-SEQUENCING` expressions.
+
+- `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). This is the characteristics of `TEMPORAL` expressions.
+
+
 ## Logical connections/ Transition phrases
 
 - Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` below).
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
 
-| Tag                             | Description                                                         | Examples                                                             |
-| ------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Summative**](SUMMATIVE.md)     | Signal summaries in the part of the text                            | `to conclude`, `in short`, `to sum up`, `The conclusion is`          |
-| [Exemplifying](EXEMPLIFYING.md) | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                              |
-| [Expository](EXPOSITORY.md)     | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means`          |
-| Compare/Contrast                | Signal                                                              |                                                                      |
-| [Justifying](JUSTIFY.md)        | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                              |
-| [Purpose/Result](PURPOSE.md)    | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`                   |
-| [Temporal markers](TEMPORAL.md) | Refer to when an event happened                                     | `First`\*, `At last`, `finally`\*, `then`, `next time`, `previously` |
+| Tag                             | Description                                                         | Examples                                                    |
+| ------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Exemplifying](EXEMPLIFYING.md) | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
+| [Expository](EXPOSITORY.md)     | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| Compare/Contrast                | Signal                                                              |                                                             |
+| [Justifying](JUSTIFY.md)        | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
+| [Purpose/Result](PURPOSE.md)    | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
+| Causal                          | Signal causal relationships                                         | `because of X`, `due to X`, `therefore`                     |
+
 
 `*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
-`**` [Summative](SUMMATIVE.md) may have both Text-organizing function as well as logical function, but we use the same tag for both functions.
 
 
 
@@ -66,8 +79,20 @@ At the final step of the annotation, we will provide annotation of these supplem
 | ------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [Goal-announcing](GOAL.md)                  | Signal the purpose/goals of the text itself                         | `my purpose is`, `Section 2 describes`, `the chapter/section focuses/proposes`, `we intend to`, `in this chapter` |
 | [Text-sequencing/staging](TEXT-SEQUENCE.md) | Refer to sequences and stages of argumentative elements in the text | `First`\*, `Lastly`\*, `to start with`, `so far`, `overall`,                                                      |
+| [Summative**](SUMMATIVE.md)                 | Signal summaries in the part of the text                            | `to conclude`, `in short`, `to sum up`, `The conclusion is`                                                       |
 
 `*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
+
+
+## Expressions pertaining to the event itself
+
+| Tag                             | Description                     | Examples                                                             |
+| ------------------------------- | ------------------------------- | -------------------------------------------------------------------- |
+| [Temporal markers](TEMPORAL.md) | Refer to when an event happened | `First`\*, `At last`, `finally`\*, `then`, `next time`, `previously` |
+
+
+
+
 
 
 ## Notes on theoretical framework
@@ -76,7 +101,8 @@ At the final step of the annotation, we will provide annotation of these supplem
 - Endophoric markers are based on Hyland (2005).
 - Citations and Sources are related to Evidentials in Hyland (2005), but they are distinct given that Evidential is covered in Engagement (or ATTRIBUTE).
 
-## References
+## Bibliographical References
 
-Hyland, K. (2005). Metadiscourse: Exploring interaction in writing. Continuum.
-
+- Hyland, K. (2005). Metadiscourse: Exploring interaction in writing. Continuum.
+- Hyland, K., & Jiang, F. (Kevin). (2022). Metadiscourse choices in EAP: An intra-journal study of JEAP. Journal of English for Academic Purposes, 60, 101165. https://doi.org/10.1016/j.jeap.2022.101165
+- Hyland, K., & Tse, P. (2004). Metadiscourse in Academic Writing: A Reappraisal. Applied Linguistics, 25(2), 22.
