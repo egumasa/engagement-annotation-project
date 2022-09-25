@@ -10,12 +10,14 @@ nav_order: 2
 When an engagement meaning is realized by a single word adverbs (e.g., probably, surprisingly, etc.), you will put a tag on the item.
 - **Obviously**, he was lying. 
 - He was **probabily** lying,
+- 
 
 ![advmod](figures/spans/advmod.png)
 
 ## Multi-word adverbs/ adverbial and prepositional constituency
 
 When an engagement meaning is realized by a multi-word adverbs, such as prepositional phrases, adverbial phrases, you will put a tag on the whole constituency.
+
 - **In my view**, these were the norm.
 - **Generally speaking**, if a person repented the church would pardon him or her regardless of how atrocious the crime was.
 - They do feel like they 're frozen out **because of a big company**.
@@ -24,8 +26,6 @@ When an engagement meaning is realized by a multi-word adverbs, such as preposit
 - The camel is **without doubt** one of the natural world's most remarkable forms of transport.
 - Then we realized that you had to **sort of like** turn it off.
 - **As expected**, the volume of retail sales rose 0.5 per cent in August.
-
-
 
 ![multiword_adv](figures/spans/prepphrases.png)
 
