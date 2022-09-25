@@ -5,6 +5,9 @@ parent: Step 2–Span detection
 nav_order: 2
 ---
 
+Updated in version 3
+{: .label .label-green}
+
 # Adverbial group
 
 | Features                                                                                                                 | Example items                                                     | Where to put a tag            |

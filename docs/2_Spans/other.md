@@ -28,12 +28,12 @@ When an engagement meaning is realized by a question, we will tag the whole ques
 
 ## Citations
 
-For citations, we will tag the entire span of the citation.
-Sometimes, due to the sentence segmentation issue, the dataset will include citations cut in the middle (see the last example in the screenshot).
-- The extremely high prevalence of child and adolescent exposure to violence in U.S. inner-cities <engmt class="monogloss">is</engmt> alarming **(Bell &amp;amp**.
-
+See [CITATION](../5_supplementary_tags/CITATION.md)
 
 ## SOURCE
+
+See [SOURCE](../5_supplementary_tags/Sources.md)
+
 
 
 ![Citation](figures/spans/citation.png)
