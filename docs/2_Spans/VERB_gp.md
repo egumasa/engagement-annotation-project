@@ -6,15 +6,26 @@ nav_order: 1
 ---
 
 
+{: .tips}
+> From version 3, we do not include the conjunction `that/whether` that introduces projection clauses in the span.
+> 
+> Previously, we were including them:
+> - **It’s probable/likely/possible that** he’s lying.
+> From version 3, we exclude them:
+> - **It’s probable/likely/possible** that he’s lying.
+> 
+> This is primarily based on the fact that the meanings/function of engagement is expressed outside the projection clause, and sometimes intervening words (adverbs, clausal conjunctions) make it hard to include the projection without including too many other elements.
+>  
+
 
 ## Mental or Communication verbs
 
 When an engagement meaning is realized by a mental or communication verbs, you will put a tag on the lexical verb.
+We do not include `that` that introduces the projection clause.
 
-- I think that 
-- I suppose that 
-- I don't believe that 
-
+- I **think** that 
+- I **suppose** that 
+- I **don't believe** that 
 - Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
 
 
@@ -22,9 +33,7 @@ When an engagement meaning is realized by a mental or communication verbs, you w
 ![commuverbs](figures/spans/comm_verb.png)
 
 
-
-
-## Other verb phrases—
+## Other verb phrases
 
 NEW in version 2
 {: .label .label-green}
@@ -42,8 +51,6 @@ When there are `negative perticles (e.g., not, never)` we will still consider it
 
 {: .note}
 >Previously (in version 1), we have put a tag on "most lexically heavy verbs".
->  
-
 
 
 ## Passive construction
@@ -70,9 +77,7 @@ When there is a degree adverb that directly modify the lexical verb that express
 - He **completely opposed** to the report.
 
 
-
-
-## It is X that/to— as Interpersonal metaphor
+## It is X that/to — as Interpersonal metaphor
 
 Updated in version 2
 {: .label .label-green}
@@ -80,14 +85,16 @@ Updated in version 2
 When there is `It is X that ~`, `It is X to ~` or `there is/are X that` construction, we will tag the entire span of this construction. 
 This decision is based on the fact that these construction function as introducing the stance of the writer as a whole (they almost function as chunks). 
 
-When the `that-clause` govern the following clause, the tag spans are from `It/There` to `that`:
-- **It’s probable/likely/possible that** he’s lying.
+When the `that-clause` govern the following clause, the tag spans are from `It/There` before `that`:
+- **It’s probable/likely/possible** that he’s lying.
 - **It is possible that** it is your duty to tell me.
-- **It is absolutely clear to me that** what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
-- **There is no doubt that** globalization has a deep effect on China.
-- However, **there is mounting evidence that** processes of language acquisition, use, and change are not independent of one another but are facets of the same system.
-- **There can be no doubt, however, that** the imperial Byzantine silks have a power and a dignity, a feeling for design and texture, seldom rivalled in the history of textiles.
-- **It is said that** television keeps people at home. 
+- **It is absolutely clear to me** that what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
+- **There is no doubt** that globalization has a deep effect on China.
+- However, **there is mounting evidence** that processes of language acquisition, use, and change are not independent of one another but are facets of the same system.
+- **There can be no doubt**, however, that the imperial Byzantine silks have a power and a dignity, a feeling for design and texture, seldom rivalled in the history of textiles.
+- **It is said** that television keeps people at home. 
+- **It is widely accepted** that the processes that occur at the presentation of a single word are strongly dependent on the grammatical context that accumulated before the word, for example.
+
 
 When a `to-infinitive` govern the following clause, the tag spans are from `It` to the adjectival complement.
 - **It is possible** for a layer of ice to form under the circumstances.
@@ -115,12 +122,15 @@ Updated in version 2
 {: .label .label-green}
 
 
-- I am sure that
-- I have no doubt that 
-- I am not entirely sure whether
-- I am of the opinion that
+- I **am sure** that
+- I **have no doubt** that 
+- I **am not entirely sure** whether
+- I **am of the opinion** that
 
+## X is/are in NOMINAL that
 
+- FL teachers **have been in general agreement** that the target language should be used as much as possible in the FL classroom.
+- 
 
 ## Modal verbs
 
