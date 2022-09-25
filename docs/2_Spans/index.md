@@ -17,7 +17,7 @@ In the example in this document, the span for which the tag should be put is sho
 Under construction
 
 
-## General principles
+## General Principles
 
 It is important to remember that an engagement category (e.g., `ENTERTAIN`) is realized/expressed in a variety of construction types (e.g., `modal verb`, `if-clause`, `adverbial phrase`, etc.). 
 Similarly a given construction type (e.g., `It is X that` construction) can take various engagement categories (e.g., `ENTERTAIN`, `PRONOUNCE`).
@@ -50,7 +50,7 @@ First, to illustrate what it meant by the previous points, the following matrix 
 
 
 
-### Basic Rules
+## Basic Patterns and Rules
 
 The following table summarizes basic construction types which may realize any of the engagement meaning and their rules for span detection. 
 
@@ -76,7 +76,7 @@ The following table summarizes basic construction types which may realize any of
 
 
 
-## Some generalization
+## Some Generalization
 
 When in doubt, you can test whether the span is reasonable by separating an idea/issue/problem at hand (i.e., propositional content) from the author's view on that matter.
 
