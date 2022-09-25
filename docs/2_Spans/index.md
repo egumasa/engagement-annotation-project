@@ -23,7 +23,7 @@ It is important to remember that an engagement category (e.g., `ENTERTAIN`) is r
 Similarly a given construction type (e.g., `It is X that` construction) can take various engagement categories (e.g., `ENTERTAIN`, `PRONOUNCE`).
 Step 2 guidelines aim to help us to precisely identify the span of engagement tag in different types of construction. 
 
-### Example construction by category matrix
+### Example construction by category matrix 
 
 First, to illustrate what it meant by the previous points, the following matrix shows the example combination between engagement category and construction type. You can confirm that:
 
@@ -31,9 +31,9 @@ First, to illustrate what it meant by the previous points, the following matrix 
 2. An engagement category can be expressed with a range of construction types.
 
 
-|                                          | Communication (and other) verb                      | Mental verb 'like' clause           | Mental verb 'please' clause | "I am/have" clause                 | "It/there is x that/to" clause                           | Prep. phrase                 | Adv. gp; Prep. Phrase         | Predicator               | Nominalization                      |                                          |
+| Engagement Moves                         | Communication (and other) verb                      | Mental verb 'like' clause           | Mental verb 'please' clause | "I am/have" clause                 | "It/there is x that/to" clause                           | Prep. phrase                 | Adv. gp; Prep. Phrase         | Predicator               | Nominalization                      | Engagement Moves (reproduced)            |
 | ---------------------------------------- | --------------------------------------------------- | ----------------------------------- | --------------------------- | ---------------------------------- | -------------------------------------------------------- | ---------------------------- | ----------------------------- | ------------------------ | ----------------------------------- | ---------------------------------------- |
-| Prototypical `ENTERTAIN` (guess)         |                                                     | I + **guess** / I **don't know** if |                             | I **am not entirely sure** whether |                                                          |                              | `presumably`                  |                          | **my assumption/impression** (that) | Prototypical `ENTERTAIN` (guess)         |
+| Prototypical `ENTERTAIN` (guess)         |                                                     | I + **guess** / I **don't know** if |                             | I **am not entirely sure** whether |                                                          |                              | **presumably**                |                          | **my assumption/impression** (that) | Prototypical `ENTERTAIN` (guess)         |
 | Prototypical `ENTERTAIN` (argue)         | I + **argue**                                       |                                     |                             |                                    | **it is arguable** that                                  |                              | **arguably**                  |                          | **our argument** (that)             | Prototypical `ENTERTAIN` (argue)         |
 | Prototypical `ENTERTAIN` (think)         |                                                     | I + **think/believe**               | **It strikes me** that      | I **am of the opinion** that       | **it is possible** that, **there is a probability** that | **in my opinion**, **to me** | **perhaps**, **probably**     | X **is likely** to       | **my opinion**,                     | Prototypical `ENTERTAIN` (think)         |
 | Prototypical `ENTERTAIN` (suggest)       | I + **suggest**                                     |                                     |                             |                                    |                                                          |                              | **tentatively**               |                          | **our proposal** (that)             | Prototypical `ENTERTAIN` (suggest)       |
@@ -42,7 +42,7 @@ First, to illustrate what it meant by the previous points, the following matrix 
 | Prototypical `ATTRIBUTE`                 | They + **say/admit/report**                         | I + **hear**                        |                             |                                    | **it is said/reported** that                             | **according to X**           | **reportedly**, **allegedly** | X **is said/rumored** to | **their assertion/proposal** that   | Prototypical `ATTRIBUTE`                 |
 | Prototypical `ENDORSE`                   | They + **convincingly argue**, They + **confirmed** |                                     |                             |                                    | **there is mounting evidence** that                      |                              |                               | X **is demonstrated** to |                                     | Prototypical `ENDORSE`                   |
 
-**Note**: This table is not an exhaustive list of construction types for each engagement. There will also be possible realization of the category in the empty cells.
+**Note**: This table is not an exhaustive list of construction types for each engagement. It is possible to have examples in the empty cells; Adapted from Halliday & Mattheissen (2014, Table 10-6).
 
 ### Basic Rules
 
