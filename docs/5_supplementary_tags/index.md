@@ -16,7 +16,7 @@ The following tags essentially supplement the discourse moves (Step 2-4), so tha
 
 2. Conjunctive relations
 
-# Table 2. Categories of Supplementary tags 
+These categories are described in turn below.
 
 ## 1. Reference to information internal or external to the writing
 
@@ -24,12 +24,14 @@ The following tags essentially supplement the discourse moves (Step 2-4), so tha
 - `Citations` and `Sources` are two category that pertains to how `EXTERNAL` materials are referenced in the discourse.
 - `ENDOPHORIC` pertains to how the writer refers to the other part of its own writing.
 
-| Tag                                 | Description                                                                                   | Examples                                      |
-| ----------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Citations](CITATION.md)            | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,    |
-| [Sources](Sources.md)               | Mentions to external source(s) in the text in forms of nominal expression.                    | `The annual report by X`, `Numerous studies`  |
-| [Endophoric markers](ENDOPHORIC.md) | Refer to information in other parts of its own text                                           | as noted `above`, see `Fig 1`, `in section 2` |
-| [Quoted](QUOTED.md)                 | Segment of text with direct quotation (including the quotation marks, both single and double) | `"Stay hungry. Stay foolish."`                |
+| Tag                                   | Description                                                                                   | Examples                                      |
+| ------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| References to external sources        |                                                                                               |                                               |
+| ‖—[Citations](CITATION.md)            | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,    |
+| ‖—[Sources](Sources.md)               | Mentions to external source(s) in the text in forms of nominal expression.                    | `The annual report by X`, `Numerous studies`  |
+| References text internally            |                                                                                               |                                               |
+| ‖—[Endophoric markers](ENDOPHORIC.md) | Refer to information in other parts of its own text                                           | as noted `above`, see `Fig 1`, `in section 2` |
+| [Quoted](QUOTED.md)                   | Segment of text with direct quotation (including the quotation marks, both single and double) | `"Stay hungry. Stay foolish."`                |
 
 {: .tips}
 > Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
@@ -38,6 +40,7 @@ The following tags essentially supplement the discourse moves (Step 2-4), so tha
 
 
 ## 2. Conjunctive relations
+
 
 ## `Internal` vs `External` conjunctive relations
 
@@ -57,6 +60,7 @@ The differences between `Text-sequencing` and `TEMPORAL` tags can be characteriz
 | ------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
 | [Exemplifying](EXEMPLIFYING.md) | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
 | [Expository](EXPOSITORY.md)     | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| Additive                        | Signal                                                              |                                                             |
 | Compare/Contrast                | Signal                                                              |                                                             |
 | [Justifying](JUSTIFY.md)        | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
 | [Purpose/Result](PURPOSE.md)    | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
@@ -72,7 +76,7 @@ The differences between `Text-sequencing` and `TEMPORAL` tags can be characteriz
 
 ## Text organizing devices 
 
-- Text organizing devices includes "discourse signals" that "refers to discourse acts, sequencing, and text-stages" (or what Hyland's called `framemarkers`; Hyland, 2005)
+- Text organizing devices includes "discourse signals" that "refers to discourse acts, sequencing, and text-stages" (or what Hyland's called `frame markers`; Hyland, 2005)
 - The following tags are used when we interpret the writer's intension is to let the reader know about the organization of its own text itself (independent from the content of the argument).
 
 | Tag                                         | Description                                                         | Examples                                                                                                          |
