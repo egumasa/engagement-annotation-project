@@ -26,6 +26,7 @@ Step 2 guidelines aim to help us to precisely identify the span of engagement ta
 ### Example construction by category matrix
 
 First, to illustrate what it meant by the previous points, the following matrix shows the example combination between engagement category and construction type. You can confirm that:
+
 1. A construction can express different engagement meaning.
 2. An engagement category can be expressed with a range of construction types.
 
