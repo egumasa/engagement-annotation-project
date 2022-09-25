@@ -35,8 +35,6 @@ Updated in version 3
 > This is primarily based on the fact that the meanings/function of engagement is expressed outside the projection clause, and sometimes intervening words (adverbs, clausal conjunctions) make it hard to include the projection without including too many other elements.
 
 
-
-
 ## General principles on verbal groups
 
 
