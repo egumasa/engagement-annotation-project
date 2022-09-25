@@ -59,24 +59,43 @@ The following table summarizes basic construction types which may realize any of
 Again, the following constructions may not always take on engagement meaning.
 
 
-| Features                                                                                                                 | Example items                                                     | Where to put a tag                             |
-| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------- |
-| [Verb phrases](#verb-phrases)                                                                                            | `runs`, `had seen`, `have been identified`, `have shown`, etc.    | on the entire verb phrase (except model verbs) |
-| [Passive construction](#passive-construction)                                                                            | `is determined`, `was said`                                       | on the entire verb phrase (except model verbs) |
-| [Mental or communication verbs](#mental-or-communication-verbs)                                                          | `think`, `say`, `tell`                                            | on the entire verb phrase                      |
-| [Degree adverb + Verb](#degree-adverb--lexical-verb)                                                                     | `partially agree`,                                                | `degree adverb + lexical verb`                 |
-| [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor)                                          | `It is unlikely` that ....                                        | See the rule below                             |
-| [emphatic do](#emphatic-do)                                                                                              | I `do believe` that ...                                           | `do + lexical verb`                            |
-| [Modal verbs](#modal-verbs)                                                                                              | `can`, `have to`                                                  | on the item                                    |
-| [Single-word adverbs](#single-word-adverbs)                                                                              | `obviously`, `sure`                                               | on the item                                    |
-| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)                    | `in my view`, `to me`, `in actual fact`                           | the entire phrase                              |
-| [(Adverbial) subordinate clauses](#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | `as SV`, `when SV`, `if SV`, `as long as SV`, `whether or not SV` | the entire subordinate clause                  |
-| [Coordinating conjunctions](#coordinating-conjunctions)                                                                  | `but`, `and`, `yet`                                               | on the item                                    |
-| [Question](#questions)                                                                                                   | `Who thinks that smoking do no harm in 21st century?`             | on the entire question                         |
-| [Comment clause/ parataxis](#comment-clauseparataxis)                                                                    | see examples                                                      | on the entire comment clause                   |
-| [Shell nouns](#nominalized-construction)                                                                                 | `the author's belief` that/of ...                                 | `Det + premodifiers + Noun + that/of`          |
-| [No + Noun construction](#no--noun-construction)                                                                         | `No rules`, `None of the idea`                                    | `No + head noun`                               |
-| [Citations](#citations)                                                                                                  | `Kyle (2020)`; `(Kyle, 2020)`                                     | See details                                    |
+### Verbal group
+
+| Features                                                                        | Example items                                                  | Where to put a tag                             |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------- |
+| [Verb phrases](#verb-phrases)                                                   | `runs`, `had seen`, `have been identified`, `have shown`, etc. | on the entire verb phrase (except model verbs) |
+| [Passive construction](#passive-construction)                                   | `is determined`, `was said`                                    | on the entire verb phrase (except model verbs) |
+| [Mental or communication verbs](#mental-or-communication-verbs)                 | `think`, `say`, `tell`                                         | on the entire verb phrase                      |
+| [Degree adverb + Verb](#degree-adverb--lexical-verb)                            | `partially agree`,                                             | `degree adverb + lexical verb`                 |
+| [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor) | `It is unlikely` that ....                                     | See the rule below                             |
+| [emphatic do](#emphatic-do)                                                     | I `do believe` that ...                                        | `do + lexical verb`                            |
+| [Modal verbs](#modal-verbs)                                                     | `can`, `have to`                                               | on the item                                    |
+
+### Adverbial group
+
+| Features                                                                                                                 | Example items                                                     | Where to put a tag            |
+| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ----------------------------- |
+| [Single-word adverbs](#single-word-adverbs)                                                                              | `obviously`, `sure`                                               | on the item                   |
+| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)                    | `in my view`, `to me`, `in actual fact`                           | the entire phrase             |
+| [(Adverbial) subordinate clauses](#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | `as SV`, `when SV`, `if SV`, `as long as SV`, `whether or not SV` | the entire subordinate clause |
+| [Coordinating conjunctions](#coordinating-conjunctions)                                                                  | `but`, `and`, `yet`                                               | on the item                   |
+
+
+### Nominal group
+
+| Features                                         | Example items                     | Where to put a tag                    |
+| ------------------------------------------------ | --------------------------------- | ------------------------------------- |
+| [Shell nouns](#nominalized-construction)         | `the author's belief` that/of ... | `Det + premodifiers + Noun + that/of` |
+| [No + Noun construction](#no--noun-construction) | `No rules`, `None of the idea`    | `No + head noun`                      |
+
+
+### Other important constructions
+
+| Features                                              | Example items                                         | Where to put a tag           |
+| ----------------------------------------------------- | ----------------------------------------------------- | ---------------------------- |
+| [Question](#questions)                                | `Who thinks that smoking do no harm in 21st century?` | on the entire question       |
+| [Comment clause/ parataxis](#comment-clauseparataxis) | see examples                                          | on the entire comment clause |
+| [Citations](#citations)                               | `Kyle (2020)`; `(Kyle, 2020)`                         | See details                  |
 
 
 
