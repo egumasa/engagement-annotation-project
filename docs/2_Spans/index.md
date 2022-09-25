@@ -36,18 +36,7 @@ So, the following guideline helps us to precisely identify the span of engagemen
 |                                          |               |                                 |                             |                                  |                                                    |                          |                           |                        |
 |                                          |               |                                 |                             |                                  |                                                    |                          |                           |                        |
 
-
-|                                          | Verbal clause | Mental verb 'like' clause       | Mental verb 'please' clause | "I am/have" clause               | "It/there is x that/to" clause                     | Prep. phrase             | Adv. gp; Prep. Phrase     | Predicator             |
-| ---------------------------------------- | ------------- | ------------------------------- | --------------------------- | -------------------------------- | -------------------------------------------------- | ------------------------ | ------------------------- | ---------------------- |
-| Prototypical `ENTERTAIN` (guess)         |               | I + `guess` / I `don't know if` |                             | I `am not entirely sure whether` |                                                    |                          | `presumably`              |                        |
-| Prototypical `ENTERTAIN` (argue)         | I + `argue`   |                                 |                             |                                  | `It is arguable that`                              |                          | `arguably`                |                        |
-| Prototypical `ENTERTAIN` (think)         |               | I + `think/believe`             |                             | I `am of the opinion that`       | `It is possible that`, `It's likely that`          | `in my opinion`, `to me` | `perhaps`, `probably`     | X `is likely to`       |
-| Prototypical `ENTERTAIN` (suggest)       | I + `suggest` |                                 |                             |                                  |                                                    |                          | `tentatively`             |                        |
-| Prototypical `ATTRIBUTE`                 | They `say`    | I + `hear`                      |                             |                                  | `It is said/reported that`                         | `According to X`         | `reportedly`, `allegedly` | X `is said/rumored to` |
-| Prototypical `PRONOUNCE` (no doubt)      |               | I don't doubt/ I `do` believe   |                             | I `have no doubt that`           | `There is no doubt that`, `it is indubitable that` |                          | `indubitably`, `no doubt` |                        |
-| Prototypical `PRONOUNCE` (clear/obvious) |               |                                 |                             | I `am sure that`                 | `It is clear that`                                 |                          | `clearly`, `obviously`    |                        |
-|                                          |               |                                 |                             |                                  |                                                    |                          |                           |                        |
-|                                          |               |                                 |                             |                                  |                                                    |                          |                           |                        |
+Version 2
 
 
 |                              | Prototypical `ENTERTAIN` (guess) | Prototypical `ENTERTAIN` (argue) | Prototypical `ENTERTAIN` (think)          | Prototypical `ENTERTAIN` (suggest) | Prototypical `ATTRIBUTE`   | Prototypical `PRONOUNCE` (no doubt)                | Prototypical `PRONOUNCE` (clear/obvious) |      |
@@ -61,6 +50,8 @@ So, the following guideline helps us to precisely identify the span of engagemen
 | Adv. gp; Prep. Phrase        | `presumably`                     | `arguably`                       | `perhaps`, `probably`                     | `tentatively`                      | `reportedly`, `allegedly`  | `indubitably`, `no doubt`                          | `clearly`, `obviously`                   |      |
 | Predicator                   |                                  |                                  | X `is likely to`                          |                                    | X `is said/rumored to`     |                                                    |                                          |      |
 |                              |                                  |                                  |                                           |                                    |                            |                                                    |                                          |      |
+
+
 **Note**: This table is not an exhaustive list of construction types for each engagement. There will also be possible realization of the category in the empty cells.
 
 
