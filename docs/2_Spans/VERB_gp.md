@@ -59,21 +59,6 @@ When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we i
 - At least some of the abuse **is claimed** to have taken place last year.
 - It **was expected** that they would interview him later today.
 
-## Modal verbs
-
-When an engagement meaning is realized by a modal verbs (e.g., can, may, might, have to, etc.), you will put a tag on the modal.
-- He **may** be lying.
-- Teachers **should** show students the language needed to achieve these rhetorical features of argumentative writing.
-
-![modal](figures/spans/modals.png)
-
-### List of modal verbs
-
-Following Halliday & Mathiessen (2014, p. 145), the following items are considered as modal verbs (Modal operators) in this project:
-- can, may, could, might, (dare), will, would, should, is to, was to, must, ought to, need to, have/has/had to
-- needn't, don't need to, don't have to, won't, wouldn't, shouldn't, (isn't/wasn't), mustn't, oughtn't to, can't, couldn't, (mayn't, mightn't, haven't to).
-
-
 ## degree adverb + lexical verb
 
 NEW in version 2.1 
@@ -84,17 +69,6 @@ When there is a degree adverb that directly modify the lexical verb that express
 - I **partially agree** with the statement above.
 - He **completely opposed** to the report.
 
-
-## Emphatic do
-
-NEW in version 2
-{: .label .label-green}
-
-A typical realization of `PRONOUNCE` is the use of emphatic do. In this case, we will put a tag on `do + lexical verb`:
-
-- We `do believe` that researchers should view this disciplinary division as an opportunity rather than an obstacle.
-
-This is a strategy to prevent any `ENTERTAIN` tagged on `believe` when there is already a `PRONOUNCE` in the sentence.
 
 
 
@@ -145,3 +119,32 @@ Updated in version 2
 - I have no doubt that 
 - I am not entirely sure whether
 - I am of the opinion that
+
+
+
+## Modal verbs
+
+When an engagement meaning is realized by a modal verbs (e.g., can, may, might, have to, etc.), you will put a tag on the modal.
+- He **may** be lying.
+- Teachers **should** show students the language needed to achieve these rhetorical features of argumentative writing.
+
+![modal](figures/spans/modals.png)
+
+### List of modal verbs
+
+Following Halliday & Mathiessen (2014, p. 145), the following items are considered as modal verbs (Modal operators) in this project:
+- can, may, could, might, (dare), will, would, should, is to, was to, must, ought to, need to, have/has/had to
+- needn't, don't need to, don't have to, won't, wouldn't, shouldn't, (isn't/wasn't), mustn't, oughtn't to, can't, couldn't, (mayn't, mightn't, haven't to).
+
+
+## Emphatic do
+
+NEW in version 2
+{: .label .label-green}
+
+A typical realization of `PRONOUNCE` is the use of emphatic do. In this case, we will put a tag on `do + lexical verb`:
+
+- We `do believe` that researchers should view this disciplinary division as an opportunity rather than an obstacle.
+
+This is a strategy to prevent any `ENTERTAIN` tagged on `believe` when there is already a `PRONOUNCE` in the sentence.
+
