@@ -14,9 +14,9 @@ Updated in version 3
 | Features                                                                        | Example items                                                  | Where to put a tag                             |
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------- |
 | [Verb phrases](#general-principles-on-verbal-groups)                            | `runs`, `had seen`, `have been identified`, `have shown`, etc. | on the entire verb phrase (except model verbs) |
-| ‖-[Negation](#passive-construction)                                             | `is determined`, `was said`                                    | on the entire verb phrase (except model verbs) |
-| ‖-[Passive construction](#passive-construction)                                 | `is determined`, `was said`                                    | on the entire verb phrase (except model verbs) |
-| ‖-[Degree adverb + Verb](#degree-adverb--lexical-verb)                          | `partially agree`,                                             | `degree adverb + lexical verb`                 |
+| ‖—[Negation](#passive-construction)                                             | `is determined`, `was said`                                    | on the entire verb phrase (except model verbs) |
+| ‖—[Passive construction](#passive-construction)                                 | `is determined`, `was said`                                    | on the entire verb phrase (except model verbs) |
+| ‖—[Degree adverb + Verb](#degree-adverb--lexical-verb)                          | `partially agree`,                                             | `degree adverb + lexical verb`                 |
 | [Mental or communication verbs](#mental-or-communication-verbs)                 | `think`, `say`, `tell`                                         | on the entire verb phrase                      |
 | [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor) | `It is unlikely` that ....                                     | See the rule below                             |
 | [emphatic do](#emphatic-do)                                                     | I `do believe` that ...                                        | `do + lexical verb`                            |
