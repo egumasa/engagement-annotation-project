@@ -13,8 +13,8 @@ This section deals with structural/grammatical issues during the annotation, par
 
 In the example in this document, the span for which the tag should be put is shown in **Bold** face. 
 
-{: .label .label-green}
-Updated on 24th, Sep
+{: .label .label-red}
+Under construction
 
 
 ## General principle
