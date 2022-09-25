@@ -7,6 +7,16 @@ nav_order: 1
 
 # Verbal group + clausal projection 
 
+| Features                                                                        | Example items                                                  | Where to put a tag                             |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------- |
+| [Verb phrases](#verb-phrases)                                                   | `runs`, `had seen`, `have been identified`, `have shown`, etc. | on the entire verb phrase (except model verbs) |
+| [Passive construction](#passive-construction)                                   | `is determined`, `was said`                                    | on the entire verb phrase (except model verbs) |
+| [Mental or communication verbs](#mental-or-communication-verbs)                 | `think`, `say`, `tell`                                         | on the entire verb phrase                      |
+| [Degree adverb + Verb](#degree-adverb--lexical-verb)                            | `partially agree`,                                             | `degree adverb + lexical verb`                 |
+| [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor) | `It is unlikely` that ....                                     | See the rule below                             |
+| [emphatic do](#emphatic-do)                                                     | I `do believe` that ...                                        | `do + lexical verb`                            |
+| [Modal verbs](#modal-verbs)                                                     | `can`, `have to`                                               | on the item                                    |
+
 
 {: .tips}
 > From version 3, we do not include the conjunction `that/whether` that introduces projection clauses in the span.
@@ -18,25 +28,11 @@ nav_order: 1
 > - **It’s probable/likely/possible** that he’s lying.
 > 
 > This is primarily based on the fact that the meanings/function of engagement is expressed outside the projection clause, and sometimes intervening words (adverbs, clausal conjunctions) make it hard to include the projection without including too many other elements.
->  
-
-
-## Mental or Communication verbs
-
-When an engagement meaning is realized by a mental or communication verbs, you will put a tag on the lexical verb.
-We do not include `that` that introduces the projection clause.
-
-- I **think** that 
-- I **suppose** that 
-- I **don't believe** that 
-- Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
 
 
 
-![commuverbs](figures/spans/comm_verb.png)
 
-
-## Other verb phrases
+## General principles on Verbal group
 
 NEW in version 2
 {: .label .label-green}
@@ -44,19 +40,21 @@ NEW in version 2
 When an engagement meaning is realized by a verb phrase, you will put a tag on the entire verb phrase (including Auxiliary + negation + lexical verbs + particles).
 One exception to note is when a [modal auxiliary](#modal-verbs) is in the verb phrase. In such cases, we will treat the modal verb separately from the verb phrase.
 
+
 - They **have found** it very difficult to understand each other ‘s lifestyles.
 - Discussants correctly **pointed out** that Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all **have** an even more aggressive campaign against witches than **did** the authors of our previous readings.
+- Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
+
+
 When there are `negative perticles (e.g., not, never)` we will still consider it within the span.
 - Even though he **had taken** all his medication, his leg **did n’t look** any better.
 - The effect of Morphological Awareness **did not achieve** significance ( β = .193, p = .263). 
   
-
-
 {: .note}
 >Previously (in version 1), we have put a tag on "most lexically heavy verbs".
 
 
-## Passive construction
+### Passive construction
 
 {: .label .label-green}
 New in Version 2
@@ -69,7 +67,7 @@ When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we i
 - At least some of the abuse **is claimed** to have taken place last year.
 - It **was expected** that they would interview him later today.
 
-## degree adverb + lexical verb
+### degree adverb + lexical verb
 
 NEW in version 2.1 
 {: .label .label-green}
@@ -80,6 +78,38 @@ When there is a degree adverb that directly modify the lexical verb that express
 - He **completely opposed** to the report.
 
 
+## Mental or Communication verbs
+
+When an engagement meaning is realized by a mental or communication verbs, you will put a tag on the lexical verb.
+We do not include `that` that introduces the projection clause.
+
+### Communication/mental verbs (`like` pattern)
+
+- I **think** that ~.
+- I **suppose** that ~.
+- I **don't believe** that ~.
+- We **hear** that
+
+
+### Communication/mental verbs (`please` pattern)
+
+- **It strikes me** that ~.
+- **It occurred to me** that ~.
+- **It surprizes me** that ~.
+- **It puzzles me** that ~.
+
+
+![commuverbs](figures/spans/comm_verb.png)
+
+
+## I am/have X that
+
+- I **am not entirely sure** whether
+- I **am of the opinion** that
+- I **have no doubt** that
+- I **am sure** that
+
+
 ## It is X that/to — as Interpersonal metaphor
 
 Updated in version 2
@@ -88,6 +118,8 @@ Updated in version 2
 When there is `It is X that ~`, `It is X to ~` or `there is/are X that` construction, we will tag the entire span of this construction. 
 This decision is based on the fact that these construction function as introducing the stance of the writer as a whole (they almost function as chunks). 
 
+
+### it/there is X that 
 When the `that-clause` govern the following clause, the tag spans are from `It/There` before `that`:
 - **It’s probable/likely/possible** that he’s lying.
 - **It is possible that** it is your duty to tell me.
@@ -99,6 +131,8 @@ When the `that-clause` govern the following clause, the tag spans are from `It/T
 - **It is said** that television keeps people at home. 
 - **It is widely accepted** that the processes that occur at the presentation of a single word are strongly dependent on the grammatical context that accumulated before the word, for example.
 
+
+### it is X (for Y) to  
 
 When a `to-infinitive` govern the following clause, the tag spans are from `It` to the adjectival complement.
 - **It is possible** for a layer of ice to form under the circumstances.
