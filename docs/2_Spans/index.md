@@ -19,11 +19,16 @@ Under construction
 
 ## General principles
 
-It is important to remember that an engagement category (e.g., `ENTERTAIN`) is realized in a variety of construction types (e.g., `modal verb`, `if-clause`, `adverbial phrase`, etc.) and that a construction type (e.g., `It is X that` construction) can take various engagement categories (e.g., `ENTERTAIN`, `PRONOUNCE`).
+It is important to remember that an engagement category (e.g., `ENTERTAIN`) is realized/expressed in a variety of construction types (e.g., `modal verb`, `if-clause`, `adverbial phrase`, etc.). 
+Similarly a given construction type (e.g., `It is X that` construction) can take various engagement categories (e.g., `ENTERTAIN`, `PRONOUNCE`).
 Step 2 guidelines aim to help us to precisely identify the span of engagement tag in different types of construction. 
 
-
 ### Example construction by category matrix
+
+First, to illustrate what it meant by the previous points, the following matrix shows the example combination between engagement category and construction type. You can confirm that:
+1. A construction can express different engagement meaning.
+2. An engagement category can be expressed with a range of construction types.
+
 
 |                                          | Verbal clause | Mental verb 'like' clause       | Mental verb 'please' clause | "I am/have" clause               | "It/there is x that/to" clause                     | Prep. phrase             | Adv. gp; Prep. Phrase     | Predicator             |                                          |
 | ---------------------------------------- | ------------- | ------------------------------- | --------------------------- | -------------------------------- | -------------------------------------------------- | ------------------------ | ------------------------- | ---------------------- | ---------------------------------------- |
