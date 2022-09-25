@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tables
+parent: Archives
+
 nav_order: 10
 ---
 
