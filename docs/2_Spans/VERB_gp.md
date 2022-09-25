@@ -47,17 +47,17 @@ One exception to note is when a [modal auxiliary](#modal-verbs) is in the verb p
 - Discussants correctly **pointed out** that Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all **have** an even more aggressive campaign against witches than **did** the authors of our previous readings.
 - Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
 
-
-When there are `negative perticles (e.g., not, never)` we will still consider it within the span.
-- Even though he **had taken** all his medication, his leg **did n’t look** any better.
-- The effect of Morphological Awareness **did not achieve** significance ( β = .193, p = .263). 
-  
 {: .note}
 >Previously (in version 1), we have put a tag on "most lexically heavy verbs".
 
+### Negation
 
+When there are `negative perticles (e.g., not, never)` we will still consider it within the span.
+
+- Even though he **had taken** all his medication, his leg **did n’t look** any better.
+- The effect of Morphological Awareness **did not achieve** significance ( β = .193, p = .263). 
+  
 ### Passive construction
-
 
 When we put a tag on passive construction (e.g., `MONOGLOSS`, `ATTRIBUTE`), we include `copula verb + lexical verb` in the span.
 
