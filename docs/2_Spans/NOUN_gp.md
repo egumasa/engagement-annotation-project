@@ -19,15 +19,16 @@ For example;
 
 Can be paraphrased using shell noun `belief` as follows:
 
-- **Chomsky’s belief that** language is for individuals rather than groups .
-
-
-Sometimes primary and more typically secondary engagement value is expressed using a nominalized construction.
 - **Chomsky’s belief** that language is for individuals rather than groups .
-- First of all, we see no problem with **their proposal that** John take over the running of the EEC Intensive Foundation Summer School at Bentham House, especially if this arrangement is more beneficial to the Laws Faculty.
-- **I am of the opinion that** somebody is going to wake up suddenly and demand aluminum which means a demand for power.
+
+
+Sometimes primary and more typically secondary engagement value is expressed using a nominalized construction. As per the pattern for verbal group, we do NOT include the clause-controlling `that` in the span (although discriptively and psycholinguistically they may behave as one unit).
+
+
+- **Chomsky’s belief** that language is for individuals rather than groups .
+- First of all, we see no problem with **their proposal** that John take over the running of the EEC Intensive Foundation Summer School at Bentham House, especially if this arrangement is more beneficial to the Laws Faculty.
 - They deny **the possibility of** a death wish lurking amidst the gardens of lust.
-- **My impression that** I had been hurled into a coarsu world was heightened at the beginning of each day.
+- **My impression** that I had been hurled into a coarsu world was heightened at the beginning of each day.
 
 ## No + noun construction
 
