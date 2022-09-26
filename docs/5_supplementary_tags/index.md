@@ -101,14 +101,16 @@ The differences between `Text-sequencing` and `TEMPORAL` tags can be characteriz
 
 
 
+## Bibliographical References
+
+- Hyland, K. (2005). Metadiscourse: Exploring interaction in writing. Continuum.
+- Hyland, K., & Jiang, F. (Kevin). (2022). Metadiscourse choices in EAP: An intra-journal study of JEAP. Journal of English for Academic Purposes, 60, 101165. https://doi.org/10.1016/j.jeap.2022.101165
+- Hyland, K., & Tse, P. (2004). Metadiscourse in Academic Writing: A Reappraisal. Applied Linguistics, 25(2), 22.
+
+
 ## Notes on theoretical framework
 
 - Goal-announcing and text-sequencing and staging are based on Frame markers in Hyland (2005).
 - Endophoric markers are based on Hyland (2005).
 - Citations and Sources are related to Evidentials in Hyland (2005), but they are distinct given that Evidential is covered in Engagement (or ATTRIBUTE).
 
-## Bibliographical References
-
-- Hyland, K. (2005). Metadiscourse: Exploring interaction in writing. Continuum.
-- Hyland, K., & Jiang, F. (Kevin). (2022). Metadiscourse choices in EAP: An intra-journal study of JEAP. Journal of English for Academic Purposes, 60, 101165. https://doi.org/10.1016/j.jeap.2022.101165
-- Hyland, K., & Tse, P. (2004). Metadiscourse in Academic Writing: A Reappraisal. Applied Linguistics, 25(2), 22.

@@ -104,6 +104,9 @@ Again, the following constructions may not always take on engagement meaning.
 
 When in doubt, you can test whether the span is reasonable by separating an idea/issue/problem at hand (i.e., propositional content) from the author's view on that matter.
 
+- Propositional discourse = Statements about the world
+- Stances = author's view on the matter.
+
 Here is an easy example:
 - I think that people are very generous to tourists around here.
 
