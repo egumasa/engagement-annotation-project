@@ -16,15 +16,15 @@ They expresse logical connections that the writer of the sentence try to weave t
 - Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` below).
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
 
-| Tag                             | Description                                                         | Examples                                                    |
-| ------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Exemplifying](EXEMPLIFYING.md) | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
-| [Expository](EXPOSITORY.md)     | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
-| [Additive]                      | Signal                                                              |                                                             |
-| Compare/Contrast                | Signal                                                              |                                                             |
-| [Justifying](JUSTIFY.md)        | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
-| [Purpose/Result](PURPOSE.md)    | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
-| Causal                          | Signal causal relationships                                         | `because of X`, `due to X`, `therefore`                     |
+| Tag                           | Description                                                         | Examples                                                    |
+| ----------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Exemplifying](#exemplifying) | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
+| [Expository](EXPOSITORY.md)   | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| [Additive]                    | Signal                                                              |                                                             |
+| Compare/Contrast              | Signal                                                              |                                                             |
+| [Justifying](JUSTIFY.md)      | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
+| [Purpose/Result](PURPOSE.md)  | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
+| Causal                        | Signal causal relationships                                         | `because of X`, `due to X`, `therefore`                     |
 
 
 `*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
