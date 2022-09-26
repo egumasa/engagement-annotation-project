@@ -29,7 +29,7 @@ The first category aims to identify the elements of discourse which refers to an
 | Tag                                                             | Description                                                                                   | Examples                                      |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | References to external sources                                  |                                                                                               |                                               |
-| ‖—[Citations](../1_Material_ref.md#citations)                   | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,    |
+| ‖—[Citations](./1_Material_ref.md#citations)                    | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,    |
 | ‖—[Sources](./1_Material_ref.md#sources)                        | Mentions to external source(s) in the text in forms of nominal expression.                    | `The annual report by X`, `Numerous studies`  |
 | References text internally                                      |                                                                                               |                                               |
 | ‖—[Endophoric markers](./1_Material_ref.md#endophoric-markers)  | Refer to information in other parts of its own text                                           | as noted `above`, see `Fig 1`, `in section 2` |
@@ -62,15 +62,15 @@ They expresse logical connections that the writer of the sentence try to weave t
 - Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` below).
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
 
-| Tag                             | Description                                                         | Examples                                                    |
-| ------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Exemplifying](EXEMPLIFYING.md) | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
-| [Expository](EXPOSITORY.md)     | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
-| [Additive]                      | Signal                                                              |                                                             |
-| Compare/Contrast                | Signal                                                              |                                                             |
-| [Justifying](JUSTIFY.md)        | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
-| [Purpose/Result](PURPOSE.md)    | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
-| Causal                          | Signal causal relationships                                         | `because of X`, `due to X`, `therefore`                     |
+| Tag                                                       | Description                                                         | Examples                                                    |
+| --------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Exemplifying](./2_Logical_connectors.md#exemplifying)    | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
+| [Expository](./2_Logical_connectors.md#expository)        | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| [Additive](./2_Logical_connectors.md#additive)            | Signal                                                              |                                                             |
+| [Comparative](./2_Logical_connectors.md#comparison)       | Signal                                                              |                                                             |
+| [Justifying](JUSTIFY.md)                                  | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
+| [Purpose/Result](./2_Logical_connectors.md#purposeresult) | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
+| [Causal](./2_Logical_connectors.md#causal)                | Signal causal relationships                                         | `because of X`, `due to X`, `therefore`                     |
 
 
 `*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
@@ -85,20 +85,20 @@ They expresse logical connections that the writer of the sentence try to weave t
 - Text organizing devices includes "discourse signals" that "refers to discourse acts, sequencing, and text-stages" (or what Hyland's called `frame markers`; Hyland, 2005)
 - The following tags are used when we interpret the writer's intension is to let the reader know about the organization of its own text itself (independent from the content of the argument).
 
-| Tag                                         | Description                                                       | Examples                                                                                                          |
-| ------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [Goal-announcing](GOAL.md)                  | Signal the purpose/goals of the text itself                       | `my purpose is`, `Section 2 describes`, `the chapter/section focuses/proposes`, `we intend to`, `in this chapter` |
-| [Text-sequencing/staging](TEXT-SEQUENCE.md) | Signal sequences and stages of argumentative elements in the text | `First`\*, `Lastly`\*, `to start with`, `so far`, `overall`,                                                      |
-| ‖—[Summative**](SUMMATIVE.md)               | Signal summary/conclusion of a part of the text                   | `to conclude`, `in short`, `to sum up`, `The conclusion is`                                                       |
+| Tag                                                                    | Description                                                       | Examples                                                                                                          |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [Goal-announcing](./3_Frame_markers.md#goal-announcing)                | Signal the purpose/goals of the text itself                       | `my purpose is`, `Section 2 describes`, `the chapter/section focuses/proposes`, `we intend to`, `in this chapter` |
+| [Text-sequencing/staging](./3_Frame_markers.md#text-sequencingstaging) | Signal sequences and stages of argumentative elements in the text | `First`\*, `Lastly`\*, `to start with`, `so far`, `overall`,                                                      |
+| ‖—[Summative**](./3_Frame_markers.md#summative)                        | Signal summary/conclusion of a part of the text                   | `to conclude`, `in short`, `to sum up`, `The conclusion is`                                                       |
 
 `*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
 
 
 ## Expressions pertaining to the event itself
 
-| Tag                             | Description                     | Examples                                                             |
-| ------------------------------- | ------------------------------- | -------------------------------------------------------------------- |
-| [Temporal markers](TEMPORAL.md) | Refer to when an event happened | `First`\*, `At last`, `finally`\*, `then`, `next time`, `previously` |
+| Tag                  | Description                     | Examples                                                             |
+| -------------------- | ------------------------------- | -------------------------------------------------------------------- |
+| [Temporal markers]() | Refer to when an event happened | `First`\*, `At last`, `finally`\*, `then`, `next time`, `previously` |
 
 
 
