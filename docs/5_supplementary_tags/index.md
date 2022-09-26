@@ -86,14 +86,14 @@ These transitions signal the real-world processes. They do not logically connect
 - Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements.
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
 
-| Logical connection we annotate                            | Description                                                                                            | Examples                                                    |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| [Exemplifying](./2_Logical_connectors.md#exemplifying)    | Signal illustrations/examples in the text (mostly `internal`).                                         | `for example`, `to illustrate`, `e.g.`,                     |
-| [Expository](./2_Logical_connectors.md#expository)        | Signal elaboration/clarification in the subsequent part of the text (mostly `internal`).               | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
-| [Additive](./2_Logical_connectors.md#additive)            | Signal additional argumentative elements; Focus only on `internal` relations.                          | `additionally`, `moreover`, `besides`                       |
-| [Comparative](./2_Logical_connectors.md#comparison)       | Marks an argument as similar or different. This category has to be differentiated from `COUNTER` move. | `similarly`, `by contrast`, `conversely`                    |
-| [Justifying](./2_Logical_connectors.md#justifying)        | Signal persuasion through justification or substantiation; Focus only on `internal` justification.     | `because of X`, `due to X`, `therefore`                     |
-| [Purpose/Result](./2_Logical_connectors.md#purposeresult) | Signal Purposes and Result; Focus only on `internal` purpose or result.                                | `as a result`, `for that purpose`, `in order to X`          |
+| Logical connection we annotate                                     | Description                                                                                            | Examples                                                    |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| [Exemplifying](./2_Logical_connectors.md#exemplifying)             | Signal illustrations/examples in the text (mostly `internal`).                                         | `for example`, `to illustrate`, `e.g.`,                     |
+| [Expository](./2_Logical_connectors.md#expository)                 | Signal elaboration/clarification in the subsequent part of the text (mostly `internal`).               | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| [Additive](./2_Logical_connectors.md#additive)–internal            | Signal additional argumentative elements; Focus only on `internal` relations.                          | `additionally`, `moreover`, `besides`                       |
+| [Comparative](./2_Logical_connectors.md#comparison)-internal       | Marks an argument as similar or different. This category has to be differentiated from `COUNTER` move. | `similarly`, `by contrast`, `conversely`                    |
+| [Justifying](./2_Logical_connectors.md#justifying)                 | Signal persuasion through justification or substantiation; this is equivalent to Causal-internal.      | `because of X`, `due to X`, `therefore`                     |
+| [Purpose/Result](./2_Logical_connectors.md#purposeresult)-internal | Signal Purposes and Result; Focus only on `internal` purpose or result.                                | `as a result`, `for that purpose`, `in order to X`          |
 
 
 Some category of logical connectors are subsumed under some `engagement` moves or other supplementary tags. These are summarized as follows:
@@ -101,12 +101,12 @@ Some category of logical connectors are subsumed under some `engagement` moves o
 | Logical connection we omit | Reason for the omission                                    | Examples                                             |
 | -------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
 | concede                    | Already covered in `CONCUR`                                | `admittedly`                                         |
-| time—ordering              | Already covered in `Text-sequencing`                       | `first`, `second`                                    |
 | adversative                | Already covered in `PROCLAIM` (e.g., `PRONOUNCE`/`CONCUR`) | `in fact`, `actually`, `as a matter of fact`         |
 | alternative                | Partly overlaps with `ENTERTAIN`                           | `alternatively`                                      |
-| additive (external)        |                                                            |                                                      |
-| purpose/result (external)  |                                                            |                                                      |
-| temporal (external)        | external temporal expressions are out of scope.            | `today`, `on weekends`, I talked to you `previously` |
+| time—ordering              | Already covered in `Text-sequencing`                       | `first`, `second`                                    |
+| additive-external          |                                                            |                                                      |
+| temporal-external          | external temporal expressions are out of scope.            | `today`, `on weekends`, I talked to you `previously` |
+| purpose/result-external    |                                                            |                                                      |
 
 
 
