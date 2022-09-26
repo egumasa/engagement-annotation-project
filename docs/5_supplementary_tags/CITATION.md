@@ -70,3 +70,8 @@ When the sentence included references as follows, typically used with `(op.cit.)
 - **Millington, T., & Sutherland Williams, M., (op.cit.), pp.2**
 
 
+
+## Bibliographical References
+
+The illustrative examples were taken from:
+- Nesi, H. (2021). Sources for courses: Metadiscourse and the role of citation in student writing. Lingua, 253, 103040. https://doi.org/10.1016/j.lingua.2021.103040
