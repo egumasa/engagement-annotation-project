@@ -68,13 +68,13 @@ The transition firstly and secondary, signal the argumentative elements in the d
 
 - `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). This is the characteristics of `TEMPORAL` expressions. The following example shows the external conjunction:
 
->For the boric acid indicator, **firstly (TEMPORAL)**, 5g of boric acid crystals was dissolved in 200ml of warm distilled water, **secondly (TEMPORAL)**, 40ml of methyl red indicator [0.02% (w/v) in 60% ethanol] and 15ml of bromocresol green indicator [0.1% (w/v) in 60% ethanol] were added to the boric acid solution.
+>For the boric acid indicator, **firstly (TEMPORAL; out of the scope)**, 5g of boric acid crystals was dissolved in 200ml of warm distilled water, **secondly (TEMPORAL; out of the scope)**, 40ml of methyl red indicator [0.02% (w/v) in 60% ethanol] and 15ml of bromocresol green indicator [0.1% (w/v) in 60% ethanol] were added to the boric acid solution.
 
-> I answered the questions. **Subsequently (TEMPORAL)** I was told that I was lying.
+> I answered the questions. **Subsequently (TEMPORAL; out of the scope)** I was told that I was lying.
 
 > **Instead of resting at night (alternative choice made by him = not a COUNTER)**, he would wander from window to window.
 
-> Four, maybe five policemen viciously knocked me down, **and (additional action)** they put me back on the chair **and (additional action)** handcuffed my hands through the chair 
+> Four, maybe five policemen viciously knocked me down, **and (additive–external; out of the scope)** they put me back on the chair **and (additive-external; out of the scope)** handcuffed my hands through the chair 
 
 > An extremely short marriage to someone else failed **all because I married to forget (not a Justifying)**.
 
@@ -88,8 +88,8 @@ These transitions signal the real-world processes. They do not logically connect
 
 | Logical connection we annotate                            | Description                                                                                            | Examples                                                    |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| [Exemplifying](./2_Logical_connectors.md#exemplifying)    | Signal illustrations/examples in the text                                                              | `for example`, `to illustrate`, `e.g.`,                     |
-| [Expository](./2_Logical_connectors.md#expository)        | Signal elaboration/clarification in the subsequent part of the text                                    | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| [Exemplifying](./2_Logical_connectors.md#exemplifying)    | Signal illustrations/examples in the text (mostly `internal`).                                         | `for example`, `to illustrate`, `e.g.`,                     |
+| [Expository](./2_Logical_connectors.md#expository)        | Signal elaboration/clarification in the subsequent part of the text (mostly `internal`).               | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
 | [Additive](./2_Logical_connectors.md#additive)            | Signal additional argumentative elements; Focus only on `internal` relations.                          | `additionally`, `moreover`, `besides`                       |
 | [Comparative](./2_Logical_connectors.md#comparison)       | Marks an argument as similar or different. This category has to be differentiated from `COUNTER` move. | `similarly`, `by contrast`, `conversely`                    |
 | [Justifying](./2_Logical_connectors.md#justifying)        | Signal persuasion through justification or substantiation; Focus only on `internal` justification.     | `because of X`, `due to X`, `therefore`                     |
@@ -98,13 +98,15 @@ These transitions signal the real-world processes. They do not logically connect
 
 Some category of logical connectors are subsumed under some `engagement` moves or other supplementary tags. These are summarized as follows:
 
-| Logical connection we omit | Reason for the omission                                    | Examples                                     |
-| -------------------------- | ---------------------------------------------------------- | -------------------------------------------- |
-| concede                    | Already covered in `CONCUR`                                | `admittedly`                                 |
-| time—ordering              | Already covered in `Text-sequencing`                       | `first`, `second`                            |
-| adversative                | Already covered in `PROCLAIM` (e.g., `PRONOUNCE`/`CONCUR`) | `in fact`, `actually`, `as a matter of fact` |
-| alternative                | Partly overlaps with `ENTERTAIN`                           | `alternatively`                              |
-
+| Logical connection we omit | Reason for the omission                                    | Examples                                             |
+| -------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
+| concede                    | Already covered in `CONCUR`                                | `admittedly`                                         |
+| time—ordering              | Already covered in `Text-sequencing`                       | `first`, `second`                                    |
+| adversative                | Already covered in `PROCLAIM` (e.g., `PRONOUNCE`/`CONCUR`) | `in fact`, `actually`, `as a matter of fact`         |
+| alternative                | Partly overlaps with `ENTERTAIN`                           | `alternatively`                                      |
+| additive (external)        |                                                            |                                                      |
+| purpose/result (external)  |                                                            |                                                      |
+| temporal (external)        | external temporal expressions are out of scope.            | `today`, `on weekends`, I talked to you `previously` |
 
 
 
@@ -120,14 +122,6 @@ Some category of logical connectors are subsumed under some `engagement` moves o
 | ‖—[Summative**](./3_Frame_markers.md#summative)                        | Signal summary/conclusion of a part of the text                   | `to conclude`, `in short`, `to sum up`, `The conclusion is`                                                       |
 
 `*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
-
-
-## Expressions pertaining to the event itself
-
-| Tag                | Description                     | Examples                                                             |
-| ------------------ | ------------------------------- | -------------------------------------------------------------------- |
-| [Temporal markers] | Refer to when an event happened | `First`\*, `At last`, `finally`\*, `then`, `next time`, `previously` |
-
 
 
 
