@@ -46,7 +46,7 @@ Other patterns of goal-announcing include:
 
 - *In order to address the issues outlined in the introduction (PURPORSE)*, **the study aimed to** uncover the processes through which the three writers completed their assignments.
 - **The aim of this study is to** shed some light on whether it is beneficial to devote classroom time to the explicit teaching of a limited number of academic FS and how this might be best achieved.
-
+- **I will now discuss** each of these core businesses.
 
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }

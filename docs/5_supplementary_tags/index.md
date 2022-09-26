@@ -66,7 +66,7 @@ They expresse logical connections that the writer of the sentence try to weave t
 | ------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
 | [Exemplifying](EXEMPLIFYING.md) | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
 | [Expository](EXPOSITORY.md)     | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
-| Additive                        | Signal                                                              |                                                             |
+| [Additive]                      | Signal                                                              |                                                             |
 | Compare/Contrast                | Signal                                                              |                                                             |
 | [Justifying](JUSTIFY.md)        | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
 | [Purpose/Result](PURPOSE.md)    | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
