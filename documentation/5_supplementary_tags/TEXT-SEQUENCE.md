@@ -46,9 +46,15 @@ Text staging typically act as a signal where the current statement stands in the
 
 - **In this section** we first describe the student participants’ reports of their experiences and their perceptions of their EAP classes, and then the teachers’ perceptions.
 - **First**, a supportive online environment should enable learners to take charge of their online actions ... **Second**, resonating with previous findings ... **Finally**, to increase students’ engagement and motivation, online writing tools could incorporate popular gaming elements.
+- **First**, despite its macrostructure, the RA shouldhave a separate Discussion section. **Second**, the first availabledrafts had to have been written by the students (the first authors) on their own. 
 - **Returning to the more frequent referential discourse function**, normalized mean per-text counts of the subfunctions between sub-corpora are displayed in Table 7.
 - We **now** look at our results in more detail, beginning with moves.
 
+
+The followings are NOT examples of `Text-sequence`:
+
+- the sample encompassed the _first, second, third, and fourth_ year candidates along with graduate students.
+- 
 
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }
