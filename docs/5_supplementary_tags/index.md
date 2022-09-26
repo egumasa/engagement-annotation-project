@@ -52,15 +52,16 @@ Logical connectors are: "conjunctions and adverbial phrases which help readers i
 They express logical connections that the writer of the sentence try to weave throughout the discourse. We will attend to connectors that signal the relationships between argumentative elements.
 What we do NOT tag as logical connectors are those that refers to the relations of actual real-world events. The distinction is explained as `internal` (within discourse) and `external` (out of discourse) conjunctive relations.
 
-## `Internal` vs `External` conjunctive relations
+### `Internal` vs `External` conjunctive relations
 
 In our annotation project, we specifically attend to the logical connectors and Text-sequencing devices that the writer uses to link argumentative elements in the discourse. This is called `internal` conjunction as it is about internal relations within the immediate discourse.
 
 - `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the scope of our supplementary tags.
 
 >Crops accounted for a significant proportion of heavy metals dietary intake. **The reasons are two fold**. **Firstly (TEXT-SEQUENCE)**, crops are the bottom positions of many food chains and food webs. **Secondly (TEXT-SEQUENCE)**, vegetables are one of the major dietary components of Hong Kong people.
+
 > To this point we have looked at clauses and their elements from the perspective of discourse. Grammarians, **on the other hand (Comparative)**, look at elements of clauses from the perspective of the grammar.
-> 
+
 
 
 The transition firstly and secondary, signal the argumentative elements in the discourse (writer's act).
@@ -68,9 +69,13 @@ The transition firstly and secondary, signal the argumentative elements in the d
 - `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). This is the characteristics of `TEMPORAL` expressions. The following example shows the external conjunction:
 
 >For the boric acid indicator, **firstly (TEMPORAL)**, 5g of boric acid crystals was dissolved in 200ml of warm distilled water, **secondly (TEMPORAL)**, 40ml of methyl red indicator [0.02% (w/v) in 60% ethanol] and 15ml of bromocresol green indicator [0.1% (w/v) in 60% ethanol] were added to the boric acid solution.
+
 > I answered the questions. **Subsequently (TEMPORAL)** I was told that I was lying.
+
 > **Instead of resting at night (alternative choice made by him = not a COUNTER)**, he would wander from window to window.
+
 > Four, maybe five policemen viciously knocked me down, **and (additional action)** they put me back on the chair **and (additional action)** handcuffed my hands through the chair 
+
 > An extremely short marriage to someone else failed **all because I married to forget (not a Justifying)**.
 
 These transitions signal the real-world processes. They do not logically connect ideas for argumentation.
