@@ -16,15 +16,15 @@ They expresse logical connections that the writer of the sentence try to weave t
 - Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` below).
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
 
-| Tag                           | Description                                                         | Examples                                                    |
-| ----------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Exemplifying](#exemplifying) | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
-| [Expository](EXPOSITORY.md)   | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
-| [Additive]                    | Signal                                                              |                                                             |
-| Compare/Contrast              | Signal                                                              |                                                             |
-| [Justifying](JUSTIFY.md)      | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
-| [Purpose/Result](PURPOSE.md)  | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
-| Causal                        | Signal causal relationships                                         | `because of X`, `due to X`, `therefore`                     |
+| Tag                              | Description                                                         | Examples                                                    |
+| -------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Exemplifying](#exemplifying)    | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
+| [Expository](#expository)        | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| [Additive]                       | Signal                                                              |                                                             |
+| Compare/Contrast                 | Signal                                                              |                                                             |
+| [Justifying](#justifying)        | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
+| [Purpose/Result](#purposeresult) | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
+| Causal                           | Signal causal relationships                                         | `because of X`, `due to X`, `therefore`                     |
 
 
 `*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
@@ -38,7 +38,6 @@ They expresse logical connections that the writer of the sentence try to weave t
 ---
 
 ### Exemplifying
-
 
 NEW in version 2
 {: .label .label-green}
@@ -55,6 +54,7 @@ Simply, the Exemplifying tag is used for expressions that are functionally equiv
 #### Examples
 
 
+[Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
 
 ---
 
@@ -79,23 +79,64 @@ Simply, the Exemplifying tag is used for expressions that are functionally equiv
 - How much do learners really use captions? **In other words**, how much attention do language learners give captions?
 - The complexity meta‐theory groups together a set of well‐known relational principles (Overton, 2013 ), **namely that** certain phenomena involve multiple parts interacting together through dynamic, nonlinear processes that lead to striking emergent patterns over time.
 
+[Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
+
 ---
 
 ## Additive
 
+{: .def}
+> Additive conjunctives helps add more argumentative elements to the discourse. This tags are not applicable to additional events/entity. Also excluded are simple coordinating conjunctions (e.g., and), which do not function as an argument-adding discourse marker.
+
+Typical transition markers include:
+- `additionally`, `in addition`, `further`, `furthermore`, `moreover`, `also`, `again`, `what is more`, `besides`, `not only that but`, etc.
+
+
+
+{: .tips}
+> Exclude "and" from the tag if you CANNOT paraphrase it with other prototypical Additive conjunctions such as "moreover", "additionally"
 
 ### Examples
 
-
-
+- The findings **further** supported that social workers were sympathetic towards the abused wives.
 - **Additionally**, awareness-raising activities led by writing professionals were found to effectively reduce instances of text-based plagiarism in students’ writing (Huang, 2014). However, writing professionals sometimes encounter difficulties in teaching discipline-specific EAP courses. **In addition**, writing in such EAP courses taught by language instructors may lack authenticity.
+- My client says he does not know this witness. **Further**, he denies ever having seen her or spoken to her.
 
 
-
+[Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
 
 --- 
 
-## Compare/Contrast
+## Comparison
+
+{: .def}
+> Contrastive conjunctives signals similarity or dissimilarity between two argumentative elements.
+
+Comparison conjunctive include markers expressing similarity:
+- `similarly`, `likewise`, `in the same way`
+
+It also include markers expressing dissimilarity:
+- `on the other hand`, `by contrast`, `conversely`
+
+### Example
+- Your directors are planning for steady growth over a considerable period of time. **Similarly** our intentions in adopting this new investment policy are focused on the long-term prospects ofthe company.
+- Treating people as responsible citizens brings out the best in them; they behave as such. **In the same way** if you treat thenl as criminals they will soon begin to act like criminals.
+- Why aren't you going in for a swim? - **On the one hand**, the air's too cold; I like to be warm when I come out. **On the other hand**, the current's too strong; I like to be sure I SHALL come out.
+
+
+{: .caution}
+> Comparison conjunctives are very similar to `COUNTER` move in engagement, but they are distinct. In `COUNTER`, the wording will have intention to `DISCLAIM` viewpoint(s) in order to claim another (e.g., `rather`, `not ... but ...`). On the other hamd, `Comparison` conjunctives simply list (and potentially explore the differences of) two or more options.
+
+
+---
+## Adversive (almost overlapping with `COUNTER`)
+
+This category includes conjunctive relations characterized by `but`, `however`, `though`. We anticipate that this tag is mostly subsumed under `COUNTER` move in engagement (but probably not the other way around).
+
+### Example
+- All this time Tweedledee was trying his best to fold up the umbrella, with himselfin it ... **But** he couldn't quite succeed,
+- ... it swept her straight off the seat, and down among the heap of rushes. **However**, she wasn't a bit hurt, and was soon up again.
+- 
 
 
 
@@ -121,14 +162,19 @@ We will also consider logical connectors such as `so`, `therefore`, `thus`, `acc
 - **As such**, a student can develop, or fail to develop, an isolated skill distinct from their general performance across skills.
 - Literacy varies within contexts; **therefore**, a single " literacy " does not exist.
 
+[Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
 
 ---
 
 ## Causal
 
 
+[Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
 
 ---
 ## Purpose/Result
 
 {: .def}
+
+
+[Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }

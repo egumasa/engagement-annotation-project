@@ -92,6 +92,7 @@ Additionally, you will encounter a various citation format during the annotation
 When the sentence included references as follows, typically used with `(op.cit.)`, mark the entire sequence as citation:
 - **Millington, T., & Sutherland Williams, M., (op.cit.), pp.2**
 
+[Back to Top](#1-reference-to-information-internal-or-external-to-the-writing){: .btn .btn-outline }
 
 ---
 
@@ -112,6 +113,8 @@ When the sentence included references as follows, typically used with `(op.cit.)
 
 For instance:
 - **(Google, 2020)**. => `Citation` rather than `SOURCE`.
+
+[Back to Top](#1-reference-to-information-internal-or-external-to-the-writing){: .btn .btn-outline }
 
 ---
 
@@ -143,6 +146,7 @@ Endophoric markers are used to mark any mentions to the other parts of its own t
 - As illustrated **in Figure 3**, contexts of biliteracy can occur along continua of micro to macro scales, characterized by more oral or written language use and by multiple languages or only monolingual resources—or anywhere in between.
 
 
+[Back to Top](#1-reference-to-information-internal-or-external-to-the-writing){: .btn .btn-outline }
 
 ---
 
@@ -156,3 +160,4 @@ This tag allows us to separate the writer's own engagement move from the direct 
 When you use this tag, put a tag from **the quotation mark which starts the quote** to **the closing quotation mark**. We do not differentiate whether they are single or double quotation marks, or whether it has weirdly formated characters (e.g., `”`, `'`). We will use this tag for a segment of text whether you (as a potential reader) can identify that the segment is NOT the writer's own wording, but borrowed materials. 
 If you do not identify the start or end of the quotation in the annotation file, you can indicate this by staring the `QUOTE` tag from the beginning or the end of the annotation file (to indicate the continuation).
 
+[Back to Top](#1-reference-to-information-internal-or-external-to-the-writing){: .btn .btn-outline }
