@@ -15,7 +15,7 @@ In order to fully account for the rhetorical moves that the writers employ, we w
 The supplementary tags are broadly categorized into two categories:
 
 1. Reference to materials that are either internal or external to its own text
-2. Conjunctive relations
+2. Logical connections / Text-organizing devices
 
 These categories are described in turn below.
 
@@ -40,47 +40,70 @@ The first category aims to identify the elements of discourse which refers to an
 > Citation is moved to supplementary category because it can co-occur with `MONOGLOSS`.
 
 
+## 2. Logical connections / Text-organizing devices
 
-## 2. Conjunctive relations
+The second broad category of our supplementary tags relates to logical connectors. Typical examples are `moreover (Additive)`, `on the other hand (Comparative)`, `consequently (Justifying)`.
 
+### What are logical connectors?
+
+According to Hyland:
+
+Logical connectors are: "conjunctions and adverbial phrases which help readers interpret pragmatic connections between steps in an argument." (p. 50).
+They express logical connections that the writer of the sentence try to weave throughout the discourse. We will attend to connectors that signal the relationships between argumentative elements.
+What we do NOT tag as logical connectors are those that refers to the relations of actual real-world events. The distinction is explained as `internal` (within discourse) and `external` (out of discourse) conjunctive relations.
 
 ## `Internal` vs `External` conjunctive relations
 
-The differences between `Text-sequencing` and `TEMPORAL` tags can be characterized in terms of the following two concept.
+In our annotation project, we specifically attend to the logical connectors and Text-sequencing devices that the writer uses to link argumentative elements in the discourse. This is called `internal` conjunction as it is about internal relations within the immediate discourse.
 
-- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the characteristics of `TEXT-SEQUENCING` expressions.
+- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the scope of our supplementary tags.
 
-- `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). This is the characteristics of `TEMPORAL` expressions.
+>Crops accounted for a significant proportion of heavy metals dietary intake. **The reasons are two fold**. **Firstly (TEXT-SEQUENCE)**, crops are the bottom positions of many food chains and food webs. **Secondly (TEXT-SEQUENCE)**, vegetables are one of the major dietary components of Hong Kong people.
+> To this point we have looked at clauses and their elements from the perspective of discourse. Grammarians, **on the other hand (Comparative)**, look at elements of clauses from the perspective of the grammar.
+> 
 
 
-## Logical connections/ Transition phrases
+The transition firstly and secondary, signal the argumentative elements in the discourse (writer's act).
 
-According to Hyland:
-These are: "conjunctions and adverbial phrases which help readers interpret pragmatic connections between steps in an argument." (p. 50).
-They expresse logical connections that the writer of the sentence try to weave throughout the discourse.
+- `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). This is the characteristics of `TEMPORAL` expressions. The following example shows the external conjunction:
 
-- Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` below).
+>For the boric acid indicator, **firstly (TEMPORAL)**, 5g of boric acid crystals was dissolved in 200ml of warm distilled water, **secondly (TEMPORAL)**, 40ml of methyl red indicator [0.02% (w/v) in 60% ethanol] and 15ml of bromocresol green indicator [0.1% (w/v) in 60% ethanol] were added to the boric acid solution.
+> I answered the questions. **Subsequently (TEMPORAL)** I was told that I was lying.
+> **Instead of resting at night (alternative choice made by him = not a COUNTER)**, he would wander from window to window.
+> Four, maybe five policemen viciously knocked me down, **and (additional action)** they put me back on the chair **and (additional action)** handcuffed my hands through the chair 
+> An extremely short marriage to someone else failed **all because I married to forget (not a Justifying)**.
+
+These transitions signal the real-world processes. They do not logically connect ideas for argumentation.
+
+
+## 2a. Logical connectors/ Transition phrases
+
+- Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements.
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
 
-| Tag                                                       | Description                                                         | Examples                                                    |
-| --------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Exemplifying](./2_Logical_connectors.md#exemplifying)    | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
-| [Expository](./2_Logical_connectors.md#expository)        | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
-| [Additive](./2_Logical_connectors.md#additive)            | Signal                                                              |                                                             |
-| [Comparative](./2_Logical_connectors.md#comparison)       | Signal                                                              |                                                             |
-| [Justifying](JUSTIFY.md)                                  | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
-| [Purpose/Result](./2_Logical_connectors.md#purposeresult) | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
-| [Causal](./2_Logical_connectors.md#causal)                | Signal causal relationships                                         | `because of X`, `due to X`, `therefore`                     |
+| Logical connection we annotate                            | Description                                                                                            | Examples                                                    |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| [Exemplifying](./2_Logical_connectors.md#exemplifying)    | Signal illustrations/examples in the text                                                              | `for example`, `to illustrate`, `e.g.`,                     |
+| [Expository](./2_Logical_connectors.md#expository)        | Signal elaboration/clarification in the subsequent part of the text                                    | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| [Additive](./2_Logical_connectors.md#additive)            | Signal additional argumentative elements; Focus only on `internal` relations.                          | `additionally`, `moreover`, `besides`                       |
+| [Comparative](./2_Logical_connectors.md#comparison)       | Marks an argument as similar or different. This category has to be differentiated from `COUNTER` move. | `similarly`, `by contrast`, `conversely`                    |
+| [Justifying](./2_Logical_connectors.md#justifying)        | Signal persuasion through justification or substantiation; Focus only on `internal` justification.     | `because of X`, `due to X`, `therefore`                     |
+| [Purpose/Result](./2_Logical_connectors.md#purposeresult) | Signal Purposes and Result; Focus only on `internal` purpose or result.                                | `as a result`, `for that purpose`, `in order to X`          |
 
 
-`*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
+Some category of logical connectors are subsumed under some `engagement` moves or other supplementary tags. These are summarized as follows:
+
+| Logical connection we omit | Reason for the omission                                    | Examples                                     |
+| -------------------------- | ---------------------------------------------------------- | -------------------------------------------- |
+| concede                    | Already covered in `CONCUR`                                | `admittedly`                                 |
+| time—ordering              | Already covered in `Text-sequencing`                       | `first`, `second`                            |
+| adversative                | Already covered in `PROCLAIM` (e.g., `PRONOUNCE`/`CONCUR`) | `in fact`, `actually`, `as a matter of fact` |
+| alternative                | Partly overlaps with `ENTERTAIN`                           | `alternatively`                              |
 
 
 
-{: .tips}
-> Justifying is equivalent to the `JUSTIFY` tag in the previous version (ver 1). The reason for this change is based on the observation that `JUSTIFY` can co-occur with `MONOGLOSS`, which suggests the distinct roles of justification.
 
-## Text organizing devices 
+## 2b. Text organizing devices 
 
 - Text organizing devices includes "discourse signals" that "refers to discourse acts, sequencing, and text-stages" (or what Hyland's called `frame markers`; Hyland, 2005)
 - The following tags are used when we interpret the writer's intension is to let the reader know about the organization of its own text itself (independent from the content of the argument).
@@ -96,11 +119,9 @@ They expresse logical connections that the writer of the sentence try to weave t
 
 ## Expressions pertaining to the event itself
 
-| Tag                  | Description                     | Examples                                                             |
-| -------------------- | ------------------------------- | -------------------------------------------------------------------- |
-| [Temporal markers]() | Refer to when an event happened | `First`\*, `At last`, `finally`\*, `then`, `next time`, `previously` |
-
-
+| Tag                | Description                     | Examples                                                             |
+| ------------------ | ------------------------------- | -------------------------------------------------------------------- |
+| [Temporal markers] | Refer to when an event happened | `First`\*, `At last`, `finally`\*, `then`, `next time`, `previously` |
 
 
 
