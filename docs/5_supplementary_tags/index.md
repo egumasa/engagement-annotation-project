@@ -10,17 +10,19 @@ Updated in version 3
 # Step 5—Annotatiting Supplementary moves in Engagement resource analysis
 
 
-The following tags essentially supplement the discourse moves (Step 2-4), so that the entire annotation provide more valuable information about the rhetorical moves as well as help us better identify the engagement resources. The supplementary tags are broadly categorized into two categories:
+In order to fully account for the rhetorical moves that the writers employ, we will supplement the `engagement` resource analysis with additional set of supplementary tags. These tags are particularly informed by the notion of `metadiscourse` (e.g., Hyland, 2005), which attempts to capture writer's "self-refletive expressions used to negotiate interactional meanings in a text" (Hyland, 2005, p. 37). Importantly, `metadiscourse` (Hyland, 2005) and `engagement` (Martin & White, 2005) shares some important conceptual underpinnings and considered complementary approaches to each other. These theoretical frameworks, particularly inspired by Systemic Functional Lingusitics (Halliday), underscores functions of language which relates to "maintainance of interpersonal relations" and "organization of discourse segments". The supplementary tags defined below are ways to uncover the writer's stragety to organize the discourse in their writings.
+
+The supplementary tags are broadly categorized into two categories:
 
 1. Reference to materials that are either internal or external to its own text
-
 2. Conjunctive relations
 
 These categories are described in turn below.
 
 ## 1. Reference to information internal or external to the writing
 
-- This category of tags aims to identify what elements in the discourse refers to any internal/external materials.
+The first category aims to identify the elements of discourse which refers to any internal/external materials. For our purpose, these tags go hand-in-hand with engagement moves such as `ATTRIBUTE` and `ENDORSE`, allowing us to identify whether the writer makes explicit references to the "sources" of their argument.
+
 - `Citations` and `Sources` are two category that pertains to how `EXTERNAL` materials are referenced in the discourse.
 - `ENDOPHORIC` pertains to how the writer refers to the other part of its own writing.
 
