@@ -55,6 +55,10 @@ The differences between `Text-sequencing` and `TEMPORAL` tags can be characteriz
 
 ## Logical connections/ Transition phrases
 
+According to Hyland:
+These are: "conjunctions and adverbial phrases which help readers interpret pragmatic connections between steps in an argument." (p. 50).
+They expresse logical connections that the writer of the sentence try to weave throughout the discourse.
+
 - Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` below).
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
 

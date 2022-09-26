@@ -115,8 +115,8 @@ This decision is based on the fact that these construction function as introduci
 ### It/there is X that 
 When the `that-clause` govern the following clause, the tag spans are from `It/There` before `that`:
 - **It’s probable/likely/possible** that he’s lying.
-- **It is possible that** it is your duty to tell me.
-- **It seems likely that** Mary knows.
+- **It is possible** that it is your duty to tell me.
+- **It seems likely** that Mary knows.
 - **It is absolutely clear to me** that what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
 - **There is no doubt** that globalization has a deep effect on China.
 - However, **there is mounting evidence** that processes of language acquisition, use, and change are not independent of one another but are facets of the same system.
