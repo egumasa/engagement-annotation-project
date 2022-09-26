@@ -26,14 +26,14 @@ The first category aims to identify the elements of discourse which refers to an
 - `Citations` and `Sources` are two category that pertains to how `EXTERNAL` materials are referenced in the discourse.
 - `ENDOPHORIC` pertains to how the writer refers to the other part of its own writing.
 
-| Tag                                   | Description                                                                                   | Examples                                      |
-| ------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| References to external sources        |                                                                                               |                                               |
-| ‖—[Citations](CITATION.md)            | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,    |
-| ‖—[Sources](Sources.md)               | Mentions to external source(s) in the text in forms of nominal expression.                    | `The annual report by X`, `Numerous studies`  |
-| References text internally            |                                                                                               |                                               |
-| ‖—[Endophoric markers](ENDOPHORIC.md) | Refer to information in other parts of its own text                                           | as noted `above`, see `Fig 1`, `in section 2` |
-| [Quoted](QUOTED.md)                   | Segment of text with direct quotation (including the quotation marks, both single and double) | `"Stay hungry. Stay foolish."`                |
+| Tag                                                             | Description                                                                                   | Examples                                      |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| References to external sources                                  |                                                                                               |                                               |
+| ‖—[Citations](./1_Material_ref.md#citations)                    | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,    |
+| ‖—[Sources](./1_Material_ref.md#sources)                        | Mentions to external source(s) in the text in forms of nominal expression.                    | `The annual report by X`, `Numerous studies`  |
+| References text internally                                      |                                                                                               |                                               |
+| ‖—[Endophoric markers](./1_Material_ref.md#endophoric-markers)  | Refer to information in other parts of its own text                                           | as noted `above`, see `Fig 1`, `in section 2` |
+| [Quoted](./1_Material_ref.md#quoted-materials-or-direct-quotes) | Segment of text with direct quotation (including the quotation marks, both single and double) | `"Stay hungry. Stay foolish."`                |
 
 {: .tips}
 > Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
