@@ -28,16 +28,12 @@ The first category aims to identify the elements of discourse which refers to an
 
 | Tag                                                             | Description                                                                                   | Examples                                      |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| References to external sources                                  |                                                                                               |                                               |
+| **References to external sources**                              |                                                                                               |                                               |
 | ‖—[Citations](./1_Material_ref.md#citations)                    | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,    |
 | ‖—[Sources](./1_Material_ref.md#sources)                        | Mentions to external source(s) in the text in forms of nominal expression.                    | `The annual report by X`, `Numerous studies`  |
-| References text internally                                      |                                                                                               |                                               |
+| **References text internally**                                  |                                                                                               |                                               |
 | ‖—[Endophoric markers](./1_Material_ref.md#endophoric-markers)  | Refer to information in other parts of its own text                                           | as noted `above`, see `Fig 1`, `in section 2` |
 | [Quoted](./1_Material_ref.md#quoted-materials-or-direct-quotes) | Segment of text with direct quotation (including the quotation marks, both single and double) | `"Stay hungry. Stay foolish."`                |
-
-{: .tips}
-> Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
-> Citation is moved to supplementary category because it can co-occur with `MONOGLOSS`.
 
 
 ## 2. Logical connections / Text-organizing devices
@@ -50,18 +46,20 @@ According to Hyland:
 
 Logical connectors are: "conjunctions and adverbial phrases which help readers interpret pragmatic connections between steps in an argument." (p. 50).
 They express logical connections that the writer of the sentence try to weave throughout the discourse. We will attend to connectors that signal the relationships between argumentative elements.
+
 What we do NOT tag as logical connectors are those that refers to the relations of actual real-world events. The distinction is explained as `internal` (within discourse) and `external` (out of discourse) conjunctive relations.
 
 ### `Internal` vs `External` conjunctive relations
 
-In our annotation project, we specifically attend to the logical connectors and Text-sequencing devices that the writer uses to link argumentative elements in the discourse. This is called `internal` conjunction as it is about internal relations within the immediate discourse.
+In our annotation project, we specifically attend to the logical connectors and text-sequencing devices that the writer uses to link argumentative elements in the discourse. This is called `internal` conjunction as it is about internal relations within the immediate discourse.
 
-- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the scope of our supplementary tags.
+- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the scope of our supplementary tags. The followings illustrate these conjunctive moves.
 
 >Crops accounted for a significant proportion of heavy metals dietary intake. **The reasons are two fold**. **Firstly (TEXT-SEQUENCE)**, crops are the bottom positions of many food chains and food webs. **Secondly (TEXT-SEQUENCE)**, vegetables are one of the major dietary components of Hong Kong people.
 
 > To this point we have looked at clauses and their elements from the perspective of discourse. Grammarians, **on the other hand (Comparative)**, look at elements of clauses from the perspective of the grammar.
 
+> The Act required that where the offence is a gross violation the application should be dealt with in a public hearing It is **also (Additive)** not true that ... amnesty encourages impunity because amnesty is only given to those who plead guilty... **Further (Additive)**, retributive justice.. .is not the only form of justice., .there is another kind of justice, restorative justice
 
 
 The transition firstly and secondary, signal the argumentative elements in the discourse (writer's act).
