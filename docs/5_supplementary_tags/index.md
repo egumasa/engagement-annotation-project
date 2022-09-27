@@ -119,14 +119,13 @@ Some category of logical connectors are subsumed under some `engagement` moves o
 
 - Text organizing devices includes "discourse signals" that "refers to discourse acts, sequencing, and text-stages" (or what Hyland's called `frame markers`; Hyland, 2005)
 - The following tags are used when we interpret the writer's intension is to let the reader know about the organization of its own text itself (independent from the content of the argument).
+- For the above two reasons, `Text-organizing devices` are `internal` expressions in principle.
 
 | Tag                                                                    | Description                                                       | Examples                                                                                                          |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [Goal-announcing](./3_Frame_markers.md#goal-announcing)                | Signal the purpose/goals of the text itself                       | `my purpose is`, `Section 2 describes`, `the chapter/section focuses/proposes`, `we intend to`, `in this chapter` |
 | [Text-sequencing/staging](./3_Frame_markers.md#text-sequencingstaging) | Signal sequences and stages of argumentative elements in the text | `First`\*, `Lastly`\*, `to start with`, `so far`, `overall`,                                                      |
 | ‖—[Summative**](./3_Frame_markers.md#summative)                        | Signal summary/conclusion of a part of the text                   | `to conclude`, `in short`, `to sum up`, `The conclusion is`                                                       |
-
-`*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
 
 
 
