@@ -107,6 +107,7 @@ Text staging typically act as a signal where the current statement stands in the
 - **First**, despite its macrostructure, the RA shouldhave a separate Discussion section. **Second**, the first availabledrafts had to have been written by the students (the first authors) on their own. 
 - **Returning to the more frequent referential discourse function**, normalized mean per-text counts of the subfunctions between sub-corpora are displayed in Table 7.
 - We **now** look at our results in more detail, beginning with moves.
+- The possible explanation are **two-fold**. The **first** explanation concerns the way in which ...
 
 
 The followings are NOT examples of `Text-sequence`:

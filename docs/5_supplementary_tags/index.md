@@ -42,9 +42,10 @@ The second broad category of our supplementary tags relates to logical connector
 
 ### What are logical connectors?
 
-According to Hyland:
+{: .def}
+> According to Hyland:
+> Logical connectors are: "conjunctions and adverbial phrases which help readers interpret pragmatic connections between steps in an argument." (p. 50).
 
-Logical connectors are: "conjunctions and adverbial phrases which help readers interpret pragmatic connections between steps in an argument." (p. 50).
 They express logical connections that the writer of the sentence try to weave throughout the discourse. We will attend to connectors that signal the relationships between argumentative elements.
 
 What we do NOT tag as logical connectors are those that refers to the relations of actual real-world events. The distinction is explained as `internal` (within discourse) and `external` (out of discourse) conjunctive relations.

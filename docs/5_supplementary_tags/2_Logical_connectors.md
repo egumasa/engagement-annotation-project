@@ -124,10 +124,11 @@ It also include markers expressing dissimilarity:
 - `on the other hand`, `by contrast`, `conversely`
 
 ### Example
+
 - Your directors are planning for steady growth over a considerable period of time. **Similarly** our intentions in adopting this new investment policy are focused on the long-term prospects ofthe company.
 - Treating people as responsible citizens brings out the best in them; they behave as such. **In the same way** if you treat thenl as criminals they will soon begin to act like criminals.
 - Why aren't you going in for a swim? - **On the one hand**, the air's too cold; I like to be warm when I come out. **On the other hand**, the current's too strong; I like to be sure I SHALL come out.
-
+- Genres produced include book chapters, journal articles and conference proceedings; *however (COUNTER)*, none of the five informants produced a journal article in Swedish, **whereas all have written journal articles in English (Comparison)**. The linguists are also less visibly active than historians in terms of outreach genres; *nonetheless (COUNTER)*, English and Swedish have been used in this domain by at least one informant. **On the other hand (Comparison)**, they have been more active than historians in using digital media such as blogs, which have appeared in both English and Swedish.
 
 {: .caution}
 > Comparison conjunctives are very similar to `COUNTER` move in engagement, but they are distinct. In `COUNTER`, the wording will have intention to `DISCLAIM` viewpoint(s) in order to claim another (e.g., `rather`, `not ... but ...`). On the other hamd, `Comparison` conjunctives simply list (and potentially explore the differences of) two or more options.
@@ -141,7 +142,6 @@ This category includes conjunctive relations characterized by `but`, `however`, 
 ### Example
 - All this time Tweedledee was trying his best to fold up the umbrella, with himselfin it ... **But** he couldn't quite succeed,
 - ... it swept her straight off the seat, and down among the heap of rushes. **However**, she wasn't a bit hurt, and was soon up again.
-- 
 
 
 
