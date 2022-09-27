@@ -171,7 +171,9 @@ We will also consider logical connectors such as `so`, `therefore`, `thus`, `acc
 
 ---
 
-## Causal
+## Cause-Internal
+
+
 
 
 [Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }

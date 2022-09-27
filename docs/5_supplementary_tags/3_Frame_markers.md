@@ -108,6 +108,7 @@ Text staging typically act as a signal where the current statement stands in the
 - **Returning to the more frequent referential discourse function**, normalized mean per-text counts of the subfunctions between sub-corpora are displayed in Table 7.
 - We **now** look at our results in more detail, beginning with moves.
 - The possible explanation are **two-fold**. The **first** explanation concerns the way in which ...
+- The items had been produced by ANPWS **for the following reasons** : **( a )** to generate publicity ( for some of Australia 's national parks ) , **( b )** to meet existing information requests from school students and the general public ( such as on Australia 's endangered plants ) , **( c )** to generate interest in particular topics ( such as remnant vegetation ) , and **( d )** to explain government policy ( on kangaroo harvesting ) . 
 
 
 The followings are NOT examples of `Text-sequence`:
