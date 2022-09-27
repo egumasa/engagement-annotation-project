@@ -53,28 +53,35 @@ What we do NOT tag as logical connectors are those that refers to the relations 
 
 In our annotation project, we specifically attend to the logical connectors and text-sequencing devices that the writer uses to link argumentative elements in the discourse. This is called `internal` conjunction as it is about internal relations within the immediate discourse.
 
-- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the scope of our supplementary tags. The followings illustrate these conjunctive moves.
+{: .def}
+>- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the scope of our supplementary tags. The followings illustrate these conjunctive moves.
 
->Crops accounted for a significant proportion of heavy metals dietary intake. **The reasons are two fold**. **Firstly (TEXT-SEQUENCE)**, crops are the bottom positions of many food chains and food webs. **Secondly (TEXT-SEQUENCE)**, vegetables are one of the major dietary components of Hong Kong people.
 
-> To this point we have looked at clauses and their elements from the perspective of discourse. Grammarians, **on the other hand (Comparative)**, look at elements of clauses from the perspective of the grammar.
+#### Examples of `internal` conjunctions
 
-> The Act required that where the offence is a gross violation the application should be dealt with in a public hearing It is **also (Additive)** not true that ... amnesty encourages impunity because amnesty is only given to those who plead guilty... **Further (Additive)**, retributive justice.. .is not the only form of justice., .there is another kind of justice, restorative justice
+- Crops accounted for a significant proportion of heavy metals dietary intake. **The reasons are two fold**. **Firstly (TEXT-SEQUENCE)**, crops are the bottom positions of many food chains and food webs. **Secondly (TEXT-SEQUENCE)**, vegetables are one of the major dietary components of Hong Kong people.
 
+- To this point we have looked at clauses and their elements from the perspective of discourse. Grammarians, **on the other hand (Comparative)**, look at elements of clauses from the perspective of the grammar.
+
+- The Act required that where the offence is a gross violation the application should be dealt with in a public hearing It is **also (Additive)** not true that ... amnesty encourages impunity because amnesty is only given to those who plead guilty... **Further (Additive)**, retributive justice.. .is not the only form of justice., .there is another kind of justice, restorative justice
 
 The transition firstly and secondary, signal the argumentative elements in the discourse (writer's act).
 
-- `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). This is the characteristics of `TEMPORAL` expressions. The following example shows the external conjunction:
+{: .def}
+>- `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). This is the characteristics of `TEMPORAL` expressions. The following example shows the external conjunction:
 
->For the boric acid indicator, **firstly (TEMPORAL; out of the scope)**, 5g of boric acid crystals was dissolved in 200ml of warm distilled water, **secondly (TEMPORAL; out of the scope)**, 40ml of methyl red indicator [0.02% (w/v) in 60% ethanol] and 15ml of bromocresol green indicator [0.1% (w/v) in 60% ethanol] were added to the boric acid solution.
 
-> I answered the questions. **Subsequently (TEMPORAL; out of the scope)** I was told that I was lying.
+#### Examples of `external` conjunctions
 
-> **Instead of resting at night (alternative choice made by him = not a COUNTER)**, he would wander from window to window.
+- For the boric acid indicator, **firstly (TEMPORAL; out of the scope)**, 5g of boric acid crystals was dissolved in 200ml of warm distilled water, **secondly (TEMPORAL; out of the scope)**, 40ml of methyl red indicator [0.02% (w/v) in 60% ethanol] and 15ml of bromocresol green indicator [0.1% (w/v) in 60% ethanol] were added to the boric acid solution.
 
-> Four, maybe five policemen viciously knocked me down, **and (additive–external; out of the scope)** they put me back on the chair **and (additive-external; out of the scope)** handcuffed my hands through the chair 
+- I answered the questions. **Subsequently (TEMPORAL; out of the scope)** I was told that I was lying.
 
-> An extremely short marriage to someone else failed **all because I married to forget (not a Justifying)**.
+- **Instead of resting at night (alternative choice made by him = not a COUNTER)**, he would wander from window to window.
+
+- Four, maybe five policemen viciously knocked me down, **and (additive–external; out of the scope)** they put me back on the chair **and (additive-external; out of the scope)** handcuffed my hands through the chair 
+
+- An extremely short marriage to someone else failed **all because I married to forget (not a Justifying)**.
 
 These transitions signal the real-world processes. They do not logically connect ideas for argumentation.
 
