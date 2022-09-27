@@ -54,6 +54,8 @@ They express logical connections that the writer of the sentence try to weave th
 
 In our annotation project, we mainly focus on (with some exception!) logical connectors and text-sequencing devices that the writer uses to link argumentative elements in the discourse. This is called `internal` conjunction as it is about internal relations within the immediate discourse.
 
+#### `Internal` conjunctive relations
+
 {: .def}
 >- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the scope of our supplementary tags. The followings illustrate these conjunctive moves.
 
@@ -67,6 +69,8 @@ In our annotation project, we mainly focus on (with some exception!) logical con
 - The Act required that where the offence is a gross violation the application should be dealt with in a public hearing It is **also (Additive)** not true that ... amnesty encourages impunity because amnesty is only given to those who plead guilty... **Further (Additive)**, retributive justice.. .is not the only form of justice., .there is another kind of justice, restorative justice
 
 The transition firstly and secondary, signal the argumentative elements in the discourse (writer's act).
+
+#### `External` conjunctive relations
 
 {: .def}
 >- `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). This is the characteristics of `TEMPORAL` expressions. The following example shows the external conjunction:
