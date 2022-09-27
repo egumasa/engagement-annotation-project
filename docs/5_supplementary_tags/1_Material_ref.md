@@ -15,14 +15,15 @@ The first category aims to identify the elements of discourse which refers to an
 - `Citations` and `Sources` are two category that pertains to how `EXTERNAL` materials are referenced in the discourse.
 - `ENDOPHORIC` pertains to how the writer refers to the other part of its own writing.
 
-| Tag                                          | Description                                                                                   | Examples                                      |
-| -------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| References to external sources               |                                                                                               |                                               |
-| ‖—[Citations](#citations)                    | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,    |
-| ‖—[Sources](#sources)                        | Mentions to external source(s) in the text in forms of nominal expression.                    | `The annual report by X`, `Numerous studies`  |
-| References text internally                   |                                                                                               |                                               |
-| ‖—[Endophoric markers](#endophoric-markers)  | Refer to information in other parts of its own text                                           | as noted `above`, see `Fig 1`, `in section 2` |
-| [Quoted](#quoted-materials-or-direct-quotes) | Segment of text with direct quotation (including the quotation marks, both single and double) | `"Stay hungry. Stay foolish."`                |
+| Tag                                                             | Description                                                                                   | Examples                                      |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **References to external sources**                              |                                                                                               |                                               |
+| ‖—[Citations](./1_Material_ref.md#citations)                    | Mentions to external source(s) in the text in forms of in-text or narrative citation.         | `(Martin & White, 2005)`, `Ortega (2009)`,    |
+| ‖—[Sources](./1_Material_ref.md#sources)                        | Mentions to external source(s) in the text in forms of nominal expression.                    | `The annual report by X`, `Numerous studies`  |
+| **References text internally**                                  |                                                                                               |                                               |
+| ‖—[Endophoric markers](./1_Material_ref.md#endophoric-markers)  | Refer to information in other parts of its own text                                           | as noted `above`, see `Fig 1`, `in section 2` |
+| [Quoted](./1_Material_ref.md#quoted-materials-or-direct-quotes) | Segment of text with direct quotation (including the quotation marks, both single and double) | `"Stay hungry. Stay foolish."`                |
+
 
 {: .tips}
 > Citation/External source tag subsumes CITATION in the previous (version 1) guideline. It additionally include explicit reference to external materials (e.g., written or oral report, news, discussion, etc.).
@@ -125,6 +126,18 @@ For instance:
 - **Google** mentioned the possibility of .... => `Sources`
 - **(Google, 2020)**. => `Citation` 
 - **Google (2020)** mentioned the possibility of .... => `Citation` because it is formatted as a [Narrative citation](#1-narrative-citationauthor-date-pattern)
+
+
+### Sources and Citations as supplementing ATTRIBUTE and ENDORSE move.
+
+We will pay particular attention to situations where explicit sources are mentioned for ATTRIBUTE and ENDORSE moves.
+
+For instance, we will use both SOURCES/CITATIONS tags AND ATTRIBUTE/ENDORSE tags to mark the moves as well as the external sources mentioned.
+
+- *Accodring to **Hyme (1970) [CITATION]** [ATTRIBUTE]*, sociolinguistic knowledge refers to ...
+- **Google [SOURCE]** *mentioned [ATTRIBUTE]* that ....
+- *In **the new report by the ABC Inc. [SOURCE]** [ATTRIBUTE]* ...
+
 
 [Back to Top](#1-reference-to-information-internal-or-external-to-the-writing){: .btn .btn-outline }
 

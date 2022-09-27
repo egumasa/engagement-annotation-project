@@ -151,4 +151,3 @@ Some category of logical connectors are subsumed under some `engagement` moves o
 - Goal-announcing and text-sequencing and staging are based on Frame markers in Hyland (2005).
 - Endophoric markers are based on Hyland (2005).
 - Citations and Sources are related to Evidentials in Hyland (2005), but they are distinct given that Evidential is covered in Engagement (or ATTRIBUTE).
-
