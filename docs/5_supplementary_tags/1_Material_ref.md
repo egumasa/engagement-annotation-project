@@ -92,6 +92,12 @@ Additionally, you will encounter a various citation format during the annotation
 When the sentence included references as follows, typically used with `(op.cit.)`, mark the entire sequence as citation:
 - **Millington, T., & Sutherland Williams, M., (op.cit.), pp.2**
 
+
+### Examples 
+
+- Instead, she gives us an insight into the uptake that guided her ultimate transfer: offering an expanded example of the metaphor for transfer that **Alexander et al. (2016)** define as literacy linking, for Zohra works toward expertise only by reshaping multiple literacies in a process of “adaptive remediation” **(p. 35)**.
+
+
 [Back to Top](#1-reference-to-information-internal-or-external-to-the-writing){: .btn .btn-outline }
 
 ---
@@ -109,10 +115,16 @@ When the sentence included references as follows, typically used with `(op.cit.)
 - In **the annual report by Google**...
 
 
-- When the writer uses a parenthetical form or any in-text citation format, they should be tagged as Citation.
+### Distinction between SOURCES and CITATIONS
+
+- Sources are basically references to the external matrial in forms other than `CITATIONS`. `CITATIONS` can be formatted as [Narrative citation](#1-narrative-citationauthor-date-pattern) (e.g., Kyle [2020]) or [in-text citation](#2-in-text-citationsauthor-date-pattern) (e.g., [Kyle, 2020], [2]). 
+
 
 For instance:
-- **(Google, 2020)**. => `Citation` rather than `SOURCE`.
+- In **the annual report by Google**... => `Sources`
+- **Google** mentioned the possibility of .... => `Sources`
+- **(Google, 2020)**. => `Citation` 
+- **Google (2020)** mentioned the possibility of .... => `Citation` because it is formatted as a [Narrative citation](#1-narrative-citationauthor-date-pattern)
 
 [Back to Top](#1-reference-to-information-internal-or-external-to-the-writing){: .btn .btn-outline }
 
