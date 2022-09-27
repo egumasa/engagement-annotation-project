@@ -52,7 +52,7 @@ They express logical connections that the writer of the sentence try to weave th
 
 ### `Internal` vs `External` conjunctive relations
 
-In our annotation project, we specifically attend to the logical connectors and text-sequencing devices that the writer uses to link argumentative elements in the discourse. This is called `internal` conjunction as it is about internal relations within the immediate discourse.
+In our annotation project, we mainly focus on (with some exception!) logical connectors and text-sequencing devices that the writer uses to link argumentative elements in the discourse. This is called `internal` conjunction as it is about internal relations within the immediate discourse.
 
 {: .def}
 >- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the scope of our supplementary tags. The followings illustrate these conjunctive moves.
@@ -60,7 +60,7 @@ In our annotation project, we specifically attend to the logical connectors and 
 
 #### Examples of `internal` conjunctions
 
-- Crops accounted for a significant proportion of heavy metals dietary intake. **The reasons are two fold**. **Firstly (TEXT-SEQUENCE)**, crops are the bottom positions of many food chains and food webs. **Secondly (TEXT-SEQUENCE)**, vegetables are one of the major dietary components of Hong Kong people.
+- Crops accounted for a significant proportion of heavy metals dietary intake. The reasons are **two fold (TEXT-SEQUENCE)**. **Firstly (TEXT-SEQUENCE)**, crops are the bottom positions of many food chains and food webs. **Secondly (TEXT-SEQUENCE)**, vegetables are one of the major dietary components of Hong Kong people.
 
 - To this point we have looked at clauses and their elements from the perspective of discourse. Grammarians, **on the other hand (Comparative)**, look at elements of clauses from the perspective of the grammar.
 
