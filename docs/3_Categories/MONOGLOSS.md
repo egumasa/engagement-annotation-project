@@ -17,6 +17,8 @@ When there is no engagement-invoking items in the MAIN clause, we will consider 
 
 We will also use `MONOGLOSS—Secondary` to mark any MONOGLOSS-ic verbs in SUBORDINATE or EMBEDDED clauses. These are marked using *Italics*.
 
+
+#### Examples
 - Teachers **are facing** the difficult task of providing an optimal learning environment to students from varying social, cultural, and linguistic backgrounds.
 - What *is* interesting in this example **is** how neither of the two views that *are attributed* to others is actually endorsed by the author, even though they are entertained and explicated.
 - The purpose of maintaining an expansive approach here **is** clear: the author **seeks** to present perspectives and research conducted thus far to lay the groundwork for what should be done.
