@@ -91,7 +91,7 @@ The following example shows the external conjunction:
 
 - Four, maybe five policemen viciously knocked me down, **and (additive–external; OOS)** they put me back on the chair **and (additive-external; OOS)** handcuffed my hands through the chair 
 
-- An extremely short marriage to someone else failed **all because I married to forget (Causal-External)**.
+- An extremely short marriage to someone else failed **all because I married to forget (will include in JUSTIFY)**.
 
 These transitions signal the real-world processes. They do not logically connect ideas for argumentation.
 
@@ -101,13 +101,13 @@ These transitions signal the real-world processes. They do not logically connect
 - Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements.
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
 
-| Logical connection we annotate                                      | Description                                                                                            | Examples                                                    |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| [Exemplifying](./2_Logical_connectors.md#exemplifying)              | Signal illustrations/examples in the text (mostly `internal`).                                         | `for example`, `to illustrate`, `e.g.`,                     |
-| [Expository](./2_Logical_connectors.md#expository)                  | Signal elaboration/clarification in the subsequent part of the text (mostly `internal`).               | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
-| [Additive](./2_Logical_connectors.md#additive)–internal             | Signal additional argumentative elements; Focus only on `internal` relations.                          | `additionally`, `moreover`, `besides`                       |
-| [Comparative](./2_Logical_connectors.md#comparison)-internal        | Marks an argument as similar or different. This category has to be differentiated from `COUNTER` move. | `similarly`, `by contrast`, `conversely`                    |
-| [Justifying](./2_Logical_connectors.md#justifying) (Cause-Internal) | Signal persuasion through justification or substantiation; this is equivalent to Causal-internal.      | `because of X`, `due to X`, `therefore`                     |
+| Logical connection we annotate                               | Description                                                                                                                                    | Examples                                                    |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Exemplifying](./2_Logical_connectors.md#exemplifying)       | Signal illustrations/examples in the text (mostly `internal`).                                                                                 | `for example`, `to illustrate`, `e.g.`,                     |
+| [Expository](./2_Logical_connectors.md#expository)           | Signal elaboration/clarification in the subsequent part of the text (mostly `internal`).                                                       | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| [Additive](./2_Logical_connectors.md#additive)–internal      | Signal additional argumentative elements; Focus only on `internal` relations.                                                                  | `additionally`, `moreover`, `besides`                       |
+| [Comparative](./2_Logical_connectors.md#comparison)-internal | Marks an argument as similar or different. This category has to be differentiated from `COUNTER` move.                                         | `similarly`, `by contrast`, `conversely`                    |
+| [Justifying](./2_Logical_connectors.md#justifying)           | Signal persuasion through justification or substantiation. For the reason of simplicity, we will include both external and internal relations. | `because of X`, `due to X`, `therefore`                     |
 
 
 Some category of logical connectors are subsumed under some `engagement` moves or other supplementary tags. These are summarized as follows:
