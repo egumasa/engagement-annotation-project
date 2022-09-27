@@ -57,8 +57,9 @@ In our annotation project, we mainly focus on (with some exception!) logical con
 #### `Internal` conjunctive relations
 
 {: .def}
->- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. This is the scope of our supplementary tags. The followings illustrate these conjunctive moves.
+>- `Internal` conjunctive relations concern the sequencial unfolding of the text itself. 
 
+This is the main scope of our supplementary tags. The followings illustrate these conjunctive moves.
 
 #### Examples of `internal` conjunctions
 
@@ -73,20 +74,25 @@ The transition firstly and secondary, signal the argumentative elements in the d
 #### `External` conjunctive relations
 
 {: .def}
->- `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). This is the characteristics of `TEMPORAL` expressions. The following example shows the external conjunction:
+>- `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). 
+
+For `TEMPORAL` expressions as opposed to `TEXT-SEQUENCING` are categorized under external devices. 
+The following example shows the external conjunction:
 
 
 #### Examples of `external` conjunctions
 
-- For the boric acid indicator, **firstly (TEMPORAL; out of the scope)**, 5g of boric acid crystals was dissolved in 200ml of warm distilled water, **secondly (TEMPORAL; out of the scope)**, 40ml of methyl red indicator [0.02% (w/v) in 60% ethanol] and 15ml of bromocresol green indicator [0.1% (w/v) in 60% ethanol] were added to the boric acid solution.
+* Note that **OOS** stands for **out of the scope**
 
-- I answered the questions. **Subsequently (TEMPORAL; out of the scope)** I was told that I was lying.
+- For the boric acid indicator, **firstly (TEMPORAL; OOS)**, 5g of boric acid crystals was dissolved in 200ml of warm distilled water, **secondly (TEMPORAL; OOS)**, 40ml of methyl red indicator [0.02% (w/v) in 60% ethanol] and 15ml of bromocresol green indicator [0.1% (w/v) in 60% ethanol] were added to the boric acid solution.
+
+- I answered the questions. **Subsequently (TEMPORAL; OOS)** I was told that I was lying.
 
 - **Instead of resting at night (alternative choice made by him = not a COUNTER)**, he would wander from window to window.
 
-- Four, maybe five policemen viciously knocked me down, **and (additive–external; out of the scope)** they put me back on the chair **and (additive-external; out of the scope)** handcuffed my hands through the chair 
+- Four, maybe five policemen viciously knocked me down, **and (additive–external; OOS)** they put me back on the chair **and (additive-external; OOS)** handcuffed my hands through the chair 
 
-- An extremely short marriage to someone else failed **all because I married to forget (not a Justifying)**.
+- An extremely short marriage to someone else failed **all because I married to forget (Causal-External)**.
 
 These transitions signal the real-world processes. They do not logically connect ideas for argumentation.
 
