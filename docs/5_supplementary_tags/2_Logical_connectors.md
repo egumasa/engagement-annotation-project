@@ -146,7 +146,7 @@ This category includes conjunctive relations characterized by `but`, `however`, 
 
 
 ---
-### Justifying
+### Justifying (or Cause-Internal)
 
 {: .def}
 >An utterance which engage in persuasion through justification or substantiation.
@@ -157,10 +157,9 @@ This move is typically achieved by subordinate clauses or prepositional phrases 
 - Accessibility is quite a key factor **because it is evident that the regional centre was built on the basis of good infrastructure**.
 - **Because of the event happening next year**, the housing prices have gone up so rapidly around here.
 - **Given that about a quarter of all employed people move on and off the payrolls of individual firms during the year** , a need to move between firms to climb the career ladder would not seem to be a difficult barrier to surmount .
-- The items had been produced by ANPWS **for the following reasons** : ( a ) to generate publicity ( for some of Australia 's national parks ) , ( b ) to meet existing information requests from school students and the general public ( such as on Australia 's endangered plants ) , ( c ) to generate interest in particular topics ( such as remnant vegetation ) , and ( d ) to explain government policy ( on kangaroo harvesting ) . 
-
-Updated on May 26th
-{: .label .label-green}
+- The Act required that the application should be dealt with in a public hearing ... **Thus** there is the penalty of public exposure and humiliation
+- The lack of connection between the SLA theories, which tend to be English or European languages based, and the Japanese teaching that is found in JLT is probably **due to a lack of attention to pragmatic and sociocultural aspects of Japanese language and communication**.
+- **Perhaps due to a seeming disconnect between written and oral output**, only a handful of studies to date have examined the potential impact of SCMC on oral language proficiency. 
 
 We will also consider logical connectors such as `so`, `therefore`, `thus`, `accordingly`, `as such` as Justify. Note that `so` needs to be used to show logical relations to be tagged as `Justify`. 
 - **Accordingly**, a learner with a score of 50 is considered to have a vocabulary size of 5,000 words.
@@ -169,19 +168,4 @@ We will also consider logical connectors such as `so`, `therefore`, `thus`, `acc
 
 [Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
 
----
 
-## Cause-Internal
-
-
-
-
-[Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
-
----
-## Purpose/Result
-
-{: .def}
-
-
-[Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }

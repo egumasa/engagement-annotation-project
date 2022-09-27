@@ -52,7 +52,7 @@ They express logical connections that the writer of the sentence try to weave th
 
 ### `Internal` vs `External` conjunctive relations
 
-In our annotation project, we mainly focus on (with some exception!) logical connectors and text-sequencing devices that the writer uses to link argumentative elements in the discourse. This is called `internal` conjunction as it is about internal relations within the immediate discourse.
+In our annotation project, we mainly focus on logical connectors and text-sequencing devices that the writer uses to link argumentative elements in the discourse (with some exceptions!). This is called `internal` conjunction as it is about internal relations within the immediate discourse.
 
 #### `Internal` conjunctive relations
 
@@ -78,7 +78,6 @@ The transition firstly and secondary, signal the argumentative elements in the d
 
 For `TEMPORAL` expressions as opposed to `TEXT-SEQUENCING` are categorized under external devices. 
 The following example shows the external conjunction:
-
 
 #### Examples of `external` conjunctions
 
@@ -109,21 +108,20 @@ These transitions signal the real-world processes. They do not logically connect
 | [Additive](./2_Logical_connectors.md#additive)–internal             | Signal additional argumentative elements; Focus only on `internal` relations.                          | `additionally`, `moreover`, `besides`                       |
 | [Comparative](./2_Logical_connectors.md#comparison)-internal        | Marks an argument as similar or different. This category has to be differentiated from `COUNTER` move. | `similarly`, `by contrast`, `conversely`                    |
 | [Justifying](./2_Logical_connectors.md#justifying) (Cause-Internal) | Signal persuasion through justification or substantiation; this is equivalent to Causal-internal.      | `because of X`, `due to X`, `therefore`                     |
-| [Cause-external]                                                    | Signal the cause(s) of an event/ why something happened.                                               | `due to x`, `because of y`, `therefore`                     |
-| [Purpose/Result](./2_Logical_connectors.md#purposeresult)-internal  | Signal Purposes and Result; Focus only on `internal` purpose or result.                                | `as a result`, `for that purpose`, `in order to X`          |
 
 
 Some category of logical connectors are subsumed under some `engagement` moves or other supplementary tags. These are summarized as follows:
 
-| Logical connection we omit | Reason for the omission                                    | Examples                                             |
-| -------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
-| concede                    | Already covered in `CONCUR`                                | `admittedly`                                         |
-| adversative                | Already covered in `PROCLAIM` (e.g., `PRONOUNCE`/`CONCUR`) | `in fact`, `actually`, `as a matter of fact`         |
-| alternative                | Partly overlaps with `ENTERTAIN`                           | `alternatively`                                      |
-| time—ordering              | Already covered in `Text-sequencing`                       | `first`, `second`                                    |
-| additive-external          |                                                            |                                                      |
-| temporal-external          | external temporal expressions are out of scope.            | `today`, `on weekends`, I talked to you `previously` |
-| purpose/result-external    |                                                            | `in order to x`                                      |
+| Logical connection we omit | Reason for the omission                                                  | Examples                                               |
+| -------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------ |
+| ~~Concede~~                | Already covered in `CONCUR`                                              | `admittedly`                                           |
+| ~~Adversative~~            | Already covered in `PROCLAIM` (e.g., `PRONOUNCE`/`CONCUR`)               | `in fact`, `actually`, `as a matter of fact`           |
+| ~~Alternative~~            | May be interpreted as `ENTERTAIN`                                        | `alternatively`                                        |
+| ~~Dismissive~~             | May be interpreted as `PRONOUNCE/COUNTER`                                | `anyway`, `at any rate` (= all things considered, yet) |
+| ~~Time—internal~~          | Already covered in `Text-sequencing` (because it's ordering of argument) | `first`, `second`                                      |
+| ~~Additive-external~~      | Out of scope: They express A and B in the real-world.                    | `A and B`,                                             |
+| ~~Temporal-external~~      | Out of scope: They express `Ideational` meaning.                         | `today`, `on weekends`, I talked to you `previously`   |
+| ~~Purpose/result~~         | Out of scope: Many of them have `Ideational` meaning.                    | `in order to x`                                        |
 
 
 
