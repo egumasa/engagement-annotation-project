@@ -53,6 +53,8 @@ Simply, the Exemplifying tag is used for expressions that are functionally equiv
 
 #### Examples
 
+- Factive verbs **such as** ‘hold’, ‘state’, ‘note’ and ‘require’ were prevalent for courts and legislation while non-factive verbs **such as** ‘claim’ and ‘comment’ were used to report academics’ views.
+- 
 
 [Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
 
@@ -78,6 +80,9 @@ Simply, the Exemplifying tag is used for expressions that are functionally equiv
 - Our findings also showed that perceived accents were detected even for those Finnish‐born Turkish children who had started to acquire the L2 at the age of 2.5. **This means** that L2 phonological acquisition seems to result in non‐native accents even with an AO as early as 2.5 years. 
 - How much do learners really use captions? **In other words**, how much attention do language learners give captions?
 - The complexity meta‐theory groups together a set of well‐known relational principles (Overton, 2013 ), **namely** that certain phenomena involve multiple parts interacting together through dynamic, nonlinear processes that lead to striking emergent patterns over time.
+- Quoted segments consisting of less than a one T-unit were marked as “phrasal” and then coded according to their phrasal structure: “verb phrase,” (**defined as** one or more inflected verbs plus any modifiers, objects or complements accompanying them), “noun phrase,” (**defined as** one or morenouns plus any modifiers accompanying them) or “adjective phrase” (**defined as** one or more adjectives plus any modifiers accompanying them).
+- The last reason why Persian writers overused 6-word lexical bundles may be because Persian writers often tended to avoid, **or** modify, the structures of particular lexical bundles which result in awkward use of them. **In other words**, Persian writers conveyed a particular function (**i.e.**, structuring signal), using an unnatural structure. *For instance [EXEMPLYING]*, the 6-word lexical bundles in *examples (10), (11) [ENDOPHORIC]* are modified versions of as can be seen *in table in extract 9 [ENDOPHORIC]*, which English writers did not choose.
+
 
 [Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
 
