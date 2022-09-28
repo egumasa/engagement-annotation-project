@@ -9,12 +9,14 @@ nav_order: 2
 
 ## Logical connections/ Transition phrases
 
-According to Hyland:
-These are: "conjunctions and adverbial phrases which help readers interpret pragmatic connections between steps in an argument." (p. 50).
-They expresse logical connections that the writer of the sentence try to weave throughout the discourse.
+{: .def}
+> According to Hyland:
+> Logical connectors are: "conjunctions and adverbial phrases which help readers interpret pragmatic connections between steps in an argument." (Hyland, 2005, p. 50).
 
-- Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` below).
-- Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
+They express logical connections that the writer of the sentence try to weave throughout the discourse. We will attend to connectors that signal the relationships between argumentative elements.
+
+**Unless otherwise noted**, we will attend to connectors that attempt to connect two or more argumentative elements within the discourse and disregard connectors that express relations between real-world events. Often times, the distinction is explained as `internal` (within discourse) and `external` (out of discourse) conjunctive relations.
+
 
 | Logical connection we annotate                               | Description                                                                                                                                    | Examples                                                    |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
@@ -60,7 +62,7 @@ NEW in version 2
 
 Simply, the Exemplifying tag is used for expressions that are functionally equivalent to `for example`. So, this category includes following expressions:
 
-- `for example`, `for instance`, `to illustrate`, `such as`, `e.g.,`
+- `for example`, `for instance`, `to illustrate`, `such as`, `e.g.`
 
 #### Examples
 

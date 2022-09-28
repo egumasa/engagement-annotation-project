@@ -74,10 +74,8 @@ The transition firstly and secondary, signal the argumentative elements in the d
 #### `External` conjunctive relations
 
 {: .def}
->- `External` conjunctive relations concern "the temporal sequence of" the actual real-world events referred to (Halliday 1994: 325). 
+>- `External` conjunctive relations concern relationships between the actual real-world events. 
 
-For `TEMPORAL` expressions as opposed to `TEXT-SEQUENCING` are categorized under external devices. 
-The following example shows the external conjunction:
 
 #### Examples of `external` conjunctions
 
