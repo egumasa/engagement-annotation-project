@@ -171,7 +171,7 @@ Endophoric markers are used to mark any mentions to the other parts of its own t
 - As illustrated **in Figure 3**, contexts of biliteracy can occur along continua of micro to macro scales, characterized by more oral or written language use and by multiple languages or only monolingual resources—or anywhere in between.
 - Consider the italicized expressions of attitude in **example 6**, which were flatly declared and thus presented as “not at issue.”
 - **Table 13 below** shows the frequency of the two semantic motives discussed **above** across the four sub-corpora. 
-- (29) Nursing and agriculture journals, as noted **earlier in this paper**, often have required sections.
+- Nursing and agriculture journals, as noted **earlier in this paper**, often have required sections.
 
 
 [Back to Top](#1-reference-to-information-internal-or-external-to-the-writing){: .btn .btn-outline }
@@ -189,3 +189,5 @@ When you use this tag, put a tag from **the quotation mark which starts the quot
 If you do not identify the start or end of the quotation in the annotation file, you can indicate this by staring the `QUOTE` tag from the beginning or the end of the annotation file (to indicate the continuation).
 
 [Back to Top](#1-reference-to-information-internal-or-external-to-the-writing){: .btn .btn-outline }
+
+

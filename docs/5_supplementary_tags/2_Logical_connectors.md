@@ -126,7 +126,7 @@ Typical transition markers include:
 ## Comparison
 
 {: .def}
-> Contrastive conjunctives signals similarity or dissimilarity between two argumentative elements.
+> Comparative conjunctives signals similarity or dissimilarity between two argumentative elements.
 
 Comparison conjunctive include markers expressing similarity:
 - `similarly`, `likewise`, `in the same way`
@@ -169,15 +169,3 @@ We will also consider logical connectors such as `so`, `therefore`, `thus`, `acc
 [Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
 
 
----
-## ~~Adversive (almost overlapping with `COUNTER`)~~
-
-This category includes conjunctive relations characterized by `but`, `however`, `though`. We anticipate that this tag is mostly subsumed under `COUNTER` move in engagement (but probably not the other way around).
-
-### Example
-- All this time Tweedledee was trying his best to fold up the umbrella, with himselfin it ... **But** he couldn't quite succeed,
-- ... it swept her straight off the seat, and down among the heap of rushes. **However**, she wasn't a bit hurt, and was soon up again.
-
-
-
----
