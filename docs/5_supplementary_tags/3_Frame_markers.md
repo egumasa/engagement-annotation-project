@@ -116,6 +116,10 @@ The followings are NOT examples of `Text-sequence`:
 - the sample encompassed the _first, second, third, and fourth_ year candidates along with graduate students.
 
 
+- **Finally (Text-sequencing)**, for the Farsi group, none of the 10 linguistic variables bore a strong relationship with comprehensibility. 
+- Megan's intonation indicated that she was not convinced. **Finally (TEMPORAL; out of scope)**, Emily (11) reminded the group that the task did not include identification of NPs, and so this was a side issue as far as she was concerned.
+
+
 ---
 
 ## Summative

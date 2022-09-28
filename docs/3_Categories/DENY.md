@@ -15,11 +15,11 @@ CONTRACTION
 >An utterance which invokes a contrary position but which at the same time rejects it directly. The contrary position is hence given very little dialogic space.
 
 In other words, `deny` move includes acknowledgement to an alternative position so as to reject it. Typically the meaning is realized using negations.
-- Linguistics is **not** easy.
-- You do**n’t** need to give up potatoes to lose weight.
-- these were definitely **not** the norm
-- We are of course **not** dealing with one monolithic hegemonic English voice
-- Natural gas burns with twice the heat of coal gas, is **not** poisonous and has **no** odor.
+- Linguistics **is not** easy.
+- You **don’t need** to give up potatoes to lose weight.
+- these **were definitely not** the norm
+- We **are of course not dealing** with one monolithic hegemonic English voice
+- Natural gas burns with twice the heat of coal gas, **is not** poisonous and has **no odor**.
 - There is **nothing** wrong with your proposal.
 
 
