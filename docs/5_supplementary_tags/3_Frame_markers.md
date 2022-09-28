@@ -15,8 +15,8 @@ nav_order: 3
 | Tag                                                                    | Description                                                       | Examples                                                                                                          |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [Goal-announcing](./3_Frame_markers.md#goal-announcing)                | Signal the purpose/goals of the text itself                       | `my purpose is`, `Section 2 describes`, `the chapter/section focuses/proposes`, `we intend to`, `in this chapter` |
-| [Text-sequencing/staging](./3_Frame_markers.md#text-sequencingstaging) | Signal sequences and stages of argumentative elements in the text | `First`\*, `Lastly`\*, `to start with`, `so far`, `overall`,                                                      |
-| ‖—[Summative**](./3_Frame_markers.md#summative)                        | Signal summary/conclusion of a part of the text                   | `to conclude`, `in short`, `to sum up`, `The conclusion is`                                                       |
+| [Text-sequencing/staging](./3_Frame_markers.md#text-sequencingstaging) | Signal sequences and stages of argumentative elements in the text | `First`\*, `Lastly`\*, `to start with`, `so far`,                                                                 |
+| ‖—[Summative**](./3_Frame_markers.md#summative)                        | Signal summary/conclusion of a part of the text                   | `to conclude`, `in short`,  `overall`, `to sum up`, `The conclusion is`                                           |
 
 `*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
 

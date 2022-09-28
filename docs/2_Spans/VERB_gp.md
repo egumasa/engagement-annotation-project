@@ -123,7 +123,7 @@ When the `that-clause` govern the following clause, the tag spans are from `It/T
 - **There can be no doubt**, however, that the imperial Byzantine silks have a power and a dignity, a feeling for design and texture, seldom rivalled in the history of textiles.
 - **It is said** that television keeps people at home. 
 - **It is widely accepted** that the processes that occur at the presentation of a single word are strongly dependent on the grammatical context that accumulated before the word, for example.
-
+- That **it is widely accepted** does not change my opinion.
 
 ### It is X (for Y) to  
 
