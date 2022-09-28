@@ -123,7 +123,7 @@ Typical transition markers include:
 
 --- 
 
-## Comparison
+## Comparative
 
 {: .def}
 > Comparative conjunctives signals similarity or dissimilarity between two argumentative elements.
@@ -146,7 +146,7 @@ It also include markers expressing dissimilarity:
 
 
 ---
-### Justifying (or Cause-Internal)
+### Justifying 
 
 {: .def}
 >An utterance which engage in persuasion through justification or substantiation.
