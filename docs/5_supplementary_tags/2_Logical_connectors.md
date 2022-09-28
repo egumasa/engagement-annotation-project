@@ -16,16 +16,27 @@ They expresse logical connections that the writer of the sentence try to weave t
 - Tags in this categories are those that the writer uses to cohesively link between their ideas and argumentative elements. So, these tags are more relevant to the actual content of the argument (compared to `Text organizing devices` below).
 - Here we are dealing with logical connections that were NOT the foci of ENGAGEMENT moves (e.g., `COUNTER`).
 
-| Tag                              | Description                                                         | Examples                                                    |
-| -------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Exemplifying](#exemplifying)    | Signal illustrations/examples in the text                           | `for example`, `to illustrate`, `e.g.`,                     |
-| [Expository](#expository)        | Signal elaboration/clarification in the subsequent part of the text | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
-| [Additive]                       | Signal                                                              |                                                             |
-| Contrastive                      | Signal                                                              |                                                             |
-| Causal                           | Signal causal relationships                                         | `because of X`, `due to X`, `therefore`                     |
-| [Justifying](#justifying)        | Signal persuasion through justification or substantiation.          | `because of X`, `due to X`, `therefore`                     |
-| [Purpose/Result](#purposeresult) | Signal Purposes and Result                                          | `as a result`, `for that purpose`, `in order to X`          |
+| Logical connection we annotate                               | Description                                                                                                                                    | Examples                                                    |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Exemplifying](./2_Logical_connectors.md#exemplifying)       | Signal illustrations/examples in the text (mostly `internal`).                                                                                 | `for example`, `to illustrate`, `e.g.`,                     |
+| [Expository](./2_Logical_connectors.md#expository)           | Signal elaboration/clarification in the subsequent part of the text (mostly `internal`).                                                       | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
+| [Additive](./2_Logical_connectors.md#additive)–internal      | Signal additional argumentative elements; Focus only on `internal` relations.                                                                  | `additionally`, `moreover`, `besides`                       |
+| [Comparative](./2_Logical_connectors.md#comparison)-internal | Marks an argument as similar or different. This category has to be differentiated from `COUNTER` move.                                         | `similarly`, `by contrast`, `conversely`                    |
+| [Justifying](./2_Logical_connectors.md#justifying)           | Signal persuasion through justification or substantiation. For the reason of simplicity, we will include both external and internal relations. | `because of X`, `due to X`, `therefore`                     |
 
+
+Some category of logical connectors are subsumed under some `engagement` moves or other supplementary tags. These are summarized as follows:
+
+| Logical connection we omit | Reason for the omission                                                  | Examples                                               |
+| -------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------ |
+| ~~Concede~~                | Already covered in `CONCUR`                                              | `admittedly`                                           |
+| ~~Adversative~~            | Already covered in `PROCLAIM` (e.g., `PRONOUNCE`/`CONCUR`)               | `in fact`, `actually`, `as a matter of fact`           |
+| ~~Alternative~~            | May be interpreted as `ENTERTAIN`                                        | `alternatively`                                        |
+| ~~Dismissive~~             | May be interpreted as `PRONOUNCE/COUNTER`                                | `anyway`, `at any rate` (= all things considered, yet) |
+| ~~Time—internal~~          | Already covered in `Text-sequencing` (because it's ordering of argument) | `first`, `second`                                      |
+| ~~Additive-external~~      | Out of scope: They express A and B in the real-world.                    | `A and B`,                                             |
+| ~~Temporal-external~~      | Out of scope: They express `Ideational` meaning.                         | `today`, `on weekends`, I talked to you `previously`   |
+| ~~Purpose/result~~         | Out of scope: Many of them have `Ideational` meaning.                    | `in order to x`                                        |
 
 `*` in the table shows that the item's function needs to be distinguished between `logical` and `text-organizing`.
 
