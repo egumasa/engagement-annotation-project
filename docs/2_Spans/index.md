@@ -85,7 +85,7 @@ Again, the following constructions may not always take on engagement meaning.
 
 | Features                                         | Example items                     | Where to put a tag                    |
 | ------------------------------------------------ | --------------------------------- | ------------------------------------- |
-| [Shell nouns](#nominalized-construction)         | `the author's belief` that/of ... | `Det + premodifiers + Noun + that/of` |
+| [Shell nouns](#nominalized-construction)         | `the author's belief` that/of ... | `Det + premodifiers + Noun` + that/of |
 | [No + Noun construction](#no--noun-construction) | `No rules`, `None of the idea`    | `No + head noun`                      |
 
 
@@ -119,6 +119,6 @@ To extend this approach, consider the following example:
  This is the actual content, on which the writer of this sentence takes stances. Then, the question becomes if the writer of this sentence takes any positions on this matter of discussion (Contract? or Expand?). 
  Based on this, I would suggest the following:
 
-- A few years ago, I **wrote expressing my concern that** the village of West Linton, Peeblesshire, had 'moved'.
+- A few years ago, I **wrote expressing my concern** that the village of West Linton, Peeblesshire, had 'moved'.
 
- In this sentence, the writer says that they wrote something. What did they write?—Their concern. Although `wrote` is a concrete action verb, which tends NOT to take on engagement, the non-finite subordinate clause (i.e., expressing SOMETHING) roughly equals to `I said SOMETHING`. Technically, we do not have `ACTION verb + COMMUNICATION verb + Shell noun + that` as a pattern in the list above. However, we can think of putting an `engagement` move on this span. The question becomes then whether we will take `my concern that` or the `ACTION verb + COMMUNICATION verb + Shell noun + that` sequence as a whole. Here we need to think what makes more sense as the writers' possible communicative purposes. If we separate `wrote` from `my concern`, then we would have to treat `wrote` as `MONOGLOSS` and `my concern` as secondary `ENTERTAIN`. On the other hand, if we treat the whole span as single Engagement move, then we can treat the whole as `ENTERTAIN`. This may result in disagreement/discussion, but we may consider that the whole thing as almost equivalent to `I said that ...` then we see them as a whole.
+ In this sentence, the writer says that they wrote something. What did they write?—Their concern. Although `wrote` is a concrete action verb, which tends NOT to take on engagement, the non-finite subordinate clause (i.e., expressing SOMETHING) roughly equals to `I said SOMETHING`. Technically, we do not have `ACTION verb + COMMUNICATION verb + Shell noun` as a pattern in the list above. However, we can think of putting an `engagement` move on this span. The question becomes then whether we will take `my concern` or the `ACTION verb + COMMUNICATION verb + Shell noun` sequence as a whole. Here we need to think what makes more sense as the writers' possible communicative purposes. If we separate `wrote` from `my concern`, then we would have to treat `wrote` as `MONOGLOSS` and `my concern` as secondary `ENTERTAIN`. On the other hand, if we treat the whole span as single Engagement move, then we can treat the whole as `ENTERTAIN`. This may result in disagreement/discussion, but we may consider that the whole thing as almost equivalent to `I said that ...` then we see them as a whole.
