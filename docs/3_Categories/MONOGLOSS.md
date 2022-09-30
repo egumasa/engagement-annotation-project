@@ -30,7 +30,7 @@ We will also use `MONOGLOSS—Secondary` to mark any MONOGLOSS-ic verbs in SUBOR
 An imperative clause is also classified as monogloss (Martin & White, 2005, p.111):
 - Turn out (MONOGLOSSS) the lights before you leave.
 
-### No MONOGLOSS tag on the main verb of the main clause when you have any other engagement resources characterizing that T-unit.
+### No MONOGLOSS tag on the main verb of the main/subordinate/embedded clause when you have any other engagement resources characterizing that T-unit.
 
 - **As we can see**, the popularity of Woodlands new town between residents and non-residents is directly opposite to each other. (No MONOGLOSS tag on the main verb, "is")
 - There is **nothing** wrong with your proposal. (No MONOGLOSS tag on "is")
