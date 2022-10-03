@@ -1,14 +1,14 @@
+import glob
 import re
-import csv
-import json
 import os
+
+import json
+
+from scripts.matching_webannotsv import conll2dict,  #dict2alignedtokens
+from scripts.json2accuracy import json2dict
+from scripts.sorting_for_error_analysis import write_disagreed_conll
+
 from scripts.utils.aligner import needle, water
-
-# file1 = "data/Annotated_files_ALM/Aaron_Afiles_220517/batch1_A1_pos_ALM.tsv"
-# file2 = "data/Annotated_files_ME/batch1_A1_pos_ME.tsv"
-
-# conll1 = open(file1, 'r').read()
-# conll2 = open(file2, 'r').read()
 
 
 def conll2list(conllfile):
@@ -34,7 +34,6 @@ def conll2dict(conllfile):
         temp = []
         sent_id = "NA"
         for line in chunk.split("\n"):
-            line = line.strip()
             if len(line) < 1:
                 continue
             elif "#Sentence.id" in line:
@@ -46,7 +45,7 @@ def conll2dict(conllfile):
                 #print(line)
                 pass
             else:
-                temp.append(line)
+                temp.append(line.strip())
         if len(temp) > 0:  #skip line with no sentences
             holder[chunkid] = {'sentId': sent_id, 'Text': text, 'lines': temp}
     return holder
@@ -124,43 +123,6 @@ def align_tag(label1: str, label2: str, sep: str = "|"):
     return annotations
 
 
-def list2alignedtokens(list1, list2):
-    sent = []
-    for sent1, sent2 in zip(list1, list2):
-        tokens = []
-        if len(sent1) == len(sent2):
-            # iterating the two sentences
-            # Accuracy for clause, ENGAGEMENT and modal verb
-
-            for t1, t2 in zip(sent1, sent2):
-                tid1, charid, token1, xpos1, upos1, cl1, eng1, md1 = t1.strip(
-                ).split("\t")
-                tid2, charid, token2, xpos2, upos2, cl2, eng2, md2 = t2.strip(
-                ).split("\t")
-
-                aligned_anno = align_tag(eng1, eng2)
-                #eng1 = clean_tag(eng1)
-                #eng2 = clean_tag(eng2)
-
-                for lbl1, id1, lbl2, id2 in aligned_anno:
-                    line = {
-                        'tid': tid1,
-                        'token1': token1,
-                        'token2': token2,
-                        'tag1': lbl1,
-                        'tag2': lbl2,
-                        'id1': id1,
-                        'id2': id2
-                    }
-
-                    tokens.append(line)
-        else:
-            for t1, t2 in zip(sent1, sent2):
-                print(t1, t2)
-        sent.append(tokens)
-    return sent
-
-
 def dict2alignedtokens(dict1, dict2):
     sent = []
     for chunkid, content1 in dict1.items():
@@ -182,8 +144,11 @@ def dict2alignedtokens(dict1, dict2):
             text = content1['Text']
 
             for t1, t2 in zip(content1['lines'], content2['lines']):
-                if len(t1.strip().split("\t")) > 7:
-                    tid1, charid, token1, xpos1, upos1, cl1, eng1, md1 = t1.strip(
+                if len(t1.strip().split("\t")) > 8:
+                    tid1, charid, token1, xpos1, upos1, cl1, eng1, hierarchy1, supplement1 = t1.strip(
+                    ).split("\t")
+                elif len(t1.strip().split("\t")) == 8:
+                    tid1, charid, token1, xpos1, upos1, cl1, eng1, hierarchy1 = t1.strip(
                     ).split("\t")
                 elif len(t1.strip().split("\t")) == 7:
                     tid1, charid, token1, xpos1, upos1, cl1, eng1 = t1.strip(
@@ -194,8 +159,11 @@ def dict2alignedtokens(dict1, dict2):
                 elif len(t1.strip().split("\t")) > 3:
                     tid1, charid, token1, cl1, eng1 = t1.strip().split("\t")
 
-                if len(t2.strip().split("\t")) > 7:
-                    tid2, charid, token2, xpos2, upos2, cl2, eng2, md2 = t2.strip(
+                if len(t2.strip().split("\t")) > 8:
+                    tid2, charid, token2, xpos2, upos2, cl2, eng2, hierarchy2, supplement2 = t2.strip(
+                    ).split("\t")
+                elif len(t2.strip().split("\t")) == 8:
+                    tid2, charid, token2, xpos2, upos2, cl2, eng2, hierarchy2 = t2.strip(
                     ).split("\t")
                 elif len(t2.strip().split("\t")) == 7:
                     tid2, charid, token2, xpos2, upos2, cl2, eng2 = t2.strip(
@@ -206,11 +174,15 @@ def dict2alignedtokens(dict1, dict2):
                 elif len(t2.strip().split("\t")) > 3:
                     tid2, charid, token2, cl2, eng2 = t2.strip().split("\t")
 
-                aligned_anno = align_tag(eng1, eng2)
+                aligned_cl = align_tag(cl1, cl2)
+                aligned_eng = align_tag(eng1, eng2)
+                aligned_spl = align_tag(supplement1, supplement2)
+
+                print(aligned_anno)
                 #eng1 = clean_tag(eng1)
                 #eng2 = clean_tag(eng2)
 
-                for lbl1, id1, lbl2, id2 in aligned_anno:
+                for lbl1, id1, lbl2, id2 in aligned_eng:
                     line = {
                         'tid': tid1,
                         'token1': token1,
@@ -236,82 +208,55 @@ def dict2alignedtokens(dict1, dict2):
     return sent
 
 
-def tsv2json(start,
-             end,
-             batch_letter: str,
-             anno_name1: str,
-             anno_name2: str,
-             tsv_root: str = 'data/annotated_tsv/',
-             json_dir: str = 'input_for_reliability'):
+annotator1 = "RW"
+annotator2 = "ALM"
+json_dir = 'input_for_reliability'
+batch_letter = 'Batch2'
+fno = '0000-0049'
 
-    for fileno in range(start, end):
+files1 = glob.glob('data/annotated_for_reliability/Batch2/{}/{}/*.tsv'.format(
+    annotator1, fno))
+files1.sort()
 
-        file1 = "data/annotated_for_reliability/{}/{}-batch/batch1_{}{}_pos_{}.tsv".format(
-            anno_name1, batch_letter, batch_letter, fileno, anno_name1)
-        file2 = "data/annotated_for_reliability/{}/{}-batch/batch1_{}{}_pos_{}.tsv".format(
-            anno_name2, batch_letter, batch_letter, fileno, anno_name2)
-        # file1 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ME/batch1_A{}_pos_ME.tsv".format(
-        #     fileno)
-        # file2 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ALM/2A_completed/batch1_A{}_pos_ALM.tsv".format(
-        #     fileno)
-        conll1 = open(file1, 'r').read()
-        conll2 = open(file2, 'r').read()
-        #list1 = conll2list(conll1)
-        #list2 = conll2list(conll2)
-        dict1 = conll2dict(conll1)
-        dict2 = conll2dict(conll2)
+files2 = glob.glob('data/annotated_for_reliability/Batch2/{}/{}/*.tsv'.format(
+    annotator2, fno))
+files2.sort()
 
-        #aln_list = list2alignedtokens(list1, list2)
+for file1, file2 in zip(files1, files2):
+
+    conll1 = open(file1, 'r').read()
+    conll2 = open(file2, 'r').read()
+    #list1 = conll2list(conll1)
+    #list2 = conll2list(conll2)
+    dict1 = conll2dict(conll1)
+    dict2 = conll2dict(conll2)
+
+    aln_list = list2alignedtokens(list1, list2)
+    try:
         aln_list = dict2alignedtokens(dict1, dict2)
+    except ValueError:
+        for k, v in dict1.items():
+            for line in v['lines']:
+                print(line)
 
-        ## Creating directory if not exist
-        path = 'data/{}/{}-{}'.format(json_dir, anno_name1, anno_name2)
+    ## Creating directory if not exist
+    path = 'data/{}/{}-{}'.format(json_dir, annotator1, annotator2)
 
-        isExist = os.path.exists(path)
+    isExist = os.path.exists(path)
 
-        if not isExist:
-            # Create a new directory because it does not exist
-            os.makedirs(path)
-            print("The new directory is created!")
+    if not isExist:
+        # Create a new directory because it does not exist
+        os.makedirs(path)
+        print("The new directory is created!")
 
-        with open(
-                "data/{}/{}-{}/{}{}_{}-{}.json".format(
-                    json_dir,
-                    anno_name1,
-                    anno_name2,
-                    batch_letter,
-                    fileno,
-                    anno_name1,
-                    anno_name2,
-                ), 'w') as f:
-            json.dump(aln_list, f, indent=2)
-
-
-# tsv2json(0, 10, "A", "ME", "RW")
-
-# list2alignedtokens(list1, list2)
-
-if __name__ == "__main__":
-    for fileno in range(0, 10):
-        file1 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ME/A-batch/batch1_A{}_pos_ME.tsv".format(
-            fileno)
-        file2 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_Ryan/A_files_1st-round/batch1_A{}_pos_RW.tsv".format(
-            fileno)
-        # file1 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ME/batch1_A{}_pos_ME.tsv".format(
-        #     fileno)
-        # file2 = "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/Annotated_files_ALM/2A_completed/batch1_A{}_pos_ALM.tsv".format(
-        #     fileno)
-        conll1 = open(file1, 'r').read()
-        conll2 = open(file2, 'r').read()
-        #list1 = conll2list(conll1)
-        #list2 = conll2list(conll2)
-        dict1 = conll2dict(conll1)
-        dict2 = conll2dict(conll2)
-
-        #aln_list = list2alignedtokens(list1, list2)
-        aln_list = dict2alignedtokens(dict1, dict2)
-
-        with open(
-                "/Users/masakieguchi/Dropbox/0_Projects/0_basenlp/SFLAnalyzer/engagement-annotation-project/data/input_for_reliabiliy/Ryan_As_20220620/A_batch_Ryan{}_20220620_.json"
-                .format(fileno), 'w') as f:
-            json.dump(aln_list, f, indent=2)
+    with open(
+            "data/{}/{}-{}/{}{}_{}-{}.json".format(
+                json_dir,
+                annotator1,
+                annotator2,
+                batch_letter,
+                fno,
+                annotator1,
+                annotator2,
+            ), 'w') as f:
+        json.dump(aln_list, f, indent=2)

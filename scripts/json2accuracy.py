@@ -117,8 +117,8 @@ def calc_recall_prec_f1(extracted_data: dict):
 
 
 def clean_tag(label: str) -> str:
-    '''This function cleans the token labels.
-	'''
+    '''This function cleans the token labels.'''
+
     pat = r"(.*)\[\d+\]"
     match = re.match(pat, label)
     if match:
@@ -157,7 +157,7 @@ def list2dict(input: list):
 #     print(l)
 
 
-def reduce_entry(anno: list):
+def reduce_entry(anno: list, layer: str = "eng"):
     '''
       {
     "chunkid": 1,
@@ -171,7 +171,7 @@ def reduce_entry(anno: list):
     for sent in anno:
         s_anno = []
         id_pairs = {}
-        for l in sent['lines']:  #sent is a dictionary
+        for l in sent[layer]:  #sent is a dictionary
             id_pair = "{}-{}".format(l['id1'], l['id2'])
 
             if l['tag1'] == "_" and l['tag2'] == "_":
@@ -205,7 +205,8 @@ def dict2csv(rec_prec_f1: dict, save_dir: str):
 # dict2csv(calc_recall_prec_f1(temp_dict), 'data/pres_recall_f1_RyanA0-9.csv')
 
 
-def json2dict(anno_name1: str,
+def json2dict(json_list: list,
+              anno_name1: str,
               anno_name2: str,
               batch_letter: str,
               regex_fileno: str = "*",
@@ -213,36 +214,47 @@ def json2dict(anno_name1: str,
               csv_out: bool = True,
               input_root: str = 'data/input_for_reliability'):
 
-    inputfiles = glob.glob(input_root + "/{}-{}/{}{}_{}-{}.json".format(
-        anno_name1,
-        anno_name2,
-        batch_letter,
-        regex_fileno,
-        anno_name1,
-        anno_name2,
-    ))
-    print(inputfiles)
+    # holder = []
+    clauses = []
+    engmts = []
+    splmts = []
 
-    holder = []
-    for file in inputfiles:
+    for file in json_list:
         with open(file, 'r') as f:
-            lst = reduce_entry(json.load(f))
+            jsonf = json.load(f)
+            cl_lst = reduce_entry(jsonf, layer="cl")
+            eng_lst = reduce_entry(jsonf, layer='eng')
+            spl_lst = reduce_entry(jsonf, layer='spl')
 
-            holder.extend(lst)
+            clauses.extend(cl_lst)
+            engmts.extend(eng_lst)
+            splmts.extend(spl_lst)
 
-    temp_dict = list2dict(holder)
-    result = calc_recall_prec_f1(temp_dict)
+    cl_dict = list2dict(clauses)
+    cl_result = calc_recall_prec_f1(cl_dict)
+    eng_dict = list2dict(engmts)
+    eng_result = calc_recall_prec_f1(eng_dict)
+    spl_dict = list2dict(splmts)
+    spl_result = calc_recall_prec_f1(spl_dict)
 
     if csv_out:
         dict2csv(
-            result, 'data/{}/pres_recall_f1_{}-{}_{}{}.csv'.format(
+            cl_result, 'data/{}/cl_agreement_{}-{}_{}{}.csv'.format(
+                output_dir, anno_name1, anno_name2, batch_letter,
+                regex_fileno))
+        dict2csv(
+            eng_result, 'data/{}/eng_agreement_{}-{}_{}{}.csv'.format(
+                output_dir, anno_name1, anno_name2, batch_letter,
+                regex_fileno))
+        dict2csv(
+            spl_result, 'data/{}/spl_agreement_{}-{}_{}{}.csv'.format(
                 output_dir, anno_name1, anno_name2, batch_letter,
                 regex_fileno))
 
-    return result
+    return cl_result, eng_result, spl_result
 
 
-json2dict("ME", "RW", "A")
+#json2dict("ME", "RW", "A")
 
 if __name__ == "__main__":
 

@@ -40,6 +40,11 @@ In the dataset to annotate, there will be cases where the citation is cut in the
 This is because the automatic system I used to segment the essay into sentences is not perfect. 
 In such cases, we will still tag the fragment of the citation as `CITATION`. (see more example of this kind)
 
+
+{: .caution}
+> `SOURCE` and `CITATION` are sister tags. `CITATION` should be used only when the “source” (used in a general sense) is formatted in accordance with any academic format (e.g., APA, MLA, Chicago, etc.). See following sections for different patterns of `CITATION`.
+
+
 ### 1. Narrative citation—Author (DATE) pattern
 Narrative citation pattern is where author's name is explicitly referenced in the prose. 
 
