@@ -30,9 +30,10 @@ A subordinate clause can either follow or preceed the main clause.
 | **Although Marianne and Diane live far apart**, (adverbial clause) | they are still friends.                 |
 | **As far as I am concerned**,  (adverbial clause)                  | there is not much study on this topic.  |
 | **Working diligently on his paper**,  (particle clause)            | John began to type up the bibliography. |
-| **Worn out from all the work**,   (particle clause)                | John decided to relax.                  |
+| **Worn out from all the work**,   (particle clause)                      | John decided to relax.                  |
 
 Following sections describes each type in details.
+
 ### Adverbial clauses 
 
 {: .def}
