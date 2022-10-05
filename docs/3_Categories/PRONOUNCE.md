@@ -21,21 +21,21 @@ Pronounce is where you
 - _I would **contend** that_ this enviable level of tolerance is not the result of direct government laws or interventions.
 - _I would **affirm**_ the judgment of the trail court and deny the motion to suppress Oliver’s statement.
 - **It is absolutely clear to me** that what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
-- **It is evident that** a powerful political - industrial complex with a developmentalist ideology remains the greatest threat to the environment of Taiwan .
+- **It is evident** that a powerful political - industrial complex with a developmentalist ideology remains the greatest threat to the environment of Taiwan .
 - _I therefore **propose** that_ universities have a greater role in working alongside the NCAA in negotiating its television.
 - One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
 - _We have to **remember** that_ bobbies move around - and slowly.
 - _The absolute **fact** is that_ linguistics is fun.
 - _But the **facts** of the matter are that_ we have never made the national decisions or marshaled the national resources required for such leadership.
 - The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
-- **There is no doubt that** globalization has a deep effect on China.
+- **There is no doubt** that globalization has a deep effect on China.
 - I _**DID**_ turn out the lights before I left.
-- However, **there is mounting evidence that** processes of language acquisition, use, and change are not independent of one another but are facets of the same system.
+- However, **there is mounting evidence** that processes of language acquisition, use, and change are not independent of one another but are facets of the same system.
 
 Examples added on May 26th
 {: .label .label-green}
 
-- _We firmly **believe**_ deepwater drilling can be done safely and in an environmentally sensitive manner.
+- _We **firmly believe**_ deepwater drilling can be done safely and in an environmentally sensitive manner.
   - Note: firmly here intensifies and increases the commitment by the author, so we consider them as `Pronounce` rather than `Entertain`.
 - 
 
