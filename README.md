@@ -75,3 +75,6 @@ SOME COMMENT HERE
 
 Updated in version 3
 {: .label .label-green}
+
+Hello, World! Changed
+New line
