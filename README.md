@@ -14,6 +14,7 @@ We use a template from [`just-the-doc`](https://just-the-docs.github.io/just-the
 
 - Proofread and minor edits.
 - Find and Add more examples (Let's establish a `Notion-to-Guideline` flow; more details will be shared.)
+- Fix broken links (let me know when you don't know what it should be linked to!)
 - Some changes in the description.
 
 When it is easy for me to change, I will make edits.
