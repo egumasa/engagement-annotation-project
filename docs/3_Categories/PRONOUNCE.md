@@ -20,7 +20,7 @@ Pronounce is where you
 - _I **insist** that_ she's the person for the job.
 - _I would **contend** that_ this enviable level of tolerance is not the result of direct government laws or interventions.
 - _I would **affirm**_ the judgment of the trail court and deny the motion to suppress Oliver’s statement.
-- **It is absolutely clear to me that** what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
+- **It is absolutely clear to me** that what Charlotte was arguing was that Crouching Tiger was a bad film to which liberal audiences imputed a significance shaped by their own prejudices about Chinese cinema and the Chinese in general.
 - **It is evident that** a powerful political - industrial complex with a developmentalist ideology remains the greatest threat to the environment of Taiwan .
 - _I therefore **propose** that_ universities have a greater role in working alongside the NCAA in negotiating its television.
 - One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
