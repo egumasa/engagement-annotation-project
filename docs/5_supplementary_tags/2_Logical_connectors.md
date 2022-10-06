@@ -23,7 +23,7 @@ They express logical connections that the writer of the sentence try to weave th
 | [Exemplifying](./2_Logical_connectors.md#exemplifying)       | Signal illustrations/examples in the text (mostly `internal`).                                                                                 | `for example`, `to illustrate`, `e.g.`,                     |
 | [Expository](./2_Logical_connectors.md#expository)           | Signal elaboration/clarification in the subsequent part of the text (mostly `internal`).                                                       | `in other words`, `that is`, `i.e.`, `I mean`, `this means` |
 | [Additive](./2_Logical_connectors.md#additive)–internal      | Signal additional argumentative elements; Focus only on `internal` relations.                                                                  | `additionally`, `moreover`, `besides`                       |
-| [Comparative](./2_Logical_connectors.md#comparison)-internal | Marks an argument as similar or different. This category has to be differentiated from `COUNTER` move.                                         | `similarly`, `by contrast`, `conversely`                    |
+| [Comparative](./2_Logical_connectors.md#comparative)-internal | Marks an argument as similar or different. This category has to be differentiated from `COUNTER` move.                                         | `similarly`, `by contrast`, `conversely`                    |
 | [Justifying](./2_Logical_connectors.md#justifying)           | Signal persuasion through justification or substantiation. For the reason of simplicity, we will include both external and internal relations. | `because of X`, `due to X`, `therefore`                     |
 
 
