@@ -28,7 +28,7 @@ When an engagement meaning is realized by a question, we will tag the whole ques
 
 ## Citations
 
-See [CITATION](../5_supplementary_tags/CITATION.md)
+See [CITATION](../5_supplementary_tags/1_Material_ref.md/#citations)
 
 ## SOURCE
 

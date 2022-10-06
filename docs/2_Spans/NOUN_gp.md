@@ -12,7 +12,7 @@ Updated in version 3
 
 | Features                                         | Example items                     | Where to put a tag                    |
 | ------------------------------------------------ | --------------------------------- | ------------------------------------- |
-| [Shell nouns](#nominalized-construction)         | `the author's belief` that/of ... | `Det + premodifiers + Noun + that/of` |
+| [Shell nouns](#shell-nouns-nominalized-construction)         | `the author's belief` that/of ... | `Det + premodifiers + Noun + that/of` |
 | [No + Noun construction](#no--noun-construction) | `No rules`, `None of the idea`    | `No + head noun`                      |
 
 
