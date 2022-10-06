@@ -67,7 +67,7 @@ Again, the following constructions may not always take on engagement meaning.
 | [Passive construction](#passive-construction)                                   | `is determined`, `was said`                                    | on the entire verb phrase (except model verbs) |
 | [Mental or communication verbs](#mental-or-communication-verbs)                 | `think`, `say`, `tell`                                         | on the entire verb phrase                      |
 | [Degree adverb + Verb](#degree-adverb--lexical-verb)                            | `partially agree`,                                             | `degree adverb + lexical verb`                 |
-| [It/there is X that/to construction](#it-is-x-thatto-as-interpersonal-metaphor) | `It is unlikely` that ....                                     | See the rule below                             |
+| [It/there is X that/to construction](../2_Spans/VERB_gp.md/#it-is-x-thatto--as-interpersonal-metaphor) | `It is unlikely` that ....                                     | See the rule below                             |
 | [emphatic do](#emphatic-do)                                                     | I `do believe` that ...                                        | `do + lexical verb`                            |
 | [Modal verbs](#modal-verbs)                                                     | `can`, `have to`                                               | on the item                                    |
 
