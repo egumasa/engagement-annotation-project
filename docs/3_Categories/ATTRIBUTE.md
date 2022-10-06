@@ -14,7 +14,7 @@ EXPANSION
 {: .def}
 >An utterance which signifies dialogic space as the writer attributes the proposition to an external source.
 
-Attribute is another expansion strategy. In this move, the writer presents an idea as a version of the truth by (explicitly or implicitly) referring to an external source (e.g., other authors/studies). The attribution can be made to some unspecified sources (see [below](#hear-say-as-attribute)). The writer essentially have no stake in reporting the idea. This can be contrasted with [`ENDORSE`](#proclaim-endorse), where the author shows greater alignments to the attributed idea as a valid and reliable one (hence contraction).
+Attribute is another expansion strategy. In this move, the writer presents an idea as a version of the truth by (explicitly or implicitly) referring to an external source (e.g., other authors/studies). The attribution can be made to some unspecified sources (see [below](#hear-say-as-attribute)). The writer essentially have no stake in reporting the idea. This can be contrasted with [`ENDORSE`](../3_Categories/ENDORSE.md), where the author shows greater alignments to the attributed idea as a valid and reliable one (hence contraction).
 
 Typically, this move is achieved by "X [third person] says/reports/states/declares/announces" or "According to X", which shows that the idea is borrowed from the external source.
 Martin & White (2005) says: "Under the heading of ‘attribution’, we deal with those formulations which disassociate the proposition from the text’s internal authorial voice by attributing it so some external source."
@@ -51,7 +51,7 @@ Additionally, `ATTRIBUTE` would include some implicit attribution like the follo
 &rarr; Here, **offer + suggestion** can be interpreted as `abstract representation` (called `grammatical metaphor`) of Anderson suggested many things. So, in the annotation we will put `ATTRIBUTE` tag on **offers**.
 
 
-Compared to [`Endorse`](#proclaim-endorse), `Attribute` keeps a neutral stance on the content attributed.
+Compared to [`Endorse`](../3_Categories/ENDORSE.md), `Attribute` keeps a neutral stance on the content attributed.
 
 ##### Attribution using prepositional phrase
 

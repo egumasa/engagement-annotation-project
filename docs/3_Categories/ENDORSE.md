@@ -16,7 +16,7 @@ CONTRACTION
 >An utterance which refers to external sources as warrantable, undeniable, and/or reliable. It expresses the writer’s alignment with and endorsement of an attributed proposition. As such, the dialogic space is somewhat narrowed.
 
 Essentially, in `Endorse` option, a writer use an external source and align with it to support their views. 
-Typically, this is achieved by the use of verbal processes and their nominalized equivalents. Compared to [`Attribute`](#attribute), `Endorse` encodes writers more approval of the content.
+Typically, this is achieved by the use of verbal processes and their nominalized equivalents. Compared to [`Attribute`](../3_Categories/ATTRIBUTE.md), `Endorse` encodes writers more approval of the content.
 
 - _Evidence **showed** that_ . . . there was “a large number of small competitors, the absence of significant price wars, . . .”
 - _An interview by the Institute of Policy Studies (IPS) concerning national identity **revealed** that_ 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.

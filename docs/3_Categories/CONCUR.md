@@ -41,7 +41,6 @@ Some tricky example, but we all categorize them under `concur`:
 Rhetorical questions are sometimes categorized as `Concur`:
 - **Should we go to war against these children? (CONCUR)** (Tip: Tag the entire question.)
 
-See [Rhetorical questions](/docs/4_Part3_confusing_tags.md#rhetorical-questions) for other possibilities.
-
+See [Rhetorical questions](../3_Categories/confusing_tags.md/#rhetorical-questions) for other possibilities.
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }
