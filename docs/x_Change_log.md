@@ -15,7 +15,7 @@ nav_order: 18
 ## August 1st, 2022
 
 - Added guideline to tag MONOGLOSS when JUSTIFY and/or CITATION are only other moves. [Go to this addition](6_Part5_summary.md#monogloss-should-be-used-when-justify-and-citation-is-the-only-other-moves)
-- Added when to use `Attribute` on prepositional phrases such as "in Wong's study". [Go to this section](2_Part1_Understanding_Engagement.md#attribution-using-prepositional-phrase).
+- Added when to use `Attribute` on prepositional phrases such as "in Wong's study". [Go to this section](./3_Categories/ATTRIBUTE.md/#attribution-using-prepositional-phrase).
 - Added explanation on `whether` and `if` clause. [Go to this section](5_Part4_confusing_tags.md#whether-sv-and-if-sv).
 - Added description of `would` indicating politeness not prediction. [Go to this section](5_Part4_confusing_tags.md#would-in-i-would-like-to-i-would-prefer).
 

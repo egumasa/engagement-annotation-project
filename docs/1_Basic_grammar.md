@@ -34,16 +34,13 @@ First of all, it is always helpful to clarify important terminologies we will us
 
 
 ## Coordinated clauses
+Contents moved to [clause boundary identification](./1_Clause/MAIN.md/#coordinated-clauses-–-more-than-one-main-clauses).
 
-Contents moved to [clause boundary identification](3_Part2_Clause_boundary.md#coordinated-clauses-–-more-than-one-main-clauses).
 ## Subordinate clauses
-
-Contents moved to [clause boundary identification](3_Part2_Clause_boundary.md#subordinate-clauses).
-
-
+Contents moved to [clause boundary identification](./1_Clause/SUBORDINATE.md).
 
 ## Embedded clauses
-Contents moved to [clause boundary identification](3_Part2_Clause_boundary.md#embedded-clauses).
+Contents moved to [clause boundary identification](./1_Clause/EMBEDDED.md).
 
 ## Terminal unit (T-unit)
 

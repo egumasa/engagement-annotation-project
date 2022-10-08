@@ -15,5 +15,4 @@ To be qualified as a main clause, the segment has to have an explicit subject.
 When you take out the first element in the following, can the second one stand alone? If not they are under single main clause.
 - I went to the cafe and had a fansy egg benedict.
 
-See [clause boundary detection](3_Part2_Clause_boundary.md#coordinated-clauses-–-more-than-one-main-clauses)
-
+See [clause boundary detection](./1_Clause/MAIN.md#coordinated-clauses-–-more-than-one-main-clauses)
