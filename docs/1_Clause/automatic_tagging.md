@@ -41,5 +41,22 @@ Sometimes, the model overidentifies subordinate clause, particularly:
 
 When multiple `EMBEDDED` clauses are used, the model may have a hard time to differentiate whether the subsequent dependent clauses are a part of the preceeding dependent clause(s) or an independent one. This has to be determined semantically by deciding which part of the sentense the second dependent clause are dependent on in the T-unit.
 
+Consider the following example:
+
+- But I am wondering why it said we could visit the restaurant if you know it would be closed.
+
+The model tagged this T-unit as follows:
+
+- But I am wondering {[why it said we could visit the restaurant]`EMBEDDED` [if you know it would be closed]`SUBORDINATE`}`EMBEDDED`.
+
+This annotation is only partially correct. Particularly, it is unclear which of the "am wondering" (= `MAIN`) or "it said" (= `EMBEDDED`) the `SUBORDINATE` clause ("if you know it would be closed") is attached to. Here, the machine provides both interpretations. I propose an interpretation that "if you know" is attached to "it said", so I propose first modification as follows:
+
+- But I am wondering {why it said we could visit the restaurant [if you know it would be closed]`SUBORDINATE`}`EMBEDDED`.
+
+Now, the `SUBORDINATE` is treated as a part of the larger `EMBEDDED` clause. Additionally, the automatic tagging has several missing annotations. 
+
+- But I am wondering {why it said [we could visit the restaurant]`EMBEDDED` [if you know (it would be closed)`EMBEDDED`]`SUBORDINATE`}`EMBEDDED`.
+
+I have added two `EMBEDDED` which are nested in each of the `EMBEDDED` and `SUBORDINATE` clauses we have had from the outset.
 
 
