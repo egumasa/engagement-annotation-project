@@ -10,7 +10,7 @@ nav_order: 8
 From October, 2022, we will introduce semi-automatic clause annotation. This is intended to reduce annotation burden and to facilitate the speed. 
 Specifically, I have trained a machine learning model based on our previous annotations (a total of roughly 1,800 sentences) and use this model to produce automatic annotation.
 
-The accuracy of the model is satisfactory, although there will be some misclassification (both over- and under- identification) cases time to time. This page descripts some known patterns of mistakes so that you can fix the errors before you start annotation of subsequent layers.
+The accuracy of the model is satisfactory, although there will be some misclassification (both over- and under- identification) cases time to time. This page describes some known patterns of mistakes so that you can fix the errors before you start annotation of subsequent layers.
 
 
 ## Accuracy of the model
