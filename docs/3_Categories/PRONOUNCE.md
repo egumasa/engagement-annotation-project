@@ -29,7 +29,7 @@ Pronounce is where you
 - _But the **facts** of the matter are that_ we have never made the national decisions or marshaled the national resources required for such leadership.
 - The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
 - **There is no doubt** that globalization has a deep effect on China.
-- I **DID turn out** the lights before I left.
+- I **_DID_ turn out** the lights before I left.
 - However, **there is mounting evidence** that processes of language acquisition, use, and change are not independent of one another but are facets of the same system.
 
 Examples added on May 26th
