@@ -16,7 +16,7 @@ CONTRACTION
 
 In other words, `deny` move includes acknowledgement to an alternative position so as to reject it. Typically the meaning is realized using negations.
 - Linguistics **is not** easy.
-- You **don’t need** to give up potatoes to lose weight.
+- You **don’t need to** give up potatoes to lose weight.
 - these **were definitely not** the norm
 - We **are of course not dealing** with one monolithic hegemonic English voice
 - Natural gas burns with twice the heat of coal gas, **is not** poisonous and has **no odor**.
