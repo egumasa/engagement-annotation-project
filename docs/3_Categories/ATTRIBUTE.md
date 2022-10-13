@@ -33,9 +33,9 @@ In many cases, `ATTRIBUTE` occurs where the author explicitly mention the source
 
 ##### Hear-say as ATTRIBUTE
 In some cases, the author can present the idea without specifying the sources (but still present it as something they hear about).
-- _It is **said** that_ he lied about his age as he grew older …
+- _**It is said** that_ he lied about his age as he grew older …
 - The government’s serologist **reportedly** lied about his qualifications.
-- _It is generally **understood** that_ science has developed a highly sophisticated way of representing ideas.
+- _**It is generally understood** that_ science has developed a highly sophisticated way of representing ideas.
 
 ##### Implicit attribution
 Updated on May 30th
