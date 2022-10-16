@@ -174,7 +174,7 @@ Endophoric markers are used to mark any mentions to the other parts of its own t
 - As **Table 3** shows, vocabulary size and depth were significantly correlated.
 - As **Figure 7** shows, to provide a manual enactment of the literal meaning of “sever,” the teacher raises his right hand off the table, brings it to face level, as if in readiness to cut off a limb, then executes a swift downward chopping movement.
 - As illustrated **in Figure 3**, contexts of biliteracy can occur along continua of micro to macro scales, characterized by more oral or written language use and by multiple languages or only monolingual resources—or anywhere in between.
-- Consider the italicized expressions of attitude in **example 6**, which were flatly declared and thus presented as “not at issue.”
+- Consider the italicized expressions of attitude **in example 6**, which were flatly declared and thus presented as “not at issue.”
 - **Table 13 below** shows the frequency of the two semantic motives discussed **above** across the four sub-corpora. 
 - Nursing and agriculture journals, as noted **earlier in this paper**, often have required sections.
 
