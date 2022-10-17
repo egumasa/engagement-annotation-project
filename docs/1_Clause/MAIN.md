@@ -36,6 +36,8 @@ You can also consider colon `:` and semi-colon `:` as an implicit coordination o
 In webanno, you will annotate the clause in the following manner:
 ![Figure_Coordinated](../figures/Coord_clauses1.png)
 
+## Coordinated verb phrases – treated as a single MAIN clause
+
 
 {: .caution}
 >When the scope of the coordination is verb phrases—that is, not explicit subject is introducted in the second or later coordinated elements, we will still treat them in a single `MAIN` clause.
