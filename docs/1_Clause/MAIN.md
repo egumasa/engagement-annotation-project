@@ -53,7 +53,7 @@ In webanno, you will annotate the clause in the following manner:
 > - He keeps trying, but not succeeding. 
 > 
 > => there is no explicit subject for "succeeding" and keeps is also a common verb for both trying and suceeding.
-> - 
+
 
 In the following example the verb 'left' and 'went' are treated within a same clause because the second verb does not have explicit subject.
 
