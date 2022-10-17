@@ -36,7 +36,6 @@ This patterns occurs when a (that-)clause elaborates content of the noun express
 - Their argument was based on _the belief that a happy ending is a certainty_.
 - Our conclusion is drawn based on _the fact that there was a correlation between the intensifier use and their perception of social identity_.
 
-
 ### Relative clauses (Embedded)
 A relative clause is where a clause is used to modify a noun (antecedent). There are two main categories in the use of relative clause.
 
@@ -46,3 +45,21 @@ The first type of relative clause occures when a noun is modified by a whole cla
 The other type of relative clause typically elaborates the content of the whole clause or introduces additional information about the noun expression/whole clause.
 
 - We included all participants into the analysis with the exception of _the Italian participants, which was necessary to control for their native languages._ 
+
+### Present and Past participle modifier (NOT an EMBEDDED clause in our case)
+
+In our annotation scheme, we do not treat present and past participle phrases under EMBEDDED.
+
+Therefore, while finite relative clauses are considered as `Embedded`, the participle phrases are not.
+
+- The scientist discovering DNA was Frederich Meischer. (No EMBEDDED)
+- The scientist [who discovered DNA]`EMBEDDED` was Frederich Meischer.
+
+- How old Is the boy riding the surfboard near the pier? (No EMBEDDED)
+- How old is that boy [who is riding the surfboard]`EMBEDDED` near the pier?
+
+- The surfer tossed bv the huge wave won the competition last year. (No EMBEDDED)
+- The surfer [who was tossed by the huge wave]`EMBEDDED` won the competition last year.
+
+
+## Bibliography
