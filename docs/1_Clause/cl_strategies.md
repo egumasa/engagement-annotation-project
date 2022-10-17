@@ -8,13 +8,14 @@ nav_order: 7
 
 ## Real examples—Mixture of different clause types
 
-{: .label .label-red}
-Needs revision to reflect T-unit
+{: .label .label-green}
+Updated to reflect T-unit
+
 
 In real example, we will deal with mixture of different types. 
 This is illustrated in the following examples.
 
-![Figure_real_examples](../figures/Real_examples1.png)
+![Figure_real_examples](../figures/Real_examples_rev1.png)
 
 ### Comments on the real examples
 
