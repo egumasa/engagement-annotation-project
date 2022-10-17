@@ -11,7 +11,7 @@ nav_order: 2
 {: .def}
 > a dependent clause that is attached to a main clause through the use of subordinate conjunctions (e.g., `because`, `when`) or adverbial particle
 
-Subordinate clause can take a form of [adverbial clause](#adverbial-clauses) or [non-finite adverbial particle clause](#adverbial-particle-clauses) (see details below.)
+Subordinate clause can take a form of [adverbial clause](#adverbial-clauses) or [non-finite adverbial participle clause](#adverbial-participle-clauses) (see details below.)
 
 When you are not sure about the clause status of the adverbial element, see [this page](../1_Basic_grammar.md#distinguishing-adverbial-clauses-and-adverbial-phrases).
 
@@ -30,7 +30,7 @@ A subordinate clause can either follow or preceed the main clause.
 | **Although Marianne and Diane live far apart**, (adverbial clause) | they are still friends.                 |
 | **As far as I am concerned**,  (adverbial clause)                  | there is not much study on this topic.  |
 | **Working diligently on his paper**,  (particle clause)            | John began to type up the bibliography. |
-| **Worn out from all the work**,   (particle clause)                      | John decided to relax.                  |
+| **Worn out from all the work**,   (particle clause)                | John decided to relax.                  |
 
 Following sections describes each type in details.
 
@@ -61,9 +61,9 @@ Note that the meaning of the subordinating conjunction depends on the context.
 In webanno, you will annotate these in the following manner:
 ![Figure_subordinate](../figures/Main_subordinate1.png)
 
-### Adverbial particle clauses
+### Adverbial participle clauses
 
-In some cases, a subordinate clause can also be realized with non-finite particles (e.g., `-ing`, `-ed`, `-en`).
+In some cases, a subordinate clause can also be realized with non-finite participles (e.g., `-ing`, `-ed`, `-en`).
 
 | Subordinate clause                                         | Main clause                                                         |
 | :--------------------------------------------------------- | :------------------------------------------------------------------ |
