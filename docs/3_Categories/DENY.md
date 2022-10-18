@@ -22,7 +22,9 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 - Natural gas burns with twice the heat of coal gas, **is not** poisonous and has **no odor**.
 - There is **nothing** wrong with your proposal.
 
-
+{: .note}
+>Verbs following `not` may be in the span. See [negation guidelines](../2_Spans/VERB_gp.md/#negation)
+ 
 #### Tagging `not only` as [COUNTER](2_Part1_Understanding_Engagement.md#disclaim-counter)
 
 
