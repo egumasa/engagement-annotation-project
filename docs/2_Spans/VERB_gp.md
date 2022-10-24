@@ -124,6 +124,7 @@ When the `that-clause` govern the following clause, the tag spans are from `It/T
 - **It is said** that television keeps people at home. 
 - **It is widely accepted** that the processes that occur at the presentation of a single word are strongly dependent on the grammatical context that accumulated before the word, for example.
 - That **it is widely accepted** does not change my opinion.
+- **It is essential** that animals used in grazing regimes on heathland are kept away from reptile foci, particularly those of the rare Sand Lizard (English Nature, 1999).
 
 ### It is X (for Y) to  
 
