@@ -61,5 +61,13 @@ This include following examples:
 - _**In Wong’s study**_, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
 -  **In recent research on human evolution**, unique abilities for exact imitation contributed signally to our unique evolutionary trajectory.
 
+##### Parataxis as ATTRIBUTE
+`Attribute` can occur when an author interrupts reported speech content to attribute the source of that content. 
+
+- These initiatives, **President Gorge W. Bush declared**, would "improve student's knowledge of America history, increase their civic involvement, and deepen their love for our great country."
+- Witholding that support, **the Court confesses**, "precludes the maintenance of our federal system" of legitimized judicial supremacy. [#REF 4]
+
+{: .note}
+>"President Gorge W. Bush" and "the Court" would be tagged as [sources](/documentation/5_supplementary_tags/Sources.md) in the above examples.
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }
