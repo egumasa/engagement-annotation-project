@@ -68,6 +68,6 @@ This include following examples:
 - Witholding that support, **the Court confesses**, "precludes the maintenance of our federal system" of legitimized judicial supremacy. [#REF 4]
 
 {: .note}
->"President Gorge W. Bush" and "the Court" would be tagged as [sources](/documentation/5_supplementary_tags/Sources.md) in the above examples.
+>"President Gorge W. Bush" and "the Court" would be tagged as [sources](../5_supplementary_tags/1_Material_ref.md/#sources) in the above examples.
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }
