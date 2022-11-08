@@ -22,6 +22,8 @@ When an engagement meaning is realized by a question, we will tag the whole ques
 
 - Well, I'm going to feel lucky if my car isn't towed, **I think**.
 - The conclusion, **it seems**, is intolerable. (Treated as `primary` engagement)
+- He is in hospital here, **I think**.
+
 
 
 # Rules for specific tags
