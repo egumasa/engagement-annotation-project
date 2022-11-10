@@ -13,7 +13,7 @@ What constitutes 'good' academic writing? You may think of a range of ways that 
 
 ## What is this document about?
 - This document explains the framework for manual annotation of the corpus. 
-- We use the `engagement framework` (Martin & While, 2005) in order to annotate lexico-grammatical features of stance-taking.
+- We use the `engagement framework` (Martin & White, 2005) in order to annotate lexico-grammatical features of stance-taking.
 - What is stance-taking (/expressions)?—It is elements in the discourse that express the writer's levels of commitment to the idea presented in the writing. For example, a writer can add tentativeness to their idea by acknowledging that it is only one of the possible interpretations. Compare different versions of the same argument:
 	- 1. The banks have been greedy. (Stated as if it is a fact)
 	- 2. In my view, the banks have been greedy. (Presented as a personal view)
