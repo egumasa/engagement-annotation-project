@@ -55,6 +55,14 @@ Typical items categorized as goal-announcing are following (Bold-face are the sp
 > - **Nominalized constructions `Possessive + NOUN (+ is/are)`**: `Our objectives are`, `My purpose here is`, `intention`
 > -> These nouns, when used with `The X of this paper/section is to` or similar construction, signals the goals of the writing.
 
+### Coreference
+Any construction which coreferences a goal-announcement should also be tagged as goal-announcing.
+
+Coreference of a goal-announcement can happen when [coordinated verb phrases](../1_Basic_grammar.md/#coordination-of-verb-phrases) share a subject that is goal-announcing. In the example below, **"The paper will first examine"** is the main goal-announcment. **"will explore"** and **"will discuss"** are also tagged as goal-announcing because they share **"The paper"** as a subject that is goal-announcing.
+
+Coreference of a goal-announcement can also happen in separate [main clauses](../1_Clause/MAIN.md). In the example below, **"It will then examine"** is tagged as goal-announcing because **"It"** coreferences **"The paper"**.
+
+- **The paper will first examine** three primary theories on social movements (Classical Collective Behavior, Resource Mobilization, and the Political Process Model), [#REF 3] **will explore** how each body of literature explains why individuals participate in social movements, and **will discuss** the flaws of each model. **It will then examine** Klandermans' four-part theory of social movement participation.
 
 ### Examples (Span of this category is shown in bold-face.)
 
