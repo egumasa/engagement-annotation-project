@@ -47,5 +47,15 @@ To test if the sentence is monogloss, you can try adding any engagement items, f
 - _Television can be **said (ATTRIBUTE)**_ to have helped to shrink the relative distance between people and countries.
 - **In some regions (ENTERTAIN)**, television has helped to shrink the relative distance between people and countries.
 
+### Monogloss in [fragments](../1_Clause/FRAGMENT.md)
+If a fragment contains a main verb-like element, it should be tagged as `monogloss`.
+- An old man to **sit** or **eat**.
+
+This not only includes verbs, but also predicate adjectives or nouns, which occur in missing copula constructions.
+- It **cold** outside.
+- There many **visitors** today.
+
+If there is no main verb-like element, leave the fragment untagged for engagement.
+- The old man and the sea.
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }

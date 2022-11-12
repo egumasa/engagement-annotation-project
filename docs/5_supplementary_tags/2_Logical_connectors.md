@@ -67,7 +67,6 @@ Simply, the Exemplifying tag is used for expressions that are functionally equiv
 #### Examples
 
 - Factive verbs **such as** ‘hold’, ‘state’, ‘note’ and ‘require’ were prevalent for courts and legislation while non-factive verbs **such as** ‘claim’ and ‘comment’ were used to report academics’ views.
-- 
 
 [Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
 
@@ -119,6 +118,7 @@ Typical transition markers include:
 - The findings **further** supported that social workers were sympathetic towards the abused wives.
 - **Additionally**, awareness-raising activities led by writing professionals were found to effectively reduce instances of text-based plagiarism in students’ writing (Huang, 2014). However, writing professionals sometimes encounter difficulties in teaching discipline-specific EAP courses. **In addition**, writing in such EAP courses taught by language instructors may lack authenticity.
 - My client says he does not know this witness. **Further**, he denies ever having seen her or spoken to her.
+- **Furthermore**, when we failed an exam in June, we can have it in September. **And** if we are interested, we can spend six months abroad but we must pass the FCE.
 
 
 [Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
