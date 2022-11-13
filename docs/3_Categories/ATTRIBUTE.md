@@ -37,18 +37,18 @@ In many cases, `ATTRIBUTE` occurs where the author explicitly mention the source
 In some cases, the author can present the idea without specifying the sources (but still present it as something they hear about).
 - **[ It is said ]ATTRIBUTE-PRIMARY** that he lied about his age as he grew older …
 - The government’s serologist **[ reportedly ]ATTRIBUTE-PRIMARY** lied about his qualifications.
-- **[It is generally understood ]ATTRIBUTE-PRIMARY** that science has developed a highly sophisticated way of representing ideas.
+- **[ It is generally understood ]ATTRIBUTE-PRIMARY** that science has developed a highly sophisticated way of representing ideas.
 
 ##### Implicit attribution
 Updated on May 30th
 {: .label .label-green}
 
 Additionally, `ATTRIBUTE` would include some implicit attribution like the followings:
-- **<span style="color:red">[ Van de Kooi and Knorr (1973) ]CITATION </span> [ measured ]ATTRIBUTE-PRIMARY** one office building and five small dwellings over a period from February 1967 to August 1967 in The Netherlands.
+- <span style="color:red">[ Van de Kooi and Knorr (1973) ]CITATION </span> **[ measured ]ATTRIBUTE-PRIMARY** one office building and five small dwellings over a period from February 1967 to August 1967 in The Netherlands.
 
 &rarr; This can be interpreted as "Van de Kooi and Knorr (1973) **(reported that they)** measured ~." So, in the annotation, we will tag **measured** as `ATTRIBUTE` (see Hood, 2010, p. 181).
 
-- **<span style="color:red">[ Anderson (2004) ]CITATION </span> [ offers ]ATTRIBUTE-PRIMARY** a number of suggestions.
+- <span style="color:red">[ Anderson (2004) ]CITATION </span> **[ offers ]ATTRIBUTE-PRIMARY** a number of suggestions.
 
 &rarr; Here, **offer + suggestion** can be interpreted as `abstract representation` (called `grammatical metaphor`) of Anderson suggested many things. So, in the annotation we will put `ATTRIBUTE` tag on **offers**.
 
