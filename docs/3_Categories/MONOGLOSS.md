@@ -51,9 +51,12 @@ To test if the sentence is monogloss, you can try adding any engagement items, f
 If a fragment contains a main verb-like element, it should be tagged as `monogloss`.
 - An old man to **sit** or **eat**.
 
-This not only includes verbs, but also predicate adjectives or nouns, which occur in missing copula constructions.
+This not only includes verbs, but also predicate adjectives or nouns. This generally occurs in missing copula constructions.
 - It **cold** outside.
 - There many **visitors** today.
+
+However, predicate adjectives or nouns can also occur outside of missing copula constructions.
+- John, Amy, **marriage**.
 
 If there is no main verb-like element, leave the fragment untagged for engagement.
 - The old man and the sea.
