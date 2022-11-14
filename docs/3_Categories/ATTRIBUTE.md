@@ -68,9 +68,7 @@ This include following examples:
 - **[ In <span style="color:red">[ recent research on human evolution ]SOURCE </span> ]ATTRIBUTE-PRIMARY** , unique abilities for exact imitation contributed signally to our unique evolutionary trajectory.
 
 {: .note}
-> The span of sources is a work in progress. We wouldn't want to tag a whole noun phrase like "recent research in human evolution that was done in Europe in June by biologists that were experts in their field". However, tagging only "recent research" may be too narrow.
-
-> **This rule is a work in progress and may currently be inconsistent in the guidelines.** 
+> The span of sources is a **<span style="color:blue">work in progress</span>**, and may be inconsistent in the guidelines. We wouldn't want to tag a whole noun phrase like "recent research in human evolution that was done in Europe in June by biologists that were experts in their field". However, tagging only "recent research" may be too narrow.
 
 ##### Parataxis as ATTRIBUTE
 `Attribute` can occur when an author interrupts reported speech content to attribute the source of that content. 

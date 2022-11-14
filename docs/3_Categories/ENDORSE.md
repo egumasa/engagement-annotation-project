@@ -19,7 +19,7 @@ Essentially, in `Endorse` option, a writer use an external source and align with
 Typically, this is achieved by the use of verbal processes and their nominalized equivalents. Compared to [`Attribute`](../3_Categories/ATTRIBUTE.md), `Endorse` encodes writers more approval of the content.
 
 {: .note}
-> **<span style="color:red">Bolded red text</span>** is used to mark a [supplementary material reference tags](../5_supplementary_tags/1_Material_ref.md) like [sources](../5_supplementary_tags/1_Material_ref.md/#sources) or [citation](../5_supplementary_tags/1_Material_ref.md#citations). See [this section](../5_supplementary_tags/1_Material_ref.md#sources-and-citations-as-supplementing-attribute-and-endorse-move) for more information about how material references interact with attribute.
+> **<span style="color:red">Bolded red text</span>** is used to mark a [supplementary material reference tags](../5_supplementary_tags/1_Material_ref.md) like [sources](../5_supplementary_tags/1_Material_ref.md/#sources) or [citation](../5_supplementary_tags/1_Material_ref.md#citations). See [this section](../5_supplementary_tags/1_Material_ref.md#sources-and-citations-as-supplementing-attribute-and-endorse-move) for more information about how material references interact with endorse.
 
 > As usual, **bolded black text** marks the category tag (in this case `ENDORSE`). 
 
@@ -37,7 +37,7 @@ Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds ext
 - ... **compellingly propounded** ...
 - ... **successfully explained** ...
 - **<span style="color:blue">(NEEDS REVIEW):</span>** As Hastie (an Englishman of their own political persuasion) so **compellingly argued**, ‘In any society racism will increase in direct proportion to the number of people who are given well-paid and prestigious positions to discover it.’
-##### Secondary ENDORSE (WIP)
+##### Secondary ENDORSE **<span style="color:blue">(WIP):</span>**
 
 - **<span style="color:blue">(NEEDS REVIEW):</span>** **[ <span style="color:red">[ the findings of these trials ]SOURCE </span> ]ENDORSE-SECONDARY [ found ]ENDORSE-PRIMARY** that sufficient slug control was achieved at little expense. 
 
