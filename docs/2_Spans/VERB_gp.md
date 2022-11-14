@@ -45,6 +45,7 @@ One exception to note is when a [modal auxiliary](#modal-verbs) is in the verb p
 - They **have found** it very difficult to understand each other ‘s lifestyles.
 - Discussants correctly **pointed out** that Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all **have** an even more aggressive campaign against witches than **did** the authors of our previous readings.
 - Our analysis **confirms** previous work showing that incorporating various perspectives on an issue is a valuable feature of argumentative, analytical writing.
+- The selectors (14) **[ is most likely located ]ENTERTAIN-PRIMARY** on a splined section of the output shaft.
 
 {: .note}
 >Previously (in version 1), we have put a tag on "most lexically heavy verbs".
@@ -72,7 +73,6 @@ When there is a degree adverb that directly modify the lexical verb that express
 
 - I **partially agree** with the statement above.
 - He **completely opposed** to the report.
-
 
 ## Mental or Communication verbs
 
