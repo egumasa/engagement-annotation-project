@@ -73,7 +73,7 @@ If there is no main verb-like element, leave the fragment untagged for engagemen
 
 Secondary monogloss on dependent clauses can happen even if the whole subordinate clause has a primary engagement move (marked below with **<span style="color:orange"> bolded orange text</span>**).
 
-- **<span style="color:orange"> [</span> <span style="color:red">[ If places such as restaurants and hawker centres also </span>[ allow ]MONOGLOSS-SECONDARY <span style="color:red"> smoking to take place ]EMBEDDED <span style="color:orange"> ]ENTERTAIN-PRIMARY</span>**, the young will undoubtedly learn to smoke from the adults.
-- **<span style="color:orange"> [</span> <span style="color:red">[ Although the complaint </span>[ had been noticed ]MONOGLOSS-SECONDARY <span style="color:red"> while showering ]EMBEDDED <span style="color:orange"> ]COUNTER-PRIMARY</span>**, she didn't examine her breasts regularly.
+- <b><span style="color:orange"> [</span> <span style="color:red">[ If places such as restaurants and hawker centres also </span>[ allow ]MONOGLOSS-SECONDARY <span style="color:red"> smoking to take place ]EMBEDDED <span style="color:orange"> ]ENTERTAIN-PRIMARY</span></b>, the young will undoubtedly learn to smoke from the adults.
+- <b><span style="color:orange"> [</span> <span style="color:red">[ Although the complaint </span>[ had been noticed ]MONOGLOSS-SECONDARY <span style="color:red"> while showering ]EMBEDDED <span style="color:orange"> ]COUNTER-PRIMARY</span></b>, she didn't examine her breasts regularly.
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }
