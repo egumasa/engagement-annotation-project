@@ -23,6 +23,9 @@ Examples include:
 
 These are all categorized as Fragment. Since fragment is used to detect any non-clausal, minor textual segments in the data, it won't be used with other categories. That is, when a sentence have at least one `Main`, `Subordinate`, or `Embedded`, that sentence do not get `Fragment`.
 
+{: .note}
+> See [Monogloss in fragments](../3_Categories/MONOGLOSS.md#monogloss-in-fragments).
+
 Conversely, the followings are still categorized into `Main` even if they seems they are cut off in the middle:
 
 - The author argues:
