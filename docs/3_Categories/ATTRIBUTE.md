@@ -20,11 +20,9 @@ Typically, this move is achieved by "X [third person] says/reports/states/declar
 Martin & White (2005) says: "Under the heading of ‘attribution’, we deal with those formulations which disassociate the proposition from the text’s internal authorial voice by attributing it so some external source."
 
 {: .note}
-> **<span style="color:red">Bolded red text</span>** is used to mark a [supplementary material reference tags](../5_supplementary_tags/1_Material_ref.md) like [sources](../5_supplementary_tags/1_Material_ref.md/#sources) or [citation](../5_supplementary_tags/1_Material_ref.md#citations). See [this section](../5_supplementary_tags/1_Material_ref.md#sources-and-citations-as-supplementing-attribute-and-endorse-move) for more information about how material references interact with attribute.
-
-> As usual, **bolded black text** marks the category tag (in this case `ATTRIBUTE`). 
-
-> Pay special attention to brackets, as they mark the span of tags.
+> - **<span style="color:red">Bolded red text</span>** is used to mark a [supplementary material reference tags](../5_supplementary_tags/1_Material_ref.md) like [sources](../5_supplementary_tags/1_Material_ref.md/#sources) or [citation](../5_supplementary_tags/1_Material_ref.md#citations). See [this section](../5_supplementary_tags/1_Material_ref.md#sources-and-citations-as-supplementing-attribute-and-endorse-move) for more information about how material references interact with attribute.
+> - As usual, **bolded black text** marks the category tag (in this case `ATTRIBUTE`). 
+> - Pay special attention to brackets, as they mark the span of tags.
 
 In many cases, `ATTRIBUTE` occurs where the author explicitly mention the source of information and ackowledge that the original idea is theirs.
 - **<span style="color:red">[ Mr. Mandela ]SOURCE </span> [ said ]ATTRIBUTE-PRIMARY** the Group of Eight nations have a duty to help battle the scourge of AIDS.

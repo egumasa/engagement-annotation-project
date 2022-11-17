@@ -28,7 +28,7 @@ First of all, it is always helpful to clarify important terminologies we will us
 | ROOT                      | The highest node in the syntactic tree of a sentence.                                                                                                 |                                                                                                       |
 | head                      | The highest node in the given a phrase/constituent/clause                                                                                             |                                                                                                       |
 | Terminal unit (T-unit)    | A unit of text characterized by a `MAIN` clause with any dependent clauses attached to it.                                                            | {Get it done.} $_{T-unit}$ {If you are free (dep. cl), just come to the party (ind. cl).} $_{T-unit}$ |
-
+| modal verb | An auxillary verb expressing modality. | can, may, could, might, dare, will, would, should, is to, was to, must, ought to, need to, have/has/had to, needn't, don't need to, don't have to, won't, wouldn't, shouldn't, isn't/wasn't, mustn't, oughtn't to, can't, couldn't, mayn't, mightn't, haven't to (Halliday & Mathiessen, 2014, p. 145)
 --- 
 
 
@@ -190,5 +190,7 @@ This pattern may be easily confused with coordination of MAIN clauses because ea
 
 
 ## Bibliography
+**<span style="color:blue">(NEEDS REVIEW):</span>** Halliday, M.A.K., &amp; Matthiessen, C.M.I.M. (2014). *Halliday's introduction to functional grammar* (3rd eds). Routledge. 
+
 Larsen-Freeman, D., & Celce-Murcia, M. (2016). *The grammar book. Form, meaning and use for English language teachers* (3rd eds).
 

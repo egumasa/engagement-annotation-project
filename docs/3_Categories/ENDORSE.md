@@ -19,11 +19,9 @@ Essentially, in `Endorse` option, a writer use an external source and align with
 Typically, this is achieved by the use of verbal processes and their nominalized equivalents. Compared to [`Attribute`](../3_Categories/ATTRIBUTE.md), `Endorse` encodes writers more approval of the content.
 
 {: .note}
-> **<span style="color:red">Bolded red text</span>** is used to mark a [supplementary material reference tags](../5_supplementary_tags/1_Material_ref.md) like [sources](../5_supplementary_tags/1_Material_ref.md/#sources) or [citation](../5_supplementary_tags/1_Material_ref.md#citations). See [this section](../5_supplementary_tags/1_Material_ref.md#sources-and-citations-as-supplementing-attribute-and-endorse-move) for more information about how material references interact with endorse.
-
-> As usual, **bolded black text** marks the category tag (in this case `ENDORSE`). 
-
-> Pay special attention to brackets, as they mark the span of tags.
+> - **<span style="color:red">Bolded red text</span>** is used to mark a [supplementary material reference tags](../5_supplementary_tags/1_Material_ref.md) like [sources](../5_supplementary_tags/1_Material_ref.md/#sources) or [citation](../5_supplementary_tags/1_Material_ref.md#citations). See [this section](../5_supplementary_tags/1_Material_ref.md#sources-and-citations-as-supplementing-attribute-and-endorse-move) for more information about how material references interact with endorse.
+> - As usual, **bolded black text** marks the category tag (in this case `ENDORSE`). 
+> - Pay special attention to brackets, as they mark the span of tags.
 
 - **<span style="color:red"> [ Evidence ]SOURCE </span> [ showed ]ENDORSE-PRIMARY** that_ . . . there was “a large number of small competitors, the absence of significant price wars, . . .”
 - **<span style="color:red">[ An interview by the Institute of Policy Studies (IPS) ]SOURCE</span>** concerning national identity **[ revealed ]ENDORSE-PRIMARY** that_ 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.

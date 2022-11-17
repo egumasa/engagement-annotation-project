@@ -17,7 +17,7 @@ EXPANSION
 
 Essentially, Entertain option allows writers to show that they take into consideration potential alternative viewpoints in addition to one they are advancing. Entertain is a type of expansion strategy because they opens up the dialogic space to allow for other potential viewpoints.
 
-Entertain can be achieved by a range of lexico-grammatical structures. These include but not limited to, modal verbs (`may`), conditional clauses (`if`), evidential markers (`appear/seem`), and adverbial phrases (`generally`, `perhaps`).  
+Entertain can be achieved by a range of lexico-grammatical structures. These include but not limited to, [modal verbs](../1_Basic_grammar.md) (`may`), conditional clauses (`if`), evidential markers (`appear/seem`), and adverbial phrases (`generally`, `perhaps`).  
 
 ENTERTAIN move signals author's own subjectivity to present the idea. 
 - **In my view/from my perspective/in my opinion**, linguistics is fun.
