@@ -144,7 +144,7 @@ It also include markers expressing dissimilarity:
 - Genres produced include book chapters, journal articles and conference proceedings; *however (COUNTER)*, none of the five informants produced a journal article in Swedish, **whereas all have written journal articles in English (Comparison)**. The linguists are also less visibly active than historians in terms of outreach genres; *nonetheless (COUNTER)*, English and Swedish have been used in this domain by at least one informant. **On the other hand (Comparison)**, they have been more active than historians in using digital media such as blogs, which have appeared in both English and Swedish.
 
 {: .caution}
-> Comparison conjunctives are very similar to `COUNTER` move in engagement, but they are distinct. In `COUNTER`, the wording will have intention to `DISCLAIM` viewpoint(s) in order to claim another (e.g., `rather`, `not ... but ...`). On the other hamd, `Comparison` conjunctives simply list (and potentially explore the differences of) two or more options.
+> Comparison conjunctives are very similar to `COUNTER` move in engagement, but they are distinct. In `COUNTER`, the wording will have intention to `DISCLAIM` viewpoint(s) in order to claim another (e.g., `rather`, `not ... but ...`). On the other hand, `Comparison` conjunctives simply list (and potentially explore the differences of) two or more options.
 
 
 ---
