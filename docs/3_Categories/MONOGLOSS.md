@@ -17,15 +17,19 @@ When there is no engagement-invoking items in the MAIN clause, we will consider 
 
 We will also use `MONOGLOSS—Secondary` to mark any MONOGLOSS-ic verbs in SUBORDINATE or EMBEDDED clauses. These are marked using *Italics*.
 
+{: .note}
+>- **<span style="color:red">Bolded red text</span>** is used to mark [dependent clauses](../1_Basic_grammar.md#grammatical-terminology) such as [subordinate](../1_Clause/SUBORDINATE.md) or [embedded](../1_Clause/EMBEDDED.md) clauses.
+> - As usual, **bolded black text** marks the category tag (in this case `MONOGLOSS`). 
+> - Pay special attention to brackets, as they mark the span of tags.
 
 #### Examples
-- Teachers **are facing** the difficult task of providing an optimal learning environment to students from varying social, cultural, and linguistic backgrounds.
-- What *is* interesting in this example **is** how neither of the two views that *are attributed* to others is actually endorsed by the author, even though they are entertained and explicated.
-- The purpose of maintaining an expansive approach here **is** clear: the author **seeks** to present perspectives and research conducted thus far to lay the groundwork for what should be done.
-- Television **has helped** to shrink the relative distance between people and countries.
-- When the news *came* through that the National Air Traffic Services (Nats) *was* in financial trouble and *was being offered* a £60 million rescue package, the reaction of the first union official to pop up on the BBC’s radar screen **was** predictable.
-- The preposterous idea that privatisation *puts* profit before safety *was* a commonplace long before Nats **was born**.
-- In the past few years there **have been** a number of moral panics about racism, accompanied by self-serving calls from predictable quarters for more government action to deal with the problem.
+- Teachers **[ are facing ]MONOGLOSS-PRIMARY** the difficult task of providing an optimal learning environment to students from varying social, cultural, and linguistic backgrounds.
+- <b><span style="color:red"> [ What </span>[ is ]MONOGLOSS-SECONDARY <span style="color:red"> interesting in this example ]EMBEDDED </span>[ is ]MONOGLOSS-PRIMARY</b> how neither of the two views <b><span style="color:red"> [ that </span> [ are attributed ]MONOGLOSS-SECONDARY <span style="color:red"> to others ]EMBEDDED </span> </b> is actually endorsed by the author, even though they are entertained and explicated.
+- The purpose of maintaining an expansive approach here **[ is ]MONOGLOSS-PRIMARY** clear: the author **[ seeks ]MONOGLOSS-PRIMARY** to present perspectives and research conducted thus far to lay the groundwork for what should be done.
+- Television **[ has helped ]MONOGLOSS-PRIMARY** to shrink the relative distance between people and countries.
+- <b><span style="color:red">[ When the news </span> [ came ]MONOGLOSS-SECONDARY <span style="color:red"> through that the National Air Traffic Services (Nats)</span> [ was ]MONOGLOSS-SECONDARY <span style="color:red">in financial trouble and</span> [ was being offered ]MONOGLOSS-SECONDARY <span style="color:red">a £60 million rescue package ]SUBORDINATE</span></b>, the reaction of the first union official to pop up on the BBC’s radar screen **[ was ]MONOGLOSS-PRIMARY** predictable.
+- **<span style="color:blue">(NEEDS REVIEW):</span>** The preposterous idea <b><span style="color:red"> [ that privatisation </span> [ puts ]MONOGLOSS-SECONDARY <span style="color:red"> profit before safety ]EMBEDDED </span> [ was ]MONOGLOSS-SECONDARY</b> a commonplace long before Nats **[ was born ]MONOGLOSS-PRIMARY**.
+- In the past few years there **[ have been ]MONOGLOSS-PRIMARY** a number of moral panics about racism, accompanied by self-serving calls from predictable quarters for more government action to deal with the problem.
 
 An imperative clause is also classified as monogloss (Martin & White, 2005, p.111):
 - Turn out (MONOGLOSSS) the lights before you leave.
@@ -63,10 +67,7 @@ If there is no main verb-like element, leave the fragment untagged for engagemen
 
 ### Secondary MONOGLOSS in [dependent clauses](../1_Basic_grammar.md#grammatical-terminology)
 
-[Subordinate](../1_Clause/SUBORDINATE.md) or [embedded](../1_Clause/EMBEDDED.md) clauses (marked below in **<span style="color:red">bolded red text</span>**) often contain secondary engagement. As usual, **bolded black text** marks the category tag (in this case `MONOGLOSS`). Pay special attention to brackets, as they mark the span of tags.
-
-{: .note}
-> See [secondary engagement strategies](../Step4_primary_secondary.md#secondary-engagement-strategies).
+[Subordinate](../1_Clause/SUBORDINATE.md) or [embedded](../1_Clause/EMBEDDED.md) clauses often contain secondary engagement. See [secondary engagement strategies](../Step4_primary_secondary.md#secondary-engagement-strategies) for more info.
 
 - This thing seems like **<span style="color:red">[ that I </span>[ am trying ]MONOGLOSS-SECONDARY <span style="color:red">new things ]EMBEDDED</span>**
 - And conversation seems to stem freely from them **<span style="color:red">[ once they </span>[ receive ]MONOGLOSS-SECONDARY <span style="color:red">the approbation of the family. ]EMBEDDED</span>**
