@@ -27,16 +27,15 @@ Typically, this is achieved by the use of verbal processes and their nominalized
 - **<span style="color:red">[ An interview by the Institute of Policy Studies (IPS) ]SOURCE</span>** concerning national identity **[ revealed ]ENDORSE-PRIMARY** that_ 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
 - First, **<span style="color:red">[ the study ]SOURCE </span> [ found ]ENDORSE-PRIMARY** that advisee perceptions of their advisor 's credibility was positively related to advisee perceptions of advisor mentoring and an advisor 's use of solution-oriented conflict management strategies. 
 - More specifically, **<span style="color:red">[ five studies ]SOURCE</span> [ demonstrate ]ENDORSE-PRIMARY** that investment dependence – investment by foreign firms in a society’s domestic economy increases economic inequality.
-- **<span style="color:blue">(NEEDS REVIEW):</span>** For instance, young learners **[ were found ]ENDORSE-PRIMARY** to perform differently on both text comprehension (e.g., Langer, 1985) and production (e.g. Hidi & Hidyard, 1983).
+- For instance, young learners **[ were found ]ENDORSE-PRIMARY** to perform differently on both text comprehension (e.g., Langer, 1985) and production (e.g. Hidi & Hidyard, 1983).
 - **[ As <span style="color:red">[ discussants ]SOURCE</span> correctly pointed out ]ENDORSE-PRIMARY**, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
 
 Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds extra meaning to `Endorse` the external sources:
 - ... **convincingly argued** ...
 - ... **compellingly propounded** ...
 - ... **successfully explained** ...
-- **<span style="color:blue">(NEEDS REVIEW):</span>** As Hastie (an Englishman of their own political persuasion) so **compellingly argued**, ‘In any society racism will increase in direct proportion to the number of people who are given well-paid and prestigious positions to discover it.’
-##### Secondary ENDORSE **<span style="color:blue">(WIP):</span>**
 
-- **<span style="color:blue">(NEEDS REVIEW):</span>** **[ <span style="color:red">[ the findings of these trials ]SOURCE </span> ]ENDORSE-SECONDARY [ found ]ENDORSE-PRIMARY** that sufficient slug control was achieved at little expense. 
+
+- **[ As <span style="color:red">[Hastie (an Englishman of their own political persuasion) ]</span> so compellingly argued ]ENDORSE-PRIMARY**, ‘In any society racism will increase in direct proportion to the number of people who are given well-paid and prestigious positions to discover it.’
 
 [Back to Table 1](index.md#table-1-categories-of-engagement-moves){: .btn .btn-outline }
