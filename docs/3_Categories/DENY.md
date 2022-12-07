@@ -21,6 +21,7 @@ In other words, `deny` move includes acknowledgement to an alternative position 
 - We **are of course not dealing** with one monolithic hegemonic English voice
 - Natural gas burns with twice the heat of coal gas, **is not** poisonous and has **no odor**.
 - There is **nothing** wrong with your proposal.
+- But everything that was written in your advertisement **wasn't** true at all.
 
 {: .note}
 >Verbs following `not` may be in the span. See [negation guidelines](../2_Spans/VERB_gp.md/#negation)
