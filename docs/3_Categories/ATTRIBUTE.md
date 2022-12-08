@@ -34,6 +34,7 @@ In many cases, `ATTRIBUTE` occurs where the author explicitly mention the source
 - **<span style="color:red"> [ Tickner ]SOURCE </span>[ has claimed ]ATTRIBUTE-PRIMARY** that_ regardless of the result, the royal commission was a waste of money and he would proceed with a separate inquiry into the issue headed by Justice Jane Matthews.
 - **[ In <span style="color:red">[ Wong's study ]SOURCE </span> ]ATTRIBUTE-PRIMARY**, another ‘‘geographical imagination’’ of Lucky Plaza is the view that it is a place where the Filipino maids get to know their ‘boyfriends’.
 - In response to **[ <span style="color:red">[ Jackson ]SOURCE </span>'s assertion ]ATTRIBUTE-SECONDARY** that African Americans had progressed a lot in eighty odd years, **<span style="color:red">[ Young ]SOURCE </span> [ interrupted ]ATTRIBUTE-PRIMARY** him again and **[ informed ]ATTRIBUTE-PRIMARY** him, "we are not going to wait eighty more years, I will tell you that."
+- **[ It is generally accepted ]ATTRIBUTE-PRIMARY <span style="color:red">[ by jurists ]SOURCE** </span> that a hierarchy of sources of international law do not exist.
 
 ##### Hear-say as ATTRIBUTE
 In some cases, the author can present the idea without specifying the sources (but still present it as something they hear about).
