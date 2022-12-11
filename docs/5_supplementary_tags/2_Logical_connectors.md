@@ -153,7 +153,7 @@ It also include markers expressing dissimilarity:
 {: .def}
 >An utterance which engage in persuasion through justification or substantiation.
 
-This move is typically achieved by subordinate clauses or prepositional phrases expressing causal relations and causes (e.g., `because`, `considering that`, `given that`, `because of`, `due to`, `for this reason`).
+This move is typically achieved by subordinate clauses or prepositional phrases expressing causal relations and causes (e.g., `because`, `considering that`, `given that`, `because of`, `due to`, `for this reason`, `on the ground that`).
 
 - **Because the steps are made of a smooth, polished—and therefore slippery—stone**, the BTA should’ve taken precautions to clean the steps in such wintry conditions.
 - Accessibility is quite a key factor **because it is evident that the regional centre was built on the basis of good infrastructure**.
@@ -161,7 +161,8 @@ This move is typically achieved by subordinate clauses or prepositional phrases 
 - **Given that about a quarter of all employed people move on and off the payrolls of individual firms during the year** , a need to move between firms to climb the career ladder would not seem to be a difficult barrier to surmount .
 - The Act required that the application should be dealt with in a public hearing ... **Thus** there is the penalty of public exposure and humiliation
 - The lack of connection between the SLA theories, which tend to be English or European languages based, and the Japanese teaching that is found in JLT is probably **due to a lack of attention to pragmatic and sociocultural aspects of Japanese language and communication**.
-- **Perhaps due to a seeming disconnect between written and oral output**, only a handful of studies to date have examined the potential impact of SCMC on oral language proficiency. 
+- **Perhaps due to a seeming disconnect between written and oral output**, only a handful of studies to date have examined the potential impact of SCMC on oral language proficiency.
+- It doesn't make a great deal of sense to claim that some things are wrong, primarily **on the grounds that, like Mackie, I don't believe that such qualities exist**.
 
 We will also consider logical connectors such as `so`, `therefore`, `thus`, `accordingly`, `as such` as Justify. Note that `so` needs to be used to show logical relations to be tagged as `Justify`. 
 - **Accordingly**, a learner with a score of 50 is considered to have a vocabulary size of 5,000 words.
