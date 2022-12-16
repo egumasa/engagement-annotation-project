@@ -29,6 +29,7 @@ Typically, this is achieved by the use of verbal processes and their nominalized
 - More specifically, **<span style="color:red">[ five studies ]SOURCE</span> [ demonstrate ]ENDORSE-PRIMARY** that investment dependence – investment by foreign firms in a society’s domestic economy increases economic inequality.
 - For instance, young learners **[ were found ]ENDORSE-PRIMARY** to perform differently on both text comprehension (e.g., Langer, 1985) and production (e.g. Hidi & Hidyard, 1983).
 - **[ As <span style="color:red">[ discussants ]SOURCE</span> correctly pointed out ]ENDORSE-PRIMARY**, Bernardino of Siena, Martin Le Franc, and the anonymous author of the Errores Gazariorum all have an even more aggressive campaign against witches than did the authors of our previous readings.
+- **[ It has been shown ]ENDORSE-PRIMARY** that outriggers placed near the bottom of the structure are most effective for reducing base moments.
 
 Furthermore, `Endorse` may involve a pattern `ADV + VERB` where adverbs adds extra meaning to `Endorse` the external sources:
 - ... **convincingly argued** ...
