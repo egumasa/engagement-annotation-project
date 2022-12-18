@@ -95,6 +95,8 @@ Simply, the Exemplifying tag is used for expressions that are functionally equiv
 - Quoted segments consisting of less than a one T-unit were marked as “phrasal” and then coded according to their phrasal structure: “verb phrase,” (**defined as** one or more inflected verbs plus any modifiers, objects or complements accompanying them), “noun phrase,” (**defined as** one or morenouns plus any modifiers accompanying them) or “adjective phrase” (**defined as** one or more adjectives plus any modifiers accompanying them).
 - The last reason why Persian writers overused 6-word lexical bundles may be because Persian writers often tended to avoid, **or** modify, the structures of particular lexical bundles which result in awkward use of them. **In other words**, Persian writers conveyed a particular function (**i.e.**, structuring signal), using an unnatural structure. *For instance [EXEMPLYING]*, the 6-word lexical bundles in *examples (10), (11) [ENDOPHORIC]* are modified versions of as can be seen *in table in extract 9 [ENDOPHORIC]*, which English writers did not choose.
 
+{: .caution}
+> Acronyms that do not elaborate on a proposition are not Expository. For example, "(RCC)" is left untagged in "Reinforced Carbon-Carbon (RCC) panel number 8 caused a breach in the Thermal protection system on the leading edge of the left wing."
 
 [Back to Top](#logical-connections-transition-phrases){: .btn .btn-outline }
 
