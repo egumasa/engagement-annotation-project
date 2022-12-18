@@ -26,8 +26,8 @@ Pronounce is where you
 - _I therefore **propose** that_ universities have a greater role in working alongside the NCAA in negotiating its television.
 - One of the arrested people **in fact** was a Hindu, a chef from Hong Kong.
 - _We have to **remember** that_ bobbies move around - and slowly.
-- _The absolute **fact** is that_ linguistics is fun.
-- _But the **facts** of the matter are that_ we have never made the national decisions or marshaled the national resources required for such leadership.
+- _**The absolute fact is** that_ linguistics is fun.
+- _But **the facts of the matter are** that_ we have never made the national decisions or marshaled the national resources required for such leadership.
 - The scare was enough to close the U.S. Consulate in Hong Kong for a day, though the men **turned out** to be tourists
 - **There is no doubt** that globalization has a deep effect on China.
 - I **_DID_ turn out** the lights before I left.
