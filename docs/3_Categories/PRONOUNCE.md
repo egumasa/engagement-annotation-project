@@ -59,10 +59,10 @@ Recall that [`ENDORSE`] expresses the writer's alignment with an external source
 - **<span style="color:red">[ An interview by the Institute of Policy Studies (IPS) ]SOURCE</span>** concerning national identity **[ revealed ]ENDORSE-PRIMARY** that 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
 
 However, if the writer is expressing alignment with their own source, then [`PRONOUNCE`] is used instead.
-- **<span style="color:blue">(NEEDS REVIEW:)</span>** **<span style="color:red">[ Chapter 3 of this paper ]ENDOPHORIC</span> [ revealed ]PRONOUNCE-PRIMARY** that 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
+- **<span style="color:red">[ Chapter 3 of this paper ]ENDOPHORIC</span> [ revealed ]PRONOUNCE-PRIMARY** that 50% of those interviewed feel that they think of themselves more as citizens of the world than any particular country, up from 45% in 1993.
 
 This includes references to the author's argument.
-- **<span style="color:blue">(NEEDS REVIEW:)</span>** Further analysis is required to compare analytical and numerical finite element solutions. However, this example **[ shows ]PRONOUNCE-PRIMARY** that both solutions were on the same order of magnitude.
+- Further analysis is required to compare analytical and numerical finite element solutions. However, this example **[ shows ]PRONOUNCE-PRIMARY** that both solutions were on the same order of magnitude.
 
 ##### **What's NOT pronounce?**
 
