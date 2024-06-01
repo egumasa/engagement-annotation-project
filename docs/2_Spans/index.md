@@ -124,20 +124,20 @@ To extend this approach, consider the following example:
  In this sentence, the writer says that they wrote something. What did they write?—Their concern. Although `wrote` is a concrete action verb, which tends NOT to take on engagement, the non-finite subordinate clause (i.e., expressing SOMETHING) roughly equals to `I said SOMETHING`. Technically, we do not have `ACTION verb + COMMUNICATION verb + Shell noun` as a pattern in the list above. However, we can think of putting an `engagement` move on this span. The question becomes then whether we will take `my concern` or the `ACTION verb + COMMUNICATION verb + Shell noun` sequence as a whole. Here we need to think what makes more sense as the writers' possible communicative purposes. If we separate `wrote` from `my concern`, then we would have to treat `wrote` as `MONOGLOSS` and `my concern` as secondary `ENTERTAIN`. On the other hand, if we treat the whole span as single Engagement move, then we can treat the whole as `ENTERTAIN`. This may result in disagreement/discussion, but we may consider that the whole thing as almost equivalent to `I said` that ... then we see them as a whole.
 
 
- # Table of Content
+# Table of Content
 
 The following is the table of content for the manual. 
 The original deanonymized version of the manual has sidebars for annotators to navigate through the contents. This could not be implemented in this anonymized version for review.
 
-1. [Overview of annotation steps](0_overviews.md)
-2. [Preliminary concepts](1_basic_grammar.md)
-3. [Step 1 — Clause boundary detection](1_Clause/index.md)
-4. [Step 2 — Span detection](2_Spans/index.md)
-5. [Step 3 — Engagement categories](3_Categories/index.md)
-6. [Step 4 — Primary vs Secondary classification](Step4_primary_secondary.md)
-7. [Step 5 — Suppelementary tags](5_supplementary_tags/index.md)
-8. [Example with Examples](8_examples-in-context.md)
-9. [Recent change](x_Change_log.md)
-10. [WebAnno related documentation](WebAnno_related.md)
-11. [FAQ](y_FAQ.md)
-12. [Bibliography](z_Bibliography.md)
+1. [Overview of annotation steps](./0_overviews.md)
+2. [Preliminary concepts](./1_basic_grammar.md)
+3. [Step 1 — Clause boundary detection](./1_Clause/index.md)
+4. [Step 2 — Span detection](./2_Spans/index.md)
+5. [Step 3 — Engagement categories](./3_Categories/index.md)
+6. [Step 4 — Primary vs Secondary classification](./Step4_primary_secondary.md)
+7. [Step 5 — Suppelementary tags](./5_supplementary_tags/index.md)
+8. [Example with Examples](./8_examples-in-context.md)
+9. [Recent change](./x_Change_log.md)
+10. [WebAnno related documentation](./WebAnno_related.md)
+11. [FAQ](./y_FAQ.md)
+12. [Bibliography](./z_Bibliography.md)
