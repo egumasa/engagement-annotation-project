@@ -59,3 +59,7 @@ In the following example the verb 'left' and 'went' are treated within a same cl
 
 
 ![VP_coordination](../figures/spans/VP_coordination1.png)
+
+---
+
+Back to [Step1 clause boundary detection](index.md)

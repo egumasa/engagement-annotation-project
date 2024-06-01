@@ -88,3 +88,5 @@ On webanno, you should segment the clause in the following manner.
 ![Figure_leaning](../figures/clauses/present_particle3.png)
 
 ---
+
+Back to [Step1 clause boundary detection](index.md)

@@ -34,3 +34,7 @@ Each of the following sentences consists of two or more T-units (because of mult
 
 We will use the concept of T-unit when discussing primary vs. secondary engagement strategies. Specifically, primary engagement characterizes that of the entire T-unit, while secondary engagement concerns strategy for units that are subordinate to any T-unit.
 
+
+---
+
+Back to [Step1 clause boundary detection](index.md)

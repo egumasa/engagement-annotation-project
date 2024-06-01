@@ -63,39 +63,39 @@ Again, the following constructions may not always take on engagement meaning.
 
 | Features                                                                                               | Example items                                                  | Where to put a tag                             |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------- |
-| [Verb phrases](#verb-phrases)                                                                          | `runs`, `had seen`, `have been identified`, `have shown`, etc. | on the entire verb phrase (except model verbs) |
-| [Passive construction](#passive-construction)                                                          | `is determined`, `was said`                                    | on the entire verb phrase (except model verbs) |
-| [Mental or communication verbs](#mental-or-communication-verbs)                                        | `think`, `say`, `tell`                                         | on the entire verb phrase                      |
-| [Degree adverb + Verb](#degree-adverb--lexical-verb)                                                   | `partially agree`,                                             | `degree adverb + lexical verb`                 |
+| [Verb phrases](VERB_gp.md/#verb-phrases)                                                               | `runs`, `had seen`, `have been identified`, `have shown`, etc. | on the entire verb phrase (except model verbs) |
+| [Passive construction](VERB_gp.md/#passive-construction)                                               | `is determined`, `was said`                                    | on the entire verb phrase (except model verbs) |
+| [Mental or communication verbs](VERB_gp.md/#mental-or-communication-verbs)                             | `think`, `say`, `tell`                                         | on the entire verb phrase                      |
+| [Degree adverb + Verb](VERB_gp.md/#degree-adverb--lexical-verb)                                        | `partially agree`,                                             | `degree adverb + lexical verb`                 |
 | [It/there is X that/to construction](../2_Spans/VERB_gp.md/#it-is-x-thatto--as-interpersonal-metaphor) | `It is unlikely` that ....                                     | See the rule below                             |
-| [emphatic do](#emphatic-do)                                                                            | I `do believe` that ...                                        | `do + lexical verb`                            |
-| [Modal verbs](#modal-verbs)                                                                            | `can`, `have to`                                               | on the item                                    |
+| [emphatic do](VERB_gp.md/#emphatic-do)                                                                 | I `do believe` that ...                                        | `do + lexical verb`                            |
+| [Modal verbs](VERB_gp.md/#modal-verbs)                                                                 | `can`, `have to`                                               | on the item                                    |
 
 ### Adverbial group
 
-| Features                                                                                                                 | Example items                                                     | Where to put a tag            |
-| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ----------------------------- |
-| [Single-word adverbs](#single-word-adverbs)                                                                              | `obviously`, `sure`                                               | on the item                   |
-| [Adverbial/ Prepositional constituency](#multi-word-adverbs-adverbial-and-prepositional-constituency)                    | `in my view`, `to me`, `in actual fact`                           | the entire phrase             |
-| [(Adverbial) subordinate clauses](#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | `as SV`, `when SV`, `if SV`, `as long as SV`, `whether or not SV` | the entire subordinate clause |
-| [Coordinating conjunctions](#coordinating-conjunctions)                                                                  | `but`, `and`, `yet`                                               | on the item                   |
+| Features                                                                                                                           | Example items                                                     | Where to put a tag            |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------- |
+| [Single-word adverbs](ADV_gp.md/#single-word-adverbs)                                                                              | `obviously`, `sure`                                               | on the item                   |
+| [Adverbial/ Prepositional constituency](ADV_gp.md/#multi-word-adverbs-adverbial-and-prepositional-constituency)                    | `in my view`, `to me`, `in actual fact`                           | the entire phrase             |
+| [(Adverbial) subordinate clauses](ADV_gp.md/#subordinate-clauseincluding-both-single-word-and-multi-word-subordinate-conjunctions) | `as SV`, `when SV`, `if SV`, `as long as SV`, `whether or not SV` | the entire subordinate clause |
+| [Coordinating conjunctions](ADV_gp.md/#coordinating-conjunctions)                                                                  | `but`, `and`, `yet`                                               | on the item                   |
 
 
 ### Nominal group
 
-| Features                                         | Example items                     | Where to put a tag                    |
-| ------------------------------------------------ | --------------------------------- | ------------------------------------- |
-| [Shell nouns](#nominalized-construction)         | `the author's belief` that/of ... | `Det + premodifiers + Noun` + that/of |
-| [No + Noun construction](#no--noun-construction) | `No rules`, `None of the idea`    | `No + head noun`                      |
+| Features                                                    | Example items                     | Where to put a tag                    |
+| ----------------------------------------------------------- | --------------------------------- | ------------------------------------- |
+| [Shell nouns](NOUN_gp.md/#nominalized-construction)         | `the author's belief` that/of ... | `Det + premodifiers + Noun` + that/of |
+| [No + Noun construction](NOUN_gp.md/#no--noun-construction) | `No rules`, `None of the idea`    | `No + head noun`                      |
 
 
 ### Other important constructions
 
-| Features                                              | Example items                                         | Where to put a tag           |
-| ----------------------------------------------------- | ----------------------------------------------------- | ---------------------------- |
-| [Question](#questions)                                | `Who thinks that smoking do no harm in 21st century?` | on the entire question       |
-| [Comment clause/ parataxis](#comment-clauseparataxis) | see examples                                          | on the entire comment clause |
-| [Citations](#citations)                               | `Kyle (2020)`; `(Kyle, 2020)`                         | See details                  |
+| Features                                                       | Example items                                         | Where to put a tag           |
+| -------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------- |
+| [Question](other.md/#questions)                                | `Who thinks that smoking do no harm in 21st century?` | on the entire question       |
+| [Comment clause/ parataxis](other.md/#comment-clauseparataxis) | see examples                                          | on the entire comment clause |
+| [Citations](other.md/#citations)                               | `Kyle (2020)`; `(Kyle, 2020)`                         | See details                  |
 
 
 
